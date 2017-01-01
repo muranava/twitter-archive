@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 16:09:42 +0000 2016",
+		"id": 815228445613379600,
+		"id_str": "815228445613379584",
+		"text": "RT @RichardSmithELT: 'The Warwick ELT' first issue - https://t.co/0zN1HrTkvg - Congratulations to @WarwickAppLing MA ELT students on their…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RichardSmithELT",
+					"name": "Richard Smith",
+					"id": 2381084346,
+					"id_str": "2381084346",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "WarwickAppLing",
+					"name": "AL, U of Warwick",
+					"id": 1647887725,
+					"id_str": "1647887725",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0zN1HrTkvg",
+					"expanded_url": "https://thewarwickeltezine.wordpress.com/",
+					"display_url": "thewarwickeltezine.wordpress.com",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1278,
+			"friends_count": 952,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5252,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 15:56:36 +0000 2016",
+			"id": 815225151461523500,
+			"id_str": "815225151461523456",
+			"text": "'The Warwick ELT' first issue - https://t.co/0zN1HrTkvg - Congratulations to @WarwickAppLing MA ELT students on their great initiative!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WarwickAppLing",
+						"name": "AL, U of Warwick",
+						"id": 1647887725,
+						"id_str": "1647887725",
+						"indices": [
+							77,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0zN1HrTkvg",
+						"expanded_url": "https://thewarwickeltezine.wordpress.com/",
+						"display_url": "thewarwickeltezine.wordpress.com",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2381084346,
+				"id_str": "2381084346",
+				"name": "Richard Smith",
+				"screen_name": "RichardSmithELT",
+				"location": "",
+				"description": "all things ELT",
+				"url": "http://t.co/eXjp3l0KCs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eXjp3l0KCs",
+								"expanded_url": "http://www.warwick.ac.uk/richardcsmith",
+								"display_url": "warwick.ac.uk/richardcsmith",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1617,
+				"friends_count": 440,
+				"listed_count": 43,
+				"created_at": "Sun Mar 09 22:04:31 +0000 2014",
+				"favourites_count": 410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/771188669218643973/mxFSdJ9J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/771188669218643973/mxFSdJ9J_normal.jpg",
+				"profile_link_color": "6991AA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 31 14:27:33 +0000 2016",
+		"id": 815202741593276400,
+		"id_str": "815202741593276420",
+		"text": "RT @LabourEoin: My highlight of 2016? Jeremy Corbyn in the North East of England, amidst a Labour Coup attempt, responded with this: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LabourEoin",
+					"name": "Éoin",
+					"id": 168090600,
+					"id_str": "168090600",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1278,
+			"friends_count": 952,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5252,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 30 10:22:34 +0000 2016",
+			"id": 814778700868763600,
+			"id_str": "814778700868763648",
+			"text": "My highlight of 2016? Jeremy Corbyn in the North East of England, amidst a Labour Coup attempt, responded with this: https://t.co/EiFTigjAlT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 751813324103385100,
+						"id_str": "751813324103385089",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/751813324103385089/pu/img/DMjPvlFpHgffYGqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/751813324103385089/pu/img/DMjPvlFpHgffYGqJ.jpg",
+						"url": "https://t.co/EiFTigjAlT",
+						"display_url": "pic.twitter.com/EiFTigjAlT",
+						"expanded_url": "http://twitter.com/CharlesBAnthony/status/751814714112573440/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 189,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 751814714112573400,
+						"source_status_id_str": "751814714112573440",
+						"source_user_id": 1489056152,
+						"source_user_id_str": "1489056152"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 751813324103385100,
+						"id_str": "751813324103385089",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/751813324103385089/pu/img/DMjPvlFpHgffYGqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/751813324103385089/pu/img/DMjPvlFpHgffYGqJ.jpg",
+						"url": "https://t.co/EiFTigjAlT",
+						"display_url": "pic.twitter.com/EiFTigjAlT",
+						"expanded_url": "http://twitter.com/CharlesBAnthony/status/751814714112573440/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 189,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 751814714112573400,
+						"source_status_id_str": "751814714112573440",
+						"source_user_id": 1489056152,
+						"source_user_id_str": "1489056152",
+						"video_info": {
+							"aspect_ratio": [
+								200,
+								111
+							],
+							"duration_millis": 119300,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/751813324103385089/pu/pl/kxSxC47IwiLtPzDb.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/751813324103385089/pu/pl/kxSxC47IwiLtPzDb.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/751813324103385089/pu/vid/324x180/r41okaP3-Xkt8KYZ.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1489056152,
+								"id_str": "1489056152",
+								"name": "Charles B. Anthony",
+								"screen_name": "CharlesBAnthony",
+								"location": "London, England",
+								"description": "Journalist, filmmaker & social/new media specialist. Bylines in @Independent, @Guardian, @AlterNet and @MiddleEastEye. Researcher for @Wself. Recovering rapper.",
+								"url": "https://t.co/XPPru5vM2m",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/XPPru5vM2m",
+												"expanded_url": "http://www.middleeasteye.net/users/charles-b-anthony-0",
+												"display_url": "middleeasteye.net/users/charles-…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2018,
+								"friends_count": 751,
+								"listed_count": 33,
+								"created_at": "Fri Jun 07 00:01:48 +0000 2013",
+								"favourites_count": 2774,
+								"utc_offset": 0,
+								"time_zone": "Casablanca",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 6848,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FF0000",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/887564914/75929ccb8aeb5446983944eca0fb5f6a.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/887564914/75929ccb8aeb5446983944eca0fb5f6a.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/754398995108200449/cJfkUBlO_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/754398995108200449/cJfkUBlO_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1489056152/1478104971",
+								"profile_link_color": "98AFC7",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168090600,
+				"id_str": "168090600",
+				"name": "Éoin",
+				"screen_name": "LabourEoin",
+				"location": "Belfast, Northern Ireland",
+				"description": "Labour. Socialist. PhD in History from QUB. I care about our NHS & reducing homelessness and poverty.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61116,
+				"friends_count": 14925,
+				"listed_count": 906,
+				"created_at": "Sun Jul 18 10:32:37 +0000 2010",
+				"favourites_count": 43961,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58817,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "93F0A1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180224622/CpfGT12f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180224622/CpfGT12f.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767054309792047104/mJQBKMcG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767054309792047104/mJQBKMcG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168090600/1472482419",
+				"profile_link_color": "F51B1B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "6EC259",
+				"profile_text_color": "054009",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 398,
+			"favorite_count": 481,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 30 20:07:18 +0000 2016",
 		"id": 814925852773388300,
 		"id_str": "814925852773388288",
