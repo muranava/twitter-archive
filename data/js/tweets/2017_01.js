@@ -1,6 +1,3029 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 21:11:51 +0000 2017",
+		"id": 824364181210222600,
+		"id_str": "824364181210222593",
+		"text": "The Trump Dump by @twoodwar https://t.co/kO8RVloNmJ see which phone system Trump tweets r from, nice",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twoodwar",
+					"name": "Tom Woodward",
+					"id": 10076902,
+					"id_str": "10076902",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kO8RVloNmJ",
+					"expanded_url": "http://bionicteaching.com/tools/trump-dump.html",
+					"display_url": "bionicteaching.com/tools/trump-du…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 18:26:49 +0000 2017",
+		"id": 824322647911759900,
+		"id_str": "824322647911759883",
+		"text": "@EAPstephen @michaelegriffin @seburnt @nathanghall @tesolmatthew have heard these are a bargain 😜 https://t.co/O9zQYTMv6s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EAPstephen",
+					"name": "EAPsteve",
+					"id": 2717005711,
+					"id_str": "2717005711",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "michaelegriffin",
+					"name": "Michael Griffin",
+					"id": 394053348,
+					"id_str": "394053348",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "seburnt",
+					"name": "Tyson Seburn",
+					"id": 20650366,
+					"id_str": "20650366",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"screen_name": "nathanghall",
+					"name": "Nathan Hall",
+					"id": 192437743,
+					"id_str": "192437743",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "tesolmatthew",
+					"name": "Matthew Noble",
+					"id": 1519875330,
+					"id_str": "1519875330",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824322582161801200,
+					"id_str": "824322582161801217",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C3CVBWIWQAElBdl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3CVBWIWQAElBdl.jpg",
+					"url": "https://t.co/O9zQYTMv6s",
+					"display_url": "pic.twitter.com/O9zQYTMv6s",
+					"expanded_url": "https://twitter.com/muranava/status/824322647911759883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824322582161801200,
+					"id_str": "824322582161801217",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C3CVBWIWQAElBdl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3CVBWIWQAElBdl.jpg",
+					"url": "https://t.co/O9zQYTMv6s",
+					"display_url": "pic.twitter.com/O9zQYTMv6s",
+					"expanded_url": "https://twitter.com/muranava/status/824322647911759883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 273,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 824297609267466200,
+		"in_reply_to_status_id_str": "824297609267466240",
+		"in_reply_to_user_id": 2717005711,
+		"in_reply_to_user_id_str": "2717005711",
+		"in_reply_to_screen_name": "EAPstephen",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 14:39:53 +0000 2017",
+		"id": 824265541787467800,
+		"id_str": "824265541787467778",
+		"text": "RT @ElkySmith: A human being is not a mosaic: Scientism, statisticism and metricophilia https://t.co/4mdWFpiEDq https://t.co/tvmr3BHmnU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElkySmith",
+					"name": "Kyle Smith",
+					"id": 525274103,
+					"id_str": "525274103",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4mdWFpiEDq",
+					"expanded_url": "https://pedagogablog.wordpress.com/2017/01/24/a-human-being-is-not-a-mosaic-scientism-statisticism-and-metricophilia",
+					"display_url": "pedagogablog.wordpress.com/2017/01/24/a-h…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 823844424513790000,
+					"id_str": "823844424513789952",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+					"url": "https://t.co/tvmr3BHmnU",
+					"display_url": "pic.twitter.com/tvmr3BHmnU",
+					"expanded_url": "https://twitter.com/ElkySmith/status/823844427475156995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823844427475157000,
+					"source_status_id_str": "823844427475156995",
+					"source_user_id": 525274103,
+					"source_user_id_str": "525274103"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 823844424513790000,
+					"id_str": "823844424513789952",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+					"url": "https://t.co/tvmr3BHmnU",
+					"display_url": "pic.twitter.com/tvmr3BHmnU",
+					"expanded_url": "https://twitter.com/ElkySmith/status/823844427475156995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 823844427475157000,
+					"source_status_id_str": "823844427475156995",
+					"source_user_id": 525274103,
+					"source_user_id_str": "525274103"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 10:46:32 +0000 2017",
+			"id": 823844427475157000,
+			"id_str": "823844427475156995",
+			"text": "A human being is not a mosaic: Scientism, statisticism and metricophilia https://t.co/4mdWFpiEDq https://t.co/tvmr3BHmnU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4mdWFpiEDq",
+						"expanded_url": "https://pedagogablog.wordpress.com/2017/01/24/a-human-being-is-not-a-mosaic-scientism-statisticism-and-metricophilia",
+						"display_url": "pedagogablog.wordpress.com/2017/01/24/a-h…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 823844424513790000,
+						"id_str": "823844424513789952",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+						"url": "https://t.co/tvmr3BHmnU",
+						"display_url": "pic.twitter.com/tvmr3BHmnU",
+						"expanded_url": "https://twitter.com/ElkySmith/status/823844427475156995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823844424513790000,
+						"id_str": "823844424513789952",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C27iI6FUoAA911v.jpg",
+						"url": "https://t.co/tvmr3BHmnU",
+						"display_url": "pic.twitter.com/tvmr3BHmnU",
+						"expanded_url": "https://twitter.com/ElkySmith/status/823844427475156995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 425,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 525274103,
+				"id_str": "525274103",
+				"name": "Kyle Smith",
+				"screen_name": "ElkySmith",
+				"location": "Brisbane, Australia",
+				"description": "Interested in language, education, technology, ideology, discourse, power, politics, (big) data, testing and validity.",
+				"url": "https://t.co/WwpY29MEPe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WwpY29MEPe",
+								"expanded_url": "http://pedagogablog.wordpress.com",
+								"display_url": "pedagogablog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 730,
+				"friends_count": 375,
+				"listed_count": 82,
+				"created_at": "Thu Mar 15 11:16:29 +0000 2012",
+				"favourites_count": 92,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516376620/IMGP1529_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516376620/IMGP1529_1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690658566370263041/qggTYEb3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690658566370263041/qggTYEb3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/525274103/1395549806",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 14:20:39 +0000 2017",
+		"id": 824260699786539000,
+		"id_str": "824260699786539008",
+		"text": "Look forward to a distance version 😃 https://t.co/x7jiq2nzoI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x7jiq2nzoI",
+					"expanded_url": "https://twitter.com/RGCL_WLV/status/811874995353878528",
+					"display_url": "twitter.com/RGCL_WLV/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 811874995353878500,
+		"quoted_status_id_str": "811874995353878528",
+		"quoted_status": {
+			"created_at": "Thu Dec 22 10:04:17 +0000 2016",
+			"id": 811874995353878500,
+			"id_str": "811874995353878528",
+			"text": "Check out our shiny new Masters course - MA Practical Corpus Linguistics for ELT, Lexicography and Translation… https://t.co/wdxt4bSNb9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wdxt4bSNb9",
+						"expanded_url": "https://twitter.com/i/web/status/811874995353878528",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1922761374,
+				"id_str": "1922761374",
+				"name": "RGCL Wolverhampton",
+				"screen_name": "RGCL_WLV",
+				"location": "UK",
+				"description": "Our mission is to produce world-leading research & cutting-edge applications with far-reaching societal impact. Follow if you love #AI. Join our journey.",
+				"url": "https://t.co/jpqZxOk01B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jpqZxOk01B",
+								"expanded_url": "http://rgcl.wlv.ac.uk/",
+								"display_url": "rgcl.wlv.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3897,
+				"friends_count": 3653,
+				"listed_count": 187,
+				"created_at": "Tue Oct 01 08:53:40 +0000 2013",
+				"favourites_count": 1402,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1093,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/592707696563912704/hDHR7BLL.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/592707696563912704/hDHR7BLL.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565900820395204608/iFegNBQQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565900820395204608/iFegNBQQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1922761374/1421843472",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 12:17:06 +0000 2017",
+		"id": 824229608878915600,
+		"id_str": "824229608878915584",
+		"text": "RT @nakanotim: Good news for part time teachers in Japan. Sense prevails? \n\nhttps://t.co/3w8ZhJ8Qpt https://t.co/e3TuHbKvzg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakanotim",
+					"name": "Tim Knight",
+					"id": 295968758,
+					"id_str": "295968758",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3w8ZhJ8Qpt",
+					"expanded_url": "http://www.japan-press.co.jp/modules/news/index.php?id=10255",
+					"display_url": "japan-press.co.jp/modules/news/i…",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/e3TuHbKvzg",
+					"expanded_url": "http://www.japan-press.co.jp/modules/news/index.php?id=10255#.WIhw2vFAOhI.twitter",
+					"display_url": "japan-press.co.jp/modules/news/i…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 25 09:34:03 +0000 2017",
+			"id": 824188573159133200,
+			"id_str": "824188573159133184",
+			"text": "Good news for part time teachers in Japan. Sense prevails? \n\nhttps://t.co/3w8ZhJ8Qpt https://t.co/e3TuHbKvzg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3w8ZhJ8Qpt",
+						"expanded_url": "http://www.japan-press.co.jp/modules/news/index.php?id=10255",
+						"display_url": "japan-press.co.jp/modules/news/i…",
+						"indices": [
+							61,
+							84
+						]
+					},
+					{
+						"url": "https://t.co/e3TuHbKvzg",
+						"expanded_url": "http://www.japan-press.co.jp/modules/news/index.php?id=10255#.WIhw2vFAOhI.twitter",
+						"display_url": "japan-press.co.jp/modules/news/i…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 295968758,
+				"id_str": "295968758",
+				"name": "Tim Knight",
+				"screen_name": "nakanotim",
+				"location": "Tokyo, usually",
+				"description": "Japan, England; teaching, books, new & old media",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 202,
+				"listed_count": 15,
+				"created_at": "Mon May 09 23:54:26 +0000 2011",
+				"favourites_count": 2904,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3448,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772466041209417728/GomQ3T_c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772466041209417728/GomQ3T_c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/295968758/1475840726",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 12:16:57 +0000 2017",
+		"id": 824229569360228400,
+		"id_str": "824229569360228352",
+		"text": "RT @taw_sig: You don’t need a CELTA, you need a pulse https://t.co/7fxfGwgGU0 https://t.co/ZlSZxBOWEN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7fxfGwgGU0",
+					"expanded_url": "http://www.teachersasworkers.org/you-dont-need-a-celta-you-need-a-pulse/",
+					"display_url": "teachersasworkers.org/you-dont-need-…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 824220937826357200,
+					"id_str": "824220937826357249",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+					"url": "https://t.co/ZlSZxBOWEN",
+					"display_url": "pic.twitter.com/ZlSZxBOWEN",
+					"expanded_url": "https://twitter.com/taw_sig/status/824220940020183040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824220940020183000,
+					"source_status_id_str": "824220940020183040",
+					"source_user_id": 3152637711,
+					"source_user_id_str": "3152637711"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824220937826357200,
+					"id_str": "824220937826357249",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+					"url": "https://t.co/ZlSZxBOWEN",
+					"display_url": "pic.twitter.com/ZlSZxBOWEN",
+					"expanded_url": "https://twitter.com/taw_sig/status/824220940020183040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824220940020183000,
+					"source_status_id_str": "824220940020183040",
+					"source_user_id": 3152637711,
+					"source_user_id_str": "3152637711"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 25 11:42:40 +0000 2017",
+			"id": 824220940020183000,
+			"id_str": "824220940020183040",
+			"text": "You don’t need a CELTA, you need a pulse https://t.co/7fxfGwgGU0 https://t.co/ZlSZxBOWEN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7fxfGwgGU0",
+						"expanded_url": "http://www.teachersasworkers.org/you-dont-need-a-celta-you-need-a-pulse/",
+						"display_url": "teachersasworkers.org/you-dont-need-…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 824220937826357200,
+						"id_str": "824220937826357249",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+						"url": "https://t.co/ZlSZxBOWEN",
+						"display_url": "pic.twitter.com/ZlSZxBOWEN",
+						"expanded_url": "https://twitter.com/taw_sig/status/824220940020183040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824220937826357200,
+						"id_str": "824220937826357249",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3A4k3eUUAEadX4.jpg",
+						"url": "https://t.co/ZlSZxBOWEN",
+						"display_url": "pic.twitter.com/ZlSZxBOWEN",
+						"expanded_url": "https://twitter.com/taw_sig/status/824220940020183040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3152637711,
+				"id_str": "3152637711",
+				"name": "teachers_as_workers",
+				"screen_name": "taw_sig",
+				"location": "everywhere",
+				"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+				"url": "https://t.co/fzqDovRera",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fzqDovRera",
+								"expanded_url": "https://teachersasworkers.org",
+								"display_url": "teachersasworkers.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 983,
+				"friends_count": 941,
+				"listed_count": 24,
+				"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+				"favourites_count": 267,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1108,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 10:24:11 +0000 2017",
+		"id": 824201189751451600,
+		"id_str": "824201189751451649",
+		"text": "Macmillan Dictionary lays down the law | Macmillan https://t.co/IgzmeBBEGf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IgzmeBBEGf",
+					"expanded_url": "http://www.macmillandictionaryblog.com/macmillan-dictionary-lays-down-the-law",
+					"display_url": "macmillandictionaryblog.com/macmillan-dict…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 10:14:24 +0000 2017",
+		"id": 824198730052149200,
+		"id_str": "824198730052149249",
+		"text": "RT @MartinBelam: As long as you live you'll never see a photograph of 7 women signing legislation about what men can do with their reproduc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinBelam",
+					"name": "Martin Belam",
+					"id": 14301286,
+					"id_str": "14301286",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 21:02:18 +0000 2017",
+			"id": 823637000783798300,
+			"id_str": "823637000783798272",
+			"text": "As long as you live you'll never see a photograph of 7 women signing legislation about what men can do with their r… https://t.co/p7i51PqjoU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p7i51PqjoU",
+						"expanded_url": "https://twitter.com/i/web/status/823637000783798272",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14301286,
+				"id_str": "14301286",
+				"name": "Martin Belam",
+				"screen_name": "MartinBelam",
+				"location": "martin.belam@theguardian.com",
+				"description": "Social & New Formats Editor at @Guardian in London. Does a link round-up every Friday https://t.co/tlE2uhRQA5",
+				"url": "https://t.co/r2MqdBh0P2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r2MqdBh0P2",
+								"expanded_url": "http://martinbelam.com",
+								"display_url": "martinbelam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tlE2uhRQA5",
+								"expanded_url": "http://martinbelam.com/category/friday-reading/",
+								"display_url": "martinbelam.com/category/frida…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 31223,
+				"friends_count": 12449,
+				"listed_count": 1372,
+				"created_at": "Fri Apr 04 09:50:59 +0000 2008",
+				"favourites_count": 38068,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662583066/t22fowzg0vi5ezvrc5co.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662583066/t22fowzg0vi5ezvrc5co.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814752068451893248/xGhs4nF8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814752068451893248/xGhs4nF8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14301286/1454792937",
+				"profile_link_color": "00456E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 256184,
+			"favorite_count": 329785,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 256184,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 10:08:11 +0000 2017",
+		"id": 824197166440783900,
+		"id_str": "824197166440783873",
+		"text": "RT @Gary_Bainbridge: Hands up whoever thinks the thing that really upset PM is that Ewan McGregor didn't know he hosts Good Morning Britain…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gary_Bainbridge",
+					"name": "Gary Bainbridge",
+					"id": 14509754,
+					"id_str": "14509754",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 15:09:51 +0000 2017",
+			"id": 823910694856904700,
+			"id_str": "823910694856904706",
+			"text": "Hands up whoever thinks the thing that really upset PM is that Ewan McGregor didn't know he hosts Good Morning Brit… https://t.co/0snH0Z63vz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0snH0Z63vz",
+						"expanded_url": "https://twitter.com/i/web/status/823910694856904706",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14509754,
+				"id_str": "14509754",
+				"name": "Gary Bainbridge",
+				"screen_name": "Gary_Bainbridge",
+				"location": "Liverpool, UK",
+				"description": "Writer of columns for the Liverpool Echo, Newcastle Chronicle and more. Bus traveller. I told you so. All opinions, etc...",
+				"url": "https://t.co/8sjrcrRUom",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8sjrcrRUom",
+								"expanded_url": "http://garybainbridge.com",
+								"display_url": "garybainbridge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13168,
+				"friends_count": 1028,
+				"listed_count": 374,
+				"created_at": "Thu Apr 24 10:18:55 +0000 2008",
+				"favourites_count": 2485,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 143447,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802142752431570948/cgH0rrbz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802142752431570948/cgH0rrbz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14509754/1360596444",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 823805815488331800,
+			"quoted_status_id_str": "823805815488331776",
+			"quoted_status": {
+				"created_at": "Tue Jan 24 08:13:06 +0000 2017",
+				"id": 823805815488331800,
+				"id_str": "823805815488331776",
+				"text": "Was going on Good Morning Britain, didn't realise  @piersmorgan was host. Won't go on with him after his comments about #WomensMarch",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WomensMarch",
+							"indices": [
+								120,
+								132
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "piersmorgan",
+							"name": "Piers Morgan",
+							"id": 216299334,
+							"id_str": "216299334",
+							"indices": [
+								51,
+								63
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 574168493,
+					"id_str": "574168493",
+					"name": "Ewan McGregor",
+					"screen_name": "mcgregor_ewan",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1213202,
+					"friends_count": 169,
+					"listed_count": 5662,
+					"created_at": "Tue May 08 03:32:18 +0000 2012",
+					"favourites_count": 93,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 3706,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2207384876/image_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2207384876/image_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/574168493/1413478123",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 67177,
+				"favorite_count": 245176,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 549,
+			"favorite_count": 2135,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 823805815488331800,
+		"quoted_status_id_str": "823805815488331776",
+		"retweet_count": 549,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 09:51:23 +0000 2017",
+		"id": 824192935835107300,
+		"id_str": "824192935835107328",
+		"text": "Everybody is R Fu fighting 😃 https://t.co/DEcYqcxm2B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DEcYqcxm2B",
+					"expanded_url": "https://twitter.com/patrickDurusau/status/824065439449972738",
+					"display_url": "twitter.com/patrickDurusau…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 824065439449972700,
+		"quoted_status_id_str": "824065439449972738",
+		"quoted_status": {
+			"created_at": "Wed Jan 25 01:24:45 +0000 2017",
+			"id": 824065439449972700,
+			"id_str": "824065439449972738",
+			"text": "A Data Driven Exploration of Kung Fu Films https://t.co/8Twev6SWQG #R #kungfu @Rbloggers",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "R",
+						"indices": [
+							67,
+							69
+						]
+					},
+					{
+						"text": "kungfu",
+						"indices": [
+							70,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Rbloggers",
+						"name": "R-bloggers",
+						"id": 144592995,
+						"id_str": "144592995",
+						"indices": [
+							78,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8Twev6SWQG",
+						"expanded_url": "http://wp.me/pSoaD-jbd",
+						"display_url": "wp.me/pSoaD-jbd",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 152194866,
+				"id_str": "152194866",
+				"name": "Patrick Durusau",
+				"screen_name": "patrickDurusau",
+				"location": "Covington, GA",
+				"description": "OpenDocument Format, ODF, Topic Maps, standards editing, XML, overlapping markup, history of ideas.",
+				"url": "http://t.co/Dt1X24cxIj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Dt1X24cxIj",
+								"expanded_url": "http://tm.durusau.net",
+								"display_url": "tm.durusau.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1222,
+				"friends_count": 583,
+				"listed_count": 398,
+				"created_at": "Sat Jun 05 09:28:43 +0000 2010",
+				"favourites_count": 111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33016,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961579480/patrick_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961579480/patrick_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 09:08:05 +0000 2017",
+		"id": 824182039922561000,
+		"id_str": "824182039922561024",
+		"text": "RT @medialens: This is what honest discussion of 'fake news' looks like... https://t.co/C6Hk0njiM7 @PiersRobinson1 @Spinwatch https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medialens",
+					"name": "Media Lens",
+					"id": 6531902,
+					"id_str": "6531902",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "PiersRobinson1",
+					"name": "Piers Robinson",
+					"id": 1356792044,
+					"id_str": "1356792044",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "Spinwatch",
+					"name": "Spinwatch",
+					"id": 15930919,
+					"id_str": "15930919",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C6Hk0njiM7",
+					"expanded_url": "http://www.spinwatch.org/index.php/issues/propaganda/item/5942-fake-news-propaganda-and-threats-to-journalism",
+					"display_url": "spinwatch.org/index.php/issu…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 25 08:51:40 +0000 2017",
+			"id": 824177906519863300,
+			"id_str": "824177906519863296",
+			"text": "This is what honest discussion of 'fake news' looks like... https://t.co/C6Hk0njiM7 @PiersRobinson1 @Spinwatch https://t.co/xjz3TOnu35",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PiersRobinson1",
+						"name": "Piers Robinson",
+						"id": 1356792044,
+						"id_str": "1356792044",
+						"indices": [
+							84,
+							99
+						]
+					},
+					{
+						"screen_name": "Spinwatch",
+						"name": "Spinwatch",
+						"id": 15930919,
+						"id_str": "15930919",
+						"indices": [
+							100,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/C6Hk0njiM7",
+						"expanded_url": "http://www.spinwatch.org/index.php/issues/propaganda/item/5942-fake-news-propaganda-and-threats-to-journalism",
+						"display_url": "spinwatch.org/index.php/issu…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 824176954303713300,
+						"id_str": "824176954303713280",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C3AQksFWEAAt3Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3AQksFWEAAt3Yu.jpg",
+						"url": "https://t.co/xjz3TOnu35",
+						"display_url": "pic.twitter.com/xjz3TOnu35",
+						"expanded_url": "https://twitter.com/medialens/status/824177906519863296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 756,
+								"h": 393,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 353,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824176954303713300,
+						"id_str": "824176954303713280",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/C3AQksFWEAAt3Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3AQksFWEAAt3Yu.jpg",
+						"url": "https://t.co/xjz3TOnu35",
+						"display_url": "pic.twitter.com/xjz3TOnu35",
+						"expanded_url": "https://twitter.com/medialens/status/824177906519863296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 756,
+								"h": 393,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 353,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 393,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6531902,
+				"id_str": "6531902",
+				"name": "Media Lens",
+				"screen_name": "medialens",
+				"location": "",
+				"description": "Correcting for the distorted vision of the corporate media",
+				"url": "http://t.co/V3VFtcaKKN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/V3VFtcaKKN",
+								"expanded_url": "http://www.medialens.org",
+								"display_url": "medialens.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31616,
+				"friends_count": 773,
+				"listed_count": 1093,
+				"created_at": "Sat Jun 02 23:55:42 +0000 2007",
+				"favourites_count": 3677,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6531902/1460124517",
+				"profile_link_color": "FF7B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 25 08:55:27 +0000 2017",
+		"id": 824178860375900200,
+		"id_str": "824178860375900164",
+		"text": "@GregMyers @onthemedia interesting meta-framing by Lakoff 😉",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GregMyers",
+					"name": "GregMyers",
+					"id": 16855808,
+					"id_str": "16855808",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "onthemedia",
+					"name": "On the Media",
+					"id": 16469809,
+					"id_str": "16469809",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": 824177841738813400,
+		"in_reply_to_status_id_str": "824177841738813441",
+		"in_reply_to_user_id": 16855808,
+		"in_reply_to_user_id_str": "16855808",
+		"in_reply_to_screen_name": "GregMyers",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 977,
+			"listed_count": 97,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5428,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12456,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 25 00:58:42 +0000 2017",
 		"id": 824058884226682900,
 		"id_str": "824058884226682880",
