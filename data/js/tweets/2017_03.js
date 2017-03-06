@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 23:26:04 +0000 2017",
+		"id": 838531084715495400,
+		"id_str": "838531084715495424",
+		"text": "RT @sam_lavigne: My stupid project w/ @ameliawb &amp; @FletcherBach makes it look like you pissed yourself so you can easily escape any social…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sam_lavigne",
+					"name": "Sam Lavigne",
+					"id": 6428702,
+					"id_str": "6428702",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "ameliawb",
+					"name": "AmeliaWingerBearskin",
+					"id": 14484362,
+					"id_str": "14484362",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "FletcherBach",
+					"name": "Fletcher Bach",
+					"id": 1596919994,
+					"id_str": "1596919994",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 988,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5604,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 23:18:48 +0000 2017",
+			"id": 838529256888107000,
+			"id_str": "838529256888107008",
+			"text": "My stupid project w/ @ameliawb &amp; @FletcherBach makes it look like you pissed yourself so you can easily escape any… https://t.co/s5oTQ6JjLo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ameliawb",
+						"name": "AmeliaWingerBearskin",
+						"id": 14484362,
+						"id_str": "14484362",
+						"indices": [
+							21,
+							30
+						]
+					},
+					{
+						"screen_name": "FletcherBach",
+						"name": "Fletcher Bach",
+						"id": 1596919994,
+						"id_str": "1596919994",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s5oTQ6JjLo",
+						"expanded_url": "https://twitter.com/i/web/status/838529256888107008",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6428702,
+				"id_str": "6428702",
+				"name": "Sam Lavigne",
+				"screen_name": "sam_lavigne",
+				"location": "brooklyn",
+				"description": "resident @pioneerworks_, contributing editor @newinquiry, founder of @stupidhackathon, and @theuselesspress",
+				"url": "https://t.co/JhqOwaHR0D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JhqOwaHR0D",
+								"expanded_url": "http://lav.io",
+								"display_url": "lav.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2229,
+				"friends_count": 550,
+				"listed_count": 79,
+				"created_at": "Wed May 30 00:49:55 +0000 2007",
+				"favourites_count": 1057,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141414",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12220695/entermuni.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12220695/entermuni.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768692577570807808/suOZM30v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768692577570807808/suOZM30v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6428702/1400877391",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "D1D1D1",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 838528893401329700,
+			"quoted_status_id_str": "838528893401329664",
+			"quoted_status": {
+				"created_at": "Sun Mar 05 23:17:21 +0000 2017",
+				"id": 838528893401329700,
+				"id_str": "838528893401329664",
+				"text": "Small Talk: allows users to exit uncomfortable social situations by @ameliawb @sam_lavigne not @FletcherBach. https://t.co/kvvG1CcIMy",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ameliawb",
+							"name": "AmeliaWingerBearskin",
+							"id": 14484362,
+							"id_str": "14484362",
+							"indices": [
+								68,
+								77
+							]
+						},
+						{
+							"screen_name": "sam_lavigne",
+							"name": "Sam Lavigne",
+							"id": 6428702,
+							"id_str": "6428702",
+							"indices": [
+								78,
+								90
+							]
+						},
+						{
+							"screen_name": "FletcherBach",
+							"name": "Fletcher Bach",
+							"id": 1596919994,
+							"id_str": "1596919994",
+							"indices": [
+								95,
+								108
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/kvvG1CcIMy",
+							"expanded_url": "https://vimeo.com/207031946",
+							"display_url": "vimeo.com/207031946",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2429320687,
+					"id_str": "2429320687",
+					"name": "Stupid Hackathon",
+					"screen_name": "stupidhackathon",
+					"location": "Our Terrible Future, NY",
+					"description": "The stupid shit no one needs and terrible ideas hackathon by @ameliawb & @sam_lavigne | https://t.co/hv6ob2vsL0",
+					"url": "http://t.co/bbNBgVZaGE",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/bbNBgVZaGE",
+									"expanded_url": "http://stupidhackathon.com",
+									"display_url": "stupidhackathon.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/hv6ob2vsL0",
+									"expanded_url": "http://stupidhackathon.com/",
+									"display_url": "stupidhackathon.com",
+									"indices": [
+										88,
+										111
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4155,
+					"friends_count": 240,
+					"listed_count": 79,
+					"created_at": "Sat Apr 05 18:44:48 +0000 2014",
+					"favourites_count": 1074,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 653,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452523346417025024/dqZ3b5P-.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452523346417025024/dqZ3b5P-.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/452521148744364033/kcZTlZD9_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/452521148744364033/kcZTlZD9_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2429320687/1471727285",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 838528893401329700,
+		"quoted_status_id_str": "838528893401329664",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 23:23:09 +0000 2017",
+		"id": 838530349592346600,
+		"id_str": "838530349592346625",
+		"text": "RT @Eques4: @gary_whitley @jim_twiss @skwawkbox Meaningless distinction https://t.co/SbkBNYJPh7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eques4",
+					"name": "Frank Parker",
+					"id": 857784090,
+					"id_str": "857784090",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "gary_whitley",
+					"name": "Gary Whitley",
+					"id": 1890645150,
+					"id_str": "1890645150",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "jim_twiss",
+					"name": "James Twiss",
+					"id": 726699553,
+					"id_str": "726699553",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "skwawkbox",
+					"name": "The SKWAWKBOX",
+					"id": 19906029,
+					"id_str": "19906029",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SbkBNYJPh7",
+					"expanded_url": "https://medium.com/@Eques4/deconstructing-blairite-buzzwords-4d7eeb2fa9c6#.2tskws192",
+					"display_url": "medium.com/@Eques4/decons…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 988,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5604,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 20:36:58 +0000 2017",
+			"id": 838488529101545500,
+			"id_str": "838488529101545472",
+			"text": "@gary_whitley @jim_twiss @skwawkbox Meaningless distinction https://t.co/SbkBNYJPh7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gary_whitley",
+						"name": "Gary Whitley",
+						"id": 1890645150,
+						"id_str": "1890645150",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "jim_twiss",
+						"name": "James Twiss",
+						"id": 726699553,
+						"id_str": "726699553",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"screen_name": "skwawkbox",
+						"name": "The SKWAWKBOX",
+						"id": 19906029,
+						"id_str": "19906029",
+						"indices": [
+							25,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SbkBNYJPh7",
+						"expanded_url": "https://medium.com/@Eques4/deconstructing-blairite-buzzwords-4d7eeb2fa9c6#.2tskws192",
+						"display_url": "medium.com/@Eques4/decons…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 838452129970933800,
+			"in_reply_to_status_id_str": "838452129970933760",
+			"in_reply_to_user_id": 1890645150,
+			"in_reply_to_user_id_str": "1890645150",
+			"in_reply_to_screen_name": "gary_whitley",
+			"user": {
+				"id": 857784090,
+				"id_str": "857784090",
+				"name": "Frank Parker",
+				"screen_name": "Eques4",
+				"location": "",
+				"description": "Corbynite Herald. All views my own. ReTweets probably an endorsement. Mainly indulge in political tweeting. Check out my articles on https://t.co/SnP2KB2gtI",
+				"url": "https://t.co/f2tJ0g5yCX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f2tJ0g5yCX",
+								"expanded_url": "https://medium.com/@Eques4",
+								"display_url": "medium.com/@Eques4",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SnP2KB2gtI",
+								"expanded_url": "http://Medium.com",
+								"display_url": "Medium.com",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1182,
+				"friends_count": 1398,
+				"listed_count": 46,
+				"created_at": "Tue Oct 02 09:53:36 +0000 2012",
+				"favourites_count": 40033,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15857,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830564140863324161/lsRQQ0yS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830564140863324161/lsRQQ0yS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/857784090/1474969112",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Mar 05 02:26:23 +0000 2017",
+		"id": 838214073372328000,
+		"id_str": "838214073372327937",
+		"text": "@MatthewEllman @tombennett71 SIKU: Knowing Our Ice. Documenting Inuit sea-ice knowledge  and use, available on all gd d/l sites, or DM me",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthewEllman",
+					"name": "Matthew Ellman",
+					"id": 394987109,
+					"id_str": "394987109",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "tombennett71",
+					"name": "Tom Bennett",
+					"id": 208996041,
+					"id_str": "208996041",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 838074005517025300,
+		"in_reply_to_status_id_str": "838074005517025280",
+		"in_reply_to_user_id": 394987109,
+		"in_reply_to_user_id_str": "394987109",
+		"in_reply_to_screen_name": "MatthewEllman",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 988,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 5604,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12772,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 04 15:38:34 +0000 2017",
 		"id": 838051045859278800,
 		"id_str": "838051045859278848",
