@@ -1,6 +1,1725 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 05 20:11:20 +0000 2017",
+		"id": 871821764392779800,
+		"id_str": "871821764392779776",
+		"text": "RT @ELGazette: Urgent. Tuareg needed to help. Please RT https://t.co/LiWfbrfnFR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELGazette",
+					"name": "EL Gazette",
+					"id": 614186998,
+					"id_str": "614186998",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LiWfbrfnFR",
+					"expanded_url": "https://twitter.com/DiLeed/status/871809038899654657",
+					"display_url": "twitter.com/DiLeed/status/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 1021,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6096,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 20:03:22 +0000 2017",
+			"id": 871819757535858700,
+			"id_str": "871819757535858689",
+			"text": "Urgent. Tuareg needed to help. Please RT https://t.co/LiWfbrfnFR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LiWfbrfnFR",
+						"expanded_url": "https://twitter.com/DiLeed/status/871809038899654657",
+						"display_url": "twitter.com/DiLeed/status/…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 614186998,
+				"id_str": "614186998",
+				"name": "EL Gazette",
+				"screen_name": "ELGazette",
+				"location": "London",
+				"description": "News for the EFL and English medium education industries. Melanie Butler, Gizzelle Sandoval & Andrea Pérez tweet. Our Facebook: https://t.co/9A8W4ZDx4D",
+				"url": "http://t.co/J8tjrFSWRH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/J8tjrFSWRH",
+								"expanded_url": "http://www.elgazette.com",
+								"display_url": "elgazette.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9A8W4ZDx4D",
+								"expanded_url": "https://goo.gl/5ygMqr",
+								"display_url": "goo.gl/5ygMqr",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4974,
+				"friends_count": 3546,
+				"listed_count": 222,
+				"created_at": "Thu Jun 21 09:59:15 +0000 2012",
+				"favourites_count": 697,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13679,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B30000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/584640509/n3sgachr80i0ltf9r7ad.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/584640509/n3sgachr80i0ltf9r7ad.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841278431098736641/AdArX5df_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841278431098736641/AdArX5df_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/614186998/1489411446",
+				"profile_link_color": "B30000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 871809038899654700,
+			"quoted_status_id_str": "871809038899654657",
+			"quoted_status": {
+				"created_at": "Mon Jun 05 19:20:46 +0000 2017",
+				"id": 871809038899654700,
+				"id_str": "871809038899654657",
+				"text": "Help @EAL_naldic @ELGazette @joypenard @Lg_on_the_Move @BetterBilingual @Multi_Ling_Mat @Everyday_Muslim plse RT https://t.co/cNjnshFXSE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "EAL_naldic",
+							"name": "naldic",
+							"id": 90146452,
+							"id_str": "90146452",
+							"indices": [
+								5,
+								16
+							]
+						},
+						{
+							"screen_name": "ELGazette",
+							"name": "EL Gazette",
+							"id": 614186998,
+							"id_str": "614186998",
+							"indices": [
+								17,
+								27
+							]
+						},
+						{
+							"screen_name": "joypenard",
+							"name": "Joy Penard",
+							"id": 1146439788,
+							"id_str": "1146439788",
+							"indices": [
+								28,
+								38
+							]
+						},
+						{
+							"screen_name": "Lg_on_the_Move",
+							"name": "Language on the Move",
+							"id": 78578223,
+							"id_str": "78578223",
+							"indices": [
+								39,
+								54
+							]
+						},
+						{
+							"screen_name": "BetterBilingual",
+							"name": "Better Bilingual",
+							"id": 778589942582743000,
+							"id_str": "778589942582743041",
+							"indices": [
+								55,
+								71
+							]
+						},
+						{
+							"screen_name": "Multi_Ling_Mat",
+							"name": "Multilingual Matters",
+							"id": 467357552,
+							"id_str": "467357552",
+							"indices": [
+								72,
+								87
+							]
+						},
+						{
+							"screen_name": "Everyday_Muslim",
+							"name": "EverydayMuslim",
+							"id": 124129591,
+							"id_str": "124129591",
+							"indices": [
+								88,
+								104
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/cNjnshFXSE",
+							"expanded_url": "https://twitter.com/DiLeed/status/871803445854044160",
+							"display_url": "twitter.com/DiLeed/status/…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2335217159,
+					"id_str": "2335217159",
+					"name": "Diane Leedham",
+					"screen_name": "DiLeed",
+					"location": "South London",
+					"description": "English/Literacy/EAL teacher, mainly secondary. Energised by kids, conversation and connections....'What makes a fire burn is the space between the logs'",
+					"url": "https://t.co/BVll2Oybmd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/BVll2Oybmd",
+									"expanded_url": "https://flexilingual.wordpress.com",
+									"display_url": "flexilingual.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 7542,
+					"friends_count": 6851,
+					"listed_count": 372,
+					"created_at": "Mon Feb 10 08:01:23 +0000 2014",
+					"favourites_count": 102117,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 147457,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/531591034740826112/jFKHAmex_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/531591034740826112/jFKHAmex_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2335217159/1415576205",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 871803445854044200,
+				"quoted_status_id_str": "871803445854044160",
+				"retweet_count": 5,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 871809038899654700,
+		"quoted_status_id_str": "871809038899654657",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 05 20:06:00 +0000 2017",
+		"id": 871820420089040900,
+		"id_str": "871820420089040898",
+		"text": "RT @SLBCoop: Can you help one of our members &amp; ELT teacher @tom_flaherty by taking a short questionnaire for his MA? @taw_sig @ResearchBite…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "tom_flaherty",
+					"name": "Tom Flaherty",
+					"id": 20362849,
+					"id_str": "20362849",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 1021,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6096,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 19:58:55 +0000 2017",
+			"id": 871818637556011000,
+			"id_str": "871818637556011009",
+			"text": "Can you help one of our members &amp; ELT teacher @tom_flaherty by taking a short questionnaire for his MA? @taw_sig… https://t.co/Ize7FUX5Q1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tom_flaherty",
+						"name": "Tom Flaherty",
+						"id": 20362849,
+						"id_str": "20362849",
+						"indices": [
+							50,
+							63
+						]
+					},
+					{
+						"screen_name": "taw_sig",
+						"name": "teachers_as_workers",
+						"id": 3152637711,
+						"id_str": "3152637711",
+						"indices": [
+							108,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ize7FUX5Q1",
+						"expanded_url": "https://twitter.com/i/web/status/871818637556011009",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365399801,
+				"id_str": "2365399801",
+				"name": "Serveis Lingüístics",
+				"screen_name": "SLBCoop",
+				"location": "Barcelona, Catalunya, Espanya",
+				"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+				"url": "http://t.co/dZs8BQd1eH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dZs8BQd1eH",
+								"expanded_url": "http://slb.coop/",
+								"display_url": "slb.coop",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 550,
+				"friends_count": 673,
+				"listed_count": 39,
+				"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+				"favourites_count": 779,
+				"utc_offset": 7200,
+				"time_zone": "Madrid",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1276,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1a27537478dd8e38",
+				"url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+				"place_type": "city",
+				"name": "Barcelona",
+				"full_name": "Barcelona, Spain",
+				"country_code": "ES",
+				"country": "Spain",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.0524766,
+								41.3170475
+							],
+							[
+								2.2299781,
+								41.3170475
+							],
+							[
+								2.2299781,
+								41.4682658
+							],
+							[
+								2.0524766,
+								41.4682658
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 871800925572276200,
+			"quoted_status_id_str": "871800925572276224",
+			"quoted_status": {
+				"created_at": "Mon Jun 05 18:48:32 +0000 2017",
+				"id": 871800925572276200,
+				"id_str": "871800925572276224",
+				"text": "#ELT teacher? Please help by filling out &amp; retweeting this short questionnaire for me! Thanks 🙃 https://t.co/mDSIT8qJLF #eltchat #eltchinwag",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ELT",
+							"indices": [
+								0,
+								4
+							]
+						},
+						{
+							"text": "eltchat",
+							"indices": [
+								124,
+								132
+							]
+						},
+						{
+							"text": "eltchinwag",
+							"indices": [
+								133,
+								144
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/mDSIT8qJLF",
+							"expanded_url": "https://goo.gl/forms/6nuO4WR43Aq8pQOG2",
+							"display_url": "goo.gl/forms/6nuO4WR4…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 20362849,
+					"id_str": "20362849",
+					"name": "Tom Flaherty",
+					"screen_name": "tom_flaherty",
+					"location": "Barcelona, Spain",
+					"description": "#EFL Trainer/Coach | @SLBCoop Member | App Ling MA student @UniBarcelona | #TBLT practitioner | #EdTech enthusiast | Evidence-based ELT advocate",
+					"url": "https://t.co/Nbb2IusZ2a",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Nbb2IusZ2a",
+									"expanded_url": "https://about.me/tomflaherty",
+									"display_url": "about.me/tomflaherty",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 842,
+					"friends_count": 977,
+					"listed_count": 32,
+					"created_at": "Sun Feb 08 12:05:27 +0000 2009",
+					"favourites_count": 54,
+					"utc_offset": 7200,
+					"time_zone": "Berlin",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1032,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "090A0A",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/394971769/1287588142593_3445830.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/394971769/1287588142593_3445830.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/695020601484951552/ljxitd6z_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/695020601484951552/ljxitd6z_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/20362849/1456931629",
+					"profile_link_color": "4C2E8D",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 871800925572276200,
+		"quoted_status_id_str": "871800925572276224",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 05 18:22:41 +0000 2017",
+		"id": 871794417765625900,
+		"id_str": "871794417765625856",
+		"text": "RT @ResearchBites: Repeated Reading (RR) for Fluency and Comprehension https://t.co/vBOZz62ATM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBites",
+					"name": "ELT Research Bites",
+					"id": 794337135901876200,
+					"id_str": "794337135901876224",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vBOZz62ATM",
+					"expanded_url": "http://ift.tt/2rWmhoU",
+					"display_url": "ift.tt/2rWmhoU",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 1021,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6096,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 13:04:08 +0000 2017",
+			"id": 871714255053226000,
+			"id_str": "871714255053225985",
+			"text": "Repeated Reading (RR) for Fluency and Comprehension https://t.co/vBOZz62ATM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vBOZz62ATM",
+						"expanded_url": "http://ift.tt/2rWmhoU",
+						"display_url": "ift.tt/2rWmhoU",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 794337135901876200,
+				"id_str": "794337135901876224",
+				"name": "ELT Research Bites",
+				"screen_name": "ResearchBites",
+				"location": "",
+				"description": "ELT Research Bites - Providing summaries of ELT research useful for the classroom. https://t.co/z0mOBawUeU",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/z0mOBawUeU",
+								"expanded_url": "http://www.eltresearchbites.com",
+								"display_url": "eltresearchbites.com",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 590,
+				"friends_count": 67,
+				"listed_count": 16,
+				"created_at": "Fri Nov 04 00:35:06 +0000 2016",
+				"favourites_count": 88,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/794337135901876224/1478655801",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 05 16:58:21 +0000 2017",
+		"id": 871773194964914200,
+		"id_str": "871773194964914176",
+		"text": "RT @johnwhilley: Corbyn soars high above weathervane Guardian\nhttps://t.co/Uw3XFHuRaQ\n@Freedland @OwenJones84 @GeorgeMonbiot @medialens @Jo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnwhilley",
+					"name": "John Hilley",
+					"id": 223771625,
+					"id_str": "223771625",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Freedland",
+					"name": "Jonathan Freedland",
+					"id": 44578328,
+					"id_str": "44578328",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"screen_name": "OwenJones84",
+					"name": "Owen Jones",
+					"id": 65045121,
+					"id_str": "65045121",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"screen_name": "GeorgeMonbiot",
+					"name": "GeorgeMonbiot",
+					"id": 198584761,
+					"id_str": "198584761",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "medialens",
+					"name": "Media Lens",
+					"id": 6531902,
+					"id_str": "6531902",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uw3XFHuRaQ",
+					"expanded_url": "http://johnhilley.blogspot.co.uk/2017/06/corbyn-soars-high-above-weathervane.html",
+					"display_url": "johnhilley.blogspot.co.uk/2017/06/corbyn…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 1021,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6096,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 16:36:46 +0000 2017",
+			"id": 871767765023162400,
+			"id_str": "871767765023162369",
+			"text": "Corbyn soars high above weathervane Guardian\nhttps://t.co/Uw3XFHuRaQ\n@Freedland @OwenJones84 @GeorgeMonbiot @medialens @Jonathan_K_Cook",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Freedland",
+						"name": "Jonathan Freedland",
+						"id": 44578328,
+						"id_str": "44578328",
+						"indices": [
+							69,
+							79
+						]
+					},
+					{
+						"screen_name": "OwenJones84",
+						"name": "Owen Jones",
+						"id": 65045121,
+						"id_str": "65045121",
+						"indices": [
+							80,
+							92
+						]
+					},
+					{
+						"screen_name": "GeorgeMonbiot",
+						"name": "GeorgeMonbiot",
+						"id": 198584761,
+						"id_str": "198584761",
+						"indices": [
+							93,
+							107
+						]
+					},
+					{
+						"screen_name": "medialens",
+						"name": "Media Lens",
+						"id": 6531902,
+						"id_str": "6531902",
+						"indices": [
+							108,
+							118
+						]
+					},
+					{
+						"screen_name": "Jonathan_K_Cook",
+						"name": "Jonathan Cook",
+						"id": 2459644405,
+						"id_str": "2459644405",
+						"indices": [
+							119,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Uw3XFHuRaQ",
+						"expanded_url": "http://johnhilley.blogspot.co.uk/2017/06/corbyn-soars-high-above-weathervane.html",
+						"display_url": "johnhilley.blogspot.co.uk/2017/06/corbyn…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 223771625,
+				"id_str": "223771625",
+				"name": "John Hilley",
+				"screen_name": "johnwhilley",
+				"location": "",
+				"description": "Compassion, a cherished planet and independence from corporate tyranny. Beauty of the radical imagination.",
+				"url": "http://t.co/9T9nY3jIZl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9T9nY3jIZl",
+								"expanded_url": "http://johnhilley.blogspot.co.uk/",
+								"display_url": "johnhilley.blogspot.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1614,
+				"friends_count": 1411,
+				"listed_count": 57,
+				"created_at": "Tue Dec 07 08:42:01 +0000 2010",
+				"favourites_count": 781,
+				"utc_offset": 3600,
+				"time_zone": "Edinburgh",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3027213200/825947adffe3089b9a98f884d20a7e60_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3027213200/825947adffe3089b9a98f884d20a7e60_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/223771625/1483362920",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0af014accd6f6e99",
+				"url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+				"place_type": "admin",
+				"name": "Scotland",
+				"full_name": "Scotland, United Kingdom",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-7.66085699743185,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								60.8452769694519
+							],
+							[
+								-7.66085699743185,
+								60.8452769694519
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 05 16:20:59 +0000 2017",
+		"id": 871763794426556400,
+		"id_str": "871763794426556416",
+		"text": "RT @medialens: Why did @BBCNews censor remarks on #Saudi links with terrorism made by @jeremycorbyn after #LondonBridge? https://t.co/W1KoW…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Saudi",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "LondonBridge",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medialens",
+					"name": "Media Lens",
+					"id": 6531902,
+					"id_str": "6531902",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "BBCNews",
+					"name": "BBC News (UK)",
+					"id": 612473,
+					"id_str": "612473",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "jeremycorbyn",
+					"name": "Jeremy Corbyn",
+					"id": 117777690,
+					"id_str": "117777690",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1382,
+			"friends_count": 1021,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6096,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 05 15:47:45 +0000 2017",
+			"id": 871755431009554400,
+			"id_str": "871755431009554435",
+			"text": "Why did @BBCNews censor remarks on #Saudi links with terrorism made by @jeremycorbyn after #LondonBridge?… https://t.co/DIswZPFJEj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Saudi",
+						"indices": [
+							35,
+							41
+						]
+					},
+					{
+						"text": "LondonBridge",
+						"indices": [
+							91,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCNews",
+						"name": "BBC News (UK)",
+						"id": 612473,
+						"id_str": "612473",
+						"indices": [
+							8,
+							16
+						]
+					},
+					{
+						"screen_name": "jeremycorbyn",
+						"name": "Jeremy Corbyn",
+						"id": 117777690,
+						"id_str": "117777690",
+						"indices": [
+							71,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DIswZPFJEj",
+						"expanded_url": "https://twitter.com/i/web/status/871755431009554435",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6531902,
+				"id_str": "6531902",
+				"name": "Media Lens",
+				"screen_name": "medialens",
+				"location": "",
+				"description": "Correcting for the distorted vision of the corporate media",
+				"url": "http://t.co/V3VFtcaKKN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/V3VFtcaKKN",
+								"expanded_url": "http://www.medialens.org",
+								"display_url": "medialens.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33887,
+				"friends_count": 870,
+				"listed_count": 1127,
+				"created_at": "Sat Jun 02 23:55:42 +0000 2007",
+				"favourites_count": 4590,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40996,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6531902/1460124517",
+				"profile_link_color": "FF7B00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 04 22:45:42 +0000 2017",
 		"id": 871498222119866400,
 		"id_str": "871498222119866368",
