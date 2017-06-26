@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 25 20:56:16 +0000 2017",
+		"id": 879080828621529100,
+		"id_str": "879080828621529089",
+		"text": "RT @AaronBastani: Here's the McDonnell quote in full: 'political decisions taken over recent decades'. Implicates all the major parties. Ma…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AaronBastani",
+					"name": "Aaron Bastani",
+					"id": 63082578,
+					"id_str": "63082578",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1399,
+			"friends_count": 1035,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6236,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 25 20:53:12 +0000 2017",
+			"id": 879080054634025000,
+			"id_str": "879080054634024960",
+			"text": "Here's the McDonnell quote in full: 'political decisions taken over recent decades'. Implicates all the major parti… https://t.co/jBiwrcdkdU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jBiwrcdkdU",
+						"expanded_url": "https://twitter.com/i/web/status/879080054634024960",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63082578,
+				"id_str": "63082578",
+				"name": "Aaron Bastani",
+				"screen_name": "AaronBastani",
+				"location": "London ",
+				"description": "Co-Founder @novaramedia / PhD @newpolcom",
+				"url": "https://t.co/wZK4sxuH0L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wZK4sxuH0L",
+								"expanded_url": "http://www.facebook.com/aaronjbastani",
+								"display_url": "facebook.com/aaronjbastani",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36478,
+				"friends_count": 1415,
+				"listed_count": 608,
+				"created_at": "Wed Aug 05 09:12:55 +0000 2009",
+				"favourites_count": 16944,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 89106,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDDEE0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000160618278/vi9iBj5F.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000160618278/vi9iBj5F.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859064367236739073/97WnkWDk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859064367236739073/97WnkWDk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63082578/1493644950",
+				"profile_link_color": "050505",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "4C90D4",
+				"profile_text_color": "080707",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 210,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 25 09:03:52 +0000 2017",
+		"id": 878901547962388500,
+		"id_str": "878901547962388481",
+		"text": "RT @immolations: if anybody wants a sneak peak of tomorrow's hot takes https://t.co/hAOT9qocoy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "immolations",
+					"name": "▀▀▀▀▀▀",
+					"id": 21212342,
+					"id_str": "21212342",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 878687197242822700,
+					"id_str": "878687197242822657",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+					"url": "https://t.co/hAOT9qocoy",
+					"display_url": "pic.twitter.com/hAOT9qocoy",
+					"expanded_url": "https://twitter.com/immolations/status/878687212782669824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 782,
+							"h": 302,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878687212782669800,
+					"source_status_id_str": "878687212782669824",
+					"source_user_id": 21212342,
+					"source_user_id_str": "21212342"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 878687197242822700,
+					"id_str": "878687197242822657",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+					"url": "https://t.co/hAOT9qocoy",
+					"display_url": "pic.twitter.com/hAOT9qocoy",
+					"expanded_url": "https://twitter.com/immolations/status/878687212782669824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 782,
+							"h": 302,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 782,
+							"h": 302,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 878687212782669800,
+					"source_status_id_str": "878687212782669824",
+					"source_user_id": 21212342,
+					"source_user_id_str": "21212342"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1399,
+			"friends_count": 1035,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6236,
+			"utc_offset": 7200,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 24 18:52:11 +0000 2017",
+			"id": 878687212782669800,
+			"id_str": "878687212782669824",
+			"text": "if anybody wants a sneak peak of tomorrow's hot takes https://t.co/hAOT9qocoy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 878687197242822700,
+						"id_str": "878687197242822657",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+						"url": "https://t.co/hAOT9qocoy",
+						"display_url": "pic.twitter.com/hAOT9qocoy",
+						"expanded_url": "https://twitter.com/immolations/status/878687212782669824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 302,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 782,
+								"h": 302,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878687197242822700,
+						"id_str": "878687197242822657",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDG5WbRXkAER8Js.jpg",
+						"url": "https://t.co/hAOT9qocoy",
+						"display_url": "pic.twitter.com/hAOT9qocoy",
+						"expanded_url": "https://twitter.com/immolations/status/878687212782669824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 263,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 782,
+								"h": 302,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 782,
+								"h": 302,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21212342,
+				"id_str": "21212342",
+				"name": "▀▀▀▀▀▀",
+				"screen_name": "immolations",
+				"location": "",
+				"description": "ｇｅｔ ｔｈｅ ｓａｔｅｌｌｉｔｅ／ｉｆ ｙｏｕ ｗａｎｔ ｔｏ ｓｅｅ ｍｅ／ｔａｌｋｉｎｇ ｏｎ ｔｈｅ ｎｅｔ／ｉ ｋｎｏｗ ｔｈｅ ｗａｙ ｙｏｕ ｌｉｋｅ ｉｔ／ｇｅｔ ｙｏｕｒ ｃｒｅｄｉｔ ｃａｒｄｓ／＇ｃｏｓ ｉ ｎｅｅｄ ｎｏ ｍｏｎｅｙ／ａｌｌ ｉ ｗａｎｎａ ｇｅｔ ｉｓ ｙｏｕ ｂａｂｙ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10993,
+				"friends_count": 238,
+				"listed_count": 159,
+				"created_at": "Wed Feb 18 16:35:39 +0000 2009",
+				"favourites_count": 49,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8640,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E0854",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577187659191209984/kPjoVQE9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577187659191209984/kPjoVQE9.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869688610496401409/yxfZ0Vx2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869688610496401409/yxfZ0Vx2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21212342/1493596093",
+				"profile_link_color": "800880",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3550,
+			"favorite_count": 9853,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3550,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 24 15:15:41 +0000 2017",
 		"id": 878632728928956400,
 		"id_str": "878632728928956416",
