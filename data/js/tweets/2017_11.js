@@ -1,6 +1,2789 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 21:44:33 +0000 2017",
+		"id": 933451160396189700,
+		"id_str": "933451160396189697",
+		"text": "Improving working conditions - isn't that in the remit of teacher associations? https://t.co/MJbjYmH96j #eltchat… https://t.co/dT2MtQLlO4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eltchat",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MJbjYmH96j",
+					"expanded_url": "https://eflnotes.wordpress.com/2017/11/22/improving-working-conditions-isnt-that-in-the-remit-of-teacher-associations/",
+					"display_url": "eflnotes.wordpress.com/2017/11/22/imp…",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/dT2MtQLlO4",
+					"expanded_url": "https://twitter.com/i/web/status/933451160396189697",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 21:40:37 +0000 2017",
+		"id": 933450168070033400,
+		"id_str": "933450168070033409",
+		"text": "@perezparedes typo alert! : )",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perezparedes",
+					"name": "Pascual Pérez-Paredes",
+					"id": 28528850,
+					"id_str": "28528850",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 933350053657415700,
+		"in_reply_to_status_id_str": "933350053657415680",
+		"in_reply_to_user_id": 28528850,
+		"in_reply_to_user_id_str": "28528850",
+		"in_reply_to_screen_name": "perezparedes",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pl"
+	},
+	{
+		"created_at": "Wed Nov 22 21:39:31 +0000 2017",
+		"id": 933449893666009100,
+		"id_str": "933449893666009090",
+		"text": "RT @ELTAdvocacy: #QQIEX \nThere are better ideas for how to describe and create sustainable #ELT roles. First step is honestly NORMALISING s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QQIEX",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 15:58:37 +0000 2017",
+			"id": 933364103040643100,
+			"id_str": "933364103040643073",
+			"text": "#QQIEX \nThere are better ideas for how to describe and create sustainable #ELT roles. First step is honestly NORMAL… https://t.co/2cX0ALcgCR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "QQIEX",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "ELT",
+						"indices": [
+							74,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2cX0ALcgCR",
+						"expanded_url": "https://twitter.com/i/web/status/933364103040643073",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 16:49:59 +0000 2017",
+		"id": 933377028677566500,
+		"id_str": "933377028677566464",
+		"text": "@robshpprd i imagine he has been having trouble promoting his dictionary of cognates? hence the polemical style?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robshpprd",
+					"name": "Rob Sheppard",
+					"id": 2998216702,
+					"id_str": "2998216702",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 933107664615125000,
+		"in_reply_to_status_id_str": "933107664615124994",
+		"in_reply_to_user_id": 2998216702,
+		"in_reply_to_user_id_str": "2998216702",
+		"in_reply_to_screen_name": "robshpprd",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 16:46:39 +0000 2017",
+		"id": 933376188411674600,
+		"id_str": "933376188411674624",
+		"text": "RT @funnymonkey: Uber compromised the personal information of 57 million people - users and drivers. Then, they lied about it, and paid the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "funnymonkey",
+					"name": "Bill Fitzgerald",
+					"id": 12127972,
+					"id_str": "12127972",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 21 22:47:51 +0000 2017",
+			"id": 933104699493904400,
+			"id_str": "933104699493904384",
+			"text": "Uber compromised the personal information of 57 million people - users and drivers. Then, they lied about it, and p… https://t.co/YVzL7ojQXd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YVzL7ojQXd",
+						"expanded_url": "https://twitter.com/i/web/status/933104699493904384",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12127972,
+				"id_str": "12127972",
+				"name": "Bill Fitzgerald",
+				"screen_name": "funnymonkey",
+				"location": "",
+				"description": "Privacy, Open Source/Content, #educolor - Personal Acc't. Education is a social justice issue.",
+				"url": "http://t.co/XCfPKFruVt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XCfPKFruVt",
+								"expanded_url": "http://funnymonkey.com",
+								"display_url": "funnymonkey.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5912,
+				"friends_count": 4363,
+				"listed_count": 556,
+				"created_at": "Fri Jan 11 19:38:54 +0000 2008",
+				"favourites_count": 1712,
+				"utc_offset": -28800,
+				"time_zone": "America/Los_Angeles",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453322798857863168/ulolasXE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453322798857863168/ulolasXE.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930647003779891200/WxAvzCJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930647003779891200/WxAvzCJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12127972/1398229690",
+				"profile_link_color": "52555C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:44:32 +0000 2017",
+		"id": 933360555389276200,
+		"id_str": "933360555389276162",
+		"text": "RT @ELTAdvocacy: #QQIEX\nThere are teachers in Irish #ELT schools who face (and have lived through) homelessness so that school owners can k…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QQIEX",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 00:14:54 +0000 2017",
+			"id": 933126609170608100,
+			"id_str": "933126609170608128",
+			"text": "#QQIEX\nThere are teachers in Irish #ELT schools who face (and have lived through) homelessness so that school owner… https://t.co/vKqFaz5BHR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "QQIEX",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "ELT",
+						"indices": [
+							35,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vKqFaz5BHR",
+						"expanded_url": "https://twitter.com/i/web/status/933126609170608128",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933121623942729700,
+			"quoted_status_id_str": "933121623942729729",
+			"quoted_status": {
+				"created_at": "Tue Nov 21 23:55:06 +0000 2017",
+				"id": 933121623942729700,
+				"id_str": "933121623942729729",
+				"text": "The life expectancy of a homeless woman in Dublin is 38. It's 42 for a homeless man. As a society we can and we sho… https://t.co/gEHjd7PNPI",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/gEHjd7PNPI",
+							"expanded_url": "https://twitter.com/i/web/status/933121623942729729",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 44613011,
+					"id_str": "44613011",
+					"name": "David Gibney",
+					"screen_name": "davegibney",
+					"location": "Dublin City, Ireland",
+					"description": "Communicator. @MandateTU and @Right2WaterIRL #Equality Opinions are my own and not (necessarily) the views of my employer",
+					"url": "https://t.co/yvjw9hrYir",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yvjw9hrYir",
+									"expanded_url": "http://www.mandate.ie",
+									"display_url": "mandate.ie",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1687,
+					"friends_count": 1459,
+					"listed_count": 14,
+					"created_at": "Thu Jun 04 13:19:50 +0000 2009",
+					"favourites_count": 982,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3230,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/715139005831098368/nXgTLM8g_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/715139005831098368/nXgTLM8g_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/44613011/1434818170",
+					"profile_link_color": "4A913C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 62,
+				"favorite_count": 102,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933121623942729700,
+		"quoted_status_id_str": "933121623942729729",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:44:07 +0000 2017",
+		"id": 933360452633022500,
+		"id_str": "933360452633022466",
+		"text": "RT @ELTAdvocacy: \"Quality\" is important, unless you're talking about teacher's lives #nothingtoseehere \n\n#QQIEX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nothingtoseehere",
+					"indices": [
+						85,
+						102
+					]
+				},
+				{
+					"text": "QQIEX",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 09:27:16 +0000 2017",
+			"id": 933265615950712800,
+			"id_str": "933265615950712833",
+			"text": "\"Quality\" is important, unless you're talking about teacher's lives #nothingtoseehere \n\n#QQIEX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nothingtoseehere",
+						"indices": [
+							68,
+							85
+						]
+					},
+					{
+						"text": "QQIEX",
+						"indices": [
+							88,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:42:35 +0000 2017",
+		"id": 933360068212478000,
+		"id_str": "933360068212477952",
+		"text": "RT @ELTAdvocacy: How many dedicated teachers will be unable to attend today's conference? The message is clear: the majority of English lan…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 09:14:20 +0000 2017",
+			"id": 933262358742319100,
+			"id_str": "933262358742319104",
+			"text": "How many dedicated teachers will be unable to attend today's conference? The message is clear: the majority of Engl… https://t.co/5SMiPArZM6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5SMiPArZM6",
+						"expanded_url": "https://twitter.com/i/web/status/933262358742319104",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:41:34 +0000 2017",
+		"id": 933359812284477400,
+		"id_str": "933359812284477440",
+		"text": "RT @ELTAdvocacy: Ignoring the precarious position of English language teachers does a huge disservice to the dedicated professionals being…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 09:12:19 +0000 2017",
+			"id": 933261852355715100,
+			"id_str": "933261852355715072",
+			"text": "Ignoring the precarious position of English language teachers does a huge disservice to the dedicated professionals… https://t.co/k1L6pcoR4f",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k1L6pcoR4f",
+						"expanded_url": "https://twitter.com/i/web/status/933261852355715072",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:39:45 +0000 2017",
+		"id": 933359353113038800,
+		"id_str": "933359353113038848",
+		"text": "RT @ELTAdvocacy: How can a discussion on the \"management of learning, teaching and assessment\" take place without a proportional representa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 09:25:43 +0000 2017",
+			"id": 933265223007404000,
+			"id_str": "933265223007404034",
+			"text": "How can a discussion on the \"management of learning, teaching and assessment\" take place without a proportional rep… https://t.co/irifcUYWKw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/irifcUYWKw",
+						"expanded_url": "https://twitter.com/i/web/status/933265223007404034",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:39:32 +0000 2017",
+		"id": 933359300554129400,
+		"id_str": "933359300554129409",
+		"text": "RT @ELTAdvocacy: Don't let the glitz of these events distract you from the real issues in ELT in Ireland. Teachers are working themselves i…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 09:34:05 +0000 2017",
+			"id": 933267328858333200,
+			"id_str": "933267328858333184",
+			"text": "Don't let the glitz of these events distract you from the real issues in ELT in Ireland. Teachers are working thems… https://t.co/f7ByC6OboC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/f7ByC6OboC",
+						"expanded_url": "https://twitter.com/i/web/status/933267328858333184",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 780,
+				"listed_count": 24,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 22 15:39:05 +0000 2017",
+		"id": 933359186812870700,
+		"id_str": "933359186812870657",
+		"text": "RT @11thhourspecial: @taw_sig @ELTAdvocacy @muranava @josipa74 @eilymurphy https://t.co/7EfPRmXICg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulw",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"screen_name": "eilymurphy",
+					"name": "Eily Murphy",
+					"id": 111091623,
+					"id_str": "111091623",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7EfPRmXICg",
+					"expanded_url": "https://twitter.com/TEFLology/status/933297769447440385",
+					"display_url": "twitter.com/TEFLology/stat…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 884,
+			"listed_count": 99,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7542,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1860,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 11:45:05 +0000 2017",
+			"id": 933300298998616000,
+			"id_str": "933300298998616064",
+			"text": "@taw_sig @ELTAdvocacy @muranava @josipa74 @eilymurphy https://t.co/7EfPRmXICg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "taw_sig",
+						"name": "teachers_as_workers",
+						"id": 3152637711,
+						"id_str": "3152637711",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"screen_name": "ELTAdvocacy",
+						"name": "ELT ADVOCACY Ireland",
+						"id": 712775553821048800,
+						"id_str": "712775553821048832",
+						"indices": [
+							9,
+							21
+						]
+					},
+					{
+						"screen_name": "muranava",
+						"name": "Mura Nava",
+						"id": 18602422,
+						"id_str": "18602422",
+						"indices": [
+							22,
+							31
+						]
+					},
+					{
+						"screen_name": "josipa74",
+						"name": "paulw",
+						"id": 134211317,
+						"id_str": "134211317",
+						"indices": [
+							32,
+							41
+						]
+					},
+					{
+						"screen_name": "eilymurphy",
+						"name": "Eily Murphy",
+						"id": 111091623,
+						"id_str": "111091623",
+						"indices": [
+							42,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7EfPRmXICg",
+						"expanded_url": "https://twitter.com/TEFLology/status/933297769447440385",
+						"display_url": "twitter.com/TEFLology/stat…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3152637711,
+			"in_reply_to_user_id_str": "3152637711",
+			"in_reply_to_screen_name": "taw_sig",
+			"user": {
+				"id": 903200845671440400,
+				"id_str": "903200845671440384",
+				"name": "Marc",
+				"screen_name": "11thhourspecial",
+				"location": "Japan",
+				"description": "English teacher @ unis & schools. 日本語を勉強する。. MA TESOL & AL, DipTESOL. 👂🗣️👄 #TBLTchat. Unrepentant curmudgeon.",
+				"url": "https://t.co/dUTHMMIu8B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dUTHMMIu8B",
+								"expanded_url": "http://freelanceteacherselfdevelopment.wordpress.com",
+								"display_url": "…eteacherselfdevelopment.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 286,
+				"listed_count": 3,
+				"created_at": "Thu Aug 31 10:20:37 +0000 2017",
+				"favourites_count": 1521,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1946,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924773485448069120/XoSJksjn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924773485448069120/XoSJksjn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933297769447440400,
+			"quoted_status_id_str": "933297769447440385",
+			"quoted_status": {
+				"created_at": "Wed Nov 22 11:35:02 +0000 2017",
+				"id": 933297769447440400,
+				"id_str": "933297769447440385",
+				"text": "EPISODE 69 - Working Conditions, Learning Styles, &amp; The British Council. LISTEN HERE!! #ELTIreland #taw_sig #VAKoff… https://t.co/6mQfhmMm0I",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ELTIreland",
+							"indices": [
+								91,
+								102
+							]
+						},
+						{
+							"text": "taw_sig",
+							"indices": [
+								103,
+								111
+							]
+						},
+						{
+							"text": "VAKoff",
+							"indices": [
+								112,
+								119
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6mQfhmMm0I",
+							"expanded_url": "https://twitter.com/i/web/status/933297769447440385",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://libsyn.com/3/\" rel=\"nofollow\">Libsyn On-Publish</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2882870444,
+					"id_str": "2882870444",
+					"name": "TEFLology Podcast",
+					"screen_name": "TEFLology",
+					"location": "Tokyo, Japan",
+					"description": "The TEFLology Podcast is a bi-weekly show all about teaching English as a foreign language and related matters, presented by three self-certified TEFLologists.",
+					"url": "https://t.co/Z2J00NI31M",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Z2J00NI31M",
+									"expanded_url": "http://teflology-podcast.com",
+									"display_url": "teflology-podcast.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1412,
+					"friends_count": 321,
+					"listed_count": 58,
+					"created_at": "Thu Oct 30 03:54:50 +0000 2014",
+					"favourites_count": 289,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1265,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/606460508749709312/0VO6Iy7n_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/606460508749709312/0VO6Iy7n_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2882870444/1508501675",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933297769447440400,
+		"quoted_status_id_str": "933297769447440385",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Nov 21 21:26:21 +0000 2017",
 		"id": 933084191574675500,
 		"id_str": "933084191574675458",
