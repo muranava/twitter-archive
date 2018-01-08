@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 20:55:51 +0000 2018",
+		"id": 950108744129695700,
+		"id_str": "950108744129695744",
+		"text": "RT @ElliotMurphy91: Scientific knowledge is drowning in a flood of research &gt;&gt; terrific comic by @matteofarinella https://t.co/Sgd93QewLF…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElliotMurphy91",
+					"name": "Elliot Murphy",
+					"id": 3293920042,
+					"id_str": "3293920042",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "matteofarinella",
+					"name": "Matteo Farinella",
+					"id": 45704206,
+					"id_str": "45704206",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sgd93QewLF",
+					"expanded_url": "https://massivesci.com/articles/chaos-in-the-brickyard-comic-matteo-farinella/",
+					"display_url": "massivesci.com/articles/chaos…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 901,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7961,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 12:55:55 +0000 2018",
+			"id": 949987965626875900,
+			"id_str": "949987965626875905",
+			"text": "Scientific knowledge is drowning in a flood of research &gt;&gt; terrific comic by @matteofarinella… https://t.co/hWrd7ZUMhc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "matteofarinella",
+						"name": "Matteo Farinella",
+						"id": 45704206,
+						"id_str": "45704206",
+						"indices": [
+							83,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hWrd7ZUMhc",
+						"expanded_url": "https://twitter.com/i/web/status/949987965626875905",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3293920042,
+				"id_str": "3293920042",
+				"name": "Elliot Murphy",
+				"screen_name": "ElliotMurphy91",
+				"location": "London via Liverpool",
+				"description": "PhD @UCL | Visiting Lecturer @UniWestminster | @MSF rep | Books: Unmaking Merlin, Principles of Language Evolution (forthcom.) | @openDemocracy @NatCounterPunch",
+				"url": "https://t.co/dVjonbUU3R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dVjonbUU3R",
+								"expanded_url": "http://ucl.academia.edu/ElliotMurphy",
+								"display_url": "ucl.academia.edu/ElliotMurphy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6229,
+				"friends_count": 2406,
+				"listed_count": 21,
+				"created_at": "Fri May 22 10:28:18 +0000 2015",
+				"favourites_count": 4192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5097,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913743972677439488/n3fs8I_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913743972677439488/n3fs8I_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3293920042/1454988190",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 07 20:51:19 +0000 2018",
+		"id": 950107603710939100,
+		"id_str": "950107603710939138",
+		"text": "RT @PlashingVole: Highly recommended summary of the gravy train that is state-funded politically-connected ‘charity’. https://t.co/WobCuKqt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PlashingVole",
+					"name": "Plashing Vole",
+					"id": 221104268,
+					"id_str": "221104268",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 901,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7961,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 07 18:21:13 +0000 2018",
+			"id": 950069830530601000,
+			"id_str": "950069830530600961",
+			"text": "Highly recommended summary of the gravy train that is state-funded politically-connected ‘charity’. https://t.co/WobCuKqtSb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WobCuKqtSb",
+						"expanded_url": "https://twitter.com/milesking10/status/950038430527971331",
+						"display_url": "twitter.com/milesking10/st…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 221104268,
+				"id_str": "221104268",
+				"name": "Plashing Vole",
+				"screen_name": "PlashingVole",
+				"location": "The land of pork scratchings",
+				"description": "'Snaggle-toothed lefty academic in corduroy'. Fencer. Welsh literature researcher. Moultoneer. Jointly @awwetweets + @wlv_English.",
+				"url": "https://t.co/E7cF0vOwjg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7cF0vOwjg",
+								"expanded_url": "http://plashingvole.blogspot.com",
+								"display_url": "plashingvole.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5665,
+				"friends_count": 4473,
+				"listed_count": 154,
+				"created_at": "Mon Nov 29 19:11:25 +0000 2010",
+				"favourites_count": 1356,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78863,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1233871741/Reader_cropped.JPG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233871741/Reader_cropped.JPG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/221104268/1425662642",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950038430527971300,
+			"quoted_status_id_str": "950038430527971331",
+			"quoted_status": {
+				"created_at": "Sun Jan 07 16:16:27 +0000 2018",
+				"id": 950038430527971300,
+				"id_str": "950038430527971331",
+				"text": "1/ while we can all be appalled by Toby Young's offensive tweets; let's look at the New  Schools Network, where he… https://t.co/0heZGLBPcs",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/0heZGLBPcs",
+							"expanded_url": "https://twitter.com/i/web/status/950038430527971331",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 784843771,
+					"id_str": "784843771",
+					"name": "Miles King",
+					"screen_name": "MilesKing10",
+					"location": "Dorset",
+					"description": "Nature, people, politics, writing. Views here my own. RT/Fav ≠ endorsement. Personal account. I also work for @peoplneednature & write for @LushTimesEN",
+					"url": "https://t.co/BuvHpNfUe9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/BuvHpNfUe9",
+									"expanded_url": "http://anewnatureblog.wordpress.com",
+									"display_url": "anewnatureblog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5974,
+					"friends_count": 4116,
+					"listed_count": 134,
+					"created_at": "Mon Aug 27 14:59:44 +0000 2012",
+					"favourites_count": 8370,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 35507,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ABB8C2",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589401277752160257/TmhQKxuj.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589401277752160257/TmhQKxuj.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/933023390239215616/WA7RTuxI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/933023390239215616/WA7RTuxI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/784843771/1511285351",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 481,
+				"favorite_count": 342,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 14,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950038430527971300,
+		"quoted_status_id_str": "950038430527971331",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 06 23:18:25 +0000 2018",
 		"id": 949782233325473800,
 		"id_str": "949782233325473793",
