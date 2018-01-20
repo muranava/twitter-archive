@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 19 17:40:06 +0000 2018",
+		"id": 954408137293000700,
+		"id_str": "954408137293000704",
+		"text": "RT @adamjohnsonNYC: congrats on a great first year of the Trump admin! https://t.co/U3KE6pJPdJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamjohnsonNYC",
+					"name": "Adam H. Johnson",
+					"id": 756331316,
+					"id_str": "756331316",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 954402449548169200,
+					"id_str": "954402449548169216",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+					"url": "https://t.co/U3KE6pJPdJ",
+					"display_url": "pic.twitter.com/U3KE6pJPdJ",
+					"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 753,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 753,
+							"h": 528,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954402738229653500,
+					"source_status_id_str": "954402738229653504",
+					"source_user_id": 756331316,
+					"source_user_id_str": "756331316"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 954402449548169200,
+					"id_str": "954402449548169216",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+					"url": "https://t.co/U3KE6pJPdJ",
+					"display_url": "pic.twitter.com/U3KE6pJPdJ",
+					"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 753,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 753,
+							"h": 528,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954402738229653500,
+					"source_status_id_str": "954402738229653504",
+					"source_user_id": 756331316,
+					"source_user_id_str": "756331316"
+				},
+				{
+					"id": 954402558742687700,
+					"id_str": "954402558742687744",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT64Eg6U8AA3y4L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT64Eg6U8AA3y4L.jpg",
+					"url": "https://t.co/U3KE6pJPdJ",
+					"display_url": "pic.twitter.com/U3KE6pJPdJ",
+					"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954402738229653500,
+					"source_status_id_str": "954402738229653504",
+					"source_user_id": 756331316,
+					"source_user_id_str": "756331316"
+				},
+				{
+					"id": 954402613197353000,
+					"id_str": "954402613197352960",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT64HrxVMAADKvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT64HrxVMAADKvh.jpg",
+					"url": "https://t.co/U3KE6pJPdJ",
+					"display_url": "pic.twitter.com/U3KE6pJPdJ",
+					"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 747,
+							"h": 520,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 747,
+							"h": 520,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954402738229653500,
+					"source_status_id_str": "954402738229653504",
+					"source_user_id": 756331316,
+					"source_user_id_str": "756331316"
+				},
+				{
+					"id": 954402667022843900,
+					"id_str": "954402667022843904",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DT64K0SVAAAFzb0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DT64K0SVAAAFzb0.jpg",
+					"url": "https://t.co/U3KE6pJPdJ",
+					"display_url": "pic.twitter.com/U3KE6pJPdJ",
+					"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 756,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 756,
+							"h": 511,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 954402738229653500,
+					"source_status_id_str": "954402738229653504",
+					"source_user_id": 756331316,
+					"source_user_id_str": "756331316"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1517,
+			"friends_count": 904,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8005,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 19 17:18:39 +0000 2018",
+			"id": 954402738229653500,
+			"id_str": "954402738229653504",
+			"text": "congrats on a great first year of the Trump admin! https://t.co/U3KE6pJPdJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 954402449548169200,
+						"id_str": "954402449548169216",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+						"url": "https://t.co/U3KE6pJPdJ",
+						"display_url": "pic.twitter.com/U3KE6pJPdJ",
+						"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 753,
+								"h": 528,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 753,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 954402449548169200,
+						"id_str": "954402449548169216",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT63-KIU0AAYId9.jpg",
+						"url": "https://t.co/U3KE6pJPdJ",
+						"display_url": "pic.twitter.com/U3KE6pJPdJ",
+						"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 753,
+								"h": 528,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 753,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 954402558742687700,
+						"id_str": "954402558742687744",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DT64Eg6U8AA3y4L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT64Eg6U8AA3y4L.jpg",
+						"url": "https://t.co/U3KE6pJPdJ",
+						"display_url": "pic.twitter.com/U3KE6pJPdJ",
+						"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 740,
+								"h": 563,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 563,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 954402613197353000,
+						"id_str": "954402613197352960",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DT64HrxVMAADKvh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT64HrxVMAADKvh.jpg",
+						"url": "https://t.co/U3KE6pJPdJ",
+						"display_url": "pic.twitter.com/U3KE6pJPdJ",
+						"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 747,
+								"h": 520,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 747,
+								"h": 520,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 954402667022843900,
+						"id_str": "954402667022843904",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DT64K0SVAAAFzb0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DT64K0SVAAAFzb0.jpg",
+						"url": "https://t.co/U3KE6pJPdJ",
+						"display_url": "pic.twitter.com/U3KE6pJPdJ",
+						"expanded_url": "https://twitter.com/adamjohnsonNYC/status/954402738229653504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 756,
+								"h": 511,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 756,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 954401764257779700,
+			"in_reply_to_status_id_str": "954401764257779716",
+			"in_reply_to_user_id": 756331316,
+			"in_reply_to_user_id_str": "756331316",
+			"in_reply_to_screen_name": "adamjohnsonNYC",
+			"user": {
+				"id": 756331316,
+				"id_str": "756331316",
+				"name": "Adam H. Johnson",
+				"screen_name": "adamjohnsonNYC",
+				"location": "",
+				"description": "write at @fairmediawatch sometimes @latimes, co-host @citationspod",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65153,
+				"friends_count": 1108,
+				"listed_count": 1408,
+				"created_at": "Tue Aug 14 02:56:06 +0000 2012",
+				"favourites_count": 25447,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 85783,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690838594/4afc430c2472fdc17c8da6ed63689d4e.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690838594/4afc430c2472fdc17c8da6ed63689d4e.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905635127518265344/oIQQYRLG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905635127518265344/oIQQYRLG_normal.jpg",
+				"profile_link_color": "23316F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0D3B3",
+				"profile_text_color": "CC9672",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 114,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 19 13:55:55 +0000 2018",
+		"id": 954351718334128100,
+		"id_str": "954351718334128128",
+		"text": "RT @TheRoot: If you know anything about #TheHandmaidsTale, Margaret Atwood's white feminist comments or her appropriation of “bad feminist”…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheHandmaidsTale",
+					"indices": [
+						40,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRoot",
+					"name": "The Root",
+					"id": 23995748,
+					"id_str": "23995748",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1517,
+			"friends_count": 904,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8005,
+			"utc_offset": 3600,
+			"time_zone": "Paris",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440396296/x313aee179c45c82dcc6049a99fa0551.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 18 15:31:59 +0000 2018",
+			"id": 954013506692681700,
+			"id_str": "954013506692681728",
+			"text": "If you know anything about #TheHandmaidsTale, Margaret Atwood's white feminist comments or her appropriation of “ba… https://t.co/NvdNU1UIxI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheHandmaidsTale",
+						"indices": [
+							27,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NvdNU1UIxI",
+						"expanded_url": "https://twitter.com/i/web/status/954013506692681728",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23995748,
+				"id_str": "23995748",
+				"name": "The Root",
+				"screen_name": "TheRoot",
+				"location": "New York, NY",
+				"description": "The Root is a digital magazine that provides thought-provoking commentary and news from a variety of black perspectives.",
+				"url": "https://t.co/jiZkc7jNmo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jiZkc7jNmo",
+								"expanded_url": "http://www.theroot.com",
+								"display_url": "theroot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 409424,
+				"friends_count": 14625,
+				"listed_count": 5393,
+				"created_at": "Thu Mar 12 18:09:36 +0000 2009",
+				"favourites_count": 5108,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 103003,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/653599076605296640/Krs0_KIV.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/653599076605296640/Krs0_KIV.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870966283994619904/20iZZmLM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870966283994619904/20iZZmLM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23995748/1505765600",
+				"profile_link_color": "569918",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 19 00:07:48 +0000 2018",
 		"id": 954143317373194200,
 		"id_str": "954143317373194240",
