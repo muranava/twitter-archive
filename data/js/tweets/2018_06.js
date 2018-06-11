@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 10 22:07:19 +0000 2018",
+		"id": 1005934462851539000,
+		"id_str": "1005934462851538945",
+		"text": "RT @ELTAdvocacy: @laIoli @thornburyscott @Harmerjelt @ChrisPatrickF @BenBeaumont9 @EAP_in_Ireland @ELTIreland @cecilianobreelt @NicolaPrent…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "laIoli",
+					"name": "Silvana Richardson",
+					"id": 35592736,
+					"id_str": "35592736",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "thornburyscott",
+					"name": "Scott Thornbury",
+					"id": 23090474,
+					"id_str": "23090474",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "Harmerjelt",
+					"name": "Jeremy Harmer",
+					"id": 2382522692,
+					"id_str": "2382522692",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "ChrisPatrickF",
+					"name": "Chris Farrell",
+					"id": 3165431237,
+					"id_str": "3165431237",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"screen_name": "BenBeaumont9",
+					"name": "Ben Beaumont",
+					"id": 701094552027983900,
+					"id_str": "701094552027983873",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "EAP_in_Ireland",
+					"name": "EAP in Ireland",
+					"id": 917352653671288800,
+					"id_str": "917352653671288834",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "cecilianobreelt",
+					"name": "Cecilia Nobre",
+					"id": 756964220508446700,
+					"id_str": "756964220508446720",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 951,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 10 15:00:13 +0000 2018",
+			"id": 1005826979621425200,
+			"id_str": "1005826979621425152",
+			"text": "@laIoli @thornburyscott @Harmerjelt @ChrisPatrickF @BenBeaumont9 @EAP_in_Ireland @ELTIreland @cecilianobreelt… https://t.co/IuWEZ0dJpP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "laIoli",
+						"name": "Silvana Richardson",
+						"id": 35592736,
+						"id_str": "35592736",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "thornburyscott",
+						"name": "Scott Thornbury",
+						"id": 23090474,
+						"id_str": "23090474",
+						"indices": [
+							8,
+							23
+						]
+					},
+					{
+						"screen_name": "Harmerjelt",
+						"name": "Jeremy Harmer",
+						"id": 2382522692,
+						"id_str": "2382522692",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"screen_name": "ChrisPatrickF",
+						"name": "Chris Farrell",
+						"id": 3165431237,
+						"id_str": "3165431237",
+						"indices": [
+							36,
+							50
+						]
+					},
+					{
+						"screen_name": "BenBeaumont9",
+						"name": "Ben Beaumont",
+						"id": 701094552027983900,
+						"id_str": "701094552027983873",
+						"indices": [
+							51,
+							64
+						]
+					},
+					{
+						"screen_name": "EAP_in_Ireland",
+						"name": "EAP in Ireland",
+						"id": 917352653671288800,
+						"id_str": "917352653671288834",
+						"indices": [
+							65,
+							80
+						]
+					},
+					{
+						"screen_name": "ELTIreland",
+						"name": "ELT IRELAND",
+						"id": 2289260958,
+						"id_str": "2289260958",
+						"indices": [
+							81,
+							92
+						]
+					},
+					{
+						"screen_name": "cecilianobreelt",
+						"name": "Cecilia Nobre",
+						"id": 756964220508446700,
+						"id_str": "756964220508446720",
+						"indices": [
+							93,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IuWEZ0dJpP",
+						"expanded_url": "https://twitter.com/i/web/status/1005826979621425152",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 35592736,
+			"in_reply_to_user_id_str": "35592736",
+			"in_reply_to_screen_name": "laIoli",
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 777,
+				"friends_count": 886,
+				"listed_count": 23,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 2490,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2168,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1005822837700120600,
+			"quoted_status_id_str": "1005822837700120576",
+			"quoted_status": {
+				"created_at": "Sun Jun 10 14:43:46 +0000 2018",
+				"id": 1005822837700120600,
+				"id_str": "1005822837700120576",
+				"text": "Here's how you organize a difficult industry: those at the top use their clout to help everyone else. If you're a m… https://t.co/ZDBADUG84Q",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ZDBADUG84Q",
+							"expanded_url": "https://twitter.com/i/web/status/1005822837700120576",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 123545062,
+					"id_str": "123545062",
+					"name": "Hamilton Nolan",
+					"screen_name": "hamiltonnolan",
+					"location": "",
+					"description": "RIP Gawker. \nEmail: Hamilton at https://t.co/eNZY3mmUJM",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/eNZY3mmUJM",
+									"expanded_url": "http://SplinterNews.com",
+									"display_url": "SplinterNews.com",
+									"indices": [
+										32,
+										55
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 27013,
+					"friends_count": 114,
+					"listed_count": 560,
+					"created_at": "Tue Mar 16 12:24:41 +0000 2010",
+					"favourites_count": 1158,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5553,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/756519138/gatorgrill_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/756519138/gatorgrill_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 99,
+				"favorite_count": 379,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1005822837700120600,
+		"quoted_status_id_str": "1005822837700120576",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Jun 10 00:55:04 +0000 2018",
 		"id": 1005614288793370600,
 		"id_str": "1005614288793370626",
