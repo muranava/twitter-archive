@@ -1,6 +1,1231 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 23:52:11 +0000 2018",
+		"id": 1006323238958456800,
+		"id_str": "1006323238958456832",
+		"text": "@josipa74 dunno about judges but previous eltons use a variant of Delphi technique (pdf) https://t.co/IPwasJoKyq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josipa74",
+					"name": "paulw",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IPwasJoKyq",
+					"expanded_url": "https://englishagenda.britishcouncil.org/sites/default/files/attachments/eltons_2017_delphi_technique_0.pdf",
+					"display_url": "englishagenda.britishcouncil.org/sites/default/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1006307450302148600,
+		"in_reply_to_status_id_str": "1006307450302148608",
+		"in_reply_to_user_id": 134211317,
+		"in_reply_to_user_id_str": "134211317",
+		"in_reply_to_screen_name": "josipa74",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 949,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 11 22:43:21 +0000 2018",
+		"id": 1006305916709457900,
+		"id_str": "1006305916709457920",
+		"text": "#newsgrammar https://t.co/RYDIZnH7Y4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "newsgrammar",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RYDIZnH7Y4",
+					"expanded_url": "https://twitter.com/FromSteveHowell/status/1006056175379632128",
+					"display_url": "twitter.com/FromSteveHowel…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 949,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1006056175379632100,
+		"quoted_status_id_str": "1006056175379632128",
+		"quoted_status": {
+			"created_at": "Mon Jun 11 06:10:58 +0000 2018",
+			"id": 1006056175379632100,
+			"id_str": "1006056175379632128",
+			"text": "1/ Observer wants Corbyn to explain how replacing 'the' with 'a' customs union \"will make Britons...more in charge… https://t.co/hyG5ZoLDvT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hyG5ZoLDvT",
+						"expanded_url": "https://twitter.com/i/web/status/1006056175379632128",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22754724,
+				"id_str": "22754724",
+				"name": "Steve Howell",
+				"screen_name": "FromSteveHowell",
+				"location": "Cardiff, Wales",
+				"description": "#Journalist #Comms Former adviser to Jeremy Corbyn. Author: Game Changer - story of Labour's 2017 general election campaign. See: https://t.co/2MOzO2SMWK #LFC",
+				"url": "https://t.co/CJAfECV2V4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CJAfECV2V4",
+								"expanded_url": "http://www.steve-howell.com",
+								"display_url": "steve-howell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2MOzO2SMWK",
+								"expanded_url": "https://amzn.to/2Htdwr9",
+								"display_url": "amzn.to/2Htdwr9",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5234,
+				"friends_count": 2785,
+				"listed_count": 144,
+				"created_at": "Wed Mar 04 10:16:36 +0000 2009",
+				"favourites_count": 4212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18273,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2C2C2C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871394757846675456/JgOwp7l6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871394757846675456/JgOwp7l6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22754724/1523870287",
+				"profile_link_color": "B30900",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 11 20:07:10 +0000 2018",
+		"id": 1006266613904048100,
+		"id_str": "1006266613904048128",
+		"text": "RT @SLBCoop: New on the SLB blog in collaboration with @taw_sig - https://t.co/MojSU02PeO #ELT #workers #rights",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "workers",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "rights",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MojSU02PeO",
+					"expanded_url": "http://www.slb.coop/divided-unions-continuing-precarity-spains-teachers/",
+					"display_url": "slb.coop/divided-unions…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 949,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 19:51:11 +0000 2018",
+			"id": 1006262588643119100,
+			"id_str": "1006262588643119105",
+			"text": "New on the SLB blog in collaboration with @taw_sig - https://t.co/MojSU02PeO #ELT #workers #rights",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELT",
+						"indices": [
+							77,
+							81
+						]
+					},
+					{
+						"text": "workers",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"text": "rights",
+						"indices": [
+							91,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "taw_sig",
+						"name": "teachers_as_workers",
+						"id": 3152637711,
+						"id_str": "3152637711",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MojSU02PeO",
+						"expanded_url": "http://www.slb.coop/divided-unions-continuing-precarity-spains-teachers/",
+						"display_url": "slb.coop/divided-unions…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365399801,
+				"id_str": "2365399801",
+				"name": "Serveis Lingüístics",
+				"screen_name": "SLBCoop",
+				"location": "Barcelona, Catalunya, Espanya",
+				"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+				"url": "http://t.co/dZs8BQd1eH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dZs8BQd1eH",
+								"expanded_url": "http://slb.coop/",
+								"display_url": "slb.coop",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 795,
+				"friends_count": 777,
+				"listed_count": 40,
+				"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+				"favourites_count": 1162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1759,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 11 19:57:14 +0000 2018",
+		"id": 1006264113830514700,
+		"id_str": "1006264113830514689",
+		"text": "RT @ELTAdvocacy: Infomative and enlightening article on why working in #ELT is so hard to keep doing abroad. If you train On the #CELT or #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "CELT",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 949,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 19:56:03 +0000 2018",
+			"id": 1006263813228949500,
+			"id_str": "1006263813228949509",
+			"text": "Infomative and enlightening article on why working in #ELT is so hard to keep doing abroad. If you train On the… https://t.co/1X8sGOUcBM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELT",
+						"indices": [
+							54,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1X8sGOUcBM",
+						"expanded_url": "https://twitter.com/i/web/status/1006263813228949509",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712775553821048800,
+				"id_str": "712775553821048832",
+				"name": "ELT ADVOCACY Ireland",
+				"screen_name": "ELTAdvocacy",
+				"location": "Dublin City, Ireland",
+				"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+				"url": "https://t.co/OYbngXgD9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYbngXgD9e",
+								"expanded_url": "https://eltadvocacy.wordpress.com/",
+								"display_url": "eltadvocacy.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 781,
+				"friends_count": 887,
+				"listed_count": 23,
+				"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+				"favourites_count": 2495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2172,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F58EA8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+				"profile_link_color": "35A891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1006258114436501500,
+			"quoted_status_id_str": "1006258114436501504",
+			"quoted_status": {
+				"created_at": "Mon Jun 11 19:33:24 +0000 2018",
+				"id": 1006258114436501500,
+				"id_str": "1006258114436501504",
+				"text": "Divided unions, continuing precarity for Spain’s teachers https://t.co/aI5Xex5rMn https://t.co/Yz6EiyznIf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/aI5Xex5rMn",
+							"expanded_url": "http://www.teachersasworkers.org/divided-unions-continuing-precarity-for-spains-teachers/",
+							"display_url": "teachersasworkers.org/divided-unions…",
+							"indices": [
+								58,
+								81
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1006258112469188600,
+							"id_str": "1006258112469188608",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/DfbybAIUwAAfw24.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DfbybAIUwAAfw24.jpg",
+							"url": "https://t.co/Yz6EiyznIf",
+							"display_url": "pic.twitter.com/Yz6EiyznIf",
+							"expanded_url": "https://twitter.com/taw_sig/status/1006258114436501504/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1006258112469188600,
+							"id_str": "1006258112469188608",
+							"indices": [
+								82,
+								105
+							],
+							"media_url": "http://pbs.twimg.com/media/DfbybAIUwAAfw24.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DfbybAIUwAAfw24.jpg",
+							"url": "https://t.co/Yz6EiyznIf",
+							"display_url": "pic.twitter.com/Yz6EiyznIf",
+							"expanded_url": "https://twitter.com/taw_sig/status/1006258114436501504/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 640,
+									"h": 480,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"name": "teachers_as_workers",
+					"screen_name": "taw_sig",
+					"location": "everywhere",
+					"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+					"url": "https://t.co/m5fCLqrXgN",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/m5fCLqrXgN",
+									"expanded_url": "http://www.teachersasworkers.org",
+									"display_url": "teachersasworkers.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1367,
+					"friends_count": 1063,
+					"listed_count": 24,
+					"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+					"favourites_count": 274,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1442,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+					"profile_link_color": "9266CC",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1006258114436501500,
+		"quoted_status_id_str": "1006258114436501504",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 11 15:41:57 +0000 2018",
+		"id": 1006199868799451100,
+		"id_str": "1006199868799451137",
+		"text": "@whyshona @AFLApplique Thx for heads up! will have a look",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whyshona",
+					"name": "Shona Whyte",
+					"id": 121063600,
+					"id_str": "121063600",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AFLApplique",
+					"name": "AFLAapplique",
+					"id": 836847097244713000,
+					"id_str": "836847097244712960",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1006128066760933400,
+		"in_reply_to_status_id_str": "1006128066760933376",
+		"in_reply_to_user_id": 121063600,
+		"in_reply_to_user_id_str": "121063600",
+		"in_reply_to_screen_name": "whyshona",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 949,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 6435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 10 22:07:19 +0000 2018",
 		"id": 1005934462851539000,
 		"id_str": "1005934462851538945",
