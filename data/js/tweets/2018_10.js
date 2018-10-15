@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 19:52:44 +0000 2018",
+		"id": 1051561461712134100,
+		"id_str": "1051561461712134149",
+		"full_text": "@RacAgain somewhat different associations of linguist in 1920s according to Google n-grams : ) https://t.co/RwzTpGbKdk",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacAgain",
+					"name": "Rachele",
+					"id": 17202935,
+					"id_str": "17202935",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051560697094709200,
+					"id_str": "1051560697094709248",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpfk4fIXoAAvbp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpfk4fIXoAAvbp8.jpg",
+					"url": "https://t.co/RwzTpGbKdk",
+					"display_url": "pic.twitter.com/RwzTpGbKdk",
+					"expanded_url": "https://twitter.com/muranava/status/1051561461712134149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051560697094709200,
+					"id_str": "1051560697094709248",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpfk4fIXoAAvbp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpfk4fIXoAAvbp8.jpg",
+					"url": "https://t.co/RwzTpGbKdk",
+					"display_url": "pic.twitter.com/RwzTpGbKdk",
+					"expanded_url": "https://twitter.com/muranava/status/1051561461712134149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051378111609299000,
+		"in_reply_to_status_id_str": "1051378111609298944",
+		"in_reply_to_user_id": 17202935,
+		"in_reply_to_user_id_str": "17202935",
+		"in_reply_to_screen_name": "RacAgain",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1710,
+			"friends_count": 897,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1148,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RacAgain somewhat different associations of linguist in 1920s according to Google n-grams : ) https://t.co/RwzTpGbKdk"
+	},
+	{
+		"created_at": "Sun Oct 14 12:51:59 +0000 2018",
+		"id": 1051455575819575300,
+		"id_str": "1051455575819575297",
+		"full_text": "おい、これ作ったやつ出てこいwww\n耳から離れんわww https://t.co/CiJPyNkJpc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051455430197530600,
+					"id_str": "1051455430197530625",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051455430197530625/pu/img/3gDL_dGMmjOfqe1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051455430197530625/pu/img/3gDL_dGMmjOfqe1r.jpg",
+					"url": "https://t.co/CiJPyNkJpc",
+					"display_url": "pic.twitter.com/CiJPyNkJpc",
+					"expanded_url": "https://twitter.com/8orochiura/status/1051455575819575297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051455430197530600,
+					"id_str": "1051455430197530625",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1051455430197530625/pu/img/3gDL_dGMmjOfqe1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1051455430197530625/pu/img/3gDL_dGMmjOfqe1r.jpg",
+					"url": "https://t.co/CiJPyNkJpc",
+					"display_url": "pic.twitter.com/CiJPyNkJpc",
+					"expanded_url": "https://twitter.com/8orochiura/status/1051455575819575297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 137459,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1051455430197530625/pu/vid/640x360/ZyCi_lgRSTE_QZqx.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1051455430197530625/pu/pl/FxnPm5vQDZAz9fde.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1051455430197530625/pu/vid/320x180/d763STLF1DC6jx5m.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 983250045242720300,
+			"id_str": "983250045242720257",
+			"name": "De Rapi on",
+			"screen_name": "8orochiura",
+			"location": "ウルトラホール",
+			"description": "全国No.452番です 最近ウルトラホールに閉じ込められました。結構多趣味です。フォローされるとカニのように喜びながら返します(多分) TL37 フォロー厨",
+			"url": "https://t.co/bDaZBTUbyN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bDaZBTUbyN",
+							"expanded_url": "https://peing.net/ja/8orochiura?v=1&event=3",
+							"display_url": "peing.net/ja/8orochiura?…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7352,
+			"friends_count": 7968,
+			"listed_count": 19,
+			"created_at": "Mon Apr 09 07:47:33 +0000 2018",
+			"favourites_count": 4375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2305,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989273080596914176/mLJr6_47_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989273080596914176/mLJr6_47_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/983250045242720257/1539421291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48640,
+		"favorite_count": 111811,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "おい、これ作ったやつ出てこいwww\n耳から離れんわww https://t.co/CiJPyNkJpc"
+	},
+	{
 		"created_at": "Sat Oct 13 19:40:05 +0000 2018",
 		"id": 1051195889962893300,
 		"id_str": "1051195889962893313",
