@@ -1,6 +1,1221 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 22:09:35 +0000 2018",
+		"id": 1054495005191094300,
+		"id_str": "1054495005191094272",
+		"full_text": "@Limor_Raviv @ElliotMurphy91 @ColorGame1 @OliverWithAnI @replicatedtypo just had a quick go; seems intriguing though doubt much insight from what seems a novelty communication? is it possible to make a game looking at earlier stage i.e. creation of symbols not given already?",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Limor_Raviv",
+					"name": "Limor Raviv 🐞",
+					"id": 753506894963171300,
+					"id_str": "753506894963171328",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ElliotMurphy91",
+					"name": "Elliot Murphy",
+					"id": 3293920042,
+					"id_str": "3293920042",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "ColorGame1",
+					"name": "ColorGame",
+					"id": 977123222612213800,
+					"id_str": "977123222612213760",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "OliverWithAnI",
+					"name": "Olivier Morin",
+					"id": 922783415690252300,
+					"id_str": "922783415690252289",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "replicatedtypo",
+					"name": "James Winters",
+					"id": 15677536,
+					"id_str": "15677536",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054487662969507800,
+		"in_reply_to_status_id_str": "1054487662969507840",
+		"in_reply_to_user_id": 753506894963171300,
+		"in_reply_to_user_id_str": "753506894963171328",
+		"in_reply_to_screen_name": "Limor_Raviv",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 903,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Limor_Raviv @ElliotMurphy91 @ColorGame1 @OliverWithAnI @replicatedtypo just had a quick go; seems intriguing though doubt much insight from what seems a novelty communication? is it possible to make a game looking at earlier stage i.e. creation of symbols not given already?"
+	},
+	{
+		"created_at": "Mon Oct 22 21:06:18 +0000 2018",
+		"id": 1054479078336749600,
+		"id_str": "1054479078336749569",
+		"full_text": "\"In this future,we’re all being asked to accept that the sticker price of our success is indifference to how things turn out for others.Of course, this isn’t a novelty, and it’s barely a disruption;this is how the demands of profit have needed work to be managed for a long time.\" https://t.co/eVBDserdCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eVBDserdCQ",
+					"expanded_url": "https://twitter.com/KateMfD/status/1038721251991150592",
+					"display_url": "twitter.com/KateMfD/status…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150242940,
+			"id_str": "150242940",
+			"name": "Alberto Bruzos",
+			"screen_name": "abruzos",
+			"location": "Princeton, NJ",
+			"description": "Linguist. Director of the Spanish language program at Princeton University. Critical pedagogy, #digped, teacher education, language ideology.",
+			"url": "http://t.co/l4olxuPKNF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/l4olxuPKNF",
+							"expanded_url": "http://scholar.princeton.edu/abruzos/biocv",
+							"display_url": "scholar.princeton.edu/abruzos/biocv",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1336,
+			"friends_count": 1406,
+			"listed_count": 77,
+			"created_at": "Mon May 31 12:57:43 +0000 2010",
+			"favourites_count": 3937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946606779/aj__normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946606779/aj__normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150242940/1398650319",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1038721251991150600,
+		"quoted_status_id_str": "1038721251991150592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eVBDserdCQ",
+			"expanded": "https://twitter.com/KateMfD/status/1038721251991150592",
+			"display": "twitter.com/KateMfD/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 09 09:30:19 +0000 2018",
+			"id": 1038721251991150600,
+			"id_str": "1038721251991150592",
+			"full_text": "What happens when we talk about university casualisation with our casual worker students? A post for #BCM313. Not my shoes: https://t.co/zpPJ7AF2vb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BCM313",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zpPJ7AF2vb",
+						"expanded_url": "http://musicfordeckchairs.com/blog/2018/09/09/not-my-shoes/",
+						"display_url": "musicfordeckchairs.com/blog/2018/09/0…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 379065166,
+				"id_str": "379065166",
+				"name": "Kate Bowles",
+				"screen_name": "KateMfD",
+				"location": "Australia",
+				"description": "'An actual ray of sunshine’: universities, students, health and the future of work. #dayjob Associate Dean International",
+				"url": "https://t.co/KzA0oHPvgz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KzA0oHPvgz",
+								"expanded_url": "http://musicfordeckchairs.com",
+								"display_url": "musicfordeckchairs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3810,
+				"friends_count": 613,
+				"listed_count": 256,
+				"created_at": "Sat Sep 24 09:18:58 +0000 2011",
+				"favourites_count": 16262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31492,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E3F2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1557363696/Screen_shot_2011-09-24_at_7.36.20_PM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557363696/Screen_shot_2011-09-24_at_7.36.20_PM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/379065166/1398231225",
+				"profile_link_color": "336600",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"In this future,we’re all being asked to accept that the sticker price of our success is indifference to how things turn out for others.Of course, this isn’t a novelty, and it’s barely a disruption;this is how the demands of profit have needed work to be managed for a long time.\" https://t.co/eVBDserdCQ"
+	},
+	{
+		"created_at": "Sun Oct 21 08:35:33 +0000 2018",
+		"id": 1053927759360262100,
+		"id_str": "1053927759360262146",
+		"full_text": "A database of paper airplanes with easy to follow folding instructions.\nhttps://t.co/pmzgKo4azD https://t.co/FUDQsVxhjY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pmzgKo4azD",
+					"expanded_url": "https://www.foldnfly.com",
+					"display_url": "foldnfly.com",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1053927724736225300,
+					"id_str": "1053927724736225280",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DqBNroPWoAAyamS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqBNroPWoAAyamS.jpg",
+					"url": "https://t.co/FUDQsVxhjY",
+					"display_url": "pic.twitter.com/FUDQsVxhjY",
+					"expanded_url": "https://twitter.com/angealbertini/status/1053927759360262146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1238,
+							"h": 1068,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053927724736225300,
+					"id_str": "1053927724736225280",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DqBNroPWoAAyamS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqBNroPWoAAyamS.jpg",
+					"url": "https://t.co/FUDQsVxhjY",
+					"display_url": "pic.twitter.com/FUDQsVxhjY",
+					"expanded_url": "https://twitter.com/angealbertini/status/1053927759360262146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1238,
+							"h": 1068,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26000458,
+			"id_str": "26000458",
+			"name": "👼Ąż杏",
+			"screen_name": "angealbertini",
+			"location": "",
+			"description": "Reverse engineer, author of @Corkami, PoC||GTFO ~ file formats, retrogaming, preservation, brainteasers, visual docs. he/him",
+			"url": "http://t.co/m6U86y5RX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m6U86y5RX6",
+							"expanded_url": "http://www.corkami.com",
+							"display_url": "corkami.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15876,
+			"friends_count": 804,
+			"listed_count": 417,
+			"created_at": "Mon Mar 23 13:32:02 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/755863943621513216/UYPiT2lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/755863943621513216/UYPiT2lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26000458/1382340441",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1199,
+		"favorite_count": 2924,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A database of paper airplanes with easy to follow folding instructions.\nhttps://t.co/pmzgKo4azD https://t.co/FUDQsVxhjY"
+	},
+	{
+		"created_at": "Mon Oct 22 16:22:02 +0000 2018",
+		"id": 1054407539499110400,
+		"id_str": "1054407539499110403",
+		"full_text": "@neil_mcm ya missin out fella",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1054296470378242000,
+		"in_reply_to_status_id_str": "1054296470378242050",
+		"in_reply_to_user_id": 60425505,
+		"in_reply_to_user_id_str": "60425505",
+		"in_reply_to_screen_name": "neil_mcm",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 903,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neil_mcm ya missin out fella"
+	},
+	{
+		"created_at": "Mon Oct 22 16:01:39 +0000 2018",
+		"id": 1054402409995386900,
+		"id_str": "1054402409995386881",
+		"full_text": "Improving Foreign Language Listening Skills by Reading https://t.co/pxFyOzVt5M via @ResearchBites",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchBites",
+					"name": "ELT Research Bites",
+					"id": 794337135901876200,
+					"id_str": "794337135901876224",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pxFyOzVt5M",
+					"expanded_url": "http://www.eltresearchbites.com/201810-improving-foreign-language-listening-skills-by-reading/",
+					"display_url": "eltresearchbites.com/201810-improvi…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 903,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Improving Foreign Language Listening Skills by Reading https://t.co/pxFyOzVt5M via @ResearchBites"
+	},
+	{
+		"created_at": "Sun Oct 21 15:42:21 +0000 2018",
+		"id": 1054035168275640300,
+		"id_str": "1054035168275640322",
+		"full_text": "find yourself someone who cares about you as much as Chomsky does\n\nhttps://t.co/kPfaXkxUof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1039429260694507500,
+					"id_str": "1039429260694507520",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039429260694507520/pu/img/RWCPBTwajz85_-Gg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039429260694507520/pu/img/RWCPBTwajz85_-Gg.jpg",
+					"url": "https://t.co/kPfaXkxUof",
+					"display_url": "pic.twitter.com/kPfaXkxUof",
+					"expanded_url": "https://twitter.com/zei_nabq/status/1039430241301815297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039430241301815300,
+					"source_status_id_str": "1039430241301815297",
+					"source_user_id": 2786053933,
+					"source_user_id_str": "2786053933"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1039429260694507500,
+					"id_str": "1039429260694507520",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1039429260694507520/pu/img/RWCPBTwajz85_-Gg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1039429260694507520/pu/img/RWCPBTwajz85_-Gg.jpg",
+					"url": "https://t.co/kPfaXkxUof",
+					"display_url": "pic.twitter.com/kPfaXkxUof",
+					"expanded_url": "https://twitter.com/zei_nabq/status/1039430241301815297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1039430241301815300,
+					"source_status_id_str": "1039430241301815297",
+					"source_user_id": 2786053933,
+					"source_user_id_str": "2786053933",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71070,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1039429260694507520/pu/vid/320x180/Wlpx2xyGeR_Okxpx.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1039429260694507520/pu/pl/RXvb3qyTx1VtyJwZ.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1039429260694507520/pu/vid/640x360/VsWKhGY1qs5Wwma2.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2786053933,
+							"id_str": "2786053933",
+							"name": "☀️👀",
+							"screen_name": "zei_nabq",
+							"location": "",
+							"description": "Injustice anywhere is a threat to justice everywhere",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8637,
+							"friends_count": 0,
+							"listed_count": 65,
+							"created_at": "Tue Sep 02 13:46:47 +0000 2014",
+							"favourites_count": 71850,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 75661,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2786053933/1522626292",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2786053933,
+			"id_str": "2786053933",
+			"name": "☀️👀",
+			"screen_name": "zei_nabq",
+			"location": "",
+			"description": "Injustice anywhere is a threat to justice everywhere",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8637,
+			"friends_count": 0,
+			"listed_count": 65,
+			"created_at": "Tue Sep 02 13:46:47 +0000 2014",
+			"favourites_count": 71850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951980805542350848/Xx1LczLK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2786053933/1522626292",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 494,
+		"favorite_count": 1692,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "find yourself someone who cares about you as much as Chomsky does\n\nhttps://t.co/kPfaXkxUof"
+	},
+	{
+		"created_at": "Sun Oct 21 19:32:46 +0000 2018",
+		"id": 1054093151756083200,
+		"id_str": "1054093151756083202",
+		"full_text": "'School shaming' and the reactionary politics of neotrads https://t.co/3RJVHaJv6C via @doxtdatorb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doxtdatorb",
+					"name": "Benjamin Doxtdator",
+					"id": 2343972634,
+					"id_str": "2343972634",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3RJVHaJv6C",
+					"expanded_url": "https://www.longviewoneducation.org/school-shaming-and-the-reactionary-politics-of-neotrads/",
+					"display_url": "longviewoneducation.org/school-shaming…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 903,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'School shaming' and the reactionary politics of neotrads https://t.co/3RJVHaJv6C via @doxtdatorb"
+	},
+	{
 		"created_at": "Sun Oct 21 15:42:21 +0000 2018",
 		"id": 1054035168275640300,
 		"id_str": "1054035168275640322",
