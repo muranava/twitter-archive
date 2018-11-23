@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 21 20:10:34 +0000 2018",
+		"id": 1065336689550401500,
+		"id_str": "1065336689550401536",
+		"full_text": "It’s Noam Chomsky’s 90th birthday soon. I’m helping his wife, Valeria, gather tributes to him for a birthday book. If Chomsky’s work has affected you, pls write a message addressed to him explaining how &amp; send to chasingthescream@gmail.com",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78890225,
+			"id_str": "78890225",
+			"name": "Johann Hari",
+			"screen_name": "johannhari101",
+			"location": "London",
+			"description": "Author of 2 New York Times best-selling books. Latest: 'LOST CONNECTIONS: Uncovering The Real Causes of Depression - and the Unexpected Solutions'",
+			"url": "https://t.co/XzSwDNE66y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzSwDNE66y",
+							"expanded_url": "https://johannhari.com",
+							"display_url": "johannhari.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102413,
+			"friends_count": 2124,
+			"listed_count": 2914,
+			"created_at": "Thu Oct 01 12:26:01 +0000 2009",
+			"favourites_count": 398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878237267457912833/EiRraOJD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878237267457912833/EiRraOJD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78890225/1512406282",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 1337,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It’s Noam Chomsky’s 90th birthday soon. I’m helping his wife, Valeria, gather tributes to him for a birthday book. If Chomsky’s work has affected you, pls write a message addressed to him explaining how &amp; send to chasingthescream@gmail.com"
+	},
+	{
+		"created_at": "Thu Nov 22 11:10:04 +0000 2018",
+		"id": 1065563055403221000,
+		"id_str": "1065563055403220992",
+		"full_text": "@ELTResearch FYI the above done with standalone voyant tools which handles @bnc2014 XML files quite well https://t.co/FXNKJ3fkdc #corpuslinguistics",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						129,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTResearch",
+					"name": "Chris Jones",
+					"id": 3308043417,
+					"id_str": "3308043417",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BNC2014",
+					"name": "BNC2014",
+					"id": 2166021656,
+					"id_str": "2166021656",
+					"indices": [
+						75,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FXNKJ3fkdc",
+					"expanded_url": "https://github.com/sgsinclair/VoyantServer/blob/master/README.md",
+					"display_url": "github.com/sgsinclair/Voy…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1065377299665686500,
+		"in_reply_to_status_id_str": "1065377299665686528",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 887,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ELTResearch FYI the above done with standalone voyant tools which handles @bnc2014 XML files quite well https://t.co/FXNKJ3fkdc #corpuslinguistics"
+	},
+	{
 		"created_at": "Wed Nov 21 22:51:56 +0000 2018",
 		"id": 1065377299665686500,
 		"id_str": "1065377299665686528",
