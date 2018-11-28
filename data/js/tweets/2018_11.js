@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 13:31:26 +0000 2018",
+		"id": 1067410573741109200,
+		"id_str": "1067410573741109248",
+		"full_text": "Some games made in @11thhourspecial 's class: https://t.co/12prZCAmhj &lt;-- These look very cool. I'd love to play them!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/12prZCAmhj",
+					"expanded_url": "http://getgreatenglish.com/ftsd/2018/11/27/some-games-made-in-class-and-for-homework/",
+					"display_url": "getgreatenglish.com/ftsd/2018/11/2…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 525013404,
+			"id_str": "525013404",
+			"name": "ɹǝlpuǝɥ ǝuuɐ",
+			"screen_name": "AnneHendler",
+			"location": "Shiga-ken, Japan",
+			"description": "I guess I'm a lifer in ELT. Currently teaching littles and slightly bigger littles in Japan. Otherwise I can be found wherever two wheels can take me.",
+			"url": "https://t.co/bEyfF1isLA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bEyfF1isLA",
+							"expanded_url": "http://lizzieserene.wordpress.com",
+							"display_url": "lizzieserene.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2130,
+			"friends_count": 686,
+			"listed_count": 80,
+			"created_at": "Thu Mar 15 04:06:43 +0000 2012",
+			"favourites_count": 8743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766910187911405568/zw3Ez5M0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766910187911405568/zw3Ez5M0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/525013404/1478468203",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some games made in @11thhourspecial 's class: https://t.co/12prZCAmhj &lt;-- These look very cool. I'd love to play them!"
+	},
+	{
+		"created_at": "Tue Nov 27 08:40:41 +0000 2018",
+		"id": 1067337403260682200,
+		"id_str": "1067337403260682240",
+		"full_text": "It's vital that there is huge public awareness of Julian Assange's treatment and the extreme danger he is in. Please read and share this article by @SMaurizi \nhttps://t.co/HzJz2WHK7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMaurizi",
+					"name": "stefania maurizi",
+					"id": 368920797,
+					"id_str": "368920797",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HzJz2WHK7b",
+					"expanded_url": "https://www.repubblica.it/esteri/2018/11/26/news/the_detention_and_isolation_from_the_world_of_julian_assange-212689883/",
+					"display_url": "repubblica.it/esteri/2018/11…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6531902,
+			"id_str": "6531902",
+			"name": "Media Lens",
+			"screen_name": "medialens",
+			"location": "",
+			"description": "Correcting for the distorted vision of the corporate media",
+			"url": "http://t.co/V3VFtcaKKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/V3VFtcaKKN",
+							"expanded_url": "http://www.medialens.org",
+							"display_url": "medialens.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46645,
+			"friends_count": 1033,
+			"listed_count": 1283,
+			"created_at": "Sat Jun 02 23:55:42 +0000 2007",
+			"favourites_count": 9419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378843257/medialens_twitter_logo_cherry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6531902/1460124517",
+			"profile_link_color": "FF7B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's vital that there is huge public awareness of Julian Assange's treatment and the extreme danger he is in. Please read and share this article by @SMaurizi \nhttps://t.co/HzJz2WHK7b"
+	},
+	{
 		"created_at": "Mon Nov 26 16:11:59 +0000 2018",
 		"id": 1067088586212851700,
 		"id_str": "1067088586212851713",
