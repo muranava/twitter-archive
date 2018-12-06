@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 08:40:26 +0000 2018",
+		"id": 1070236443774193700,
+		"id_str": "1070236443774193664",
+		"full_text": "If big teachers' organisations like @iatefl could tweet to #supportgraftonteachers or otherwise show solidarity, I'm sure it would make a massive difference to their cause. https://t.co/aBO5EqhXpz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "supportgraftonteachers",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aBO5EqhXpz",
+					"expanded_url": "https://twitter.com/josipa74/status/1070087165235879941",
+					"display_url": "twitter.com/josipa74/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60425505,
+			"id_str": "60425505",
+			"name": "Neil McMillan",
+			"screen_name": "neil_mcm",
+			"location": "Barcelona, Catalonia",
+			"description": "Dad, teacher, writer, translator, @SLBcoop presi. Likes old records and unfashionable French philosophy. Politically awkward. Unrepentantly MJ, JD and SJFC.",
+			"url": "http://t.co/1z017MmcoQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1z017MmcoQ",
+							"expanded_url": "http://animalisingelt.wordpress.com/",
+							"display_url": "animalisingelt.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 394,
+			"listed_count": 11,
+			"created_at": "Sun Jul 26 23:32:26 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2649,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/419471700510920704/RMN34luB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/419471700510920704/RMN34luB_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070087165235880000,
+		"quoted_status_id_str": "1070087165235879941",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aBO5EqhXpz",
+			"expanded": "https://twitter.com/josipa74/status/1070087165235879941",
+			"display": "twitter.com/josipa74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 04 22:47:16 +0000 2018",
+			"id": 1070087165235880000,
+			"id_str": "1070087165235879941",
+			"full_text": "Please support #GraftonCollege teachers who've been left without pay and work a few weeks before Xmas. https://t.co/d4CMXoho3X #elt #tesol #efl #esl #tefl #supportgraftonteachers",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GraftonCollege",
+						"indices": [
+							15,
+							30
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							127,
+							131
+						]
+					},
+					{
+						"text": "tesol",
+						"indices": [
+							132,
+							138
+						]
+					},
+					{
+						"text": "efl",
+						"indices": [
+							139,
+							143
+						]
+					},
+					{
+						"text": "esl",
+						"indices": [
+							144,
+							148
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							149,
+							154
+						]
+					},
+					{
+						"text": "supportgraftonteachers",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d4CMXoho3X",
+						"expanded_url": "https://www.gofundme.com/graftoncollege",
+						"display_url": "gofundme.com/graftoncollege",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134211317,
+				"id_str": "134211317",
+				"name": "paulw",
+				"screen_name": "josipa74",
+				"location": "berlin",
+				"description": "Writer and Teacher—Politics/ Pedagogy/ Literature/ Balkans—Writing: https://t.co/RIzSC0uJwS",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RIzSC0uJwS",
+								"expanded_url": "http://www.wrestlinganddancing.com/",
+								"display_url": "wrestlinganddancing.com",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1906,
+				"friends_count": 4354,
+				"listed_count": 51,
+				"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+				"favourites_count": 2965,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5710,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If big teachers' organisations like @iatefl could tweet to #supportgraftonteachers or otherwise show solidarity, I'm sure it would make a massive difference to their cause. https://t.co/aBO5EqhXpz"
+	},
+	{
+		"created_at": "Wed Dec 05 05:11:30 +0000 2018",
+		"id": 1070183862020554800,
+		"id_str": "1070183862020554752",
+		"full_text": "@AnneHendler @lesleyito Yes there's been some intetesting work on prosody of formulaic lang; considering beginner learners &amp; more expert adult learners also to take into account if/when teaching collocations",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnneHendler",
+					"name": "ɹǝlpuǝɥ ǝuuɐ",
+					"id": 525013404,
+					"id_str": "525013404",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "lesleyito",
+					"name": "Lesley Ito",
+					"id": 45095562,
+					"id_str": "45095562",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 1070082296642818000,
+		"in_reply_to_status_id_str": "1070082296642818049",
+		"in_reply_to_user_id": 525013404,
+		"in_reply_to_user_id_str": "525013404",
+		"in_reply_to_screen_name": "AnneHendler",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1721,
+			"friends_count": 895,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnneHendler @lesleyito Yes there's been some intetesting work on prosody of formulaic lang; considering beginner learners &amp; more expert adult learners also to take into account if/when teaching collocations"
+	},
+	{
 		"created_at": "Tue Dec 04 19:35:17 +0000 2018",
 		"id": 1070038853334036500,
 		"id_str": "1070038853334036480",
