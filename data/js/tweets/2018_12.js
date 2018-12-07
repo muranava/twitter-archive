@@ -1,6 +1,1634 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 22:26:01 +0000 2018",
+		"id": 1070806593766334500,
+		"id_str": "1070806593766334465",
+		"full_text": "@adrianholliday @languageeteach or maybe more precisely the ideology of native speakerism derives from ideology that Xs \"exist\"?",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adrianholliday",
+					"name": "Adrian Holliday",
+					"id": 63269624,
+					"id_str": "63269624",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "languageeteach",
+					"name": "Clare",
+					"id": 2163604968,
+					"id_str": "2163604968",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070805491381604400,
+		"in_reply_to_status_id_str": "1070805491381604354",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adrianholliday @languageeteach or maybe more precisely the ideology of native speakerism derives from ideology that Xs \"exist\"?"
+	},
+	{
+		"created_at": "Thu Dec 06 22:21:38 +0000 2018",
+		"id": 1070805491381604400,
+		"id_str": "1070805491381604354",
+		"full_text": "@adrianholliday @languageeteach what kind of discourse is this referring to? if academic then distinction will (or should) be explained? if ordinary will any such prescription be effective? e.g a lot of the ideology is carried in the X - \"native/non-native speaker of X\"",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adrianholliday",
+					"name": "Adrian Holliday",
+					"id": 63269624,
+					"id_str": "63269624",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "languageeteach",
+					"name": "Clare",
+					"id": 2163604968,
+					"id_str": "2163604968",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070582711293751300,
+		"in_reply_to_status_id_str": "1070582711293751299",
+		"in_reply_to_user_id": 63269624,
+		"in_reply_to_user_id_str": "63269624",
+		"in_reply_to_screen_name": "adrianholliday",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adrianholliday @languageeteach what kind of discourse is this referring to? if academic then distinction will (or should) be explained? if ordinary will any such prescription be effective? e.g a lot of the ideology is carried in the X - \"native/non-native speaker of X\""
+	},
+	{
+		"created_at": "Thu Dec 06 20:23:15 +0000 2018",
+		"id": 1070775698657288200,
+		"id_str": "1070775698657288192",
+		"full_text": "Il faut dire les choses posément mais fermement : ce qui s’est passé avec les lycéens de Mantes-la-jolie - ces scènes dont il existe de nombreuses photos et vidéos - est simplement intolérable. \n\n https://t.co/mD1aFWZulz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070754191709233200,
+					"id_str": "1070754191709233153",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070754191709233153/pu/img/av53AKBQaIcCND_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070754191709233153/pu/img/av53AKBQaIcCND_M.jpg",
+					"url": "https://t.co/mD1aFWZulz",
+					"display_url": "pic.twitter.com/mD1aFWZulz",
+					"expanded_url": "https://twitter.com/CanaryFrance/status/1070754858997829633/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1070754858997829600,
+					"source_status_id_str": "1070754858997829633",
+					"source_user_id": 914444642724302800,
+					"source_user_id_str": "914444642724302848"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070754191709233200,
+					"id_str": "1070754191709233153",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1070754191709233153/pu/img/av53AKBQaIcCND_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1070754191709233153/pu/img/av53AKBQaIcCND_M.jpg",
+					"url": "https://t.co/mD1aFWZulz",
+					"display_url": "pic.twitter.com/mD1aFWZulz",
+					"expanded_url": "https://twitter.com/CanaryFrance/status/1070754858997829633/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1070754858997829600,
+					"source_status_id_str": "1070754858997829633",
+					"source_user_id": 914444642724302800,
+					"source_user_id_str": "914444642724302848",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26479,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070754191709233153/pu/vid/480x480/PXsGsYQ1ySGa_NyA.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070754191709233153/pu/vid/320x320/YFTKDnOs_YkuBRZu.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1070754191709233153/pu/vid/640x640/U9HqyKjIH8NScLX4.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1070754191709233153/pu/pl/F7114cyfCQjAmlvO.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 914444642724302800,
+							"id_str": "914444642724302848",
+							"name": "Canary France",
+							"screen_name": "CanaryFrance",
+							"location": "Google ➡️ \"Valy cubalibre\" ",
+							"description": "Nous exposons les racialistes identitaires antisémites &  pro-terroristes en ligne. Les gens doivent savoir ce que vous êtes. (Indépendant de @CanaryMission).",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 613,
+							"friends_count": 197,
+							"listed_count": 6,
+							"created_at": "Sun Oct 01 10:59:27 +0000 2017",
+							"favourites_count": 91,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 424,
+							"lang": "fr",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/926019125180354560/DxCAjOc8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/926019125180354560/DxCAjOc8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/914444642724302848/1509616402",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17508660,
+			"id_str": "17508660",
+			"name": "Cécile Duflot",
+			"screen_name": "CecileDuflot",
+			"location": "Paris, Banlieue, Landes",
+			"description": "Directrice générale | Executive director  @OxfamFrance   \nAssociée @OctopuceFr \nÉcologiste [autrefois : ministre, députée, secrétaire nationale...]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 404828,
+			"friends_count": 1256,
+			"listed_count": 4007,
+			"created_at": "Thu Nov 20 09:53:48 +0000 2008",
+			"favourites_count": 1217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21407,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352725",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005703318793007104/yJJQqHpw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005703318793007104/yJJQqHpw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17508660/1528613497",
+			"profile_link_color": "91BE3F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1888,
+		"favorite_count": 2140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Il faut dire les choses posément mais fermement : ce qui s’est passé avec les lycéens de Mantes-la-jolie - ces scènes dont il existe de nombreuses photos et vidéos - est simplement intolérable. \n\n https://t.co/mD1aFWZulz"
+	},
+	{
+		"created_at": "Wed Dec 05 21:37:27 +0000 2018",
+		"id": 1070431986169339900,
+		"id_str": "1070431986169339904",
+		"full_text": "https://t.co/SEcOwZalzU This is what started our campaign. Horrible that change had to wait until the city was shouting #SupportGraftonTeachers at @MEI_Ireland and @Education_Ire. Glad to have #UnionStrong support from @UniteunionROI.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SupportGraftonTeachers",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"text": "UnionStrong",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MEI_Ireland",
+					"name": "MEI",
+					"id": 990851077,
+					"id_str": "990851077",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"screen_name": "Education_Ire",
+					"name": "education.ie",
+					"id": 592876218,
+					"id_str": "592876218",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "UniteunionROI",
+					"name": "UNITE union Ireland",
+					"id": 197063670,
+					"id_str": "197063670",
+					"indices": [
+						219,
+						233
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SEcOwZalzU",
+					"expanded_url": "http://timemapper.okfnlabs.org/eltmakers/college-closure-crisis-timeline-icos-list",
+					"display_url": "timemapper.okfnlabs.org/eltmakers/coll…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070423648303870000,
+		"in_reply_to_status_id_str": "1070423648303869953",
+		"in_reply_to_user_id": 712775553821048800,
+		"in_reply_to_user_id_str": "712775553821048832",
+		"in_reply_to_screen_name": "ELTAdvocacy",
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941,
+			"friends_count": 964,
+			"listed_count": 22,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 3344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/SEcOwZalzU This is what started our campaign. Horrible that change had to wait until the city was shouting #SupportGraftonTeachers at @MEI_Ireland and @Education_Ire. Glad to have #UnionStrong support from @UniteunionROI."
+	},
+	{
+		"created_at": "Thu Dec 06 20:55:05 +0000 2018",
+		"id": 1070783710306463700,
+		"id_str": "1070783710306463744",
+		"full_text": "@Growing_Grammar #lyrics4linguists statistical learning linguists : )\n\n\"can see no reason, 'cos there are no reasons\n What reasons do you need to be shown\"\n\n(Boomtown Rats, I don't like Mondays)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lyrics4linguists",
+					"indices": [
+						17,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Growing_Grammar",
+					"name": "Growth in Grammar",
+					"id": 748072013718298600,
+					"id_str": "748072013718298624",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070780759273807900,
+		"in_reply_to_status_id_str": "1070780759273807873",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Growing_Grammar #lyrics4linguists statistical learning linguists : )\n\n\"can see no reason, 'cos there are no reasons\n What reasons do you need to be shown\"\n\n(Boomtown Rats, I don't like Mondays)"
+	},
+	{
+		"created_at": "Thu Dec 06 20:43:21 +0000 2018",
+		"id": 1070780759273807900,
+		"id_str": "1070780759273807873",
+		"full_text": "@Growing_Grammar #lyrics4linguists Ludwig Wittgenstein:\n\n\"Everybody wants to rule the world\"\n\n(Tears for fears, Everybody wants to rule the world)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lyrics4linguists",
+					"indices": [
+						17,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Growing_Grammar",
+					"name": "Growth in Grammar",
+					"id": 748072013718298600,
+					"id_str": "748072013718298624",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070774517373550600,
+		"in_reply_to_status_id_str": "1070774517373550592",
+		"in_reply_to_user_id": 748072013718298600,
+		"in_reply_to_user_id_str": "748072013718298624",
+		"in_reply_to_screen_name": "Growing_Grammar",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Growing_Grammar #lyrics4linguists Ludwig Wittgenstein:\n\n\"Everybody wants to rule the world\"\n\n(Tears for fears, Everybody wants to rule the world)"
+	},
+	{
+		"created_at": "Thu Dec 06 19:02:07 +0000 2018",
+		"id": 1070755279728459800,
+		"id_str": "1070755279728459782",
+		"full_text": "@MarianneJordan_ @graftoncollege @ELTAdvocacy 4/5 admin staff according to video report here https://t.co/fRoOJy02By",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarianneJordan_",
+					"name": "Marianne Jordan",
+					"id": 803183424152436700,
+					"id_str": "803183424152436736",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "graftoncollege",
+					"name": "Grafton College",
+					"id": 115470869,
+					"id_str": "115470869",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fRoOJy02By",
+					"expanded_url": "https://www.irishtimes.com/news/education/teacher-learnt-of-college-closure-on-his-wedding-day-1.3718629",
+					"display_url": "irishtimes.com/news/education…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070591632360292400,
+		"in_reply_to_status_id_str": "1070591632360292352",
+		"in_reply_to_user_id": 803183424152436700,
+		"in_reply_to_user_id_str": "803183424152436736",
+		"in_reply_to_screen_name": "MarianneJordan_",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MarianneJordan_ @graftoncollege @ELTAdvocacy 4/5 admin staff according to video report here https://t.co/fRoOJy02By"
+	},
+	{
+		"created_at": "Thu Dec 06 18:49:26 +0000 2018",
+		"id": 1070752091747086300,
+		"id_str": "1070752091747086336",
+		"full_text": "@pchallinor @Conservatives moral policing of the poor ©19 Century England",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pchallinor",
+					"name": "Philip Challinor",
+					"id": 14663837,
+					"id_str": "14663837",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Conservatives",
+					"name": "Conservatives",
+					"id": 14281853,
+					"id_str": "14281853",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070743161763479600,
+		"in_reply_to_status_id_str": "1070743161763479552",
+		"in_reply_to_user_id": 14663837,
+		"in_reply_to_user_id_str": "14663837",
+		"in_reply_to_screen_name": "pchallinor",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 897,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pchallinor @Conservatives moral policing of the poor ©19 Century England"
+	},
+	{
+		"created_at": "Thu Dec 06 17:39:16 +0000 2018",
+		"id": 1070734432821239800,
+		"id_str": "1070734432821239808",
+		"full_text": "#Scotland's beat-junkie writer Alexander Trocchi brought us #Brexit. Really. https://t.co/0JQxX4mDix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Scotland",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Brexit",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0JQxX4mDix",
+					"expanded_url": "https://www.opendemocracy.net/transformation/paul-walsh/dangers-of-push-button-brexit",
+					"display_url": "opendemocracy.net/transformation…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulw",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "Writer and Teacher—Politics/ Pedagogy/ Literature/ Balkans—Writing: https://t.co/RIzSC0uJwS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RIzSC0uJwS",
+							"expanded_url": "http://www.wrestlinganddancing.com/",
+							"display_url": "wrestlinganddancing.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1907,
+			"friends_count": 4361,
+			"listed_count": 51,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 2975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Scotland's beat-junkie writer Alexander Trocchi brought us #Brexit. Really. https://t.co/0JQxX4mDix"
+	},
+	{
+		"created_at": "Wed Dec 05 08:40:26 +0000 2018",
+		"id": 1070236443774193700,
+		"id_str": "1070236443774193664",
+		"full_text": "If big teachers' organisations like @iatefl could tweet to #supportgraftonteachers or otherwise show solidarity, I'm sure it would make a massive difference to their cause. https://t.co/aBO5EqhXpz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "supportgraftonteachers",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aBO5EqhXpz",
+					"expanded_url": "https://twitter.com/josipa74/status/1070087165235879941",
+					"display_url": "twitter.com/josipa74/statu…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60425505,
+			"id_str": "60425505",
+			"name": "Neil McMillan",
+			"screen_name": "neil_mcm",
+			"location": "Barcelona, Catalonia",
+			"description": "Dad, teacher, writer, translator, @SLBcoop presi. Likes old records and unfashionable French philosophy. Politically awkward. Unrepentantly MJ, JD and SJFC.",
+			"url": "http://t.co/1z017MmcoQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1z017MmcoQ",
+							"expanded_url": "http://animalisingelt.wordpress.com/",
+							"display_url": "animalisingelt.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 394,
+			"listed_count": 11,
+			"created_at": "Sun Jul 26 23:32:26 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2650,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/419471700510920704/RMN34luB_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/419471700510920704/RMN34luB_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070087165235880000,
+		"quoted_status_id_str": "1070087165235879941",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aBO5EqhXpz",
+			"expanded": "https://twitter.com/josipa74/status/1070087165235879941",
+			"display": "twitter.com/josipa74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 04 22:47:16 +0000 2018",
+			"id": 1070087165235880000,
+			"id_str": "1070087165235879941",
+			"full_text": "Please support #GraftonCollege teachers who've been left without pay and work a few weeks before Xmas. https://t.co/d4CMXoho3X #elt #tesol #efl #esl #tefl #supportgraftonteachers",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GraftonCollege",
+						"indices": [
+							15,
+							30
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							127,
+							131
+						]
+					},
+					{
+						"text": "tesol",
+						"indices": [
+							132,
+							138
+						]
+					},
+					{
+						"text": "efl",
+						"indices": [
+							139,
+							143
+						]
+					},
+					{
+						"text": "esl",
+						"indices": [
+							144,
+							148
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							149,
+							154
+						]
+					},
+					{
+						"text": "supportgraftonteachers",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d4CMXoho3X",
+						"expanded_url": "https://www.gofundme.com/graftoncollege",
+						"display_url": "gofundme.com/graftoncollege",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134211317,
+				"id_str": "134211317",
+				"name": "paulw",
+				"screen_name": "josipa74",
+				"location": "berlin",
+				"description": "Writer and Teacher—Politics/ Pedagogy/ Literature/ Balkans—Writing: https://t.co/RIzSC0uJwS",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RIzSC0uJwS",
+								"expanded_url": "http://www.wrestlinganddancing.com/",
+								"display_url": "wrestlinganddancing.com",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1907,
+				"friends_count": 4361,
+				"listed_count": 51,
+				"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+				"favourites_count": 2975,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5721,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If big teachers' organisations like @iatefl could tweet to #supportgraftonteachers or otherwise show solidarity, I'm sure it would make a massive difference to their cause. https://t.co/aBO5EqhXpz"
+	},
+	{
 		"created_at": "Wed Dec 05 08:40:26 +0000 2018",
 		"id": 1070236443774193700,
 		"id_str": "1070236443774193664",
