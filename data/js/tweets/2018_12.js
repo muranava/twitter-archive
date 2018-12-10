@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 07 08:01:38 +0000 2018",
+		"id": 1070951451537616900,
+		"id_str": "1070951451537616896",
+		"full_text": "#SupportGraftonTeachers \nSign:\nhttps://t.co/F4yEda9uBY\nDonate:\nhttps://t.co/E3cIzAccNt\nMessage: \n@MEI_Ireland to CALL FOR €1500 from the each of school owners' circle member schools which BENEFIT FROM THE CLOSURE. 66 MEI schools x 1,500= enough to clear the staff AND students.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SupportGraftonTeachers",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MEI_Ireland",
+					"name": "MEI",
+					"id": 990851077,
+					"id_str": "990851077",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F4yEda9uBY",
+					"expanded_url": "https://www.change.org/p/william-o-brien-support-grafton-college-teachers",
+					"display_url": "change.org/p/william-o-br…",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/E3cIzAccNt",
+					"expanded_url": "https://www.gofundme.com/graftoncollege",
+					"display_url": "gofundme.com/graftoncollege",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 954,
+			"friends_count": 968,
+			"listed_count": 22,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 3374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2984,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SupportGraftonTeachers \nSign:\nhttps://t.co/F4yEda9uBY\nDonate:\nhttps://t.co/E3cIzAccNt\nMessage: \n@MEI_Ireland to CALL FOR €1500 from the each of school owners' circle member schools which BENEFIT FROM THE CLOSURE. 66 MEI schools x 1,500= enough to clear the staff AND students."
+	},
+	{
 		"created_at": "Sat Dec 08 13:25:35 +0000 2018",
 		"id": 1071395364928933900,
 		"id_str": "1071395364928933888",
