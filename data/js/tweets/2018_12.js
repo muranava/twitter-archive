@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 19:22:42 +0000 2018",
+		"id": 1072572402800959500,
+		"id_str": "1072572402800959494",
+		"full_text": "We're looking for interesting, amusing, even shocking stories of YOUR #celta? \n\n500-600 words. Tabloid-y but not dumb. Title and subheads. Send to theeltworker@gmail.com\n\nGet your name in the NEXT edition of the #ELT worker bulletin! https://t.co/xuHLtZtLYR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "celta",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						212,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xuHLtZtLYR",
+					"expanded_url": "https://notesfrombelow.org/article/elt-worker-issue-1",
+					"display_url": "notesfrombelow.org/article/elt-wo…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069661253969293300,
+			"id_str": "1069661253969293312",
+			"name": "theeltworker",
+			"screen_name": "theeltworker",
+			"location": "Ireland",
+			"description": "tired of this crap...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 116,
+			"listed_count": 0,
+			"created_at": "Mon Dec 03 18:34:51 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069680211426508800/JfuVynv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069680211426508800/JfuVynv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069661253969293312/1543866777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're looking for interesting, amusing, even shocking stories of YOUR #celta? \n\n500-600 words. Tabloid-y but not dumb. Title and subheads. Send to theeltworker@gmail.com\n\nGet your name in the NEXT edition of the #ELT worker bulletin! https://t.co/xuHLtZtLYR"
+	},
+	{
+		"created_at": "Tue Dec 11 15:06:20 +0000 2018",
+		"id": 1072507884729196500,
+		"id_str": "1072507884729196545",
+		"full_text": "Where's all that #ELT goodwill when it's needed? New post up on my blog. https://t.co/C39kwYVucD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C39kwYVucD",
+					"expanded_url": "http://decentralisedteachingandlearning.com/blah-blah-brexit-five-ways-to-push-change/",
+					"display_url": "decentralisedteachingandlearning.com/blah-blah-brex…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulw",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "Writer and Teacher—Politics/ Pedagogy/ Literature/ Balkans—Writing: https://t.co/RIzSC0uJwS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RIzSC0uJwS",
+							"expanded_url": "http://www.wrestlinganddancing.com/",
+							"display_url": "wrestlinganddancing.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 4372,
+			"listed_count": 51,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 2998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where's all that #ELT goodwill when it's needed? New post up on my blog. https://t.co/C39kwYVucD"
+	},
+	{
+		"created_at": "Mon Dec 10 13:13:55 +0000 2018",
+		"id": 1072117203993022500,
+		"id_str": "1072117203993022464",
+		"full_text": "'the #ELT sector generates massive profits... a figure which stands in stark contrast to the low pay, low status and precarity of teachers, workers, and admin staff.' https://t.co/xuHLtZtLYR #tefl #efl #precarity #teachenglish",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "efl",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "precarity",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"text": "teachenglish",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xuHLtZtLYR",
+					"expanded_url": "https://notesfrombelow.org/article/elt-worker-issue-1",
+					"display_url": "notesfrombelow.org/article/elt-wo…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069661253969293300,
+			"id_str": "1069661253969293312",
+			"name": "theeltworker",
+			"screen_name": "theeltworker",
+			"location": "Ireland",
+			"description": "tired of this crap...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 116,
+			"listed_count": 0,
+			"created_at": "Mon Dec 03 18:34:51 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069680211426508800/JfuVynv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069680211426508800/JfuVynv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069661253969293312/1543866777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'the #ELT sector generates massive profits... a figure which stands in stark contrast to the low pay, low status and precarity of teachers, workers, and admin staff.' https://t.co/xuHLtZtLYR #tefl #efl #precarity #teachenglish"
+	},
+	{
 		"created_at": "Mon Dec 10 13:13:55 +0000 2018",
 		"id": 1072117203993022500,
 		"id_str": "1072117203993022464",
