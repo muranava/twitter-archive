@@ -1,6 +1,1127 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 21:14:49 +0000 2018",
+		"id": 1073687779874361300,
+		"id_str": "1073687779874361344",
+		"full_text": "Tesla owner happiness",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://worms.r.us.com\" rel=\"nofollow\">Worm Academy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937764661302366200,
+			"id_str": "937764661302366209",
+			"name": "TeachingEnglish",
+			"screen_name": "ToWorms",
+			"location": "Anywhere",
+			"description": "A.I. evangelist parody bot. Dedicated to Jerry Fodor & righteous rationalists everywhere.",
+			"url": "https://t.co/tk5Gi7OkYw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tk5Gi7OkYw",
+							"expanded_url": "http://down.with.empiricism.com",
+							"display_url": "down.with.empiricism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 19:24:52 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937786490641412098/QdSfyfrW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937786490641412098/QdSfyfrW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937764661302366209/1512424057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tesla owner happiness"
+	},
+	{
+		"created_at": "Fri Dec 14 18:57:22 +0000 2018",
+		"id": 1073653187419107300,
+		"id_str": "1073653187419107328",
+		"full_text": "Task-Based Language Teaching: From Theory to Practice. SLB’s Online Course for Teachers https://t.co/Fh2OLMKnOc https://t.co/lyMBDUgvkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fh2OLMKnOc",
+					"expanded_url": "https://applingtesol.wordpress.com/2018/12/14/task-based-language-teaching-from-theory-to-practice-slbs-online-course-for-teachers/",
+					"display_url": "applingtesol.wordpress.com/2018/12/14/tas…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073653185749733400,
+					"id_str": "1073653185749733376",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZh4kyUUAA-Ych.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZh4kyUUAA-Ych.jpg",
+					"url": "https://t.co/lyMBDUgvkJ",
+					"display_url": "pic.twitter.com/lyMBDUgvkJ",
+					"expanded_url": "https://twitter.com/GeoffreyJordan/status/1073653187419107328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073653185749733400,
+					"id_str": "1073653185749733376",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DuZh4kyUUAA-Ych.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuZh4kyUUAA-Ych.jpg",
+					"url": "https://t.co/lyMBDUgvkJ",
+					"display_url": "pic.twitter.com/lyMBDUgvkJ",
+					"expanded_url": "https://twitter.com/GeoffreyJordan/status/1073653187419107328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 334332424,
+			"id_str": "334332424",
+			"name": "Geoffrey Jordan",
+			"screen_name": "GeoffreyJordan",
+			"location": "",
+			"description": "Associate tutor in MA Applied Linguistics programme at Leicester University",
+			"url": "https://t.co/NXCIS6lned",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NXCIS6lned",
+							"expanded_url": "https://criticalelt.wordpress.com/",
+							"display_url": "criticalelt.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1455,
+			"friends_count": 240,
+			"listed_count": 24,
+			"created_at": "Tue Jul 12 22:54:08 +0000 2011",
+			"favourites_count": 1212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3204,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/455317817537986561/SD4wNKO3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/455317817537986561/SD4wNKO3_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Task-Based Language Teaching: From Theory to Practice. SLB’s Online Course for Teachers https://t.co/Fh2OLMKnOc https://t.co/lyMBDUgvkJ"
+	},
+	{
+		"created_at": "Fri Dec 14 18:50:44 +0000 2018",
+		"id": 1073651521710157800,
+		"id_str": "1073651521710157825",
+		"full_text": "@ELTAdvocacy @iatefl @iateflonline the wise people bowed their heads solemnly and spoke : theres actually a  massive difference between a teachers association and associating with teachers. you imbecile. you snivelling bohunkus",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "iateflonline",
+					"name": "IATEFL Online",
+					"id": 17447359,
+					"id_str": "17447359",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1073614416615231500,
+		"in_reply_to_status_id_str": "1073614416615231488",
+		"in_reply_to_user_id": 712775553821048800,
+		"in_reply_to_user_id_str": "712775553821048832",
+		"in_reply_to_screen_name": "ELTAdvocacy",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1723,
+			"friends_count": 900,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1446,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ELTAdvocacy @iatefl @iateflonline the wise people bowed their heads solemnly and spoke : theres actually a  massive difference between a teachers association and associating with teachers. you imbecile. you snivelling bohunkus"
+	},
+	{
+		"created_at": "Fri Dec 14 16:23:18 +0000 2018",
+		"id": 1073614416615231500,
+		"id_str": "1073614416615231488",
+		"full_text": "Great to see individual teachers reaching out to associations to show signs of support. The fact that an #ELT school can skip out on paying its 35 staff and not be noticed by @iatefl /@iateflonline at all is frightening. #SupportGraftonTeachers https://t.co/55pzM76M6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "SupportGraftonTeachers",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"screen_name": "iateflonline",
+					"name": "IATEFL Online",
+					"id": 17447359,
+					"id_str": "17447359",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/55pzM76M6K",
+					"expanded_url": "https://twitter.com/josipa74/status/1070458331914010626",
+					"display_url": "twitter.com/josipa74/statu…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 971,
+			"listed_count": 22,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 3426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1460765518",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070458331914010600,
+		"quoted_status_id_str": "1070458331914010626",
+		"quoted_status_permalink": {
+			"url": "https://t.co/55pzM76M6K",
+			"expanded": "https://twitter.com/josipa74/status/1070458331914010626",
+			"display": "twitter.com/josipa74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 23:22:09 +0000 2018",
+			"id": 1070458331914010600,
+			"id_str": "1070458331914010626",
+			"full_text": "@ELTAdvocacy @LexicalLab @OUPELTGlobal @NatGeo @ELTIreland I've just sent this letter to Margit Szesztay, President of IATEFL (and CC'd Head Office), asking for them to #supportgraftonteachers \nhttps://t.co/2tXO8m5vLK #elt #tesol #tefl",
+			"truncated": false,
+			"display_text_range": [
+				59,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "supportgraftonteachers",
+						"indices": [
+							169,
+							192
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							218,
+							222
+						]
+					},
+					{
+						"text": "tesol",
+						"indices": [
+							223,
+							229
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							230,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ELTAdvocacy",
+						"name": "ELT ADVOCACY Ireland",
+						"id": 712775553821048800,
+						"id_str": "712775553821048832",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "LexicalLab",
+						"name": "Lexical Lab",
+						"id": 857732892,
+						"id_str": "857732892",
+						"indices": [
+							13,
+							24
+						]
+					},
+					{
+						"screen_name": "OUPELTGlobal",
+						"name": "Oxford ELT",
+						"id": 74177226,
+						"id_str": "74177226",
+						"indices": [
+							25,
+							38
+						]
+					},
+					{
+						"screen_name": "NatGeo",
+						"name": "National Geographic",
+						"id": 17471979,
+						"id_str": "17471979",
+						"indices": [
+							39,
+							46
+						]
+					},
+					{
+						"screen_name": "ELTIreland",
+						"name": "ELT IRELAND",
+						"id": 2289260958,
+						"id_str": "2289260958",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2tXO8m5vLK",
+						"expanded_url": "https://docs.google.com/document/d/1wyVn7Mf1vsAqYBBtK61U9GbOozed-Gj3ER0F9GdHFps/edit?usp=sharing",
+						"display_url": "docs.google.com/document/d/1wy…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1070442133453197300,
+			"in_reply_to_status_id_str": "1070442133453197315",
+			"in_reply_to_user_id": 712775553821048800,
+			"in_reply_to_user_id_str": "712775553821048832",
+			"in_reply_to_screen_name": "ELTAdvocacy",
+			"user": {
+				"id": 134211317,
+				"id_str": "134211317",
+				"name": "paulw",
+				"screen_name": "josipa74",
+				"location": "berlin",
+				"description": "Writer and Teacher—Politics/ Pedagogy/ Literature/ Balkans—Writing: https://t.co/RIzSC0uJwS",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RIzSC0uJwS",
+								"expanded_url": "http://www.wrestlinganddancing.com/",
+								"display_url": "wrestlinganddancing.com",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1912,
+				"friends_count": 4374,
+				"listed_count": 51,
+				"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+				"favourites_count": 3011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5779,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see individual teachers reaching out to associations to show signs of support. The fact that an #ELT school can skip out on paying its 35 staff and not be noticed by @iatefl /@iateflonline at all is frightening. #SupportGraftonTeachers https://t.co/55pzM76M6K"
+	},
+	{
+		"created_at": "Fri Dec 14 11:51:05 +0000 2018",
+		"id": 1073545909751955500,
+		"id_str": "1073545909751955456",
+		"full_text": "\"Britain didn't develop India. Quite the contrary: as Patnaik's work makes clear, India developed Britain.\" https://t.co/pzFmxUljRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pzFmxUljRA",
+					"expanded_url": "https://www.aljazeera.com/indepth/opinion/britain-stole-45-trillion-india-181206124830851.html",
+					"display_url": "aljazeera.com/indepth/opinio…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 380956211,
+			"id_str": "380956211",
+			"name": "Jason Hickel",
+			"screen_name": "jasonhickel",
+			"location": "London / eSwatini",
+			"description": "Anthropologist & author • Writing in the Guardian, Foreign Policy, AJE • Post-development & political ecology • A world for the many, not the few",
+			"url": "https://t.co/G7ukWoUBzB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G7ukWoUBzB",
+							"expanded_url": "http://www.jasonhickel.org",
+							"display_url": "jasonhickel.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17482,
+			"friends_count": 966,
+			"listed_count": 406,
+			"created_at": "Tue Sep 27 14:22:38 +0000 2011",
+			"favourites_count": 1490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4446,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877794625876086784/9_C2UNYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877794625876086784/9_C2UNYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380956211/1522938503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 635,
+		"favorite_count": 976,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Britain didn't develop India. Quite the contrary: as Patnaik's work makes clear, India developed Britain.\" https://t.co/pzFmxUljRA"
+	},
+	{
+		"created_at": "Fri Dec 14 15:58:36 +0000 2018",
+		"id": 1073608200983846900,
+		"id_str": "1073608200983846912",
+		"full_text": "ACT 5: THIS TIME IT'S INTERGALACTIC https://t.co/9nRwDugtZT via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						64,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9nRwDugtZT",
+					"expanded_url": "https://giletsjaunesintergalactiques.home.blog/2018/12/14/eng/",
+					"display_url": "giletsjaunesintergalactiques.home.blog/2018/12/14/eng/",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1723,
+			"friends_count": 900,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1446,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ACT 5: THIS TIME IT'S INTERGALACTIC https://t.co/9nRwDugtZT via @wordpressdotcom"
+	},
+	{
+		"created_at": "Fri Dec 14 15:51:47 +0000 2018",
+		"id": 1073606485660311600,
+		"id_str": "1073606485660311553",
+		"full_text": "@ddeubel oh nice cheers; yes what i like about the computer version are the sound effects : ) also i cannot draw for toffee so there's that as well",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1073560514696020000,
+		"in_reply_to_status_id_str": "1073560514696019968",
+		"in_reply_to_user_id": 52174903,
+		"in_reply_to_user_id_str": "52174903",
+		"in_reply_to_screen_name": "ddeubel",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1723,
+			"friends_count": 900,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 7649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1446,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ddeubel oh nice cheers; yes what i like about the computer version are the sound effects : ) also i cannot draw for toffee so there's that as well"
+	},
+	{
 		"created_at": "Thu Dec 13 21:41:36 +0000 2018",
 		"id": 1073332134029508600,
 		"id_str": "1073332134029508610",
