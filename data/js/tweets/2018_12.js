@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 06:32:50 +0000 2018",
+		"id": 1073828207445438500,
+		"id_str": "1073828207445438464",
+		"full_text": "Quillette: barely more than a grievance study magazine full of bad research. 1/\nhttps://t.co/H1J6v5FGhN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H1J6v5FGhN",
+					"expanded_url": "https://arcdigital.media/a-quillette-article-pushes-bad-social-science-on-immigration-race-and-political-correctness-6da5d75834b9?sk=4a92a4e2a571dea4646594433c11d9fc",
+					"display_url": "arcdigital.media/a-quillette-ar…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3193766737,
+			"id_str": "3193766737",
+			"name": "Dr. Katja Thieme",
+			"screen_name": "Katja_Thieme",
+			"location": "Meißen",
+			"description": "#WritingStudies #DiscourseStudies #GenreStudies #CanLit. \"The epitome of the hysterical left wing!\" (a faceless troll). she/they. #cdnwrds #cdnpse #wrds350",
+			"url": "https://t.co/UJxB9WIJxO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UJxB9WIJxO",
+							"expanded_url": "https://medium.com/@KatjaT",
+							"display_url": "medium.com/@KatjaT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4088,
+			"friends_count": 3027,
+			"listed_count": 56,
+			"created_at": "Wed May 13 00:04:07 +0000 2015",
+			"favourites_count": 46175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006609394308485120/cpz6cDwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006609394308485120/cpz6cDwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3193766737/1528830083",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 125,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quillette: barely more than a grievance study magazine full of bad research. 1/\nhttps://t.co/H1J6v5FGhN"
+	},
+	{
+		"created_at": "Sat Dec 15 07:28:26 +0000 2018",
+		"id": 1073842201929515000,
+		"id_str": "1073842201929515008",
+		"full_text": "I donated to Grafton's College Staff. \nPlease go to https://t.co/hh3Fgd6DZl &amp; donate, even a small amount can help. \nI'm so sorry to see that teachers' associations don't support teachers when they need it. \n#SupportGraftonTeachers\nhttps://t.co/p9v8rAFK2n via @gofundme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SupportGraftonTeachers",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gofundme",
+					"name": "GoFundMe",
+					"id": 112897540,
+					"id_str": "112897540",
+					"indices": [
+						264,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hh3Fgd6DZl",
+					"expanded_url": "https://www.gofundme.com/graftoncollege",
+					"display_url": "gofundme.com/graftoncollege",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/p9v8rAFK2n",
+					"expanded_url": "http://gf.me/u/pbxxwh",
+					"display_url": "gf.me/u/pbxxwh",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran پریسا مهران ✊🏽💪🏽✌🏽🌷",
+			"screen_name": "ParisaMehran",
+			"location": "Earth",
+			"description": "An English👩🏽‍🏫!Living outside #Iran made me an activist trying to dispel stereotypes abt my identity🕊️Personal account.",
+			"url": "https://t.co/n5GLjpvZhj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpvZhj",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1674,
+			"friends_count": 4850,
+			"listed_count": 28,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 32192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9452,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072394120247865344/jO9fXqgW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072394120247865344/jO9fXqgW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1526402170",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I donated to Grafton's College Staff. \nPlease go to https://t.co/hh3Fgd6DZl &amp; donate, even a small amount can help. \nI'm so sorry to see that teachers' associations don't support teachers when they need it. \n#SupportGraftonTeachers\nhttps://t.co/p9v8rAFK2n via @gofundme"
+	},
+	{
+		"created_at": "Fri Dec 14 21:14:49 +0000 2018",
+		"id": 1073687779874361300,
+		"id_str": "1073687779874361344",
+		"full_text": "Tesla owner happiness",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://worms.r.us.com\" rel=\"nofollow\">Worm Academy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937764661302366200,
+			"id_str": "937764661302366209",
+			"name": "TeachingEnglish",
+			"screen_name": "ToWorms",
+			"location": "Anywhere",
+			"description": "A.I. evangelist parody bot. Dedicated to Jerry Fodor & righteous rationalists everywhere.",
+			"url": "https://t.co/tk5Gi7OkYw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tk5Gi7OkYw",
+							"expanded_url": "http://down.with.empiricism.com",
+							"display_url": "down.with.empiricism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Dec 04 19:24:52 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937786490641412098/QdSfyfrW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937786490641412098/QdSfyfrW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937764661302366209/1512424057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tesla owner happiness"
+	},
+	{
 		"created_at": "Fri Dec 14 21:14:49 +0000 2018",
 		"id": 1073687779874361300,
 		"id_str": "1073687779874361344",
