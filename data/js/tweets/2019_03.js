@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 21:00:21 +0000 2019",
+		"id": 1105936658820669400,
+		"id_str": "1105936658820669440",
+		"full_text": "\"The challenge for language teaching in the twenty-first century is to deal with semiological realities in preference to promoting old linguistic fictions or implementing political agendas\" - Roy Harris https://t.co/po7tnt7Jar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105936585286144000,
+					"id_str": "1105936585286144001",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D1kTdv4W0AECpiS.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1kTdv4W0AECpiS.png",
+					"url": "https://t.co/po7tnt7Jar",
+					"display_url": "pic.twitter.com/po7tnt7Jar",
+					"expanded_url": "https://twitter.com/muranava/status/1105936658820669440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 836,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 836,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105936585286144000,
+					"id_str": "1105936585286144001",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D1kTdv4W0AECpiS.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1kTdv4W0AECpiS.png",
+					"url": "https://t.co/po7tnt7Jar",
+					"display_url": "pic.twitter.com/po7tnt7Jar",
+					"expanded_url": "https://twitter.com/muranava/status/1105936658820669440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 836,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 836,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 910,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The challenge for language teaching in the twenty-first century is to deal with semiological realities in preference to promoting old linguistic fictions or implementing political agendas\" - Roy Harris https://t.co/po7tnt7Jar"
+	},
+	{
+		"created_at": "Wed Mar 13 19:43:07 +0000 2019",
+		"id": 1105917221770092500,
+		"id_str": "1105917221770092544",
+		"full_text": "@leoselivan @robshpprd @patrickelt : )",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "robshpprd",
+					"name": "Rob Sheppard",
+					"id": 2998216702,
+					"id_str": "2998216702",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "patrickelt",
+					"name": "Patrick Andrews",
+					"id": 2292503990,
+					"id_str": "2292503990",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105907827426713600,
+		"in_reply_to_status_id_str": "1105907827426713600",
+		"in_reply_to_user_id": 408365496,
+		"in_reply_to_user_id_str": "408365496",
+		"in_reply_to_screen_name": "leoselivan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 910,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@leoselivan @robshpprd @patrickelt : )"
+	},
+	{
+		"created_at": "Wed Mar 13 19:07:02 +0000 2019",
+		"id": 1105908143744344000,
+		"id_str": "1105908143744344066",
+		"full_text": "@patrickelt @robshpprd i would change the title to \"Against naive evaluations of learner collocations\" as such collocations can be over-generalisations of non-learner collocations i.e. learners have learnt them after-all : )",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickelt",
+					"name": "Patrick Andrews",
+					"id": 2292503990,
+					"id_str": "2292503990",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "robshpprd",
+					"name": "Rob Sheppard",
+					"id": 2998216702,
+					"id_str": "2998216702",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105907031058366500,
+		"in_reply_to_status_id_str": "1105907031058366464",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 910,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@patrickelt @robshpprd i would change the title to \"Against naive evaluations of learner collocations\" as such collocations can be over-generalisations of non-learner collocations i.e. learners have learnt them after-all : )"
+	},
+	{
+		"created_at": "Wed Mar 13 19:02:37 +0000 2019",
+		"id": 1105907031058366500,
+		"id_str": "1105907031058366464",
+		"full_text": "@patrickelt @robshpprd the problem with using \"intelligibility\" as a criterion is that it can only be evaluated by participants in particular situations (what is \"intelligible\" at one time may not be another) &amp; so we still have the question of what collocations (if any) to teach",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patrickelt",
+					"name": "Patrick Andrews",
+					"id": 2292503990,
+					"id_str": "2292503990",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "robshpprd",
+					"name": "Rob Sheppard",
+					"id": 2998216702,
+					"id_str": "2998216702",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105898133987446800,
+		"in_reply_to_status_id_str": "1105898133987446790",
+		"in_reply_to_user_id": 2292503990,
+		"in_reply_to_user_id_str": "2292503990",
+		"in_reply_to_screen_name": "patrickelt",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 910,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@patrickelt @robshpprd the problem with using \"intelligibility\" as a criterion is that it can only be evaluated by participants in particular situations (what is \"intelligible\" at one time may not be another) &amp; so we still have the question of what collocations (if any) to teach"
+	},
+	{
+		"created_at": "Wed Mar 13 17:59:23 +0000 2019",
+		"id": 1105891115570483200,
+		"id_str": "1105891115570483206",
+		"full_text": "#ELTHotTake https://t.co/GfOi3jXc13",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELTHotTake",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GfOi3jXc13",
+					"expanded_url": "https://twitter.com/mrkm_a/status/1105881928597757952",
+					"display_url": "twitter.com/mrkm_a/status/…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 910,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105881928597758000,
+		"quoted_status_id_str": "1105881928597757952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GfOi3jXc13",
+			"expanded": "https://twitter.com/mrkm_a/status/1105881928597757952",
+			"display": "twitter.com/mrkm_a/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 13 17:22:52 +0000 2019",
+			"id": 1105881928597758000,
+			"id_str": "1105881928597757952",
+			"full_text": "\"I . . . argue that the increasing interest in the teaching and learning of collocations is often the result of native-speakerism (Holliday 2006).\"\n\nReynolds (in press). Against teaching collocations\nhttps://t.co/07VumBVVLM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/07VumBVVLM",
+						"expanded_url": "https://academic.oup.com/eltj/advance-article/doi/10.1093/elt/ccz001/5372902",
+						"display_url": "academic.oup.com/eltj/advance-a…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116922669,
+				"id_str": "116922669",
+				"name": "Akira Murakami",
+				"screen_name": "mrkm_a",
+				"location": "Birmingham, England",
+				"description": "Birmingham Fellow at @Eng_Lang_UoB and Visiting Scientist at @RIKEN_AIP_EN / Interests: SLA, corpus linguistics, statistics / Fan of table tennis and shogi",
+				"url": "https://t.co/u2KnZi5vf6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u2KnZi5vf6",
+								"expanded_url": "http://www.akira-murakami.com/",
+								"display_url": "akira-murakami.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1365,
+				"friends_count": 297,
+				"listed_count": 116,
+				"created_at": "Wed Feb 24 00:31:41 +0000 2010",
+				"favourites_count": 4774,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18460,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/491819353784860672/LqdQ1Sye_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/491819353784860672/LqdQ1Sye_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116922669/1495821545",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ELTHotTake https://t.co/GfOi3jXc13"
+	},
+	{
 		"created_at": "Mon Mar 11 00:35:45 +0000 2019",
 		"id": 1104903704573067300,
 		"id_str": "1104903704573067264",
