@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 14:56:40 +0000 2019",
+		"id": 1115267220693712900,
+		"id_str": "1115267220693712897",
+		"full_text": "@GeoffreyJordan Maybe @nathanghall could pass on queries to his colleague?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nathanghall",
+					"name": "Nathan Hall",
+					"id": 192437743,
+					"id_str": "192437743",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115263961778335700,
+		"in_reply_to_status_id_str": "1115263961778335750",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1782,
+			"friends_count": 939,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan Maybe @nathanghall could pass on queries to his colleague?"
+	},
+	{
+		"created_at": "Mon Apr 08 13:40:06 +0000 2019",
+		"id": 1115247949179752400,
+		"id_str": "1115247949179752449",
+		"full_text": "@GeoffreyJordan the report lists 6 but they say they looked at top 100 from AVL; strange they did not reference modern studies which have produced collocation lists?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115241785457033200,
+		"in_reply_to_status_id_str": "1115241785457033216",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1782,
+			"friends_count": 939,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan the report lists 6 but they say they looked at top 100 from AVL; strange they did not reference modern studies which have produced collocation lists?"
+	},
+	{
+		"created_at": "Mon Apr 08 13:03:38 +0000 2019",
+		"id": 1115238775091863600,
+		"id_str": "1115238775091863553",
+		"full_text": "@GeoffreyJordan also the dictionary is General Eng &amp; they used search words from an Academic list?! the more i read it more bizarre it seems (btw the Ozdic is apparently copyright infringing Oxford Collocations Dictionary hence why study can't list collocates from Ozdic)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1115214847086682100,
+		"in_reply_to_status_id_str": "1115214847086682114",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1782,
+			"friends_count": 939,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan also the dictionary is General Eng &amp; they used search words from an Academic list?! the more i read it more bizarre it seems (btw the Ozdic is apparently copyright infringing Oxford Collocations Dictionary hence why study can't list collocates from Ozdic)"
+	},
+	{
+		"created_at": "Mon Apr 08 08:23:01 +0000 2019",
+		"id": 1115166522975096800,
+		"id_str": "1115168152864870402",
+		"full_text": "One-sentence summaries of all the #iatefl2019 talks I watched! https://t.co/KVkXDiMIv4 Includes summaries of presentations by @hkuchah1 @carolread  @prebolledoc  @clethaby @HancockMcDonald @davidcnunan @BenBeaumont9 @ross_thorburn @iateflonline @IHlondon @cecilianobreelt @laloli https://t.co/XS623bpp3W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iatefl2019",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hkuchah1",
+					"name": "Harry Kuchah",
+					"id": 2827793584,
+					"id_str": "2827793584",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"screen_name": "carolread",
+					"name": "Carol Read",
+					"id": 98188554,
+					"id_str": "98188554",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"screen_name": "prebolledoc",
+					"name": "Paula Rebolledo",
+					"id": 132325603,
+					"id_str": "132325603",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"screen_name": "clethaby",
+					"name": "Carol Lethaby",
+					"id": 235233963,
+					"id_str": "235233963",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"screen_name": "HancockMcDonald",
+					"name": "Hancock McDonald ELT",
+					"id": 552929354,
+					"id_str": "552929354",
+					"indices": [
+						172,
+						188
+					]
+				},
+				{
+					"screen_name": "davidcnunan",
+					"name": "David Nunan",
+					"id": 939799607403409400,
+					"id_str": "939799607403409408",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"screen_name": "BenBeaumont9",
+					"name": "Ben Beaumont",
+					"id": 701094552027983900,
+					"id_str": "701094552027983873",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"screen_name": "ross_thorburn",
+					"name": "Ross Thorburn",
+					"id": 3153403829,
+					"id_str": "3153403829",
+					"indices": [
+						216,
+						230
+					]
+				},
+				{
+					"screen_name": "iateflonline",
+					"name": "IATEFL Online",
+					"id": 17447359,
+					"id_str": "17447359",
+					"indices": [
+						231,
+						244
+					]
+				},
+				{
+					"screen_name": "IHLondon",
+					"name": "IH London",
+					"id": 21182478,
+					"id_str": "21182478",
+					"indices": [
+						245,
+						254
+					]
+				},
+				{
+					"screen_name": "cecilianobreelt",
+					"name": "Cecilia Nobre",
+					"id": 756964220508446700,
+					"id_str": "756964220508446720",
+					"indices": [
+						255,
+						271
+					]
+				},
+				{
+					"screen_name": "LaLoli",
+					"name": "pour la vie ❤",
+					"id": 2169635457,
+					"id_str": "2169635457",
+					"indices": [
+						272,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KVkXDiMIv4",
+					"expanded_url": "https://buff.ly/2KfiMUv",
+					"display_url": "buff.ly/2KfiMUv",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115166520836010000,
+					"id_str": "1115166520836009984",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D3neCtPWsAAbyO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3neCtPWsAAbyO1.jpg",
+					"url": "https://t.co/XS623bpp3W",
+					"display_url": "pic.twitter.com/XS623bpp3W",
+					"expanded_url": "https://twitter.com/BarefootTEFL/status/1115166522975096834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115166520836010000,
+					"id_str": "1115166520836009984",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D3neCtPWsAAbyO1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3neCtPWsAAbyO1.jpg",
+					"url": "https://t.co/XS623bpp3W",
+					"display_url": "pic.twitter.com/XS623bpp3W",
+					"expanded_url": "https://twitter.com/BarefootTEFL/status/1115166522975096834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1224145945,
+			"id_str": "1224145945",
+			"name": "David Weller",
+			"screen_name": "BarefootTEFL",
+			"location": "Torquay, UK",
+			"description": "Teacher, trainer, manager, insatiable coffee drinker. Writes at https://t.co/is9xiL6RVq",
+			"url": "http://t.co/lSoOVurADZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lSoOVurADZ",
+							"expanded_url": "http://www.barefootteflteacher.com",
+							"display_url": "barefootteflteacher.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/is9xiL6RVq",
+							"expanded_url": "http://www.BarefootTEFLteacher.com",
+							"display_url": "BarefootTEFLteacher.com",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 453,
+			"friends_count": 419,
+			"listed_count": 17,
+			"created_at": "Wed Feb 27 09:37:00 +0000 2013",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE7114",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773771885796593664/u6Kn1rJ3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773771885796593664/u6Kn1rJ3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1224145945/1547454547",
+			"profile_link_color": "4484CE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One-sentence summaries of all the #iatefl2019 talks I watched! https://t.co/KVkXDiMIv4 Includes summaries of presentations by @hkuchah1 @carolread  @prebolledoc  @clethaby @HancockMcDonald @davidcnunan @BenBeaumont9 @ross_thorburn @iateflonline @IHlondon @cecilianobreelt @laloli https://t.co/XS623bpp3W"
+	},
+	{
 		"created_at": "Sun Apr 07 21:24:05 +0000 2019",
 		"id": 1115002329420447700,
 		"id_str": "1115002329420447744",
