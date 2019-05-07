@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 21:44:08 +0000 2019",
+		"id": 1125433164514627600,
+		"id_str": "1125516623648051204",
+		"full_text": "If you have a #CELTA, read this. \n\nThere really isn't enough money to teach in #ELT as a job in the UK. @josipa74 described this phenomenon as the 'CELTA to poverty pipeline'. #UnioniseTheFight #ELT #TEFL @ELTIreland @taw_sig @theeltworker @teflguild @QQI_connect @hkuchah1 https://t.co/9ZEsPXMM2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CELTA",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "UnioniseTheFight",
+					"indices": [
+						176,
+						193
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						199,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josipa74",
+					"name": "paulw",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"screen_name": "theeltworker",
+					"name": "theeltworker",
+					"id": 1069661253969293300,
+					"id_str": "1069661253969293312",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "teflguild",
+					"name": "TEFL Guild",
+					"id": 732157129818316800,
+					"id_str": "732157129818316802",
+					"indices": [
+						240,
+						250
+					]
+				},
+				{
+					"screen_name": "QQI_connect",
+					"name": "QQI",
+					"id": 773886752067096600,
+					"id_str": "773886752067096576",
+					"indices": [
+						251,
+						263
+					]
+				},
+				{
+					"screen_name": "hkuchah1",
+					"name": "Harry Kuchah",
+					"id": 2827793584,
+					"id_str": "2827793584",
+					"indices": [
+						264,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9ZEsPXMM2T",
+					"expanded_url": "https://twitter.com/CarterRhiannon/status/1124968443273412608",
+					"display_url": "twitter.com/CarterRhiannon…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1087,
+			"friends_count": 1035,
+			"listed_count": 23,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 3972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3457,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124968443273412600,
+		"quoted_status_id_str": "1124968443273412608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9ZEsPXMM2T",
+			"expanded": "https://twitter.com/CarterRhiannon/status/1124968443273412608",
+			"display": "twitter.com/CarterRhiannon…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 05 09:25:52 +0000 2019",
+			"id": 1124968443273412600,
+			"id_str": "1124968443273412608",
+			"full_text": "Here it is. My second blog. Less than two months after the last one - my average is improving.\n\nIt is all about the shit shit pay in the UK ELT industry. \n\nEnjoy. Or rather, get angry with me.\n\nhttps://t.co/xZuYjeFeQX\n\n#elt #tefl #blog #workingconditions https://t.co/tw3YUnbgwD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "elt",
+						"indices": [
+							219,
+							223
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							224,
+							229
+						]
+					},
+					{
+						"text": "blog",
+						"indices": [
+							230,
+							235
+						]
+					},
+					{
+						"text": "workingconditions",
+						"indices": [
+							236,
+							254
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xZuYjeFeQX",
+						"expanded_url": "http://www.tiny.cc/8aj75y",
+						"display_url": "tiny.cc/8aj75y",
+						"indices": [
+							194,
+							217
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1124968435912458200,
+						"id_str": "1124968435912458240",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5yw1QYWwAA0NPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5yw1QYWwAA0NPF.jpg",
+						"url": "https://t.co/tw3YUnbgwD",
+						"display_url": "pic.twitter.com/tw3YUnbgwD",
+						"expanded_url": "https://twitter.com/CarterRhiannon/status/1124968443273412608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124968435912458200,
+						"id_str": "1124968435912458240",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5yw1QYWwAA0NPF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5yw1QYWwAA0NPF.jpg",
+						"url": "https://t.co/tw3YUnbgwD",
+						"display_url": "pic.twitter.com/tw3YUnbgwD",
+						"expanded_url": "https://twitter.com/CarterRhiannon/status/1124968443273412608/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D5yw1QYWwAA0NPF.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 292541051,
+				"id_str": "292541051",
+				"name": "Rhiannon Carter",
+				"screen_name": "CarterRhiannon",
+				"location": "Edinburgh, Scotland",
+				"description": "Delta-qualified ELT teacher in Scotland.",
+				"url": "https://t.co/R2SDf4nF05",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R2SDf4nF05",
+								"expanded_url": "http://www.rhiannonelt.com",
+								"display_url": "rhiannonelt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 278,
+				"friends_count": 352,
+				"listed_count": 0,
+				"created_at": "Tue May 03 20:28:52 +0000 2011",
+				"favourites_count": 2618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031074389570342912/NZ1qGGZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031074389570342912/NZ1qGGZ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/292541051/1376421374",
+				"profile_link_color": "4B1382",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you have a #CELTA, read this. \n\nThere really isn't enough money to teach in #ELT as a job in the UK. @josipa74 described this phenomenon as the 'CELTA to poverty pipeline'. #UnioniseTheFight #ELT #TEFL @ELTIreland @taw_sig @theeltworker @teflguild @QQI_connect @hkuchah1 https://t.co/9ZEsPXMM2T"
+	},
+	{
 		"created_at": "Sat May 04 22:00:55 +0000 2019",
 		"id": 1124796068913471500,
 		"id_str": "1124796068913471488",
