@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 21:05:00 +0000 2019",
+		"id": 1125834841436639200,
+		"id_str": "1125869161954127874",
+		"full_text": "@Croydonense writes a witty summary of 3 talks by Gilabert, Mora-Plaza &amp; @neil_mcm at #ELTRIA2019 EIM-UB Teacher Development: ELTRIA 2019 Roundup - Dizzy Taskals https://t.co/tvYmdaSVmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELTRIA2019",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Croydonense",
+					"name": "Matthew Evans",
+					"id": 1122093614081945600,
+					"id_str": "1122093614081945601",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tvYmdaSVmz",
+					"expanded_url": "https://eim-ub.blogspot.com/2019/05/eltria-2019-roundup-dizzy-taskals.html?spref=tw",
+					"display_url": "eim-ub.blogspot.com/2019/05/eltria…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1122093614081945600,
+		"in_reply_to_user_id_str": "1122093614081945601",
+		"in_reply_to_screen_name": "Croydonense",
+		"user": {
+			"id": 21786136,
+			"id_str": "21786136",
+			"name": "Jessica Mackay",
+			"screen_name": "JessBCN",
+			"location": "Barcelona, Spain",
+			"description": "EFL teacher, head of CPD, Escola d'Idiomes Moderns, Universitat de Barcelona. RSA Dip, MA & PhD App. Linguistics. I generally tweet from conferences.",
+			"url": "https://t.co/SUNHXGz3Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUNHXGz3Jo",
+							"expanded_url": "http://eim-ub.blogspot.com/",
+							"display_url": "eim-ub.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 361,
+			"listed_count": 11,
+			"created_at": "Tue Feb 24 19:26:24 +0000 2009",
+			"favourites_count": 673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572051039184891904/9tkfXGY6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572051039184891904/9tkfXGY6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21786136/1554535012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Croydonense writes a witty summary of 3 talks by Gilabert, Mora-Plaza &amp; @neil_mcm at #ELTRIA2019 EIM-UB Teacher Development: ELTRIA 2019 Roundup - Dizzy Taskals https://t.co/tvYmdaSVmz"
+	},
+	{
 		"created_at": "Mon May 06 21:44:08 +0000 2019",
 		"id": 1125433164514627600,
 		"id_str": "1125516623648051204",
