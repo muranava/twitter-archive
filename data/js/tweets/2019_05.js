@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 19:46:59 +0000 2019",
+		"id": 1126565230018990100,
+		"id_str": "1126574302210424837",
+		"full_text": "What!? A whole podcast SERIES on HLTPs!? Check this out @profeashley &amp; @ritzforlang! #langchat https://t.co/IApNruOtWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "langchat",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profeashley",
+					"name": "Ashley Uyaguari",
+					"id": 2486268770,
+					"id_str": "2486268770",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IApNruOtWj",
+					"expanded_url": "http://www.nflrc.hawaii.edu/events/view/120/?fbclid=IwAR15HzgUtXrpAcDAF2RnEpwjTjxQU26_yoqW5v8HkBuq_3upywPOuLX53aQ#.XNR7HogFj18.twitter",
+					"display_url": "nflrc.hawaii.edu/events/view/12…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2587873423,
+			"id_str": "2587873423",
+			"name": "Rebecca Blouwolff",
+			"screen_name": "MmeBlouwolff",
+			"location": "",
+			"description": "Middle school French NBCT around Boston. MaFLA & NECTFL TOY 2019. All about proficiency, thematic units, #authres, #langchat & #langbook. Pinterest: rblouwolff.",
+			"url": "http://t.co/OFduAxbxCU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OFduAxbxCU",
+							"expanded_url": "http://mmeblouwolff.weebly.com/",
+							"display_url": "mmeblouwolff.weebly.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2592,
+			"friends_count": 3809,
+			"listed_count": 57,
+			"created_at": "Wed Jun 25 16:56:20 +0000 2014",
+			"favourites_count": 9532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5621,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847587907716218880/KvDHTHDR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847587907716218880/KvDHTHDR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587873423/1551360460",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What!? A whole podcast SERIES on HLTPs!? Check this out @profeashley &amp; @ritzforlang! #langchat https://t.co/IApNruOtWj"
+	},
+	{
 		"created_at": "Wed May 08 23:55:16 +0000 2019",
 		"id": 1126274398997098500,
 		"id_str": "1126274398997098497",
