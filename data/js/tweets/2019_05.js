@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 18:29:43 +0000 2019",
+		"id": 1128952558788272100,
+		"id_str": "1129091576087687168",
+		"full_text": "Blog authors! A little #poll about your blogging feelings. What reaction to your post makes you happiest:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "poll",
+					"indices": [
+						23,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3439998148,
+			"id_str": "3439998148",
+			"name": "Kamila Linková",
+			"screen_name": "kamilaofprague",
+			"location": "Praha, Česká republika",
+			"description": "I teach the world Czech and the locals English.\nRole model: Mr. Parkhill, the teacher of Mr. H*y*m*a*n K*a*p*l*a*n\nGuilty pleasure: good old roman policier",
+			"url": "https://t.co/5hfOW3Y0mJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5hfOW3Y0mJ",
+							"expanded_url": "http://kamilaofprague.wordpress.com",
+							"display_url": "kamilaofprague.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 703,
+			"listed_count": 65,
+			"created_at": "Tue Aug 25 20:48:21 +0000 2015",
+			"favourites_count": 14878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12495,
+			"lang": "cs",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108678801356132352/rNYTMkg__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108678801356132352/rNYTMkg__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3439998148/1553164599",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Blog authors! A little #poll about your blogging feelings. What reaction to your post makes you happiest:"
+	},
+	{
+		"created_at": "Thu May 16 12:56:03 +0000 2019",
+		"id": 1129007604494155800,
+		"id_str": "1129007604494155776",
+		"full_text": "@marcjonestyo @SarahP_ELT Glad to, need an informal channel to discuss these things",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcjonestyo",
+					"name": "marcjonestyo",
+					"id": 1014494170839306200,
+					"id_str": "1014494170839306240",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SarahP_ELT",
+					"name": "Sarah Priestley",
+					"id": 722068533295886300,
+					"id_str": "722068533295886336",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1129001009475248100,
+		"in_reply_to_status_id_str": "1129001009475248128",
+		"in_reply_to_user_id": 1014494170839306200,
+		"in_reply_to_user_id_str": "1014494170839306240",
+		"in_reply_to_screen_name": "marcjonestyo",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1799,
+			"friends_count": 967,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marcjonestyo @SarahP_ELT Glad to, need an informal channel to discuss these things"
+	},
+	{
+		"created_at": "Thu May 16 12:27:43 +0000 2019",
+		"id": 1128974259974430700,
+		"id_str": "1129000472591896576",
+		"full_text": "So, I think I am ready to roll out an idea. Who would be interested in joining a (virtual) L2 listening research group? Basically, try and have a meeting on Zoom monthly, pop it on YouTube or similar shortly after, and assemble a collection of working papers annually? DM/@ me!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1014494170839306200,
+			"id_str": "1014494170839306240",
+			"name": "marcjonestyo",
+			"screen_name": "marcjonestyo",
+			"location": "Tokyo",
+			"description": "English Language Teacher in Tokyo/Kawasaki/Yokohama. I can teach, design materials, and give training in Task-Based teaching, listening and pronunciation.",
+			"url": "https://t.co/FtKFewZDYB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FtKFewZDYB",
+							"expanded_url": "http://marcjones.tokyo/",
+							"display_url": "marcjones.tokyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229,
+			"friends_count": 214,
+			"listed_count": 3,
+			"created_at": "Wed Jul 04 13:00:33 +0000 2018",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So, I think I am ready to roll out an idea. Who would be interested in joining a (virtual) L2 listening research group? Basically, try and have a meeting on Zoom monthly, pop it on YouTube or similar shortly after, and assemble a collection of working papers annually? DM/@ me!"
+	},
+	{
+		"created_at": "Thu May 16 09:04:31 +0000 2019",
+		"id": 1128946387067002900,
+		"id_str": "1128949336765816832",
+		"full_text": "@sandymillin @tesolmatthew @leoselivan @AnthonyTeacher @michaelegriffin @muranava @BenNaismithELT @timhampson @scottroydouglas @nathanghall @lauraahaha So, I finally got round to looking ... and it turned into a whole blog post! https://t.co/O7XkilQ7CP #corpusresearch #ELT",
+		"truncated": false,
+		"display_text_range": [
+			152,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpusresearch",
+					"indices": [
+						253,
+						268
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandymillin",
+					"name": "Sandy Millin 🇪🇺",
+					"id": 144236944,
+					"id_str": "144236944",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tesolmatthew",
+					"name": "Matthew Noble",
+					"id": 1519875330,
+					"id_str": "1519875330",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "AnthonyTeacher",
+					"name": "Anthony Schmidt",
+					"id": 285614027,
+					"id_str": "285614027",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "michaelegriffin",
+					"name": "Michael Griffin",
+					"id": 394053348,
+					"id_str": "394053348",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "BenNaismithELT",
+					"name": "Ben Naismith",
+					"id": 305248493,
+					"id_str": "305248493",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"screen_name": "timhampson",
+					"name": "ELT: What Tim Feels",
+					"id": 19422628,
+					"id_str": "19422628",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "scottroydouglas",
+					"name": "Scott Roy Douglas",
+					"id": 1263168308,
+					"id_str": "1263168308",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"screen_name": "nathanghall",
+					"name": "Nathan Hall",
+					"id": 192437743,
+					"id_str": "192437743",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"screen_name": "lauraahaha",
+					"name": "Laura Patsko",
+					"id": 97957137,
+					"id_str": "97957137",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O7XkilQ7CP",
+					"expanded_url": "https://lexicoblog.blogspot.com/2019/05/do-we-ever-mess-up-things.html",
+					"display_url": "lexicoblog.blogspot.com/2019/05/do-we-…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1126917631360098300,
+		"in_reply_to_status_id_str": "1126917631360098305",
+		"in_reply_to_user_id": 144236944,
+		"in_reply_to_user_id_str": "144236944",
+		"in_reply_to_screen_name": "sandymillin",
+		"user": {
+			"id": 424320799,
+			"id_str": "424320799",
+			"name": "Julie Moore",
+			"screen_name": "lexicojules",
+			"location": "Bristol, UK",
+			"description": "Freelance ELT writer, corpus researcher, teacher trainer and lexicographer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 270,
+			"listed_count": 65,
+			"created_at": "Tue Nov 29 16:44:41 +0000 2011",
+			"favourites_count": 4357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/478823971870109696/AzIax4m3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/478823971870109696/AzIax4m3_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/424320799/1479738431",
+			"profile_link_color": "46616E",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sandymillin @tesolmatthew @leoselivan @AnthonyTeacher @michaelegriffin @muranava @BenNaismithELT @timhampson @scottroydouglas @nathanghall @lauraahaha So, I finally got round to looking ... and it turned into a whole blog post! https://t.co/O7XkilQ7CP #corpusresearch #ELT"
+	},
+	{
 		"created_at": "Tue May 14 19:27:52 +0000 2019",
 		"id": 1128381432903143400,
 		"id_str": "1128381432903143424",
