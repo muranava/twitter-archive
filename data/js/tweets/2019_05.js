@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 13:57:45 +0000 2019",
+		"id": 1129522644221595600,
+		"id_str": "1129747909405233154",
+		"full_text": "I’m not doing this again https://t.co/93jILnHxWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129521698951368700,
+					"id_str": "1129521698951368704",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129521698951368704/pu/img/BcVFKuMQkr3jTJqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129521698951368704/pu/img/BcVFKuMQkr3jTJqL.jpg",
+					"url": "https://t.co/93jILnHxWk",
+					"display_url": "pic.twitter.com/93jILnHxWk",
+					"expanded_url": "https://twitter.com/afuahirsch/status/1129522644221595650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129521698951368700,
+					"id_str": "1129521698951368704",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129521698951368704/pu/img/BcVFKuMQkr3jTJqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129521698951368704/pu/img/BcVFKuMQkr3jTJqL.jpg",
+					"url": "https://t.co/93jILnHxWk",
+					"display_url": "pic.twitter.com/93jILnHxWk",
+					"expanded_url": "https://twitter.com/afuahirsch/status/1129522644221595650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"duration_millis": 84116,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129521698951368704/pu/vid/320x180/Pns27fqHgppl3Uvt.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129521698951368704/pu/pl/iyV_kOfd7NBFFD_M.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129521698951368704/pu/vid/642x360/CB1k3WOen0_BcF_Y.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129521698951368704/pu/vid/1280x716/SY1r-rOr0aBdsoLQ.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20137622,
+			"id_str": "20137622",
+			"name": "Afua Hirsch",
+			"screen_name": "afuahirsch",
+			"location": "London",
+			"description": "Wallis Annenberg Chair of Journalism 2019 @USC. Writer, Broadcaster, @ManBookerPrize Judge 2019, author of bestselling book Brit(ish) out now!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90556,
+			"friends_count": 9315,
+			"listed_count": 1206,
+			"created_at": "Thu Feb 05 10:57:43 +0000 2009",
+			"favourites_count": 2162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6DC1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20137622/1536959717",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "0A0B0B",
+			"profile_sidebar_fill_color": "F42A2C",
+			"profile_text_color": "131010",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17600,
+		"favorite_count": 52435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m not doing this again https://t.co/93jILnHxWk"
+	},
+	{
 		"created_at": "Thu May 16 18:29:43 +0000 2019",
 		"id": 1128952558788272100,
 		"id_str": "1129091576087687168",
