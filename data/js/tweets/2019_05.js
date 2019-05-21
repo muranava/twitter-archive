@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 20:36:39 +0000 2019",
+		"id": 1130573069620326400,
+		"id_str": "1130573069620326402",
+		"full_text": "interesting linguistic law gymnastics described here - The Missing Step: https://t.co/C1WhTypa4q - via:@CraigMurrayOrg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigMurrayOrg",
+					"name": "Craig Murray",
+					"id": 27716419,
+					"id_str": "27716419",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C1WhTypa4q",
+					"expanded_url": "https://www.craigmurray.org.uk/archives/2019/05/the-missing-step/",
+					"display_url": "craigmurray.org.uk/archives/2019/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1798,
+			"friends_count": 957,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting linguistic law gymnastics described here - The Missing Step: https://t.co/C1WhTypa4q - via:@CraigMurrayOrg"
+	},
+	{
+		"created_at": "Mon May 20 15:00:19 +0000 2019",
+		"id": 1130488177616183300,
+		"id_str": "1130488430322962432",
+		"full_text": "Inspired by @SCinLS &amp; #KOTESOL POC Ts SIG, I've started #WomenofColor in #ELT.\nIf you identify as a #WOCinELT, fill out this form: https://t.co/YwodEPFXxX\nIf you want to support @WOCinELT, check… https://t.co/QsgMEWyw9P https://t.co/zC5rxVtgwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KOTESOL",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "WomenofColor",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "WOCinELT",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCinLS",
+					"name": "Scholars of Color in Language Studies",
+					"id": 1069667650928762900,
+					"id_str": "1069667650928762882",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "WOCinELT",
+					"name": "Women of Color in ELT",
+					"id": 1123152376381075500,
+					"id_str": "1123152376381075457",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YwodEPFXxX",
+					"expanded_url": "http://bit.ly/WOCinELTForm",
+					"display_url": "bit.ly/WOCinELTForm",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/QsgMEWyw9P",
+					"expanded_url": "https://parisamehran.wordpress.com/2019/05/20/women-of-color-in-elt/",
+					"display_url": "parisamehran.wordpress.com/2019/05/20/wom…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130488175284097000,
+					"id_str": "1130488175284097025",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BNAX6WkAEZO-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7BNAX6WkAEZO-f.jpg",
+					"url": "https://t.co/zC5rxVtgwO",
+					"display_url": "pic.twitter.com/zC5rxVtgwO",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1130488177616183296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130488175284097000,
+					"id_str": "1130488175284097025",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/D7BNAX6WkAEZO-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7BNAX6WkAEZO-f.jpg",
+					"url": "https://t.co/zC5rxVtgwO",
+					"display_url": "pic.twitter.com/zC5rxVtgwO",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1130488177616183296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫|Racial #Equity Advocate|#IATEFL @IPSENSIG Web Coord|#SIETAR @SietarKansaiJP Twitter Coord|Blogger @BydStereotypes|Founder @WOCinELT #WOCinELT",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1941,
+			"friends_count": 3822,
+			"listed_count": 29,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 42970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12648,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128564176446607360/N2XS-p_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128564176446607360/N2XS-p_D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1555658908",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspired by @SCinLS &amp; #KOTESOL POC Ts SIG, I've started #WomenofColor in #ELT.\nIf you identify as a #WOCinELT, fill out this form: https://t.co/YwodEPFXxX\nIf you want to support @WOCinELT, check… https://t.co/QsgMEWyw9P https://t.co/zC5rxVtgwO"
+	},
+	{
 		"created_at": "Sat May 18 13:57:45 +0000 2019",
 		"id": 1129522644221595600,
 		"id_str": "1129747909405233154",
