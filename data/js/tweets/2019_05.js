@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 21:21:49 +0000 2019",
+		"id": 1131454864721154000,
+		"id_str": "1132033987822665729",
+		"full_text": "✋BOYCOTT✋SENATE✋HOUSE✋\nWorkers at @UoLondon have been campaigning for almost two years to end outsourcing. @London's response has been to ignore calls for negotiation &amp; use heavy handed tactics to try &amp; crush dissent.\n\nSo in Dec 2018, the workers launched #boycottsenatehouse https://t.co/1kMrHLUatp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "boycottsenatehouse",
+					"indices": [
+						264,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoLondon",
+					"name": "University of London",
+					"id": 555195877,
+					"id_str": "555195877",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "London",
+					"name": "London",
+					"id": 935579518433136600,
+					"id_str": "935579518433136640",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131447423602241500,
+					"id_str": "1131447423602241536",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131447423602241536/pu/img/hGaZYIsOHxMNmUan.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131447423602241536/pu/img/hGaZYIsOHxMNmUan.jpg",
+					"url": "https://t.co/1kMrHLUatp",
+					"display_url": "pic.twitter.com/1kMrHLUatp",
+					"expanded_url": "https://twitter.com/boycottUoL/status/1131454864721154048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131447423602241500,
+					"id_str": "1131447423602241536",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131447423602241536/pu/img/hGaZYIsOHxMNmUan.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131447423602241536/pu/img/hGaZYIsOHxMNmUan.jpg",
+					"url": "https://t.co/1kMrHLUatp",
+					"display_url": "pic.twitter.com/1kMrHLUatp",
+					"expanded_url": "https://twitter.com/boycottUoL/status/1131454864721154048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1131447423602241536/pu/pl/Zrp1jxFIYmOnTBOV.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131447423602241536/pu/vid/320x180/R7iybZN4qlLQWcUM.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131447423602241536/pu/vid/1280x720/bSdpg-9nWigin09K.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131447423602241536/pu/vid/640x360/7mzraUaxZnrpHmN5.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850699748,
+			"id_str": "850699748",
+			"name": "BOYCOTT SENATE HOUSE",
+			"screen_name": "boycottUoL",
+			"location": "London, England",
+			"description": "We pledge to boycott @uolondon @londonu until it ends outsourcing and brings outsourced workers in-house. An @iwgbunion campaign.",
+			"url": "https://t.co/stJWDTZZs3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stJWDTZZs3",
+							"expanded_url": "http://www.boycottsenatehouse.com",
+							"display_url": "boycottsenatehouse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2967,
+			"friends_count": 1526,
+			"listed_count": 35,
+			"created_at": "Fri Sep 28 08:26:49 +0000 2012",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E31517",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072033299659415552/RUhSzTr0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072033299659415552/RUhSzTr0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850699748/1508944072",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✋BOYCOTT✋SENATE✋HOUSE✋\nWorkers at @UoLondon have been campaigning for almost two years to end outsourcing. @London's response has been to ignore calls for negotiation &amp; use heavy handed tactics to try &amp; crush dissent.\n\nSo in Dec 2018, the workers launched #boycottsenatehouse https://t.co/1kMrHLUatp"
+	},
+	{
+		"created_at": "Fri May 24 17:16:18 +0000 2019",
+		"id": 1131972203254288400,
+		"id_str": "1131972203254288385",
+		"full_text": "@nathanghall after reading that reminds of #nothotdog 🤣 interns gonna intern https://t.co/ZH8l4BoweV",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nothotdog",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nathanghall",
+					"name": "Nathan Hall",
+					"id": 192437743,
+					"id_str": "192437743",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131971945984081900,
+					"id_str": "1131971945984081920",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7WSfMgWwAAZ8Uk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7WSfMgWwAAZ8Uk.jpg",
+					"url": "https://t.co/ZH8l4BoweV",
+					"display_url": "pic.twitter.com/ZH8l4BoweV",
+					"expanded_url": "https://twitter.com/muranava/status/1131972203254288385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 106,
+							"h": 106,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131971945984081900,
+					"id_str": "1131971945984081920",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7WSfMgWwAAZ8Uk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7WSfMgWwAAZ8Uk.jpg",
+					"url": "https://t.co/ZH8l4BoweV",
+					"display_url": "pic.twitter.com/ZH8l4BoweV",
+					"expanded_url": "https://twitter.com/muranava/status/1131972203254288385/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 106,
+							"h": 106,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							53
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7WSfMgWwAAZ8Uk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1131747608320327700,
+		"in_reply_to_status_id_str": "1131747608320327680",
+		"in_reply_to_user_id": 192437743,
+		"in_reply_to_user_id_str": "192437743",
+		"in_reply_to_screen_name": "nathanghall",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 964,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@nathanghall after reading that reminds of #nothotdog 🤣 interns gonna intern https://t.co/ZH8l4BoweV"
+	},
+	{
 		"created_at": "Thu May 23 20:48:44 +0000 2019",
 		"id": 1131663275429638100,
 		"id_str": "1131663275429638149",
