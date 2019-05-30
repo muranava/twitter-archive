@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 19:48:41 +0000 2019",
+		"id": 1133732503238402000,
+		"id_str": "1133822491212886019",
+		"full_text": "Makeup vlogging + radical politics seems like it might be relevant to my followers interests 👇 https://t.co/Nv5HmryrYI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nv5HmryrYI",
+					"expanded_url": "https://twitter.com/combabeclem/status/1133694808139153408",
+					"display_url": "twitter.com/combabeclem/st…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19516039,
+			"id_str": "19516039",
+			"name": "Graham",
+			"screen_name": "onalifeglug",
+			"location": "East London",
+			"description": "writer: Shock Doctrine of the Left (Polity Press), queer hairdresser, @radicalmindful, secular spirituality, acid communism, sonic art",
+			"url": "https://t.co/KmAF1K2Lhx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KmAF1K2Lhx",
+							"expanded_url": "https://patreon.com/onalifeglug",
+							"display_url": "patreon.com/onalifeglug",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3827,
+			"friends_count": 3863,
+			"listed_count": 74,
+			"created_at": "Mon Jan 26 02:09:26 +0000 2009",
+			"favourites_count": 34413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119355073715474433/WT3F0XLM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119355073715474433/WT3F0XLM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19516039/1488663843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133694808139153400,
+		"quoted_status_id_str": "1133694808139153408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nv5HmryrYI",
+			"expanded": "https://twitter.com/combabeclem/status/1133694808139153408",
+			"display": "twitter.com/combabeclem/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 11:21:19 +0000 2019",
+			"id": 1133694808139153400,
+			"id_str": "1133694808139153408",
+			"full_text": "OK OK OK HERE 👏 WE 👏 GO 👏 !\nI'm thrilled to present to you all the very first episode of #CombabeClem!\nI talk about why your uni is f*cking you over BIG TIME while doing a classic eyeliner look 💅\nShare it with your friends, mums, whoever! Enjoy x\nhttps://t.co/KK3jqyPHkg https://t.co/jlklDze96g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CombabeClem",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KK3jqyPHkg",
+						"expanded_url": "https://www.youtube.com/watch?v=bT35S7vtapA&t=41s",
+						"display_url": "youtube.com/watch?v=bT35S7…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133694792699981800,
+						"id_str": "1133694792699981824",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/D7uxaEqXsAAi3Gq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7uxaEqXsAAi3Gq.jpg",
+						"url": "https://t.co/jlklDze96g",
+						"display_url": "pic.twitter.com/jlklDze96g",
+						"expanded_url": "https://twitter.com/combabeclem/status/1133694808139153408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 911,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133694792699981800,
+						"id_str": "1133694792699981824",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/D7uxaEqXsAAi3Gq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7uxaEqXsAAi3Gq.jpg",
+						"url": "https://t.co/jlklDze96g",
+						"display_url": "pic.twitter.com/jlklDze96g",
+						"expanded_url": "https://twitter.com/combabeclem/status/1133694808139153408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 911,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 514,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1132307019740995600,
+				"id_str": "1132307019740995584",
+				"name": "Combabe Clem",
+				"screen_name": "combabeclem",
+				"location": "",
+				"description": "I vlog about make up 💄💅 and radical politics 👊🏻\nFollow my channel for super wholesome rants while I paint my face 💋  badly 💋\nIG: @combabe_clem",
+				"url": "https://t.co/Q7x3dYh7TX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q7x3dYh7TX",
+								"expanded_url": "http://tinyurl.com/y4tsgoem",
+								"display_url": "tinyurl.com/y4tsgoem",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 159,
+				"friends_count": 362,
+				"listed_count": 0,
+				"created_at": "Sat May 25 15:26:45 +0000 2019",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1132307230697631744/WT-Vlns3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132307230697631744/WT-Vlns3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1132307019740995584/1558798441",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Makeup vlogging + radical politics seems like it might be relevant to my followers interests 👇 https://t.co/Nv5HmryrYI"
+	},
+	{
+		"created_at": "Wed May 29 16:47:18 +0000 2019",
+		"id": 1133776840978587600,
+		"id_str": "1133776840978587649",
+		"full_text": "@GeoffreyJordan Thanks!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1133761319373541400,
+		"in_reply_to_status_id_str": "1133761319373541376",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 970,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan Thanks!"
+	},
+	{
+		"created_at": "Wed May 29 13:20:07 +0000 2019",
+		"id": 1133724701489020900,
+		"id_str": "1133724701489020929",
+		"full_text": "@GeoffreyJordan Thx, any chance of a blog on these points?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1133713372384571400,
+		"in_reply_to_status_id_str": "1133713372384571392",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 970,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan Thx, any chance of a blog on these points?"
+	},
+	{
+		"created_at": "Wed May 29 11:47:15 +0000 2019",
+		"id": 1133701332156735500,
+		"id_str": "1133701332156735488",
+		"full_text": "@GeoffreyJordan thanks Geoff! another request if i may, how is Raphael Berthele's article confused?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133699186367586300,
+		"in_reply_to_status_id_str": "1133699186367586304",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 970,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan thanks Geoff! another request if i may, how is Raphael Berthele's article confused?"
+	},
+	{
+		"created_at": "Wed May 29 08:57:40 +0000 2019",
+		"id": 1133658656862613500,
+		"id_str": "1133658656862613504",
+		"full_text": "@GeoffreyJordan is there a short-winded read on the sci/non-sci you would recommend?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffreyJordan",
+					"name": "Geoffrey Jordan",
+					"id": 334332424,
+					"id_str": "334332424",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133657976961732600,
+		"in_reply_to_status_id_str": "1133657976961732608",
+		"in_reply_to_user_id": 334332424,
+		"in_reply_to_user_id_str": "334332424",
+		"in_reply_to_screen_name": "GeoffreyJordan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 970,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffreyJordan is there a short-winded read on the sci/non-sci you would recommend?"
+	},
+	{
 		"created_at": "Mon May 27 20:05:11 +0000 2019",
 		"id": 1133073307799031800,
 		"id_str": "1133101865028055045",
