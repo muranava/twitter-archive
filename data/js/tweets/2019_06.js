@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 07:30:42 +0000 2019",
+		"id": 1135076941625733100,
+		"id_str": "1135086321976958977",
+		"full_text": "If you have missed @AudreyWatters' writing as much as I have, here you go: Fables of School Reform https://t.co/5KIAcfFIBS #EdTech",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5KIAcfFIBS",
+					"expanded_url": "https://thebaffler.com/salvos/fables-of-school-reform-watters",
+					"display_url": "thebaffler.com/salvos/fables-…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1594162892,
+			"id_str": "1594162892",
+			"name": "Sherri Spelic",
+			"screen_name": "edifiedlistener",
+			"location": "Vienna, Austria",
+			"description": "Educator, Workshop designer and facilitator, avid reader & writer @ home on the edge of the alps. Editor of Identity, Education and Power. She/her/hers.",
+			"url": "https://t.co/B8TWHxd8Ro",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B8TWHxd8Ro",
+							"expanded_url": "https://edifiedlistener.blog/",
+							"display_url": "edifiedlistener.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4867,
+			"friends_count": 1450,
+			"listed_count": 295,
+			"created_at": "Sun Jul 14 20:04:56 +0000 2013",
+			"favourites_count": 53142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120754232544591872/qNTaSD6y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120754232544591872/qNTaSD6y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1594162892/1506374386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you have missed @AudreyWatters' writing as much as I have, here you go: Fables of School Reform https://t.co/5KIAcfFIBS #EdTech"
+	},
+	{
 		"created_at": "Sat Jun 01 18:12:55 +0000 2019",
 		"id": 1134885551063162900,
 		"id_str": "1134885551063162882",
