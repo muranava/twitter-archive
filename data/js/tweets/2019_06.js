@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 16:28:38 +0000 2019",
+		"id": 1135681257440858100,
+		"id_str": "1135946473252839424",
+		"full_text": "good stuff here. I think philosophy is particularly susceptible to garbage 'just asking questions' styles of attacks, but it'd be good to make sure this sort of stuff never happens in linguistics\n\nhttps://t.co/YUrak76EXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUrak76EXk",
+					"expanded_url": "https://twitter.com/mapforthegapuk/status/1135664828872364041",
+					"display_url": "twitter.com/mapforthegapuk…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3693462253,
+			"id_str": "3693462253",
+			"name": "ilona purola",
+			"screen_name": "bekkhylle",
+			"location": "",
+			"description": "wordperson, no-fuss doofus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Sat Sep 26 14:24:50 +0000 2015",
+			"favourites_count": 12528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128453208257355778/e-DiPcgk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128453208257355778/e-DiPcgk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3693462253/1443303674",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135664828872364000,
+		"quoted_status_id_str": "1135664828872364041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YUrak76EXk",
+			"expanded": "https://twitter.com/mapforthegapuk/status/1135664828872364041",
+			"display": "twitter.com/mapforthegapuk…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 21:49:29 +0000 2019",
+			"id": 1135664828872364000,
+			"id_str": "1135664828872364041",
+			"full_text": "We’ve released an official statement in response to the AS talk today. Silence can be complicity. Solidarity to our trans and non-binary colleagues, students, friends. https://t.co/IixhClkIPx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IixhClkIPx",
+						"expanded_url": "https://www.mapforthegap.org.uk/blog/statement-in-response-to-the-aristotelian-society-talk-on-3rd-june-2019",
+						"display_url": "mapforthegap.org.uk/blog/statement…",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2805943751,
+				"id_str": "2805943751",
+				"name": "MAP UK",
+				"screen_name": "mapforthegapuk",
+				"location": "UK",
+				"description": "Working towards diversity and equality in philosophy. Part of the global Minorities and Philosophy movement.",
+				"url": "https://t.co/K0agj2kAC1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K0agj2kAC1",
+								"expanded_url": "https://www.mapforthegap.org.uk/",
+								"display_url": "mapforthegap.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 982,
+				"friends_count": 457,
+				"listed_count": 23,
+				"created_at": "Sat Oct 04 18:05:58 +0000 2014",
+				"favourites_count": 381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046446298277302278/pDiThJ3G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046446298277302278/pDiThJ3G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2805943751/1538327199",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "good stuff here. I think philosophy is particularly susceptible to garbage 'just asking questions' styles of attacks, but it'd be good to make sure this sort of stuff never happens in linguistics\n\nhttps://t.co/YUrak76EXk"
+	},
+	{
 		"created_at": "Sun Jun 02 07:30:42 +0000 2019",
 		"id": 1135076941625733100,
 		"id_str": "1135086321976958977",
