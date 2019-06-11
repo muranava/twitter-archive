@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 21:04:17 +0000 2019",
+		"id": 1138058410354589700,
+		"id_str": "1138190168261894149",
+		"full_text": "@hkuchah1 I’d like to know what @iatefl is doing or planning to do to facilitate &amp; provide opportunities for participation for people who have visa issues. I talked to @IPSENSIG about this issue as this is definitely related to “inclusion”.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hkuchah1",
+					"name": "Harry Kuchah",
+					"id": 2827793584,
+					"id_str": "2827793584",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"screen_name": "IPSENSIG",
+					"name": "IP&SEN",
+					"id": 771964948209602600,
+					"id_str": "771964948209602561",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1137981808891650000,
+		"in_reply_to_status_id_str": "1137981808891650049",
+		"in_reply_to_user_id": 2827793584,
+		"in_reply_to_user_id_str": "2827793584",
+		"in_reply_to_screen_name": "hkuchah1",
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫|Racial #Equity Advocate|@IPSENSIG Web Coord|@SietarKansaiJP Twitter Coord|Blogger @BydStereotypes|Leading @WOCinELT together with #WOCinELT",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024,
+			"friends_count": 4093,
+			"listed_count": 29,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 43952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128564176446607360/N2XS-p_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128564176446607360/N2XS-p_D_normal.jpg",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@hkuchah1 I’d like to know what @iatefl is doing or planning to do to facilitate &amp; provide opportunities for participation for people who have visa issues. I talked to @IPSENSIG about this issue as this is definitely related to “inclusion”."
+	},
+	{
 		"created_at": "Sun Jun 09 19:21:39 +0000 2019",
 		"id": 1137801953923260400,
 		"id_str": "1137801953923260418",
