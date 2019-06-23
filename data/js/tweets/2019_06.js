@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 22:41:38 +0000 2019",
+		"id": 1142523512860663800,
+		"id_str": "1142563321431957504",
+		"full_text": "Can as many teachers as possible read this ?\n\nDo we have any shot at chipping away at the denial?\n \nOn schools, racism &amp; violence. \n\nI have not yet written about my experiences at university, but the time will come. For now we’re on schools \n\nPls RT🙏🏿🙏🏿🙏🏿\n\nhttps://t.co/HGbmrvJ95z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGbmrvJ95z",
+					"expanded_url": "http://racereflections.co.uk/2019/06/22/on-schools-institutional-racism-everyday-violence/",
+					"display_url": "racereflections.co.uk/2019/06/22/on-…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2371069948,
+			"id_str": "2371069948",
+			"name": "Guilaine Kinouani",
+			"screen_name": "KGuilaine",
+			"location": ": paypal.me/guilainekinouani",
+			"description": "MIGRANT. Senior Psychologist. Adjunct Prof. of Cross Cultural Psych. Feminist. Therapist. Radical Scholar: BLACKNESS, intersectionality-EQUALITY-healing-JUSTICE",
+			"url": "https://t.co/nGTtbqtxhm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nGTtbqtxhm",
+							"expanded_url": "http://www.racereflections.co.uk",
+							"display_url": "racereflections.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16780,
+			"friends_count": 393,
+			"listed_count": 293,
+			"created_at": "Fri Feb 28 13:11:40 +0000 2014",
+			"favourites_count": 32227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 78871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107335103653576704/VYXsu52j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107335103653576704/VYXsu52j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2371069948/1466447906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 177,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can as many teachers as possible read this ?\n\nDo we have any shot at chipping away at the denial?\n \nOn schools, racism &amp; violence. \n\nI have not yet written about my experiences at university, but the time will come. For now we’re on schools \n\nPls RT🙏🏿🙏🏿🙏🏿\n\nhttps://t.co/HGbmrvJ95z"
+	},
+	{
 		"created_at": "Fri Jun 21 16:59:48 +0000 2019",
 		"id": 1142114910870089700,
 		"id_str": "1142114910870089729",
