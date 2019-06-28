@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 17:41:51 +0000 2019",
+		"id": 1144297060310704100,
+		"id_str": "1144299816882704385",
+		"full_text": "Today students have delivered their letter to the Home Secretary, who sent a member of his staff to receive it.\n@sajidjavid you can restore our future with a simple decision which you were promised at parliament.\nThank you to @stephenctimms\nFor his tireless efforts. #MyFutureBack https://t.co/0j6RvRJQM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyFutureBack",
+					"indices": [
+						267,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sajidjavid",
+					"name": "Sajid Javid",
+					"id": 20052899,
+					"id_str": "20052899",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "stephenctimms",
+					"name": "Stephen Timms",
+					"id": 102107018,
+					"id_str": "102107018",
+					"indices": [
+						226,
+						240
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144297044489789400,
+					"id_str": "1144297044489789440",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D-FcGWZX4AAwRkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-FcGWZX4AAwRkK.jpg",
+					"url": "https://t.co/0j6RvRJQM6",
+					"display_url": "pic.twitter.com/0j6RvRJQM6",
+					"expanded_url": "https://twitter.com/ToeicV/status/1144297060310704129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144297044489789400,
+					"id_str": "1144297044489789440",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D-FcGWZX4AAwRkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-FcGWZX4AAwRkK.jpg",
+					"url": "https://t.co/0j6RvRJQM6",
+					"display_url": "pic.twitter.com/0j6RvRJQM6",
+					"expanded_url": "https://twitter.com/ToeicV/status/1144297060310704129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 774023835179974700,
+			"id_str": "774023835179974656",
+			"name": "English Language Test Victims",
+			"screen_name": "ToeicV",
+			"location": "City of London, London",
+			"description": "In 2014, the Home Office wrongly accused tens of thousands of intl students of cheating on an English test. We are fighting to get our future back.",
+			"url": "https://t.co/9ueiLCXDgy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9ueiLCXDgy",
+							"expanded_url": "http://www.toeicsocial123.gmail.com",
+							"display_url": "toeicsocial123.gmail.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 750,
+			"listed_count": 2,
+			"created_at": "Thu Sep 08 23:17:17 +0000 2016",
+			"favourites_count": 3503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117920948508819463/qg2MN3FP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117920948508819463/qg2MN3FP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/774023835179974656/1548379143",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today students have delivered their letter to the Home Secretary, who sent a member of his staff to receive it.\n@sajidjavid you can restore our future with a simple decision which you were promised at parliament.\nThank you to @stephenctimms\nFor his tireless efforts. #MyFutureBack https://t.co/0j6RvRJQM6"
+	},
+	{
 		"created_at": "Wed Jun 26 17:47:09 +0000 2019",
 		"id": 1143932408418504700,
 		"id_str": "1143938764819107840",
