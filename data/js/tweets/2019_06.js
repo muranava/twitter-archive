@@ -1,6 +1,1342 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 16:22:39 +0000 2019",
+		"id": 1145004664620048400,
+		"id_str": "1145004664620048385",
+		"full_text": "@jimscriv @timhampson @ddeubel yes also caveat is that few studies have been done; Harwood (2014) quotes a more recent study in 2008 looking at EAP guides which is also critical https://t.co/uI7qGb3DsL",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimscriv",
+					"name": "Jim Scrivener 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺",
+					"id": 130149739,
+					"id_str": "130149739",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "timhampson",
+					"name": "ELT: What Tim Feels",
+					"id": 19422628,
+					"id_str": "19422628",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1145004649671516200,
+					"id_str": "1145004649671516161",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PfqZHXYAELZvW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PfqZHXYAELZvW.png",
+					"url": "https://t.co/uI7qGb3DsL",
+					"display_url": "pic.twitter.com/uI7qGb3DsL",
+					"expanded_url": "https://twitter.com/muranava/status/1145004664620048385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 714,
+							"h": 251,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1145004649671516200,
+					"id_str": "1145004649671516161",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PfqZHXYAELZvW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PfqZHXYAELZvW.png",
+					"url": "https://t.co/uI7qGb3DsL",
+					"display_url": "pic.twitter.com/uI7qGb3DsL",
+					"expanded_url": "https://twitter.com/muranava/status/1145004664620048385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 714,
+							"h": 251,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 251,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144999747226361900,
+		"in_reply_to_status_id_str": "1144999747226361857",
+		"in_reply_to_user_id": 130149739,
+		"in_reply_to_user_id_str": "130149739",
+		"in_reply_to_screen_name": "jimscriv",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1030,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jimscriv @timhampson @ddeubel yes also caveat is that few studies have been done; Harwood (2014) quotes a more recent study in 2008 looking at EAP guides which is also critical https://t.co/uI7qGb3DsL"
+	},
+	{
+		"created_at": "Sat Jun 29 16:00:52 +0000 2019",
+		"id": 1144999183037993000,
+		"id_str": "1144999183037992960",
+		"full_text": "@mccormick_ted this is often an issue with plagiarism guidelines in general apparently - i.e. using language from other guides",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mccormick_ted",
+					"name": "Ted McCormick",
+					"id": 4828068038,
+					"id_str": "4828068038",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144666494300753900,
+		"in_reply_to_status_id_str": "1144666494300753922",
+		"in_reply_to_user_id": 4828068038,
+		"in_reply_to_user_id_str": "4828068038",
+		"in_reply_to_screen_name": "mccormick_ted",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1030,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mccormick_ted this is often an issue with plagiarism guidelines in general apparently - i.e. using language from other guides"
+	},
+	{
+		"created_at": "Sat Jun 29 15:58:35 +0000 2019",
+		"id": 1144977295431671800,
+		"id_str": "1144998605847191553",
+		"full_text": "My first blog on Psychology Today: What Invented Languages Can Tell Us About Human Language. Rigging on an idea in my forthcoming book Language Unlimited. Of course it stars my cat Lilly! https://t.co/jfVWS0FZIf #conlang #syntax #linguistics #catsoflinguistics https://t.co/OHmOtga5HD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "conlang",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "syntax",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "linguistics",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "catsoflinguistics",
+					"indices": [
+						242,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jfVWS0FZIf",
+					"expanded_url": "https://www.psychologytoday.com/blog/language-unlimited/201906/what-invented-languages-can-tell-us-about-human-language",
+					"display_url": "psychologytoday.com/blog/language-…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144977285449232400,
+					"id_str": "1144977285449232385",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PGxlcXsAENaBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-PGxlcXsAENaBT.jpg",
+					"url": "https://t.co/OHmOtga5HD",
+					"display_url": "pic.twitter.com/OHmOtga5HD",
+					"expanded_url": "https://twitter.com/davidadger/status/1144977295431671808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144977285449232400,
+					"id_str": "1144977285449232385",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PGxlcXsAENaBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-PGxlcXsAENaBT.jpg",
+					"url": "https://t.co/OHmOtga5HD",
+					"display_url": "pic.twitter.com/OHmOtga5HD",
+					"expanded_url": "https://twitter.com/davidadger/status/1144977295431671808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200469764,
+			"id_str": "200469764",
+			"name": "David Adger",
+			"screen_name": "davidadger",
+			"location": "London",
+			"description": "syntax and other stuff. New book Language Unlimited out 29th August. 🏳️‍🌈 he/him/his",
+			"url": "https://t.co/Ib6pqe4iXr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ib6pqe4iXr",
+							"expanded_url": "http://davidadger.org",
+							"display_url": "davidadger.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2203,
+			"friends_count": 944,
+			"listed_count": 62,
+			"created_at": "Sat Oct 09 11:29:31 +0000 2010",
+			"favourites_count": 6233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129504809638342661/nGXVAAR__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129504809638342661/nGXVAAR__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200469764/1557602957",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first blog on Psychology Today: What Invented Languages Can Tell Us About Human Language. Rigging on an idea in my forthcoming book Language Unlimited. Of course it stars my cat Lilly! https://t.co/jfVWS0FZIf #conlang #syntax #linguistics #catsoflinguistics https://t.co/OHmOtga5HD"
+	},
+	{
+		"created_at": "Sat Jun 29 15:43:47 +0000 2019",
+		"id": 1144994880642568200,
+		"id_str": "1144994880642568192",
+		"full_text": "@jimscriv @timhampson @ddeubel the few studies that have looked at this apparently are just as critical of teacher books/guides e.g. Evaluating teachers’ guides: Do teachers’ guides guide teachers? https://t.co/A0cbJ4JVPN https://t.co/uDbWgEY1qu",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimscriv",
+					"name": "Jim Scrivener 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺",
+					"id": 130149739,
+					"id_str": "130149739",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "timhampson",
+					"name": "ELT: What Tim Feels",
+					"id": 19422628,
+					"id_str": "19422628",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A0cbJ4JVPN",
+					"expanded_url": "https://jalt-publications.org/files/pdf-article/art2_22.pdf",
+					"display_url": "jalt-publications.org/files/pdf-arti…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144994438902689800,
+					"id_str": "1144994438902689792",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PWYDCXsAAEQN5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PWYDCXsAAEQN5.png",
+					"url": "https://t.co/uDbWgEY1qu",
+					"display_url": "pic.twitter.com/uDbWgEY1qu",
+					"expanded_url": "https://twitter.com/muranava/status/1144994880642568192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 755,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144994438902689800,
+					"id_str": "1144994438902689792",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PWYDCXsAAEQN5.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PWYDCXsAAEQN5.png",
+					"url": "https://t.co/uDbWgEY1qu",
+					"display_url": "pic.twitter.com/uDbWgEY1qu",
+					"expanded_url": "https://twitter.com/muranava/status/1144994880642568192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 755,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 126,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144265159503990800,
+		"in_reply_to_status_id_str": "1144265159503990786",
+		"in_reply_to_user_id": 130149739,
+		"in_reply_to_user_id_str": "130149739",
+		"in_reply_to_screen_name": "jimscriv",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1030,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jimscriv @timhampson @ddeubel the few studies that have looked at this apparently are just as critical of teacher books/guides e.g. Evaluating teachers’ guides: Do teachers’ guides guide teachers? https://t.co/A0cbJ4JVPN https://t.co/uDbWgEY1qu"
+	},
+	{
+		"created_at": "Sat Jun 29 14:39:41 +0000 2019",
+		"id": 1144978752776155100,
+		"id_str": "1144978752776155142",
+		"full_text": "@ClaytonBurnsPhD @WilliamEHillis @DouglasTodd the \"hype\" was referring to received  COBUILD history in UK; the COBUILD tradition has continued with pattern grammar proponents &amp; so was interesting to see how other countries view this approach to describing language",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClaytonBurnsPhD",
+					"name": "Clayton Burns",
+					"id": 1036689644555886600,
+					"id_str": "1036689644555886597",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "WilliamEHillis",
+					"name": "William Hillis",
+					"id": 3298174398,
+					"id_str": "3298174398",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "DouglasTodd",
+					"name": "DouglasTodd",
+					"id": 17684387,
+					"id_str": "17684387",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144973178873139200,
+		"in_reply_to_status_id_str": "1144973178873139200",
+		"in_reply_to_user_id": 1036689644555886600,
+		"in_reply_to_user_id_str": "1036689644555886597",
+		"in_reply_to_screen_name": "ClaytonBurnsPhD",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1030,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClaytonBurnsPhD @WilliamEHillis @DouglasTodd the \"hype\" was referring to received  COBUILD history in UK; the COBUILD tradition has continued with pattern grammar proponents &amp; so was interesting to see how other countries view this approach to describing language"
+	},
+	{
+		"created_at": "Sat Jun 29 14:05:03 +0000 2019",
+		"id": 1144970034474881000,
+		"id_str": "1144970034474881024",
+		"full_text": "@WilliamEHillis @ClaytonBurnsPhD @DouglasTodd i see thx for reply",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WilliamEHillis",
+					"name": "William Hillis",
+					"id": 3298174398,
+					"id_str": "3298174398",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ClaytonBurnsPhD",
+					"name": "Clayton Burns",
+					"id": 1036689644555886600,
+					"id_str": "1036689644555886597",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "DouglasTodd",
+					"name": "DouglasTodd",
+					"id": 17684387,
+					"id_str": "17684387",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144963238280323100,
+		"in_reply_to_status_id_str": "1144963238280323072",
+		"in_reply_to_user_id": 3298174398,
+		"in_reply_to_user_id_str": "3298174398",
+		"in_reply_to_screen_name": "WilliamEHillis",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1030,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WilliamEHillis @ClaytonBurnsPhD @DouglasTodd i see thx for reply"
+	},
+	{
+		"created_at": "Sat Jun 29 12:43:35 +0000 2019",
+		"id": 1144942339271663600,
+		"id_str": "1144949532062572544",
+		"full_text": "Amid poor media coverage, one activist insists French protests are a 'deep critique of capitalism'\n\nBy @inthewychelm\n\nhttps://t.co/U6DepzrYri #GiletsJaunes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GiletsJaunes",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inthewychelm",
+					"name": "🏴 🐱 Glen Black 🐱🏴",
+					"id": 892062951754039300,
+					"id_str": "892062951754039296",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U6DepzrYri",
+					"expanded_url": "https://www.thecanary.co/feature/2019/06/28/amid-poor-media-coverage-one-activist-insists-french-protests-are-a-deep-critique-of-capitalism/",
+					"display_url": "thecanary.co/feature/2019/0…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3314289248,
+			"id_str": "3314289248",
+			"name": "The Canary",
+			"screen_name": "TheCanaryUK",
+			"location": "United Kingdom",
+			"description": "Independent Media | Campaigning Journalism. \nSupport us: https://t.co/fRjwig4zrh\nEmail digest: https://t.co/93jnFwQEUl",
+			"url": "https://t.co/MEwTjn7IfH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MEwTjn7IfH",
+							"expanded_url": "http://www.thecanary.co",
+							"display_url": "thecanary.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fRjwig4zrh",
+							"expanded_url": "https://www.thecanary.co/support/",
+							"display_url": "thecanary.co/support/",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/93jnFwQEUl",
+							"expanded_url": "http://thecanary.co/daily-digest-sign/",
+							"display_url": "thecanary.co/daily-digest-s…",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73678,
+			"friends_count": 362,
+			"listed_count": 855,
+			"created_at": "Thu Aug 13 11:44:17 +0000 2015",
+			"favourites_count": 2736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143486362961817601/x9enQ_0Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143486362961817601/x9enQ_0Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3314289248/1561463397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amid poor media coverage, one activist insists French protests are a 'deep critique of capitalism'\n\nBy @inthewychelm\n\nhttps://t.co/U6DepzrYri #GiletsJaunes"
+	},
+	{
+		"created_at": "Sat Jun 29 12:11:11 +0000 2019",
+		"id": 1144941014345486300,
+		"id_str": "1144941378708955136",
+		"full_text": "We urge you @KenyaAirways - don't be complicit in the forced deportation of someone who is seeking asylum here. He faces huge risk if you forcibly deport him tomorrow on flight KQ101/KQ362 from Heathrow to Mogadishu, Somalia (via Nairobi, departure time 18:25). Don't fly him.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KenyaAirways",
+					"name": "Kenya Airways",
+					"id": 18493366,
+					"id_str": "18493366",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 874620977312878600,
+			"id_str": "874620977312878593",
+			"name": "Babel's Blessing",
+			"screen_name": "babelsblessing",
+			"location": "London, England",
+			"description": "grassroots language school running free English classes for migrants (regardless of immigration status) and low-cost community language classes for all!",
+			"url": "https://t.co/FZqEIxrWoQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZqEIxrWoQ",
+							"expanded_url": "http://babelsblessing.org",
+							"display_url": "babelsblessing.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 888,
+			"listed_count": 3,
+			"created_at": "Tue Jun 13 13:34:25 +0000 2017",
+			"favourites_count": 500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874647663928594433/Y43zOPNU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874647663928594433/Y43zOPNU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/874620977312878593/1497367081",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We urge you @KenyaAirways - don't be complicit in the forced deportation of someone who is seeking asylum here. He faces huge risk if you forcibly deport him tomorrow on flight KQ101/KQ362 from Heathrow to Mogadishu, Somalia (via Nairobi, departure time 18:25). Don't fly him."
+	},
+	{
 		"created_at": "Fri Jun 28 22:15:39 +0000 2019",
 		"id": 1143511014245376000,
 		"id_str": "1144731112687755264",
