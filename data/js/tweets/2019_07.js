@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 20:08:18 +0000 2019",
+		"id": 1149267328368074800,
+		"id_str": "1149410103998763010",
+		"full_text": "Why Attenborough is wrong 👇\nor... are there just too many Africans?\n\nMy new piece in @NatCounterPunch for a Happy #WorldPopulationDay\n\n@wmnjoya @ErrantNatives\n\nhttps://t.co/aO5PSpypUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPopulationDay",
+					"indices": [
+						114,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatCounterPunch",
+					"name": "CounterPunch",
+					"id": 297688038,
+					"id_str": "297688038",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"screen_name": "wmnjoya",
+					"name": "#LandFirst Mwalimu Wandia",
+					"id": 405874056,
+					"id_str": "405874056",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"screen_name": "ErrantNatives",
+					"name": "The Big White Lie",
+					"id": 962703215044292600,
+					"id_str": "962703215044292608",
+					"indices": [
+						144,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aO5PSpypUw",
+					"expanded_url": "https://www.counterpunch.org/2019/07/11/too-many-africans/",
+					"display_url": "counterpunch.org/2019/07/11/too…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1001498767525335000,
+			"id_str": "1001498767525335040",
+			"name": "Stephen Corry",
+			"screen_name": "StephenCorrySvl",
+			"location": "",
+			"description": "CEO @Survival - the global movement for tribal peoples. White guy fighting his society's assault on humanity's diversity, since 1972. RTs ≠ endorsement",
+			"url": "https://t.co/jOYr6LlqMD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jOYr6LlqMD",
+							"expanded_url": "https://survivalinternational.org/",
+							"display_url": "survivalinternational.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111,
+			"friends_count": 2499,
+			"listed_count": 17,
+			"created_at": "Tue May 29 16:21:27 +0000 2018",
+			"favourites_count": 4983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1002539332509618177/z0jMJOaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002539332509618177/z0jMJOaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001498767525335040/1527863301",
+			"profile_link_color": "B33D26",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Attenborough is wrong 👇\nor... are there just too many Africans?\n\nMy new piece in @NatCounterPunch for a Happy #WorldPopulationDay\n\n@wmnjoya @ErrantNatives\n\nhttps://t.co/aO5PSpypUw"
+	},
+	{
 		"created_at": "Fri Jul 05 00:09:43 +0000 2019",
 		"id": 1146934143282044900,
 		"id_str": "1146934143282044928",
@@ -1876,7 +2021,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "🌹🚗",
 			"screen_name": "rosalinekarr",
 			"location": "Chattanooga, TN",
-			"description": "she/her 👩🏻 trans pan poly 🏳️‍🌈 mother of two 👩‍👩‍👧‍👧 software engineer 👩🏻‍💻 millennial trash 💁🏻‍♀️ internet bitch",
+			"description": "she/her 👩🏻 trans pan poly 🏳️🌈 mother of two 👩👩👧👧 software engineer 👩🏻💻 millennial trash 💁🏻♀️ internet bitch",
 			"url": "https://t.co/D0yBYq4gWQ",
 			"entities": {
 				"url": {
@@ -1981,7 +2126,7 @@ Grailbird.data.tweets_2019_07 =
 				"name": "The Jewish Worker",
 				"screen_name": "JewishWorker",
 				"location": "New York",
-				"description": "(((Cultural Marxism))) at its finest. Tweets by editor Naftali Botwin. Pitches/Tips: editor at jewishworker dot org. Ⓐ☭🏴🇵🇸🏳️‍🌈✡️",
+				"description": "(((Cultural Marxism))) at its finest. Tweets by editor Naftali Botwin. Pitches/Tips: editor at jewishworker dot org. Ⓐ☭🏴🇵🇸🏳️🌈✡️",
 				"url": "https://t.co/RLc0m9UPj3",
 				"entities": {
 					"url": {
