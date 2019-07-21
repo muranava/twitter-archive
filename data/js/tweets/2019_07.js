@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 12:38:50 +0000 2019",
+		"id": 1152558481049882600,
+		"id_str": "1152558481049882625",
+		"full_text": "Grateful to Parisa and her courage to share these formative experiences in this ongoing thread, respect. https://t.co/JKXUKfH5lD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JKXUKfH5lD",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1152524699001163776",
+					"display_url": "twitter.com/ParisaMehran/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1831,
+			"friends_count": 1046,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152524699001163800,
+		"quoted_status_id_str": "1152524699001163776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JKXUKfH5lD",
+			"expanded": "https://twitter.com/ParisaMehran/status/1152524699001163776",
+			"display": "twitter.com/ParisaMehran/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 20 10:24:35 +0000 2019",
+			"id": 1152524699001163800,
+			"id_str": "1152524699001163776",
+			"full_text": "@BDComms Yr account is private, so 1st I share yr qs:\n1.The nature of both the macro &amp; micro aggressions u faced\n2.If u think the L used here is itself divisive &amp; removes possibility 4 discussion or engagement\n3.If it is not better 4 Ts to be allied as a single class rather than divided",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				295
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BDComms",
+						"name": "Ben Dobbs, Trainer and Coach",
+						"id": 3161241623,
+						"id_str": "3161241623",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1152473003118202900,
+			"in_reply_to_status_id_str": "1152473003118202880",
+			"in_reply_to_user_id": 3161241623,
+			"in_reply_to_user_id_str": "3161241623",
+			"in_reply_to_screen_name": "BDComms",
+			"user": {
+				"id": 1115272279,
+				"id_str": "1115272279",
+				"name": "Parisa Mehran, PhD",
+				"screen_name": "ParisaMehran",
+				"location": "Osaka-fu, Japan",
+				"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes",
+				"url": "https://t.co/n5GLjpenSJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n5GLjpenSJ",
+								"expanded_url": "https://sites.google.com/view/parisamehran",
+								"display_url": "sites.google.com/view/parisameh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2195,
+				"friends_count": 4571,
+				"listed_count": 28,
+				"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+				"favourites_count": 47581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15099,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1563497644",
+				"profile_link_color": "59200D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grateful to Parisa and her courage to share these formative experiences in this ongoing thread, respect. https://t.co/JKXUKfH5lD"
+	},
+	{
 		"created_at": "Tue Jul 16 18:28:03 +0000 2019",
 		"id": 1151196816534364200,
 		"id_str": "1151196816534364160",
