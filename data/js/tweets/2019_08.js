@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 19:33:20 +0000 2019",
+		"id": 1164239245705470000,
+		"id_str": "1164259205102133255",
+		"full_text": "I've got a new piece up over at @BostonReview on the right-wing attacks on the 1619 Project.\n\nSPOILER: It's because they view history not as a subject to be analyzed and interrogated, but rather revered as a source of authority. https://t.co/slzwp9XBjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BostonReview",
+					"name": "Boston Review",
+					"id": 36969470,
+					"id_str": "36969470",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/slzwp9XBjA",
+					"expanded_url": "http://bostonreview.net/race-politics/david-walsh-fragile-patriotism-american-conservative",
+					"display_url": "bostonreview.net/race-politics/…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 361919460,
+			"id_str": "361919460",
+			"name": "David Walsh",
+			"screen_name": "DavidAstinWalsh",
+			"location": "Washington, DC",
+			"description": "History PhD student @Princeton. \"General socialist troublemaker\" according to @wonkette. Bylines @Guardian @washmonthly @HistPhil, @dissentmag, @washingtonpost",
+			"url": "https://t.co/ryXCJE2GvB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ryXCJE2GvB",
+							"expanded_url": "https://history.princeton.edu/people/david-walsh",
+							"display_url": "history.princeton.edu/people/david-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17614,
+			"friends_count": 3346,
+			"listed_count": 252,
+			"created_at": "Thu Aug 25 15:08:57 +0000 2011",
+			"favourites_count": 60877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145807092865011713/b-3C6x28_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145807092865011713/b-3C6x28_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/361919460/1562031593",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 235,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've got a new piece up over at @BostonReview on the right-wing attacks on the 1619 Project.\n\nSPOILER: It's because they view history not as a subject to be analyzed and interrogated, but rather revered as a source of authority. https://t.co/slzwp9XBjA"
+	},
+	{
 		"created_at": "Tue Aug 20 19:44:27 +0000 2019",
 		"id": 1163899616192028700,
 		"id_str": "1163899616192028673",
