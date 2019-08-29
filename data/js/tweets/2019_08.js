@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 22:30:29 +0000 2019",
+		"id": 1166840501582160000,
+		"id_str": "1166840501582159873",
+		"full_text": "@sarahshulist what do you think of the formulation that descriptivism is describing norms and prescriptivism is enforcing norms? - \"there is no escape from normativity\" - Deborah Cameron",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166403607643795500,
+		"in_reply_to_status_id_str": "1166403607643795456",
+		"in_reply_to_user_id": 841537412,
+		"in_reply_to_user_id_str": "841537412",
+		"in_reply_to_screen_name": "sarahshulist",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1846,
+			"friends_count": 1079,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sarahshulist what do you think of the formulation that descriptivism is describing norms and prescriptivism is enforcing norms? - \"there is no escape from normativity\" - Deborah Cameron"
+	},
+	{
+		"created_at": "Wed Aug 28 22:08:49 +0000 2019",
+		"id": 1166835050526183400,
+		"id_str": "1166835050526183425",
+		"full_text": "@LaymansLinguist should note this point was made by Deborah Cameron in her book Verbal Hygiene, which is an excellent read on these isssues",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166823399605362700,
+		"in_reply_to_status_id_str": "1166823399605362689",
+		"in_reply_to_user_id": 945526625298460700,
+		"in_reply_to_user_id_str": "945526625298460672",
+		"in_reply_to_screen_name": "LaymansLinguist",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1846,
+			"friends_count": 1079,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LaymansLinguist should note this point was made by Deborah Cameron in her book Verbal Hygiene, which is an excellent read on these isssues"
+	},
+	{
+		"created_at": "Wed Aug 28 21:55:22 +0000 2019",
+		"id": 1166831665177608200,
+		"id_str": "1166831665177608193",
+		"full_text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod invested in the idea they have of themselves? as ever as noted by knowledgeable others language issues such as this PinkerPeeve case is more then about language",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilJoeMcVeigh",
+					"name": "Joe McVeigh",
+					"id": 1327355143,
+					"id_str": "1327355143",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lanegreene",
+					"name": "Lane Greene",
+					"id": 49170981,
+					"id_str": "49170981",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "VocalFriesPod",
+					"name": "The Vocal Fries",
+					"id": 878331925852692500,
+					"id_str": "878331925852692480",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166823059367649300,
+		"in_reply_to_status_id_str": "1166823059367649281",
+		"in_reply_to_user_id": 1327355143,
+		"in_reply_to_user_id_str": "1327355143",
+		"in_reply_to_screen_name": "EvilJoeMcVeigh",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1846,
+			"friends_count": 1079,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod invested in the idea they have of themselves? as ever as noted by knowledgeable others language issues such as this PinkerPeeve case is more then about language"
+	},
+	{
+		"created_at": "Wed Aug 28 21:16:58 +0000 2019",
+		"id": 1166816431368880000,
+		"id_str": "1166822003262787585",
+		"full_text": "All-white expert tutors? \nAdjacent all-white expert tutors? \n#genuinequestion \nJust asking cuz #ELTSoWhite \n#ELT https://t.co/mzDIMJiXRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genuinequestion",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "ELTSoWhite",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166816423886250000,
+					"id_str": "1166816423886249984",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFdWv_U4AATy-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFdWv_U4AATy-d.jpg",
+					"url": "https://t.co/mzDIMJiXRP",
+					"display_url": "pic.twitter.com/mzDIMJiXRP",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1166816431368880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166816423886250000,
+					"id_str": "1166816423886249984",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EDFdWv_U4AATy-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDFdWv_U4AATy-d.jpg",
+					"url": "https://t.co/mzDIMJiXRP",
+					"display_url": "pic.twitter.com/mzDIMJiXRP",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1166816431368880128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 598,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes| RT≠endorsement",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2374,
+			"friends_count": 5000,
+			"listed_count": 28,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 51901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1563497644",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All-white expert tutors? \nAdjacent all-white expert tutors? \n#genuinequestion \nJust asking cuz #ELTSoWhite \n#ELT https://t.co/mzDIMJiXRP"
+	},
+	{
+		"created_at": "Wed Aug 28 21:16:00 +0000 2019",
+		"id": 1166821761033392000,
+		"id_str": "1166821761033392128",
+		"full_text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod one generous reading people have  pointed to is that it is not surprising that highly educated people (especially writers) express such (sincere or not) peeves - they are very invested in such language practices",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilJoeMcVeigh",
+					"name": "Joe McVeigh",
+					"id": 1327355143,
+					"id_str": "1327355143",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lanegreene",
+					"name": "Lane Greene",
+					"id": 49170981,
+					"id_str": "49170981",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "VocalFriesPod",
+					"name": "The Vocal Fries",
+					"id": 878331925852692500,
+					"id_str": "878331925852692480",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166816345918464000,
+		"in_reply_to_status_id_str": "1166816345918464002",
+		"in_reply_to_user_id": 1327355143,
+		"in_reply_to_user_id_str": "1327355143",
+		"in_reply_to_screen_name": "EvilJoeMcVeigh",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1846,
+			"friends_count": 1079,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod one generous reading people have  pointed to is that it is not surprising that highly educated people (especially writers) express such (sincere or not) peeves - they are very invested in such language practices"
+	},
+	{
+		"created_at": "Wed Aug 28 20:06:50 +0000 2019",
+		"id": 1166765481782648800,
+		"id_str": "1166804353023447040",
+		"full_text": "@muranava @wordpressdotcom As summed up in the email correspondence of recent Johnson and Johnson staff - \"Sell, sell, sell\".   Or as a past President of a large ELT company told me - it's not the product - it's all about the bow on the product.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166759452516765700,
+		"in_reply_to_status_id_str": "1166759452516765698",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 52174903,
+			"id_str": "52174903",
+			"name": "David Deubelbeiss",
+			"screen_name": "ddeubel",
+			"location": "North Bay, Ontario, Canada",
+			"description": "Professor, teacher trainer, author, ed tech advocate.",
+			"url": "http://t.co/vNNEEdO20H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/vNNEEdO20H",
+							"expanded_url": "http://eflclassroom.ning.com",
+							"display_url": "eflclassroom.ning.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2742,
+			"friends_count": 1346,
+			"listed_count": 197,
+			"created_at": "Mon Jun 29 20:18:20 +0000 2009",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F4F6F7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100028935822327808/WD2u-PmU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100028935822327808/WD2u-PmU_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52174903/1551102399",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "40B4DB",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@muranava @wordpressdotcom As summed up in the email correspondence of recent Johnson and Johnson staff - \"Sell, sell, sell\".   Or as a past President of a large ELT company told me - it's not the product - it's all about the bow on the product."
+	},
+	{
 		"created_at": "Mon Aug 26 20:47:55 +0000 2019",
 		"id": 1166089917539192800,
 		"id_str": "1166089917539192834",
@@ -308,7 +1200,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes| RT≠endorsement",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes| RT≠endorsement",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
