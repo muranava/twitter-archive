@@ -1,6 +1,999 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 21:00:43 +0000 2019",
+		"id": 1167180298687275000,
+		"id_str": "1167180298687275013",
+		"full_text": "@EvilJoeMcVeigh @VocalFriesPod @lanegreene @LaymansLinguist @sarahshulist yes part of the complication is the tendency to see language rules as natural rather than normative",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilJoeMcVeigh",
+					"name": "Joe McVeigh",
+					"id": 1327355143,
+					"id_str": "1327355143",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "VocalFriesPod",
+					"name": "The Vocal Fries",
+					"id": 878331925852692500,
+					"id_str": "878331925852692480",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "lanegreene",
+					"name": "Lane Greene",
+					"id": 49170981,
+					"id_str": "49170981",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1167178099320152000,
+		"in_reply_to_status_id_str": "1167178099320152064",
+		"in_reply_to_user_id": 1327355143,
+		"in_reply_to_user_id_str": "1327355143",
+		"in_reply_to_screen_name": "EvilJoeMcVeigh",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1844,
+			"friends_count": 1080,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilJoeMcVeigh @VocalFriesPod @lanegreene @LaymansLinguist @sarahshulist yes part of the complication is the tendency to see language rules as natural rather than normative"
+	},
+	{
+		"created_at": "Thu Aug 29 20:32:32 +0000 2019",
+		"id": 1167173210133188600,
+		"id_str": "1167173210133188609",
+		"full_text": "@VocalFriesPod @EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist yes, D Cameron's book Verbal Hygiene makes a good case that a primary aspect of fighting the good fight is for linguists to take lay people's questions about value (what is good/bad language) seriously",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VocalFriesPod",
+					"name": "The Vocal Fries",
+					"id": 878331925852692500,
+					"id_str": "878331925852692480",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "EvilJoeMcVeigh",
+					"name": "Joe McVeigh",
+					"id": 1327355143,
+					"id_str": "1327355143",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "lanegreene",
+					"name": "Lane Greene",
+					"id": 49170981,
+					"id_str": "49170981",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1167161633237434400,
+		"in_reply_to_status_id_str": "1167161633237434369",
+		"in_reply_to_user_id": 878331925852692500,
+		"in_reply_to_user_id_str": "878331925852692480",
+		"in_reply_to_screen_name": "VocalFriesPod",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1844,
+			"friends_count": 1080,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@VocalFriesPod @EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist yes, D Cameron's book Verbal Hygiene makes a good case that a primary aspect of fighting the good fight is for linguists to take lay people's questions about value (what is good/bad language) seriously"
+	},
+	{
+		"created_at": "Thu Aug 29 16:43:41 +0000 2019",
+		"id": 1167114462681280500,
+		"id_str": "1167115614814650368",
+		"full_text": "The Rhyming Guide to the Arms Fair \n\nWatch and take action!\nhttps://t.co/ru9QP4tg6w\n\nFull video: https://t.co/YHylZHiAia https://t.co/827FIv9CNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ru9QP4tg6w",
+					"expanded_url": "https://www.stopthearmsfair.org.uk/",
+					"display_url": "stopthearmsfair.org.uk",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/YHylZHiAia",
+					"expanded_url": "https://youtu.be/E8gOL_BpS4g",
+					"display_url": "youtu.be/E8gOL_BpS4g",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167110770347434000,
+					"id_str": "1167110770347433987",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167110770347433987/pu/img/N_2vKZdGcG7zTKAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167110770347433987/pu/img/N_2vKZdGcG7zTKAC.jpg",
+					"url": "https://t.co/827FIv9CNT",
+					"display_url": "pic.twitter.com/827FIv9CNT",
+					"expanded_url": "https://twitter.com/PotentOfficial/status/1167114462681280513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167110770347434000,
+					"id_str": "1167110770347433987",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1167110770347433987/pu/img/N_2vKZdGcG7zTKAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1167110770347433987/pu/img/N_2vKZdGcG7zTKAC.jpg",
+					"url": "https://t.co/827FIv9CNT",
+					"display_url": "pic.twitter.com/827FIv9CNT",
+					"expanded_url": "https://twitter.com/PotentOfficial/status/1167114462681280513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 130163,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167110770347433987/pu/vid/480x270/po-fpGXkrEIL7WeT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167110770347433987/pu/vid/1280x720/mOZyjr-AmyyUG4Ye.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1167110770347433987/pu/vid/640x360/5S30eW_HHAdvc9sr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1167110770347433987/pu/pl/Ct8Ei5VY-1HC3MXP.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239609736,
+			"id_str": "239609736",
+			"name": "Potent Whisper",
+			"screen_name": "PotentOfficial",
+			"location": "London, uk",
+			"description": "Changing the world one rhyme at a time",
+			"url": "https://t.co/GrxPu9goUD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrxPu9goUD",
+							"expanded_url": "http://www.potentwhisper.com",
+							"display_url": "potentwhisper.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4215,
+			"friends_count": 2500,
+			"listed_count": 42,
+			"created_at": "Tue Jan 18 01:06:34 +0000 2011",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146828093564379137/_Dk52-0k_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146828093564379137/_Dk52-0k_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239609736/1561649607",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 127,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Rhyming Guide to the Arms Fair \n\nWatch and take action!\nhttps://t.co/ru9QP4tg6w\n\nFull video: https://t.co/YHylZHiAia https://t.co/827FIv9CNT"
+	},
+	{
+		"created_at": "Thu Aug 29 16:22:34 +0000 2019",
+		"id": 1167093800596136000,
+		"id_str": "1167110301621411840",
+		"full_text": "#ThrowbackThursday This was the first ever post on #ELT #Research Bites, and still worth a read! https://t.co/w5KeL4Yo9d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThrowbackThursday",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "Research",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5KeL4Yo9d",
+					"expanded_url": "http://www.eltresearchbites.com/201610-a-pedagogical-approach-to-note-taking-instruction/",
+					"display_url": "eltresearchbites.com/201610-a-pedag…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794337135901876200,
+			"id_str": "794337135901876224",
+			"name": "ELT Research Bites",
+			"screen_name": "ResearchBites",
+			"location": "",
+			"description": "ELT Research Bites - Providing summaries of ELT research useful for the classroom. https://t.co/kCWMysPB0j",
+			"url": "https://t.co/kCWMysPB0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Fri Nov 04 00:35:06 +0000 2016",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794337135901876224/1478655801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ThrowbackThursday This was the first ever post on #ELT #Research Bites, and still worth a read! https://t.co/w5KeL4Yo9d"
+	},
+	{
+		"created_at": "Thu Aug 29 13:53:12 +0000 2019",
+		"id": 1167072712105300000,
+		"id_str": "1167072712105299968",
+		"full_text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod to question those rules would be to devalue the time/effort one spent learning those rules - effect of learning norms is so ingrained you are not capable of experiencing them as arbitrary (even if intellectually you know they are arbitrary) - paraphrasing D. Cameron",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			340
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilJoeMcVeigh",
+					"name": "Joe McVeigh",
+					"id": 1327355143,
+					"id_str": "1327355143",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lanegreene",
+					"name": "Lane Greene",
+					"id": 49170981,
+					"id_str": "49170981",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "LaymansLinguist",
+					"name": "The Layman's Linguist",
+					"id": 945526625298460700,
+					"id_str": "945526625298460672",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "sarahshulist",
+					"name": "Dr Sarah Shulist",
+					"id": 841537412,
+					"id_str": "841537412",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "VocalFriesPod",
+					"name": "The Vocal Fries",
+					"id": 878331925852692500,
+					"id_str": "878331925852692480",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166960402670002200,
+		"in_reply_to_status_id_str": "1166960402670002176",
+		"in_reply_to_user_id": 1327355143,
+		"in_reply_to_user_id_str": "1327355143",
+		"in_reply_to_screen_name": "EvilJoeMcVeigh",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1844,
+			"friends_count": 1080,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilJoeMcVeigh @lanegreene @LaymansLinguist @sarahshulist @VocalFriesPod to question those rules would be to devalue the time/effort one spent learning those rules - effect of learning norms is so ingrained you are not capable of experiencing them as arbitrary (even if intellectually you know they are arbitrary) - paraphrasing D. Cameron"
+	},
+	{
+		"created_at": "Thu Aug 29 11:12:22 +0000 2019",
+		"id": 1167032239365996500,
+		"id_str": "1167032239365996552",
+		"full_text": "Capitalist Realism and the Disappearance of Musical Genre https://t.co/UWoComiVdm via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UWoComiVdm",
+					"expanded_url": "https://marxistelf.wordpress.com/2019/08/29/capitalist-realism-and-the-disappearance-of-musical-genre/",
+					"display_url": "marxistelf.wordpress.com/2019/08/29/cap…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1844,
+			"friends_count": 1080,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 8974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Capitalist Realism and the Disappearance of Musical Genre https://t.co/UWoComiVdm via @wordpressdotcom"
+	},
+	{
 		"created_at": "Wed Aug 28 22:30:29 +0000 2019",
 		"id": 1166840501582160000,
 		"id_str": "1166840501582159873",
@@ -543,7 +1536,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes| RT≠endorsement",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT together with #WOCinELT| @SietarKansaiJP Twitter Coord| Blogger @BydStereotypes| RT≠endorsement",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
