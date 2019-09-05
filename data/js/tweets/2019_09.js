@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 04 21:59:34 +0000 2019",
+		"id": 1169170072428077000,
+		"id_str": "1169369439256621056",
+		"full_text": "Uploading my students' podcast episodes here https://t.co/wJM7xXBzrW #immigration #UK #multiculturalism #ELT They'd love to get some comments on their work! Pls share widely! :-)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "immigration",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"text": "UK",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "multiculturalism",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wJM7xXBzrW",
+					"expanded_url": "https://www.podomatic.com/podcasts/immigrationmulticultuk",
+					"display_url": "podomatic.com/podcasts/immig…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2430206497,
+			"id_str": "2430206497",
+			"name": "Clare Maas",
+			"screen_name": "Clare2ELT",
+			"location": "Germany",
+			"description": "EFL & EAP teacher, Joint Events Coordinator for MaWSIG, ELT blogger, materials writer, and frequent drinker of tea! London girl at heart!  *all views my own*",
+			"url": "http://t.co/V7Ic0OitOT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/V7Ic0OitOT",
+							"expanded_url": "http://ClaresELTCompendium.wordpress.com",
+							"display_url": "ClaresELTCompendium.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1415,
+			"friends_count": 618,
+			"listed_count": 68,
+			"created_at": "Sun Apr 06 09:35:10 +0000 2014",
+			"favourites_count": 7701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872814028128747521/G7_53h9B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872814028128747521/G7_53h9B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2430206497/1484734423",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uploading my students' podcast episodes here https://t.co/wJM7xXBzrW #immigration #UK #multiculturalism #ELT They'd love to get some comments on their work! Pls share widely! :-)"
+	},
+	{
+		"created_at": "Wed Sep 04 13:28:00 +0000 2019",
+		"id": 1169240698429804500,
+		"id_str": "1169240698429804550",
+		"full_text": "Lindsay Hawker should be TEFL's own Suzy Lamplugh, paying tribute by staying safe. https://t.co/An8lhxDtPo via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/An8lhxDtPo",
+					"expanded_url": "https://marxistelf.wordpress.com/2019/09/04/lindsay-hawker-should-be-tefls-own-suzy-lamplugh-paying-tribute-by-staying-safe/",
+					"display_url": "marxistelf.wordpress.com/2019/09/04/lin…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1845,
+			"friends_count": 1089,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lindsay Hawker should be TEFL's own Suzy Lamplugh, paying tribute by staying safe. https://t.co/An8lhxDtPo via @wordpressdotcom"
+	},
+	{
 		"created_at": "Mon Sep 02 14:35:41 +0000 2019",
 		"id": 1168228699101159400,
 		"id_str": "1168532954823438337",
@@ -476,7 +747,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Mon Sep 02 13:24:55 +0000 2019",
 		"id": 1168074584324825000,
 		"id_str": "1168515146500759552",
-		"full_text": "Stepping back in the ring in October to fight with pride in London 🏳️‍🌈\n\nHere's what to do:\n\n1️⃣ Share this tweet \n2️⃣ Use the link below to buy a ticket\n3️⃣ Tap the link in my bio to find out more about how you can support me\n\nhttps://t.co/yDta2aChyR\n \n#LGBT #Pride https://t.co/r0BvsK4FR2",
+		"full_text": "Stepping back in the ring in October to fight with pride in London 🏳️🌈\n\nHere's what to do:\n\n1️⃣ Share this tweet \n2️⃣ Use the link below to buy a ticket\n3️⃣ Tap the link in my bio to find out more about how you can support me\n\nhttps://t.co/yDta2aChyR\n \n#LGBT #Pride https://t.co/r0BvsK4FR2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -603,7 +874,7 @@ Grailbird.data.tweets_2019_09 =
 			"name": "Anthony Ash",
 			"screen_name": "anth_ash",
 			"location": "Cardiff, Wales",
-			"description": "Boxer fighting with Pride 🏳️‍🌈 | Fellow of @thersaorg | Blogger, fundraiser and linguist 🇵🇱🇩🇪🇪🇸🇫🇷🇱🇺 | Hit the link below to support and sponsor 👇",
+			"description": "Boxer fighting with Pride 🏳️🌈 | Fellow of @thersaorg | Blogger, fundraiser and linguist 🇵🇱🇩🇪🇪🇸🇫🇷🇱🇺 | Hit the link below to support and sponsor 👇",
 			"url": "https://t.co/HaHc70O1xN",
 			"entities": {
 				"url": {
@@ -702,7 +973,7 @@ Grailbird.data.tweets_2019_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Stepping back in the ring in October to fight with pride in London 🏳️‍🌈\n\nHere's what to do:\n\n1️⃣ Share this tweet \n2️⃣ Use the link below to buy a ticket\n3️⃣ Tap the link in my bio to find out more about how you can support me\n\nhttps://t.co/yDta2aChyR\n \n#LGBT #Pride https://t.co/r0BvsK4FR2"
+		"text": "Stepping back in the ring in October to fight with pride in London 🏳️🌈\n\nHere's what to do:\n\n1️⃣ Share this tweet \n2️⃣ Use the link below to buy a ticket\n3️⃣ Tap the link in my bio to find out more about how you can support me\n\nhttps://t.co/yDta2aChyR\n \n#LGBT #Pride https://t.co/r0BvsK4FR2"
 	},
 	{
 		"created_at": "Mon Sep 02 13:19:31 +0000 2019",
