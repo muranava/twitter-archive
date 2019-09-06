@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 19:11:38 +0000 2019",
+		"id": 1169451083208548400,
+		"id_str": "1169689563935203328",
+		"full_text": "#ThrowbackThursday  Happy 1st birthday to this post by @11thhourspecial https://t.co/gtc01duf7p #ELT #research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThrowbackThursday",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gtc01duf7p",
+					"expanded_url": "http://www.eltresearchbites.com/201809-bottom-up-decoding-has-a-link-to-l2-proficiency/",
+					"display_url": "eltresearchbites.com/201809-bottom-…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794337135901876200,
+			"id_str": "794337135901876224",
+			"name": "ELT Research Bites",
+			"screen_name": "ResearchBites",
+			"location": "",
+			"description": "ELT Research Bites - Providing summaries of ELT research useful for the classroom. https://t.co/kCWMysPB0j",
+			"url": "https://t.co/kCWMysPB0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Fri Nov 04 00:35:06 +0000 2016",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794337135901876224/1478655801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ThrowbackThursday  Happy 1st birthday to this post by @11thhourspecial https://t.co/gtc01duf7p #ELT #research"
+	},
+	{
 		"created_at": "Wed Sep 04 21:59:34 +0000 2019",
 		"id": 1169170072428077000,
 		"id_str": "1169369439256621056",
