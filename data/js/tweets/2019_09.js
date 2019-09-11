@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 21:55:36 +0000 2019",
+		"id": 1171517459993518000,
+		"id_str": "1171542767144722432",
+		"full_text": "\"Ask and move\" task https://t.co/u9UjUAW57U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u9UjUAW57U",
+					"expanded_url": "https://buff.ly/31c89WD",
+					"display_url": "buff.ly/31c89WD",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303905601,
+			"id_str": "303905601",
+			"name": "Steve Smith 🇪🇺",
+			"screen_name": "spsmith45",
+			"location": "Harrogate, North Yorkshire, UK",
+			"description": "Teacher 33 yrs. Author: The Language Teacher Toolkit, Becoming an Outstanding Languages Teacher., Breaking the Sound Barrier. Resource writer. Trainer.",
+			"url": "https://t.co/xUMPBdcjdQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xUMPBdcjdQ",
+							"expanded_url": "http://frenchteachernet.blogspot.co.uk",
+							"display_url": "frenchteachernet.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10873,
+			"friends_count": 3390,
+			"listed_count": 201,
+			"created_at": "Mon May 23 16:21:38 +0000 2011",
+			"favourites_count": 12983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090233705505976321/f0HHSauW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090233705505976321/f0HHSauW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303905601/1538832295",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Ask and move\" task https://t.co/u9UjUAW57U"
+	},
+	{
+		"created_at": "Tue Sep 10 19:24:13 +0000 2019",
+		"id": 1171504669211779000,
+		"id_str": "1171504669211779072",
+		"full_text": "some developments on TED CORPUS SEARCH ENGINE not noticed before - keywords which could be useful to get similar videos for narrow listening; pause &amp; watch feature in full screen where transcript is only shown when pausing video; more at new help file - https://t.co/wrtomcMqdY https://t.co/dDQDXTggS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wrtomcMqdY",
+					"expanded_url": "https://tcse.gitbook.io/doc/",
+					"display_url": "tcse.gitbook.io/doc/",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1171504664942002200,
+					"id_str": "1171504664942002177",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIFSS6UwAErVdI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEIFSS6UwAErVdI.png",
+					"url": "https://t.co/dDQDXTggS6",
+					"display_url": "pic.twitter.com/dDQDXTggS6",
+					"expanded_url": "https://twitter.com/muranava/status/1171504669211779072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171504664942002200,
+					"id_str": "1171504664942002177",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EEIFSS6UwAErVdI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEIFSS6UwAErVdI.png",
+					"url": "https://t.co/dDQDXTggS6",
+					"display_url": "pic.twitter.com/dDQDXTggS6",
+					"expanded_url": "https://twitter.com/muranava/status/1171504669211779072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 655,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1850,
+			"friends_count": 1087,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some developments on TED CORPUS SEARCH ENGINE not noticed before - keywords which could be useful to get similar videos for narrow listening; pause &amp; watch feature in full screen where transcript is only shown when pausing video; more at new help file - https://t.co/wrtomcMqdY https://t.co/dDQDXTggS6"
+	},
+	{
+		"created_at": "Tue Sep 10 16:32:22 +0000 2019",
+		"id": 1171461424180158500,
+		"id_str": "1171461424180158464",
+		"full_text": "@RemivanTrijp @SimonKirby @JWGrieve @Limor_Raviv @MH_Christiansen the original tweet noted that bio evolution &amp; cult evo are seen as one thing now? - a point of origin requires intersection of two dimensions - here bio evo with cult evo, hence looking for an origin entails two continua not one?",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			299
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemivanTrijp",
+					"name": "Remi van Trijp",
+					"id": 2707625906,
+					"id_str": "2707625906",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SimonKirby",
+					"name": "Simon Kirby",
+					"id": 14191265,
+					"id_str": "14191265",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "Limor_Raviv",
+					"name": "Limor Raviv 🦄",
+					"id": 753506894963171300,
+					"id_str": "753506894963171328",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "MH_Christiansen",
+					"name": "Morten Christiansen",
+					"id": 801968388562186200,
+					"id_str": "801968388562186240",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171369507560022000,
+		"in_reply_to_status_id_str": "1171369507560022016",
+		"in_reply_to_user_id": 2707625906,
+		"in_reply_to_user_id_str": "2707625906",
+		"in_reply_to_screen_name": "RemivanTrijp",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1850,
+			"friends_count": 1087,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RemivanTrijp @SimonKirby @JWGrieve @Limor_Raviv @MH_Christiansen the original tweet noted that bio evolution &amp; cult evo are seen as one thing now? - a point of origin requires intersection of two dimensions - here bio evo with cult evo, hence looking for an origin entails two continua not one?"
+	},
+	{
+		"created_at": "Tue Sep 10 10:14:10 +0000 2019",
+		"id": 1171366243506512000,
+		"id_str": "1171366243506511873",
+		"full_text": "@SimonKirby @JWGrieve @RemivanTrijp @Limor_Raviv @MH_Christiansen what do you think of anthropologists like Tim Ingold who argue no sense in studying origins of language as language is a practice &amp; so evolution process is ongoing (by contrast makes more sense to study orgins of speech)? thx",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonKirby",
+					"name": "Simon Kirby",
+					"id": 14191265,
+					"id_str": "14191265",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "RemivanTrijp",
+					"name": "Remi van Trijp",
+					"id": 2707625906,
+					"id_str": "2707625906",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "Limor_Raviv",
+					"name": "Limor Raviv 🦄",
+					"id": 753506894963171300,
+					"id_str": "753506894963171328",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "MH_Christiansen",
+					"name": "Morten Christiansen",
+					"id": 801968388562186200,
+					"id_str": "801968388562186240",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171359727651086300,
+		"in_reply_to_status_id_str": "1171359727651086337",
+		"in_reply_to_user_id": 14191265,
+		"in_reply_to_user_id_str": "14191265",
+		"in_reply_to_screen_name": "SimonKirby",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1850,
+			"friends_count": 1087,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SimonKirby @JWGrieve @RemivanTrijp @Limor_Raviv @MH_Christiansen what do you think of anthropologists like Tim Ingold who argue no sense in studying origins of language as language is a practice &amp; so evolution process is ongoing (by contrast makes more sense to study orgins of speech)? thx"
+	},
+	{
+		"created_at": "Tue Sep 10 09:44:49 +0000 2019",
+		"id": 1171082080387784700,
+		"id_str": "1171358859254013953",
+		"full_text": "Have you recently read a research paper that would be interesting for other #ELT #teachers or #researchers to know about? Why not \"bite\" it in a post for our site? Get in touch if you'd like to get involved: https://t.co/XGBiWbbJeJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "teachers",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "researchers",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XGBiWbbJeJ",
+					"expanded_url": "http://www.eltresearchbites.com/contribute/",
+					"display_url": "eltresearchbites.com/contribute/",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794337135901876200,
+			"id_str": "794337135901876224",
+			"name": "ELT Research Bites",
+			"screen_name": "ResearchBites",
+			"location": "",
+			"description": "ELT Research Bites - Providing summaries of ELT research useful for the classroom. https://t.co/kCWMysPB0j",
+			"url": "https://t.co/kCWMysPB0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1563,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Fri Nov 04 00:35:06 +0000 2016",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794337135901876224/1478655801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you recently read a research paper that would be interesting for other #ELT #teachers or #researchers to know about? Why not \"bite\" it in a post for our site? Get in touch if you'd like to get involved: https://t.co/XGBiWbbJeJ"
+	},
+	{
 		"created_at": "Mon Sep 09 23:22:06 +0000 2019",
 		"id": 1171202147154845700,
 		"id_str": "1171202147154845696",
