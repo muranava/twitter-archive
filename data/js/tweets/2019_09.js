@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 15:48:14 +0000 2019",
+		"id": 1172172515466199000,
+		"id_str": "1175798970112774146",
+		"full_text": "#ThrowbackThursday Nearly a whole year since this post was published by @Clare2ELT https://t.co/g8skQUeRSX #ELT #research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThrowbackThursday",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Clare2ELT",
+					"name": "Clare Maas",
+					"id": 2430206497,
+					"id_str": "2430206497",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g8skQUeRSX",
+					"expanded_url": "http://www.eltresearchbites.com/201809-multilingualism-as-a-resource-in-the-foreign-language-classroom/",
+					"display_url": "eltresearchbites.com/201809-multili…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794337135901876200,
+			"id_str": "794337135901876224",
+			"name": "ELT Research Bites",
+			"screen_name": "ResearchBites",
+			"location": "",
+			"description": "ELT Research Bites - Providing summaries of ELT research useful for the classroom. https://t.co/kCWMysPB0j",
+			"url": "https://t.co/kCWMysPB0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kCWMysPB0j",
+							"expanded_url": "http://eltresearchbites.com",
+							"display_url": "eltresearchbites.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 71,
+			"listed_count": 26,
+			"created_at": "Fri Nov 04 00:35:06 +0000 2016",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796166035355422720/BYzYLorH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794337135901876224/1478655801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ThrowbackThursday Nearly a whole year since this post was published by @Clare2ELT https://t.co/g8skQUeRSX #ELT #research"
+	},
+	{
+		"created_at": "Sun Sep 22 12:19:56 +0000 2019",
+		"id": 1175675904338665500,
+		"id_str": "1175746548820533248",
+		"full_text": "A quick Sunday post on how I use the PHaVE Dictionary in my one-to-one #ELT classes. BTW, PHaVE is an online dictionary of \"150 most common phrasal verbs &amp; their most common meanings\" that uses the TED corpus search engine. https://t.co/CwJS27KDtQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CwJS27KDtQ",
+					"expanded_url": "https://www.freeed.com/articles/805/phave-dictionary-a-tool-for-learning-phrasal-verbs-through-ted-talks",
+					"display_url": "freeed.com/articles/805/p…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2908069515,
+			"id_str": "2908069515",
+			"name": "Myles Klynhout",
+			"screen_name": "myles_klynhout",
+			"location": "Helsinki, Finland",
+			"description": "English Teacher & Education Enthusiast | Community & Product Specialist @freeedcom | Member of @slbcoop | Student of International Business Admin. @ArcadaUAS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 870,
+			"listed_count": 14,
+			"created_at": "Sat Dec 06 18:17:14 +0000 2014",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168198286827827200/hGSp1eV4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168198286827827200/hGSp1eV4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2908069515/1565028547",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A quick Sunday post on how I use the PHaVE Dictionary in my one-to-one #ELT classes. BTW, PHaVE is an online dictionary of \"150 most common phrasal verbs &amp; their most common meanings\" that uses the TED corpus search engine. https://t.co/CwJS27KDtQ"
+	},
+	{
 		"created_at": "Sat Sep 21 08:36:14 +0000 2019",
 		"id": 1175126765347528700,
 		"id_str": "1175327868236251136",
