@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 21:11:19 +0000 2019",
+		"id": 1176242665589002200,
+		"id_str": "1176242665589002240",
+		"full_text": "How often do you need to encounter a word before you learn it? https://t.co/lzFqEKco6F via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lzFqEKco6F",
+					"expanded_url": "https://adaptivelearninginelt.wordpress.com/2019/09/23/how-often-do-you-need-to-encounter-a-word-before-you-learn-it/",
+					"display_url": "adaptivelearninginelt.wordpress.com/2019/09/23/how…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1859,
+			"friends_count": 1108,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How often do you need to encounter a word before you learn it? https://t.co/lzFqEKco6F via @wordpressdotcom"
+	},
+	{
+		"created_at": "Mon Sep 23 15:50:48 +0000 2019",
+		"id": 1176162005327208400,
+		"id_str": "1176162005327208449",
+		"full_text": "NICK CONRAD - LES COLIBRIS https://t.co/Xddb2aIzIA via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xddb2aIzIA",
+					"expanded_url": "https://youtu.be/KsW1rosMx70",
+					"display_url": "youtu.be/KsW1rosMx70",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1859,
+			"friends_count": 1108,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "NICK CONRAD - LES COLIBRIS https://t.co/Xddb2aIzIA via @YouTube"
+	},
+	{
+		"created_at": "Mon Sep 23 14:09:56 +0000 2019",
+		"id": 1176126671235289000,
+		"id_str": "1176136621814665216",
+		"full_text": "#ELT teachers making history today as they formed the first ever pickett line outside Delphin School of English today. More info: https://t.co/LZUoTdaT5f  @IrishTimesBiz @FT @irishexaminer @thejournal_ie @rte  @emma_okelly @ELTAdvocacy @EltManchester @unitetheunion @marktigheST https://t.co/pP69zSMl1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IrishTimesBiz",
+					"name": "Irish Times Business",
+					"id": 16737418,
+					"id_str": "16737418",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"screen_name": "FT",
+					"name": "Financial Times",
+					"id": 18949452,
+					"id_str": "18949452",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"screen_name": "irishexaminer",
+					"name": "Irish Examiner",
+					"id": 19903360,
+					"id_str": "19903360",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"screen_name": "thejournal_ie",
+					"name": "TheJournal.ie",
+					"id": 150246405,
+					"id_str": "150246405",
+					"indices": [
+						189,
+						203
+					]
+				},
+				{
+					"screen_name": "rte",
+					"name": "RTÉ",
+					"id": 1245699895,
+					"id_str": "1245699895",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"screen_name": "emma_okelly",
+					"name": "emma o kelly",
+					"id": 88401150,
+					"id_str": "88401150",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						223,
+						235
+					]
+				},
+				{
+					"screen_name": "EltManchester",
+					"name": "ELT Manchester",
+					"id": 1086987873721684000,
+					"id_str": "1086987873721683968",
+					"indices": [
+						236,
+						250
+					]
+				},
+				{
+					"screen_name": "unitetheunion",
+					"name": "Unite the union",
+					"id": 20593641,
+					"id_str": "20593641",
+					"indices": [
+						251,
+						265
+					]
+				},
+				{
+					"screen_name": "marktigheST",
+					"name": "Mark Tighe",
+					"id": 6291142,
+					"id_str": "6291142",
+					"indices": [
+						266,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LZUoTdaT5f",
+					"expanded_url": "http://eltunite.com",
+					"display_url": "eltunite.com",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176126537428607000,
+					"id_str": "1176126537428606977",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176126537428606977/pu/img/-JeHCU0uQnxw3ojl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176126537428606977/pu/img/-JeHCU0uQnxw3ojl.jpg",
+					"url": "https://t.co/pP69zSMl1V",
+					"display_url": "pic.twitter.com/pP69zSMl1V",
+					"expanded_url": "https://twitter.com/Gal_i/status/1176126671235289095/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176126537428607000,
+					"id_str": "1176126537428606977",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1176126537428606977/pu/img/-JeHCU0uQnxw3ojl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1176126537428606977/pu/img/-JeHCU0uQnxw3ojl.jpg",
+					"url": "https://t.co/pP69zSMl1V",
+					"display_url": "pic.twitter.com/pP69zSMl1V",
+					"expanded_url": "https://twitter.com/Gal_i/status/1176126671235289095/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37545,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176126537428606977/pu/vid/1280x720/V2j_Zres57Sq5hO5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176126537428606977/pu/vid/480x270/GczZKKNlv1Prxnih.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1176126537428606977/pu/pl/oWKQ2ISHbfYTjXj5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1176126537428606977/pu/vid/640x360/5LQXpg8vgOq-FXY3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91305301,
+			"id_str": "91305301",
+			"name": "Gally Gallagher",
+			"screen_name": "Gal_i",
+			"location": "Dublin, Ireland.",
+			"description": "Irish man. Optimist. Music lover,  especially all tings Reggae. English Teacher. Organiser with ELT Advocacy Ireland. Easy now!",
+			"url": "https://t.co/9HH9TXeBJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HH9TXeBJr",
+							"expanded_url": "http://www.facebook.com/gallafari",
+							"display_url": "facebook.com/gallafari",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329,
+			"friends_count": 747,
+			"listed_count": 6,
+			"created_at": "Fri Nov 20 09:28:18 +0000 2009",
+			"favourites_count": 11545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/755306502106251268/gqscOCCg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/755306502106251268/gqscOCCg_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7dde0febc9ef245b",
+			"url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+			"place_type": "city",
+			"name": "Dublin City",
+			"full_name": "Dublin City, Ireland",
+			"country_code": "IE",
+			"country": "Ireland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-6.387438,
+							53.2987449
+						],
+						[
+							-6.1078047,
+							53.2987449
+						],
+						[
+							-6.1078047,
+							53.4110598
+						],
+						[
+							-6.387438,
+							53.4110598
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ELT teachers making history today as they formed the first ever pickett line outside Delphin School of English today. More info: https://t.co/LZUoTdaT5f  @IrishTimesBiz @FT @irishexaminer @thejournal_ie @rte  @emma_okelly @ELTAdvocacy @EltManchester @unitetheunion @marktigheST https://t.co/pP69zSMl1V"
+	},
+	{
+		"created_at": "Mon Sep 23 13:40:00 +0000 2019",
+		"id": 1176121642755547100,
+		"id_str": "1176129086713937920",
+		"full_text": "Language &amp; area studies professionals! Following Education Department's meddling w/ the work of Middle East Studies colleagues at Duke-UNC, please join us in claiming a new, civic narrative for language teaching. Contact us (see thread) to add your name!  https://t.co/1HclXYqf0H https://t.co/30oGalir4s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1HclXYqf0H",
+					"expanded_url": "https://docs.google.com/document/d/12J0s9gHvdk2kLNDFY9848bzfAjXR7bZ2DF9MIEenGPU/edit?usp=sharing",
+					"display_url": "docs.google.com/document/d/12J…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176121635482550300,
+					"id_str": "1176121635482550273",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EFJsZWeWwAEjaKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFJsZWeWwAEjaKf.jpg",
+					"url": "https://t.co/30oGalir4s",
+					"display_url": "pic.twitter.com/30oGalir4s",
+					"expanded_url": "https://twitter.com/ykomska/status/1176121642755547143/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1234,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176121635482550300,
+					"id_str": "1176121635482550273",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EFJsZWeWwAEjaKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFJsZWeWwAEjaKf.jpg",
+					"url": "https://t.co/30oGalir4s",
+					"display_url": "pic.twitter.com/30oGalir4s",
+					"expanded_url": "https://twitter.com/ykomska/status/1176121642755547143/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1234,
+							"h": 850,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236444566,
+			"id_str": "2236444566",
+			"name": "Yuliya Komska",
+			"screen_name": "ykomska",
+			"location": "",
+			"description": "Cold War cultural historian • Borders, propaganda, language(s) • Co-wrote Linguistic Disobedience (2018) • Next: Curious George creators • German prof, forager",
+			"url": "https://t.co/2aEkfRT8T5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2aEkfRT8T5",
+							"expanded_url": "http://dartmouth.edu/faculty-directory/yuliya-komska",
+							"display_url": "dartmouth.edu/faculty-direct…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4619,
+			"friends_count": 790,
+			"listed_count": 123,
+			"created_at": "Sun Dec 08 18:54:02 +0000 2013",
+			"favourites_count": 33288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774364451915038720/KOPcA_Qo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774364451915038720/KOPcA_Qo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236444566/1462883468",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Language &amp; area studies professionals! Following Education Department's meddling w/ the work of Middle East Studies colleagues at Duke-UNC, please join us in claiming a new, civic narrative for language teaching. Contact us (see thread) to add your name!  https://t.co/1HclXYqf0H https://t.co/30oGalir4s"
+	},
+	{
 		"created_at": "Sun Sep 22 15:48:14 +0000 2019",
 		"id": 1172172515466199000,
 		"id_str": "1175798970112774146",
