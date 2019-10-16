@@ -1,6 +1,2310 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 18:49:47 +0000 2019",
+		"id": 1184177886690984000,
+		"id_str": "1184179579839287296",
+		"full_text": "'Every break is unpaid.' \n'You can be correcting thirty essays a week.' \nThe sector is precarious, the teachers' job situation is 'unsustainable' and that is the 'reality'. \nPrecarious #ELT in 2019 https://t.co/eAg6AfDB1C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eAg6AfDB1C",
+					"expanded_url": "https://www.rte.ie/radio/radioplayer/html5/#/radio1/21636823",
+					"display_url": "rte.ie/radio/radiopla…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulw",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "Writer and Teacher | Politics/ Pedagogy/ Literature/ Balkans \n'You're on Earth. There's no cure for that.'",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 5001,
+			"listed_count": 53,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 4010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Every break is unpaid.' \n'You can be correcting thirty essays a week.' \nThe sector is precarious, the teachers' job situation is 'unsustainable' and that is the 'reality'. \nPrecarious #ELT in 2019 https://t.co/eAg6AfDB1C"
+	},
+	{
+		"created_at": "Tue Oct 15 18:41:27 +0000 2019",
+		"id": 1184177481710014500,
+		"id_str": "1184177481710014466",
+		"full_text": "@GeoffJordan16 @brettrey3 @MerriamWebster maybe, was wondering if \"motivated\" construct is too general then maybe that is a problem that Brett was getting at? e.g. plural -s motivation of more form means more substance makes stronger sense from an embodied pov than from a general free floating one if u see what i mean?",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			320
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1178570704062685200,
+					"id_str": "1178570704062685185",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brettrey3",
+					"name": "Brett Reynolds",
+					"id": 1058452748335792100,
+					"id_str": "1058452748335792128",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184158653772976000,
+		"in_reply_to_status_id_str": "1184158653772976128",
+		"in_reply_to_user_id": 1178570704062685200,
+		"in_reply_to_user_id_str": "1178570704062685185",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 @brettrey3 @MerriamWebster maybe, was wondering if \"motivated\" construct is too general then maybe that is a problem that Brett was getting at? e.g. plural -s motivation of more form means more substance makes stronger sense from an embodied pov than from a general free floating one if u see what i mean?"
+	},
+	{
+		"created_at": "Tue Oct 15 17:06:58 +0000 2019",
+		"id": 1184153704569737200,
+		"id_str": "1184153704569737227",
+		"full_text": "@GeoffJordan16 @brettrey3 @MerriamWebster yes good point here Geoff, need to consider also if you accept tenets of cog ling as well",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1178570704062685200,
+					"id_str": "1178570704062685185",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "brettrey3",
+					"name": "Brett Reynolds",
+					"id": 1058452748335792100,
+					"id_str": "1058452748335792128",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184095190199537700,
+		"in_reply_to_status_id_str": "1184095190199537664",
+		"in_reply_to_user_id": 1178570704062685200,
+		"in_reply_to_user_id_str": "1178570704062685185",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 @brettrey3 @MerriamWebster yes good point here Geoff, need to consider also if you accept tenets of cog ling as well"
+	},
+	{
+		"created_at": "Tue Oct 15 17:04:02 +0000 2019",
+		"id": 1184152968326779000,
+		"id_str": "1184152968326778880",
+		"full_text": "@SLBCoop thanks for sharing cooper folx!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183851850182860800,
+		"in_reply_to_status_id_str": "1183851850182860802",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SLBCoop thanks for sharing cooper folx!"
+	},
+	{
+		"created_at": "Tue Oct 15 12:54:58 +0000 2019",
+		"id": 1184090288983367700,
+		"id_str": "1184090288983367680",
+		"full_text": "@brettrey3 @MerriamWebster *form",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brettrey3",
+					"name": "Brett Reynolds",
+					"id": 1058452748335792100,
+					"id_str": "1058452748335792128",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184090198910615600,
+		"in_reply_to_status_id_str": "1184090198910615552",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brettrey3 @MerriamWebster *form"
+	},
+	{
+		"created_at": "Tue Oct 15 12:54:37 +0000 2019",
+		"id": 1184090198910615600,
+		"id_str": "1184090198910615552",
+		"full_text": "@brettrey3 @MerriamWebster debateable in one sense yes, one argument is connecting form to meaning not just memorising/noticing from when learning vocab",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brettrey3",
+					"name": "Brett Reynolds",
+					"id": 1058452748335792100,
+					"id_str": "1058452748335792128",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184083493069951000,
+		"in_reply_to_status_id_str": "1184083493069950976",
+		"in_reply_to_user_id": 1058452748335792100,
+		"in_reply_to_user_id_str": "1058452748335792128",
+		"in_reply_to_screen_name": "brettrey3",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brettrey3 @MerriamWebster debateable in one sense yes, one argument is connecting form to meaning not just memorising/noticing from when learning vocab"
+	},
+	{
+		"created_at": "Tue Oct 15 12:01:52 +0000 2019",
+		"id": 1184076925586825200,
+		"id_str": "1184076925586825218",
+		"full_text": "@philipjohnkerr sorry can't see link to EVP/Text-Inspector from there?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipjohnkerr",
+					"name": "philipjkerr",
+					"id": 847708264666062800,
+					"id_str": "847708264666062848",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184075553671909400,
+		"in_reply_to_status_id_str": "1184075553671909376",
+		"in_reply_to_user_id": 847708264666062800,
+		"in_reply_to_user_id_str": "847708264666062848",
+		"in_reply_to_screen_name": "philipjohnkerr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@philipjohnkerr sorry can't see link to EVP/Text-Inspector from there?"
+	},
+	{
+		"created_at": "Tue Oct 15 11:54:14 +0000 2019",
+		"id": 1184075003970629600,
+		"id_str": "1184075003970629632",
+		"full_text": "@11thhourspecial cheers Marc : )",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184073719880110000,
+		"in_reply_to_status_id_str": "1184073719880110085",
+		"in_reply_to_user_id": 903200845671440400,
+		"in_reply_to_user_id_str": "903200845671440384",
+		"in_reply_to_screen_name": "11thhourspecial",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@11thhourspecial cheers Marc : )"
+	},
+	{
+		"created_at": "Tue Oct 15 11:53:56 +0000 2019",
+		"id": 1184074926040506400,
+		"id_str": "1184074926040506368",
+		"full_text": "@philipjohnkerr oh which url is that?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipjohnkerr",
+					"name": "philipjkerr",
+					"id": 847708264666062800,
+					"id_str": "847708264666062848",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184074690349994000,
+		"in_reply_to_status_id_str": "1184074690349993984",
+		"in_reply_to_user_id": 847708264666062800,
+		"in_reply_to_user_id_str": "847708264666062848",
+		"in_reply_to_screen_name": "philipjohnkerr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@philipjohnkerr oh which url is that?"
+	},
+	{
+		"created_at": "Tue Oct 15 11:50:26 +0000 2019",
+		"id": 1184074047266668500,
+		"id_str": "1184074047266668544",
+		"full_text": "@philipjohnkerr private enterprise! on a colonial note EVP itself still using American English/British English https://t.co/p1ZAU4ka4K",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipjohnkerr",
+					"name": "philipjkerr",
+					"id": 847708264666062800,
+					"id_str": "847708264666062848",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184074044179701800,
+					"id_str": "1184074044179701761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6tEdcXYAEt9US.png",
+					"media_url_https": "https://pbs.twimg.com/media/EG6tEdcXYAEt9US.png",
+					"url": "https://t.co/p1ZAU4ka4K",
+					"display_url": "pic.twitter.com/p1ZAU4ka4K",
+					"expanded_url": "https://twitter.com/muranava/status/1184074047266668544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 53,
+							"h": 53,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184074044179701800,
+					"id_str": "1184074044179701761",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6tEdcXYAEt9US.png",
+					"media_url_https": "https://pbs.twimg.com/media/EG6tEdcXYAEt9US.png",
+					"url": "https://t.co/p1ZAU4ka4K",
+					"display_url": "pic.twitter.com/p1ZAU4ka4K",
+					"expanded_url": "https://twitter.com/muranava/status/1184074047266668544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 53,
+							"h": 53,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 53,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184004001118994400,
+		"in_reply_to_status_id_str": "1184004001118994434",
+		"in_reply_to_user_id": 847708264666062800,
+		"in_reply_to_user_id_str": "847708264666062848",
+		"in_reply_to_screen_name": "philipjohnkerr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@philipjohnkerr private enterprise! on a colonial note EVP itself still using American English/British English https://t.co/p1ZAU4ka4K"
+	},
+	{
+		"created_at": "Tue Oct 15 11:39:32 +0000 2019",
+		"id": 1184071302056939500,
+		"id_str": "1184071302056939520",
+		"full_text": "@SarahP_ELT glad to help or not : )",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahP_ELT",
+					"name": "Sarah Priestley",
+					"id": 722068533295886300,
+					"id_str": "722068533295886336",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184002453538312200,
+		"in_reply_to_status_id_str": "1184002453538312199",
+		"in_reply_to_user_id": 722068533295886300,
+		"in_reply_to_user_id_str": "722068533295886336",
+		"in_reply_to_screen_name": "SarahP_ELT",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahP_ELT glad to help or not : )"
+	},
+	{
+		"created_at": "Tue Oct 15 11:20:22 +0000 2019",
+		"id": 1184066478804557800,
+		"id_str": "1184066478804557824",
+		"full_text": "@LjiljanaHavran @GeoffJordan16 @GohLt1 thanks for RT folx : )",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LjiljanaHavran",
+					"name": "Ljiljana Havran",
+					"id": 1395825290,
+					"id_str": "1395825290",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1178570704062685200,
+					"id_str": "1178570704062685185",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "GohLt1",
+					"name": "Gerard O’Hanlon",
+					"id": 928360481580113900,
+					"id_str": "928360481580113920",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183851850182860800,
+		"in_reply_to_status_id_str": "1183851850182860802",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LjiljanaHavran @GeoffJordan16 @GohLt1 thanks for RT folx : )"
+	},
+	{
+		"created_at": "Tue Oct 15 11:19:38 +0000 2019",
+		"id": 1184066296092283000,
+		"id_str": "1184066296092282880",
+		"full_text": "@ielts_and_more it is not foolproof, and the argument runs that even if a student fails to find a reason the effort in attending to form can be beneficial",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ielts_and_more",
+					"name": "Melanie Aird",
+					"id": 2922871361,
+					"id_str": "2922871361",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184024064731598800,
+		"in_reply_to_status_id_str": "1184024064731598849",
+		"in_reply_to_user_id": 2922871361,
+		"in_reply_to_user_id_str": "2922871361",
+		"in_reply_to_screen_name": "ielts_and_more",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ielts_and_more it is not foolproof, and the argument runs that even if a student fails to find a reason the effort in attending to form can be beneficial"
+	},
+	{
+		"created_at": "Tue Oct 15 11:18:33 +0000 2019",
+		"id": 1184066021285617700,
+		"id_str": "1184066021285617665",
+		"full_text": "@Bluencar @ielts_and_more yes if you don't use explicit teaching of vocab that's fine; if you do then analysing vocab for various motivations may be useful",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bluencar",
+					"name": "Encarna Pérez 🔻",
+					"id": 613721290,
+					"id_str": "613721290",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ielts_and_more",
+					"name": "Melanie Aird",
+					"id": 2922871361,
+					"id_str": "2922871361",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184043922814898200,
+		"in_reply_to_status_id_str": "1184043922814898176",
+		"in_reply_to_user_id": 613721290,
+		"in_reply_to_user_id_str": "613721290",
+		"in_reply_to_screen_name": "Bluencar",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bluencar @ielts_and_more yes if you don't use explicit teaching of vocab that's fine; if you do then analysing vocab for various motivations may be useful"
+	},
+	{
+		"created_at": "Tue Oct 15 11:16:30 +0000 2019",
+		"id": 1184065507168833500,
+		"id_str": "1184065507168833536",
+		"full_text": "@brettrey3 @MerriamWebster Yes Liu (2010) distinguishes btw interlingual &amp; intralingual definitions of arbitrary; &amp; argues for non-arbitrary aspects of intralingual definitions; so yes comparing langs can see arbitrariness but within lang can see motivations",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brettrey3",
+					"name": "Brett Reynolds",
+					"id": 1058452748335792100,
+					"id_str": "1058452748335792128",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MerriamWebster",
+					"name": "Merriam-Webster",
+					"id": 97040343,
+					"id_str": "97040343",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184062372824191000,
+		"in_reply_to_status_id_str": "1184062372824190976",
+		"in_reply_to_user_id": 1058452748335792100,
+		"in_reply_to_user_id_str": "1058452748335792128",
+		"in_reply_to_screen_name": "brettrey3",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brettrey3 @MerriamWebster Yes Liu (2010) distinguishes btw interlingual &amp; intralingual definitions of arbitrary; &amp; argues for non-arbitrary aspects of intralingual definitions; so yes comparing langs can see arbitrariness but within lang can see motivations"
+	},
+	{
+		"created_at": "Tue Oct 15 06:03:26 +0000 2019",
+		"id": 1183986721014386700,
+		"id_str": "1183986721014386688",
+		"full_text": "@Allen__ELT in addition to the Liu (2010) ref in post another ref to read up is https://t.co/FfS0Pt7IfF; Columbia School linguistics also worth chasing up; for sure we need to balance form learning with form-meaning learning depending on our learners proficiency",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Allen__ELT",
+					"name": "Stephen",
+					"id": 746423240378060800,
+					"id_str": "746423240378060800",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FfS0Pt7IfF",
+					"expanded_url": "https://onlinelibrary.wiley.com/doi/abs/10.5054/tq.2011.247710",
+					"display_url": "onlinelibrary.wiley.com/doi/abs/10.505…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183984205878976500,
+		"in_reply_to_status_id_str": "1183984205878976512",
+		"in_reply_to_user_id": 746423240378060800,
+		"in_reply_to_user_id_str": "746423240378060800",
+		"in_reply_to_screen_name": "Allen__ELT",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Allen__ELT in addition to the Liu (2010) ref in post another ref to read up is https://t.co/FfS0Pt7IfF; Columbia School linguistics also worth chasing up; for sure we need to balance form learning with form-meaning learning depending on our learners proficiency"
+	},
+	{
+		"created_at": "Tue Oct 15 05:52:18 +0000 2019",
+		"id": 1183983920079089700,
+		"id_str": "1183983920079089664",
+		"full_text": "@myles_klynhout thx for RT Myles :)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "myles_klynhout",
+					"name": "Myles Klynhout",
+					"id": 2908069515,
+					"id_str": "2908069515",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183851850182860800,
+		"in_reply_to_status_id_str": "1183851850182860802",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1871,
+			"friends_count": 1141,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@myles_klynhout thx for RT Myles :)"
+	},
+	{
 		"created_at": "Mon Oct 14 21:07:30 +0000 2019",
 		"id": 1183851850182860800,
 		"id_str": "1183851850182860802",
