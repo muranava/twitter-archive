@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 16:27:24 +0000 2019",
+		"id": 1187739782027366400,
+		"id_str": "1187767626568818705",
+		"full_text": "This is my early version of the new site with research readings for language teachers. I'd welcome ideas for other articles, videos or podcasts which are freely available online. The site will grow, with new sections to be added. https://t.co/VUajrwEIJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUajrwEIJg",
+					"expanded_url": "https://www.informedlanguageteacher.com/",
+					"display_url": "informedlanguageteacher.com",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303905601,
+			"id_str": "303905601",
+			"name": "Steve Smith 🇪🇺",
+			"screen_name": "spsmith45",
+			"location": "Harrogate, North Yorkshire, UK",
+			"description": "Teacher 33 yrs. The Language Teacher Toolkit, Becoming an Outstanding Languages Teacher., Breaking the Sound Barrier, https://t.co/mvPzAi7hRS. Teacher educator.",
+			"url": "https://t.co/xUMPBdcjdQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xUMPBdcjdQ",
+							"expanded_url": "http://frenchteachernet.blogspot.co.uk",
+							"display_url": "frenchteachernet.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mvPzAi7hRS",
+							"expanded_url": "http://frenchteacher.net",
+							"display_url": "frenchteacher.net",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11222,
+			"friends_count": 3353,
+			"listed_count": 202,
+			"created_at": "Mon May 23 16:21:38 +0000 2011",
+			"favourites_count": 13222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090233705505976321/f0HHSauW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090233705505976321/f0HHSauW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303905601/1538832295",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my early version of the new site with research readings for language teachers. I'd welcome ideas for other articles, videos or podcasts which are freely available online. The site will grow, with new sections to be added. https://t.co/VUajrwEIJg"
+	},
+	{
 		"created_at": "Wed Oct 23 21:55:44 +0000 2019",
 		"id": 1187125478248845300,
 		"id_str": "1187125478248845313",
