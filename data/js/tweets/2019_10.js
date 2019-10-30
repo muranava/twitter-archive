@@ -1,6 +1,2595 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 00:50:48 +0000 2019",
+		"id": 1189343863888064500,
+		"id_str": "1189343863888064512",
+		"full_text": "@AnthonyTeacher assthetic!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnthonyTeacher",
+					"name": "Anthony Schmidt",
+					"id": 285614027,
+					"id_str": "285614027",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189340057615949800,
+		"in_reply_to_status_id_str": "1189340057615949825",
+		"in_reply_to_user_id": 285614027,
+		"in_reply_to_user_id_str": "285614027",
+		"in_reply_to_screen_name": "AnthonyTeacher",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnthonyTeacher assthetic!"
+	},
+	{
+		"created_at": "Tue Oct 29 23:44:11 +0000 2019",
+		"id": 1189327096360919000,
+		"id_str": "1189327096360919040",
+		"full_text": "@GeoffJordan16 on a tangent you read this paper by Sharwood-Smith trying to intergate emergentism into a modular framework? https://t.co/TzLsHXtwFB",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1178570704062685200,
+					"id_str": "1178570704062685185",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TzLsHXtwFB",
+					"expanded_url": "https://www.sciencedirect.com/science/article/pii/S091160441830023X",
+					"display_url": "sciencedirect.com/science/articl…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189325352172163000,
+		"in_reply_to_status_id_str": "1189325352172163074",
+		"in_reply_to_user_id": 1178570704062685200,
+		"in_reply_to_user_id_str": "1178570704062685185",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 on a tangent you read this paper by Sharwood-Smith trying to intergate emergentism into a modular framework? https://t.co/TzLsHXtwFB"
+	},
+	{
+		"created_at": "Tue Oct 29 23:22:07 +0000 2019",
+		"id": 1189321543739949000,
+		"id_str": "1189321543739949056",
+		"full_text": "@NeilJMcCutcheon @spsmith45 fyi one type of chunk - collocation, attested  to a 1634 English text https://t.co/CD8mfrQoJK",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilJMcCutcheon",
+					"name": "Neil McCutcheon 🎪🎪",
+					"id": 303910165,
+					"id_str": "303910165",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CD8mfrQoJK",
+					"expanded_url": "http://timemapper.okfnlabs.org/muranava/a-brief-history-of-collocation#2",
+					"display_url": "timemapper.okfnlabs.org/muranava/a-bri…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189319295240753200,
+		"in_reply_to_status_id_str": "1189319295240753154",
+		"in_reply_to_user_id": 303910165,
+		"in_reply_to_user_id_str": "303910165",
+		"in_reply_to_screen_name": "NeilJMcCutcheon",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NeilJMcCutcheon @spsmith45 fyi one type of chunk - collocation, attested  to a 1634 English text https://t.co/CD8mfrQoJK"
+	},
+	{
+		"created_at": "Tue Oct 29 23:10:43 +0000 2019",
+		"id": 1189318674563371000,
+		"id_str": "1189318674563371012",
+		"full_text": "@whyshona thx had bookmarked before, only skim read your post before though",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whyshona",
+					"name": "Shona Whyte",
+					"id": 121063600,
+					"id_str": "121063600",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189317882511016000,
+		"in_reply_to_status_id_str": "1189317882511015939",
+		"in_reply_to_user_id": 121063600,
+		"in_reply_to_user_id_str": "121063600",
+		"in_reply_to_screen_name": "whyshona",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@whyshona thx had bookmarked before, only skim read your post before though"
+	},
+	{
+		"created_at": "Tue Oct 29 23:09:25 +0000 2019",
+		"id": 1189317882511016000,
+		"id_str": "1189318347814588416",
+		"full_text": "@muranava See also Pfenninger &amp; Singleton: big longitudinal study of #age and #L2 https://t.co/uLRJhddrI4",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "age",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "L2",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uLRJhddrI4",
+					"expanded_url": "https://shonawhyte.wordpress.com/2019/06/08/starting-age-overshadowed-pfenninger-and-singleton-2018/",
+					"display_url": "shonawhyte.wordpress.com/2019/06/08/sta…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189310336081551400,
+		"in_reply_to_status_id_str": "1189310336081551360",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 121063600,
+			"id_str": "121063600",
+			"name": "Shona Whyte",
+			"screen_name": "whyshona",
+			"location": "France",
+			"description": "Applied linguist, teacher, trainer, researcher in the English department at the University of Nice.",
+			"url": "https://t.co/9KlXozGO8q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9KlXozGO8q",
+							"expanded_url": "http://shonawhyte.wordpress.com",
+							"display_url": "shonawhyte.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1359,
+			"friends_count": 1000,
+			"listed_count": 93,
+			"created_at": "Mon Mar 08 10:11:46 +0000 2010",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5E6641",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089114341851447296/TsvsIBCy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089114341851447296/TsvsIBCy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121063600/1548500130",
+			"profile_link_color": "252C09",
+			"profile_sidebar_border_color": "252C09",
+			"profile_sidebar_fill_color": "5E634A",
+			"profile_text_color": "551E18",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@muranava See also Pfenninger &amp; Singleton: big longitudinal study of #age and #L2 https://t.co/uLRJhddrI4"
+	},
+	{
+		"created_at": "Tue Oct 29 22:48:26 +0000 2019",
+		"id": 1189313068980936700,
+		"id_str": "1189313068980936716",
+		"full_text": "The House that John Haycraft Built: Part 4 https://t.co/WIJnMD6qIl via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WIJnMD6qIl",
+					"expanded_url": "https://marxistelf.wordpress.com/2019/10/29/the-house-that-john-haycraft-built-part-4/",
+					"display_url": "marxistelf.wordpress.com/2019/10/29/the…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The House that John Haycraft Built: Part 4 https://t.co/WIJnMD6qIl via @wordpressdotcom"
+	},
+	{
+		"created_at": "Tue Oct 29 22:37:35 +0000 2019",
+		"id": 1189310336081551400,
+		"id_str": "1189310336081551360",
+		"full_text": "An Early Start in English as a Foreign Language Doesn’t Help  https://t.co/GNUbm5dolG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GNUbm5dolG",
+					"expanded_url": "http://backseatlinguist.com/blog/an-early-start-in-english-as-a-foreign-language-doesnt-help/",
+					"display_url": "backseatlinguist.com/blog/an-early-…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An Early Start in English as a Foreign Language Doesn’t Help  https://t.co/GNUbm5dolG"
+	},
+	{
+		"created_at": "Tue Oct 29 20:41:27 +0000 2019",
+		"id": 1189276879292960800,
+		"id_str": "1189281110645202944",
+		"full_text": "The General Election has just been called.\n\nIt's time for real change. https://t.co/aiUwhxm5K6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189271995256639500,
+					"id_str": "1189271995256639489",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EIElgSPW4AI_kX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIElgSPW4AI_kX0.jpg",
+					"url": "https://t.co/aiUwhxm5K6",
+					"display_url": "pic.twitter.com/aiUwhxm5K6",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1189276879292960768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189271995256639500,
+					"id_str": "1189271995256639489",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EIElgSPW4AI_kX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIElgSPW4AI_kX0.jpg",
+					"url": "https://t.co/aiUwhxm5K6",
+					"display_url": "pic.twitter.com/aiUwhxm5K6",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1189276879292960768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102600,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1189271995256639489/pl/KQryCqGErRiApPsL.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189271995256639489/vid/480x270/j9WYNUnZ_GkVnvQG.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189271995256639489/vid/1280x720/NmxQXXTSj_e_PSzZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189271995256639489/vid/640x360/LLCkJ_0Vnr7_yosL.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Leader of the Labour Party.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106764,
+			"friends_count": 2458,
+			"listed_count": 7548,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8018,
+		"favorite_count": 20765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The General Election has just been called.\n\nIt's time for real change. https://t.co/aiUwhxm5K6"
+	},
+	{
+		"created_at": "Tue Oct 29 20:02:05 +0000 2019",
+		"id": 1189266915224641500,
+		"id_str": "1189271205309751299",
+		"full_text": "When I’m told I’m too young to be political I say look at this:\n\n14-year-old Nonso Muojeke’s classmates prevent his deportation to Nigeria from Ireland. \n\nA lot of so called adults could learn from this. https://t.co/g1shEcZX0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050372277546704900,
+					"id_str": "1050372277546704902",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/DpOtr5gWsAE-hAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpOtr5gWsAE-hAx.jpg",
+					"url": "https://t.co/g1shEcZX0K",
+					"display_url": "pic.twitter.com/g1shEcZX0K",
+					"expanded_url": "https://twitter.com/rtenews/status/1050374203315277824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1050374203315277800,
+					"source_status_id_str": "1050374203315277824",
+					"source_user_id": 8973062,
+					"source_user_id_str": "8973062",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050372277546704900,
+					"id_str": "1050372277546704902",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/DpOtr5gWsAE-hAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpOtr5gWsAE-hAx.jpg",
+					"url": "https://t.co/g1shEcZX0K",
+					"display_url": "pic.twitter.com/g1shEcZX0K",
+					"expanded_url": "https://twitter.com/rtenews/status/1050374203315277824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1050374203315277800,
+					"source_status_id_str": "1050374203315277824",
+					"source_user_id": 8973062,
+					"source_user_id_str": "8973062",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1050372277546704902/pl/4lXBO-ysGYLlRS5F.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050372277546704902/vid/1024x576/PkBywwmfuFoZm8v1.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050372277546704902/vid/640x360/MnvAZhM00ui8Ekoj.mp4?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1050372277546704902/vid/320x180/DIl10IKpc0y-awMx.mp4?tag=8"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 8973062,
+							"id_str": "8973062",
+							"name": "RTÉ News",
+							"screen_name": "rtenews",
+							"location": "Ireland",
+							"description": "RTÉ News and Current Affairs - Irish and International News",
+							"url": "http://t.co/NopTRTpZP2",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/NopTRTpZP2",
+											"expanded_url": "http://rte.ie/news",
+											"display_url": "rte.ie/news",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 765686,
+							"friends_count": 246,
+							"listed_count": 3587,
+							"created_at": "Wed Sep 19 12:52:21 +0000 2007",
+							"favourites_count": 40,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 146619,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/535035010596630529/3SmYLBeN_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/535035010596630529/3SmYLBeN_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/8973062/1364225638",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937330903717765100,
+			"id_str": "937330903717765120",
+			"name": "Hasan Patel 🌹",
+			"screen_name": "CorbynistaTeen",
+			"location": "",
+			"description": "the young people will win #JC4PM • DM’s open :)",
+			"url": "https://t.co/YcfC9FIOYi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YcfC9FIOYi",
+							"expanded_url": "http://instagram.com/hasan1.p",
+							"display_url": "instagram.com/hasan1.p",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26933,
+			"friends_count": 1323,
+			"listed_count": 166,
+			"created_at": "Sun Dec 03 14:41:17 +0000 2017",
+			"favourites_count": 25888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162485683879067648/S6HUE2qt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162485683879067648/S6HUE2qt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937330903717765120/1568070479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 428,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I’m told I’m too young to be political I say look at this:\n\n14-year-old Nonso Muojeke’s classmates prevent his deportation to Nigeria from Ireland. \n\nA lot of so called adults could learn from this. https://t.co/g1shEcZX0K"
+	},
+	{
+		"created_at": "Tue Oct 29 19:58:06 +0000 2019",
+		"id": 1189253015280205800,
+		"id_str": "1189270200463613962",
+		"full_text": "From Milan's Wall Street English picket this morning!!! Solidarieta'! #SupportDelfinTeachers #SupportWSETeachers https://t.co/iizdL66mFH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SupportDelfinTeachers",
+					"indices": [
+						70,
+						92
+					]
+				},
+				{
+					"text": "SupportWSETeachers",
+					"indices": [
+						93,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189253003724972000,
+					"id_str": "1189253003724972033",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EIETTlMX4AEVvIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIETTlMX4AEVvIm.jpg",
+					"url": "https://t.co/iizdL66mFH",
+					"display_url": "pic.twitter.com/iizdL66mFH",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1189253015280205826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 307,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 157,
+									"y": 309,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 99,
+									"y": 320,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 446,
+									"y": 328,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 299,
+									"y": 332,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 335,
+									"y": 335,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 380,
+									"y": 338,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 246,
+									"y": 345,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 227,
+									"y": 358,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 280,
+									"y": 414,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 19,
+									"y": 328,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 191,
+									"y": 436,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189253003724972000,
+					"id_str": "1189253003724972033",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EIETTlMX4AEVvIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIETTlMX4AEVvIm.jpg",
+					"url": "https://t.co/iizdL66mFH",
+					"display_url": "pic.twitter.com/iizdL66mFH",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1189253015280205826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 307,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 157,
+									"y": 309,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 99,
+									"y": 320,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 446,
+									"y": 328,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 299,
+									"y": 332,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 335,
+									"y": 335,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 380,
+									"y": 338,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 246,
+									"y": 345,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 227,
+									"y": 358,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 280,
+									"y": 414,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 19,
+									"y": 328,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 191,
+									"y": 436,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 367,
+									"y": 463,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 237,
+									"y": 466,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 150,
+									"y": 483,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 672,
+									"y": 495,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 451,
+									"y": 501,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 505,
+									"y": 505,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 573,
+									"y": 510,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 371,
+									"y": 520,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 342,
+									"y": 540,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 422,
+									"y": 624,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 30,
+									"y": 494,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 288,
+									"y": 657,
+									"h": 126,
+									"w": 126
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 44,
+			"listed_count": 3,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From Milan's Wall Street English picket this morning!!! Solidarieta'! #SupportDelfinTeachers #SupportWSETeachers https://t.co/iizdL66mFH"
+	},
+	{
+		"created_at": "Tue Oct 29 15:15:47 +0000 2019",
+		"id": 1189199155773825000,
+		"id_str": "1189199155773825026",
+		"full_text": "a reminder - best way for overseas voters is to nominate a proxy in UK and then get your proxy to ask for a postal vote #generalelection2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "generalelection2019",
+					"indices": [
+						120,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 1167,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "a reminder - best way for overseas voters is to nominate a proxy in UK and then get your proxy to ask for a postal vote #generalelection2019"
+	},
+	{
+		"created_at": "Tue Oct 29 14:37:10 +0000 2019",
+		"id": 1189086696123576300,
+		"id_str": "1189189437583814658",
+		"full_text": "🚨 DIRECT - #Montreuil\n\nExpulsion en cours au Foyer Bara, plus de 200 exilés évacués, sans solution de relogement. \n\nAbdou est résident du foyer bara, il nous explique la situation sur place.\n\nImages : @T_Bouhafs https://t.co/fkt4CpW0V7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Montreuil",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "T_Bouhafs",
+					"name": "Taha Bouhafs",
+					"id": 835174698623336400,
+					"id_str": "835174698623336448",
+					"indices": [
+						201,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189086505211498500,
+					"id_str": "1189086505211498497",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189086505211498497/pu/img/DY8jgsS_vlMO9OPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189086505211498497/pu/img/DY8jgsS_vlMO9OPX.jpg",
+					"url": "https://t.co/fkt4CpW0V7",
+					"display_url": "pic.twitter.com/fkt4CpW0V7",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1189086696123576320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189086505211498500,
+					"id_str": "1189086505211498497",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189086505211498497/pu/img/DY8jgsS_vlMO9OPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189086505211498497/pu/img/DY8jgsS_vlMO9OPX.jpg",
+					"url": "https://t.co/fkt4CpW0V7",
+					"display_url": "pic.twitter.com/fkt4CpW0V7",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1189086696123576320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 136415,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189086505211498497/pu/vid/640x360/ET3gKOXwSK36DwZc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189086505211498497/pu/pl/xqheYxlBOejJn98T.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189086505211498497/pu/vid/1280x720/3WGunYgBAxk0JJT0.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189086505211498497/pu/vid/480x270/VfH4p2csBrvt3t8Y.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773565144,
+			"id_str": "2773565144",
+			"name": "Là-bas si j'y suis",
+			"screen_name": "LabasOfficiel",
+			"location": "",
+			"description": "Le site d’information « plus près des jetables que des notables », issu de l'émission de @MermetDaniel. Encore mieux sur le net !",
+			"url": "https://t.co/lUp9Mdgr4D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lUp9Mdgr4D",
+							"expanded_url": "http://la-bas.org",
+							"display_url": "la-bas.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32710,
+			"friends_count": 1511,
+			"listed_count": 308,
+			"created_at": "Wed Aug 27 15:22:29 +0000 2014",
+			"favourites_count": 1259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5D840",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2773565144/1481732454",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1188,
+		"favorite_count": 698,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "🚨 DIRECT - #Montreuil\n\nExpulsion en cours au Foyer Bara, plus de 200 exilés évacués, sans solution de relogement. \n\nAbdou est résident du foyer bara, il nous explique la situation sur place.\n\nImages : @T_Bouhafs https://t.co/fkt4CpW0V7"
+	},
+	{
 		"created_at": "Mon Oct 28 16:13:24 +0000 2019",
 		"id": 1188851266081972200,
 		"id_str": "1188851266081972230",
