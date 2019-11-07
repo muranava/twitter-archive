@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 20:33:28 +0000 2019",
+		"id": 1192178204280283100,
+		"id_str": "1192178204280283136",
+		"full_text": "Another Massive Vocabulary Study Finds No Gains, Massive or Otherwise  https://t.co/6mHxVo5B2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mHxVo5B2V",
+					"expanded_url": "http://backseatlinguist.com/blog/another-massive-vocabulary-study-finds-no-gains-massive-or-otherwise/",
+					"display_url": "backseatlinguist.com/blog/another-m…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1877,
+			"friends_count": 1173,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another Massive Vocabulary Study Finds No Gains, Massive or Otherwise  https://t.co/6mHxVo5B2V"
+	},
+	{
+		"created_at": "Wed Nov 06 19:42:02 +0000 2019",
+		"id": 1192157492026982400,
+		"id_str": "1192165262373642241",
+		"full_text": "Ever wondered why JAY-Z, NAS and 50 CENT don't rap like SNOOP, GAME and NIPSEY?\n\n—It’s because they don’t speak the same.\n\nOur #HipHopLinguistics research on this is out now in Language and Speech (https://t.co/F2TJYRXbXc)!\n\nAnd here's a thread with the abridged version.\n\n[1/16] https://t.co/4t0Fwfyczd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HipHopLinguistics",
+					"indices": [
+						127,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F2TJYRXbXc",
+					"expanded_url": "http://doi.org/10.1177/0023830919881479",
+					"display_url": "doi.org/10.1177/002383…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1192157485391585300,
+					"id_str": "1192157485391585287",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EItk6qkWoAcCitf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EItk6qkWoAcCitf.jpg",
+					"url": "https://t.co/4t0Fwfyczd",
+					"display_url": "pic.twitter.com/4t0Fwfyczd",
+					"expanded_url": "https://twitter.com/Steven_Gilbers/status/1192157492026982401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "836990425261092864",
+									"screen_name": "nienke_hoeksema",
+									"name": "Nienke Hoeksema"
+								},
+								{
+									"type": "user",
+									"user_id": "94436658",
+									"screen_name": "wanderlowie",
+									"name": "wander lowie"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192157485391585300,
+					"id_str": "1192157485391585287",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EItk6qkWoAcCitf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EItk6qkWoAcCitf.jpg",
+					"url": "https://t.co/4t0Fwfyczd",
+					"display_url": "pic.twitter.com/4t0Fwfyczd",
+					"expanded_url": "https://twitter.com/Steven_Gilbers/status/1192157492026982401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "836990425261092864",
+									"screen_name": "nienke_hoeksema",
+									"name": "Nienke Hoeksema"
+								},
+								{
+									"type": "user",
+									"user_id": "94436658",
+									"screen_name": "wanderlowie",
+									"name": "wander lowie"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107774761,
+			"id_str": "107774761",
+			"name": "Steven Gilbers",
+			"screen_name": "Steven_Gilbers",
+			"location": "Groningen, the Netherlands",
+			"description": "Music & hip-hop linguistics | PhD candidate (@univgroningen) | Fulbright scholar (NYU & UCLA) | @Kick_Knowledge podcast | Tweets mainly about hip-hop and Ajax",
+			"url": "https://t.co/wn9Ukx2KeJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wn9Ukx2KeJ",
+							"expanded_url": "http://www.youtube.com/user/StevenGilbersMusic",
+							"display_url": "youtube.com/user/StevenGil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342,
+			"friends_count": 345,
+			"listed_count": 3,
+			"created_at": "Sat Jan 23 17:53:51 +0000 2010",
+			"favourites_count": 4159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CC0E0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963655778182852608/P8uh1wYA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963655778182852608/P8uh1wYA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107774761/1518588395",
+			"profile_link_color": "1100FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CC0E0E",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered why JAY-Z, NAS and 50 CENT don't rap like SNOOP, GAME and NIPSEY?\n\n—It’s because they don’t speak the same.\n\nOur #HipHopLinguistics research on this is out now in Language and Speech (https://t.co/F2TJYRXbXc)!\n\nAnd here's a thread with the abridged version.\n\n[1/16] https://t.co/4t0Fwfyczd"
+	},
+	{
 		"created_at": "Mon Nov 04 18:56:12 +0000 2019",
 		"id": 1191399876996817000,
 		"id_str": "1191428953141075968",
