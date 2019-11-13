@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 19:46:57 +0000 2019",
+		"id": 1194170465939599400,
+		"id_str": "1194340827092471809",
+		"full_text": "Why is it so expensive to be poor?\n@AyoCaesar explains. https://t.co/C4EixPlHon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AyoCaesar",
+					"name": "Ash Sarkar",
+					"id": 619050616,
+					"id_str": "619050616",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1193948189340119000,
+					"id_str": "1193948189340119045",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EJHCoLWW4AAj6ob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJHCoLWW4AAj6ob.jpg",
+					"url": "https://t.co/C4EixPlHon",
+					"display_url": "pic.twitter.com/C4EixPlHon",
+					"expanded_url": "https://twitter.com/novaramedia/status/1194170465939599360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193948189340119000,
+					"id_str": "1193948189340119045",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EJHCoLWW4AAj6ob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJHCoLWW4AAj6ob.jpg",
+					"url": "https://t.co/C4EixPlHon",
+					"display_url": "pic.twitter.com/C4EixPlHon",
+					"expanded_url": "https://twitter.com/novaramedia/status/1194170465939599360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 433200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1193948189340119045/pl/DuDXdXtNmtdrdWbs.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1193948189340119045/vid/640x360/72aaQ8QgucB9r8DH.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1193948189340119045/vid/480x270/SFy17YJdFqYf_074.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1193948189340119045/vid/1280x720/QfxZEsPWaGaa1Ig8.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "Why Is It So Expensive To Be Poor?",
+						"description": "Utilities, tax, rent and work - charging people for poverty is an industry worth billions.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://novaramedia.com/support"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 601148365,
+			"id_str": "601148365",
+			"name": "Novara Media",
+			"screen_name": "novaramedia",
+			"location": "",
+			"description": "New media for a different politics. https://t.co/hNYUFBhmIo  \nsign up to our newsletter: https://t.co/jbCKab13vc",
+			"url": "https://t.co/0QTil7JoFK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0QTil7JoFK",
+							"expanded_url": "http://novara.media",
+							"display_url": "novara.media",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hNYUFBhmIo",
+							"expanded_url": "http://support.novaramedia.com",
+							"display_url": "support.novaramedia.com",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/jbCKab13vc",
+							"expanded_url": "http://novara.media/cortado",
+							"display_url": "novara.media/cortado",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94111,
+			"friends_count": 1057,
+			"listed_count": 850,
+			"created_at": "Wed Jun 06 17:33:33 +0000 2012",
+			"favourites_count": 2728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601148365/1569442071",
+			"profile_link_color": "A3A3A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1016,
+		"favorite_count": 1954,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is it so expensive to be poor?\n@AyoCaesar explains. https://t.co/C4EixPlHon"
+	},
+	{
+		"created_at": "Tue Nov 12 19:34:30 +0000 2019",
+		"id": 1194235995056754700,
+		"id_str": "1194337694601449472",
+		"full_text": "Do you teach in London? If so, can you help @TeflUnion research contract and working conditions by responding to this survey?  https://t.co/KZqSQNX5nW.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KZqSQNX5nW",
+					"expanded_url": "http://bit.ly/33paaQH",
+					"display_url": "bit.ly/33paaQH",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23090474,
+			"id_str": "23090474",
+			"name": "Scott Thornbury",
+			"screen_name": "thornburyscott",
+			"location": "Barcelona",
+			"description": "I write books about language teaching and teach on an online MA for The New School, NY.",
+			"url": "http://t.co/U5W0nt7CFF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/U5W0nt7CFF",
+							"expanded_url": "http://www.scottthornbury.com",
+							"display_url": "scottthornbury.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19701,
+			"friends_count": 605,
+			"listed_count": 532,
+			"created_at": "Fri Mar 06 17:19:24 +0000 2009",
+			"favourites_count": 190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892392697/twitter03_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892392697/twitter03_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you teach in London? If so, can you help @TeflUnion research contract and working conditions by responding to this survey?  https://t.co/KZqSQNX5nW."
+	},
+	{
 		"created_at": "Mon Nov 11 22:52:09 +0000 2019",
 		"id": 1194019443573248000,
 		"id_str": "1194025044915216384",
