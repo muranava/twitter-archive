@@ -1,6 +1,1189 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 20:58:58 +0000 2019",
+		"id": 1194719499120980000,
+		"id_str": "1194721336570138624",
+		"full_text": "@GrahamRMeadows @TreanorFergal @ELTuniondublin @ELTAdvocacy @ELTIreland @ELTResearchers @Delfinschool @IBATcollege 0:50 The big lie that's been sold to us by neoliberalism is that if you withdraw security from people ... then suddenly there'll be this wellspring of creativity ... all that happens if you remove security from people is they think HOW CAN I MAKE MONEY? https://t.co/33tYITMPoD",
+		"truncated": false,
+		"display_text_range": [
+			115,
+			392
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrahamRMeadows",
+					"name": "UK GEM Language Agency",
+					"id": 4502716216,
+					"id_str": "4502716216",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "ELTuniondublin",
+					"name": "ELTdublin",
+					"id": 1183334945713983500,
+					"id_str": "1183334945713983490",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "ELTResearchers",
+					"name": "ELT Researchers",
+					"id": 925716057091752000,
+					"id_str": "925716057091751936",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"screen_name": "Delfinschool",
+					"name": "Delfin EnglishSchool",
+					"id": 94603412,
+					"id_str": "94603412",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "IBATcollege",
+					"name": "IBAT College Dublin",
+					"id": 27982096,
+					"id_str": "27982096",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/33tYITMPoD",
+					"expanded_url": "https://www.youtube.com/watch?v=AhOcwhwumP4",
+					"display_url": "youtube.com/watch?v=AhOcwh…",
+					"indices": [
+						369,
+						392
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194710398542459000,
+		"in_reply_to_status_id_str": "1194710398542458881",
+		"in_reply_to_user_id": 4502716216,
+		"in_reply_to_user_id_str": "4502716216",
+		"in_reply_to_screen_name": "GrahamRMeadows",
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulw",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "Writer-Teacher-Precarious worker | Politics/ Pedagogy/ Literature/ Balkans \n'You're on Earth. There's no cure for that.'",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2057,
+			"friends_count": 5000,
+			"listed_count": 52,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 4130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GrahamRMeadows @TreanorFergal @ELTuniondublin @ELTAdvocacy @ELTIreland @ELTResearchers @Delfinschool @IBATcollege 0:50 The big lie that's been sold to us by neoliberalism is that if you withdraw security from people ... then suddenly there'll be this wellspring of creativity ... all that happens if you remove security from people is they think HOW CAN I MAKE MONEY? https://t.co/33tYITMPoD"
+	},
+	{
+		"created_at": "Wed Nov 13 20:05:21 +0000 2019",
+		"id": 1194707845591253000,
+		"id_str": "1194707845591252992",
+		"full_text": "@SLBCoop my pleasure, thanks for putting that awesome podcast together : )",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194704216398467000,
+		"in_reply_to_status_id_str": "1194704216398467073",
+		"in_reply_to_user_id": 2365399801,
+		"in_reply_to_user_id_str": "2365399801",
+		"in_reply_to_screen_name": "SLBCoop",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1182,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SLBCoop my pleasure, thanks for putting that awesome podcast together : )"
+	},
+	{
+		"created_at": "Wed Nov 13 19:40:52 +0000 2019",
+		"id": 1194700496193368000,
+		"id_str": "1194701685085659138",
+		"full_text": "#ELT teachers are getting critical and getting organised! If the OK Boomers of organisations like @iatefl will not offer younger colleagues a place to talk about issues like *precarity* then shame on them https://t.co/H4p5aP5iMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H4p5aP5iMo",
+					"expanded_url": "https://www.slb.coop/the-slb-podcast-ep-4-precarity-know-the-ledge-show-notes/",
+					"display_url": "slb.coop/the-slb-podcas…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulw",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "Writer-Teacher-Precarious worker | Politics/ Pedagogy/ Literature/ Balkans \n'You're on Earth. There's no cure for that.'",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2057,
+			"friends_count": 5000,
+			"listed_count": 52,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 4130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526853654377021441/MtEFhYIs_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ELT teachers are getting critical and getting organised! If the OK Boomers of organisations like @iatefl will not offer younger colleagues a place to talk about issues like *precarity* then shame on them https://t.co/H4p5aP5iMo"
+	},
+	{
+		"created_at": "Wed Nov 13 19:32:52 +0000 2019",
+		"id": 1194699669357629400,
+		"id_str": "1194699669357629440",
+		"full_text": "@JPBGerald @SLBCoop ah great sure that would be great DM your email : )",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194699090199797800,
+		"in_reply_to_status_id_str": "1194699090199797761",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1182,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald @SLBCoop ah great sure that would be great DM your email : )"
+	},
+	{
+		"created_at": "Wed Nov 13 19:29:06 +0000 2019",
+		"id": 1194698720589291500,
+		"id_str": "1194698720589291520",
+		"full_text": "@JPBGerald hi Gerald sorry did not tag @SLBCoop who I guess you were addressing this to?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194698312827461600,
+		"in_reply_to_status_id_str": "1194698312827461632",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1182,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald hi Gerald sorry did not tag @SLBCoop who I guess you were addressing this to?"
+	},
+	{
+		"created_at": "Wed Nov 13 19:20:10 +0000 2019",
+		"id": 1194695411430252500,
+		"id_str": "1194696473033740288",
+		"full_text": "As you may know, I am on the board of trustees of a charity that works to teach English through storytelling to kids in Gaza, the West Bank, and Jordan\n\nThis is one of the kids we reached. His name is Amir. Today he was killed by an Israeli missile. RIP 😢\nhttps://t.co/KSHCJGtwtT https://t.co/XIppQXVRQ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KSHCJGtwtT",
+					"expanded_url": "https://handsupproject.org/",
+					"display_url": "handsupproject.org",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194694849527718000,
+					"id_str": "1194694849527717888",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRooskWoAAgLQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRooskWoAAgLQZ.jpg",
+					"url": "https://t.co/XIppQXVRQ2",
+					"display_url": "pic.twitter.com/XIppQXVRQ2",
+					"expanded_url": "https://twitter.com/adhockley/status/1194695411430252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 72,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 366,
+									"y": 156,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194694849527718000,
+					"id_str": "1194694849527717888",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRooskWoAAgLQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRooskWoAAgLQZ.jpg",
+					"url": "https://t.co/XIppQXVRQ2",
+					"display_url": "pic.twitter.com/XIppQXVRQ2",
+					"expanded_url": "https://twitter.com/adhockley/status/1194695411430252544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 72,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 366,
+									"y": 156,
+									"h": 46,
+									"w": 46
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 103,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 518,
+									"y": 221,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16200599,
+			"id_str": "16200599",
+			"name": "Andy Hockley",
+			"screen_name": "adhockley",
+			"location": "Csik/Ciuc, Romania",
+			"description": "ELT Management specialist living in Transylvania. According to the Uk govt: a citizen of nowhere.  For ELT Management stuff I recommend following @iatefl_lamsig",
+			"url": "http://t.co/fe4p0jNN9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fe4p0jNN9K",
+							"expanded_url": "http://szekely.blogspot.com",
+							"display_url": "szekely.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 1224,
+			"listed_count": 122,
+			"created_at": "Tue Sep 09 11:08:29 +0000 2008",
+			"favourites_count": 426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/386575227/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/386575227/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As you may know, I am on the board of trustees of a charity that works to teach English through storytelling to kids in Gaza, the West Bank, and Jordan\n\nThis is one of the kids we reached. His name is Amir. Today he was killed by an Israeli missile. RIP 😢\nhttps://t.co/KSHCJGtwtT https://t.co/XIppQXVRQ2"
+	},
+	{
+		"created_at": "Wed Nov 13 19:20:02 +0000 2019",
+		"id": 1194696440666296300,
+		"id_str": "1194696440666296320",
+		"full_text": "@adhockley Awful news coming out of Gaza #restinpeace #restinpower #GazaUnderAttack",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "restinpeace",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"text": "restinpower",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"text": "GazaUnderAttack",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adhockley",
+					"name": "Andy Hockley",
+					"id": 16200599,
+					"id_str": "16200599",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194695411430252500,
+		"in_reply_to_status_id_str": "1194695411430252544",
+		"in_reply_to_user_id": 16200599,
+		"in_reply_to_user_id_str": "16200599",
+		"in_reply_to_screen_name": "adhockley",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1182,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adhockley Awful news coming out of Gaza #restinpeace #restinpower #GazaUnderAttack"
+	},
+	{
 		"created_at": "Tue Nov 12 19:46:57 +0000 2019",
 		"id": 1194170465939599400,
 		"id_str": "1194340827092471809",
