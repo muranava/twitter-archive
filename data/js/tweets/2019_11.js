@@ -1,6 +1,1072 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 22:10:43 +0000 2019",
+		"id": 1195826560114339800,
+		"id_str": "1195826560114339840",
+		"full_text": "@designerlessons @Entrepreneur : )",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "designerlessons",
+					"name": "George Chilton",
+					"id": 432090149,
+					"id_str": "432090149",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Entrepreneur",
+					"name": "Entrepreneur",
+					"id": 19407053,
+					"id_str": "19407053",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195106093225119700,
+		"in_reply_to_status_id_str": "1195106093225119745",
+		"in_reply_to_user_id": 432090149,
+		"in_reply_to_user_id_str": "432090149",
+		"in_reply_to_screen_name": "designerlessons",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1183,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@designerlessons @Entrepreneur : )"
+	},
+	{
+		"created_at": "Sat Nov 16 21:58:44 +0000 2019",
+		"id": 1195823544137080800,
+		"id_str": "1195823544137080834",
+		"full_text": "this is a great Spanish-English Lecture by Mary Louise Pratt (the whole set of lectures at the multilingualism 2.0 conference is worth exploring) https://t.co/HHoe6jvA6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HHoe6jvA6O",
+					"expanded_url": "https://www.youtube.com/watch?v=6dVPzsbrN1w",
+					"display_url": "youtube.com/watch?v=6dVPzs…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1183,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a great Spanish-English Lecture by Mary Louise Pratt (the whole set of lectures at the multilingualism 2.0 conference is worth exploring) https://t.co/HHoe6jvA6O"
+	},
+	{
+		"created_at": "Sat Nov 16 16:30:32 +0000 2019",
+		"id": 1195522355881271300,
+		"id_str": "1195740947079946240",
+		"full_text": "For those of you without access to library databases here it is on my academia page: https://t.co/WZ4vswWGi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WZ4vswWGi2",
+					"expanded_url": "https://www.academia.edu/40941768/From_academic_language_to_language_architecture_Challenging_raciolinguistic_ideologies_in_research_and_practice",
+					"display_url": "academia.edu/40941768/From_…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1195522110136950800,
+		"in_reply_to_status_id_str": "1195522110136950785",
+		"in_reply_to_user_id": 248343882,
+		"in_reply_to_user_id_str": "248343882",
+		"in_reply_to_screen_name": "nelsonlflores",
+		"user": {
+			"id": 248343882,
+			"id_str": "248343882",
+			"name": "Nelson Flores",
+			"screen_name": "nelsonlflores",
+			"location": "Philadelphia, PA",
+			"description": "Associate Professor in Educational Linguistics @PennGSE researching race, language & bilingual education; he/el; https://t.co/pDvwRGeBRn…",
+			"url": "https://t.co/FMuLhKQCdA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FMuLhKQCdA",
+							"expanded_url": "http://educationallinguist.wordpress.com",
+							"display_url": "educationallinguist.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pDvwRGeBRn",
+							"expanded_url": "http://instagram.com/nelson.l.flore",
+							"display_url": "instagram.com/nelson.l.flore",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9582,
+			"friends_count": 799,
+			"listed_count": 185,
+			"created_at": "Sun Feb 06 20:09:17 +0000 2011",
+			"favourites_count": 6330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183223956175757313/QGSt_iot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183223956175757313/QGSt_iot_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e4a0d228eb6be76b",
+			"url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+			"place_type": "city",
+			"name": "Philadelphia",
+			"full_name": "Philadelphia, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-75.280284,
+							39.871811
+						],
+						[
+							-74.955712,
+							39.871811
+						],
+						[
+							-74.955712,
+							40.13792
+						],
+						[
+							-75.280284,
+							40.13792
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For those of you without access to library databases here it is on my academia page: https://t.co/WZ4vswWGi2"
+	},
+	{
+		"created_at": "Sat Nov 16 09:25:05 +0000 2019",
+		"id": 1195631798253949000,
+		"id_str": "1195633878612008960",
+		"full_text": "On my way down to London to take part in Labour’s ‘Clause 5’ meeting, where people with departmental responsibilities, the NEC, union general secretaries &amp; the leadership meet to finalise our manifesto for #GE2019 &amp; going into Government. Really excited about what will be in it. https://t.co/fZ4ftU5ELp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2019",
+					"indices": [
+						210,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195631759649587200,
+					"id_str": "1195631759649587200",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195631759649587200/pu/img/6edALyTZxAvp_lRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195631759649587200/pu/img/6edALyTZxAvp_lRj.jpg",
+					"url": "https://t.co/fZ4ftU5ELp",
+					"display_url": "pic.twitter.com/fZ4ftU5ELp",
+					"expanded_url": "https://twitter.com/LauraPidcockMP/status/1195631798253948928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195631759649587200,
+					"id_str": "1195631759649587200",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195631759649587200/pu/img/6edALyTZxAvp_lRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195631759649587200/pu/img/6edALyTZxAvp_lRj.jpg",
+					"url": "https://t.co/fZ4ftU5ELp",
+					"display_url": "pic.twitter.com/fZ4ftU5ELp",
+					"expanded_url": "https://twitter.com/LauraPidcockMP/status/1195631798253948928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							53
+						],
+						"duration_millis": 48483,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195631759649587200/pu/pl/cV96zLafDhHvjmju.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195631759649587200/pu/vid/320x564/v8t2-6rd0zPdb55C.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195631759649587200/pu/vid/480x848/WekYv6ImBwJDs2fU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195631759649587200/pu/vid/360x636/lyvGR7ukix_-ZloJ.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 251821643,
+			"id_str": "251821643",
+			"name": "Laura Pidcock",
+			"screen_name": "LauraPidcockMP",
+			"location": "",
+			"description": "Proud to be the Labour Party candidate for North West Durham. Contact: laurapidcock4nwdurham@gmail.com",
+			"url": "https://t.co/JPeNwIyUNU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JPeNwIyUNU",
+							"expanded_url": "https://www.facebook.com/LauraPidcockMP/",
+							"display_url": "facebook.com/LauraPidcockMP/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74106,
+			"friends_count": 2381,
+			"listed_count": 480,
+			"created_at": "Sun Feb 13 22:45:04 +0000 2011",
+			"favourites_count": 3878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192506966956027904/hLGQVjxF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192506966956027904/hLGQVjxF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/251821643/1573771774",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 915,
+		"favorite_count": 3419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On my way down to London to take part in Labour’s ‘Clause 5’ meeting, where people with departmental responsibilities, the NEC, union general secretaries &amp; the leadership meet to finalise our manifesto for #GE2019 &amp; going into Government. Really excited about what will be in it. https://t.co/fZ4ftU5ELp"
+	},
+	{
+		"created_at": "Sat Nov 16 09:24:08 +0000 2019",
+		"id": 1195511860784705500,
+		"id_str": "1195633641671528448",
+		"full_text": "Lost everything in the #boltonfire lucky that we got out after false alarms constantly for weeks I heard screaming and decided to check it out had to scream at my flat mates it was a real fire if anyone tries to tell me that no-one is at fault and it was safe they're wrong. https://t.co/lNMn991ZTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "boltonfire",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195511767184691200,
+					"id_str": "1195511767184691200",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195511767184691200/pu/img/AWevdq6eOsRUQfny.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195511767184691200/pu/img/AWevdq6eOsRUQfny.jpg",
+					"url": "https://t.co/lNMn991ZTH",
+					"display_url": "pic.twitter.com/lNMn991ZTH",
+					"expanded_url": "https://twitter.com/mr_elise__/status/1195511860784705536/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195511767184691200,
+					"id_str": "1195511767184691200",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195511767184691200/pu/img/AWevdq6eOsRUQfny.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195511767184691200/pu/img/AWevdq6eOsRUQfny.jpg",
+					"url": "https://t.co/lNMn991ZTH",
+					"display_url": "pic.twitter.com/lNMn991ZTH",
+					"expanded_url": "https://twitter.com/mr_elise__/status/1195511860784705536/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 10700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195511767184691200/pu/pl/wRaZgDAcofpIKhFF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195511767184691200/pu/vid/360x638/9lMSDaXs4BGCqWBW.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195511767184691200/pu/vid/640x1136/hr8M8c0maX5l8cKU.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195511767184691200/pu/vid/320x568/fs-a7G3uexZLzYSG.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3230115591,
+			"id_str": "3230115591",
+			"name": "Elise Millward",
+			"screen_name": "mr_elise__",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 128,
+			"listed_count": 1,
+			"created_at": "Sun May 03 09:29:59 +0000 2015",
+			"favourites_count": 2031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028948228971089921/zFaHo3GS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028948228971089921/zFaHo3GS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230115591/1534155446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6141,
+		"favorite_count": 13519,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lost everything in the #boltonfire lucky that we got out after false alarms constantly for weeks I heard screaming and decided to check it out had to scream at my flat mates it was a real fire if anyone tries to tell me that no-one is at fault and it was safe they're wrong. https://t.co/lNMn991ZTH"
+	},
+	{
+		"created_at": "Sat Nov 16 09:17:24 +0000 2019",
+		"id": 1195631947676033000,
+		"id_str": "1195631947676033024",
+		"full_text": "this was email was gut-wrenching to read #GazaUnderAttack https://t.co/Aw11WMeJqF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GazaUnderAttack",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195631943649509400,
+					"id_str": "1195631943649509376",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EJe86wNWwAA4Kpz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJe86wNWwAA4Kpz.png",
+					"url": "https://t.co/Aw11WMeJqF",
+					"display_url": "pic.twitter.com/Aw11WMeJqF",
+					"expanded_url": "https://twitter.com/muranava/status/1195631947676033024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 936,
+							"h": 28,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 20,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 28,
+							"h": 28,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 28,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195631943649509400,
+					"id_str": "1195631943649509376",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EJe86wNWwAA4Kpz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJe86wNWwAA4Kpz.png",
+					"url": "https://t.co/Aw11WMeJqF",
+					"display_url": "pic.twitter.com/Aw11WMeJqF",
+					"expanded_url": "https://twitter.com/muranava/status/1195631947676033024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 936,
+							"h": 28,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 20,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 28,
+							"h": 28,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 28,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1183,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this was email was gut-wrenching to read #GazaUnderAttack https://t.co/Aw11WMeJqF"
+	},
+	{
 		"created_at": "Fri Nov 15 22:17:13 +0000 2019",
 		"id": 1195465807679099000,
 		"id_str": "1195465807679098886",
