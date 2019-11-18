@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 15:22:29 +0000 2019",
+		"id": 1196068355393904600,
+		"id_str": "1196086211082932230",
+		"full_text": "Free NHS dental check-ups for everyone in England. #Marr https://t.co/NKOYOZ4V4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Marr",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196064547536285700,
+					"id_str": "1196064547536285696",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlJo5lXsAAhA7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlJo5lXsAAhA7a.jpg",
+					"url": "https://t.co/NKOYOZ4V4R",
+					"display_url": "pic.twitter.com/NKOYOZ4V4R",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1196068355393904640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196064547536285700,
+					"id_str": "1196064547536285696",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EJlJo5lXsAAhA7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJlJo5lXsAAhA7a.jpg",
+					"url": "https://t.co/NKOYOZ4V4R",
+					"display_url": "pic.twitter.com/NKOYOZ4V4R",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1196068355393904640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 93920,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1196064547536285696/vid/320x320/oTf5b66gN54kZZ8o.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1196064547536285696/vid/720x720/zT6bNl7bCKsi7gCt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1196064547536285696/pl/9nUr6ahysVIB5KG7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1196064547536285696/vid/480x480/Vtp8IREDU-OWuwTw.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Leader of the Labour Party.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2161899,
+			"friends_count": 2465,
+			"listed_count": 7656,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1592,
+		"favorite_count": 5959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free NHS dental check-ups for everyone in England. #Marr https://t.co/NKOYOZ4V4R"
+	},
+	{
+		"created_at": "Sun Nov 17 09:50:22 +0000 2019",
+		"id": 1195993561768087600,
+		"id_str": "1196002629861728257",
+		"full_text": "Labour will undo Thatcherism, brick by brick. Starting with dentistry. We are giving you back what is rightfully yours. The right to a free dental check up without being asked to pay. Just one of many policies designed to restore the welfare state. https://t.co/lxAWu8BaeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195990262549532700,
+					"id_str": "1195990262549532672",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkC08AX0AAweMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkC08AX0AAweMm.jpg",
+					"url": "https://t.co/lxAWu8BaeM",
+					"display_url": "pic.twitter.com/lxAWu8BaeM",
+					"expanded_url": "https://twitter.com/ridgeonsunday/status/1195990322876166144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195990322876166100,
+					"source_status_id_str": "1195990322876166144",
+					"source_user_id": 235229140,
+					"source_user_id_str": "235229140",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195990262549532700,
+					"id_str": "1195990262549532672",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkC08AX0AAweMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkC08AX0AAweMm.jpg",
+					"url": "https://t.co/lxAWu8BaeM",
+					"display_url": "pic.twitter.com/lxAWu8BaeM",
+					"expanded_url": "https://twitter.com/ridgeonsunday/status/1195990322876166144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195990322876166100,
+					"source_status_id_str": "1195990322876166144",
+					"source_user_id": 235229140,
+					"source_user_id_str": "235229140",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60280,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1195990262549532672/pl/itnVrwj5p7sVFtzL.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1195990262549532672/vid/640x360/CkU0gXktCRhbpA_u.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1195990262549532672/vid/480x270/MCTHXq0BlbdGpVy1.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1195990262549532672/vid/1280x720/NwDwwMI9YXfRf3Qx.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "Ashworth:  \"DIY dentistry\" on the rise",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://news.sky.com"
+							}
+						},
+						"monetizable": false,
+						"source_user": {
+							"id": 235229140,
+							"id_str": "235229140",
+							"name": "Sophy Ridge on Sunday",
+							"screen_name": "RidgeOnSunday",
+							"location": "",
+							"description": "Politics show on @SkyNews where @SophyRidgeSky interviews the biggest names. 8.30am every Sunday. Plus ‘Sophy Ridge on Saturday’ - 9am Saturday during #GE2019",
+							"url": "https://t.co/iwezbRz8Jp",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/iwezbRz8Jp",
+											"expanded_url": "http://facebook.com/ridgeonsunday",
+											"display_url": "facebook.com/ridgeonsunday",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 57826,
+							"friends_count": 563,
+							"listed_count": 486,
+							"created_at": "Fri Jan 07 17:35:51 +0000 2011",
+							"favourites_count": 99,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 6941,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/992055880337195008/l7DA__N-_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/992055880337195008/l7DA__N-_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/235229140/1572892850",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168090600,
+			"id_str": "168090600",
+			"name": "Tory Fibs",
+			"screen_name": "ToryFibs",
+			"location": "Belfast, Northern Ireland",
+			"description": "Labour. Grassroots Rebuttal Account. Socialist. Working Class. NHS. Homelessness. Food Hunger. Low Pay. Childcare. Poverty. Peace. Tweets by Eoin. Irish",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111936,
+			"friends_count": 17487,
+			"listed_count": 1142,
+			"created_at": "Sun Jul 18 10:32:37 +0000 2010",
+			"favourites_count": 56322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "93F0A1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867400651617308672/xv8UxEBN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867400651617308672/xv8UxEBN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168090600/1496186488",
+			"profile_link_color": "F51B1B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "6EC259",
+			"profile_text_color": "054009",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "28679b23ed15b380",
+			"url": "https://api.twitter.com/1.1/geo/id/28679b23ed15b380.json",
+			"place_type": "city",
+			"name": "Belfast",
+			"full_name": "Belfast, Northern Ireland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-6.0361161,
+							54.543241
+						],
+						[
+							-5.8207101,
+							54.543241
+						],
+						[
+							-5.8207101,
+							54.6484968
+						],
+						[
+							-6.0361161,
+							54.6484968
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 1126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Labour will undo Thatcherism, brick by brick. Starting with dentistry. We are giving you back what is rightfully yours. The right to a free dental check up without being asked to pay. Just one of many policies designed to restore the welfare state. https://t.co/lxAWu8BaeM"
+	},
+	{
 		"created_at": "Sat Nov 16 22:10:43 +0000 2019",
 		"id": 1195826560114339800,
 		"id_str": "1195826560114339840",
