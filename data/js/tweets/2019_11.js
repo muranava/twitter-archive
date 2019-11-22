@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 15:46:42 +0000 2019",
+		"id": 1197533872310947800,
+		"id_str": "1197541855690416129",
+		"full_text": "How did I do?\n\n#RealChange #LabourManifesto https://t.co/a1ryOvHvx4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RealChange",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "LabourManifesto",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197532180676849700,
+					"id_str": "1197532180676849664",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ59hjKWkAAhQCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ59hjKWkAAhQCu.jpg",
+					"url": "https://t.co/a1ryOvHvx4",
+					"display_url": "pic.twitter.com/a1ryOvHvx4",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1197533872310947846/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197532180676849700,
+					"id_str": "1197532180676849664",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ59hjKWkAAhQCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ59hjKWkAAhQCu.jpg",
+					"url": "https://t.co/a1ryOvHvx4",
+					"display_url": "pic.twitter.com/a1ryOvHvx4",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1197533872310947846/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 105680,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197532180676849664/vid/720x720/g4fOIdnS_rZ4WzXT.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197532180676849664/vid/320x320/xMQZZZsP_mmioBtl.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197532180676849664/vid/480x480/gfQYtz24JpPWoXUB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1197532180676849664/pl/Tt1J0RbAWQ7swIKl.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Leader of the Labour Party.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2175989,
+			"friends_count": 2469,
+			"listed_count": 7683,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/868124921402150912/V0SkMhCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21233,
+		"favorite_count": 56367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How did I do?\n\n#RealChange #LabourManifesto https://t.co/a1ryOvHvx4"
+	},
+	{
+		"created_at": "Thu Nov 21 15:03:08 +0000 2019",
+		"id": 1197530894359318500,
+		"id_str": "1197530894359318528",
+		"full_text": "Precarity Part One: The Overstretch of an Idea https://t.co/EwYpLx6SEu via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EwYpLx6SEu",
+					"expanded_url": "https://marxistelf.wordpress.com/2019/11/20/precarity-part-one-the-overstretch-of-an-idea/",
+					"display_url": "marxistelf.wordpress.com/2019/11/20/pre…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1190,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Precarity Part One: The Overstretch of an Idea https://t.co/EwYpLx6SEu via @wordpressdotcom"
+	},
+	{
+		"created_at": "Thu Nov 21 14:49:45 +0000 2019",
+		"id": 1197486227890622500,
+		"id_str": "1197527524705816577",
+		"full_text": "Our radical, hopeful, people-focused plan for real change is fully-costed and will deliver the transformational change Britain needs. Read it here 👇🌹\n#OnYourSide https://t.co/9YVtdNn2xw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnYourSide",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YVtdNn2xw",
+					"expanded_url": "http://www.labour.org.uk/manifesto",
+					"display_url": "labour.org.uk/manifesto",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14291684,
+			"id_str": "14291684",
+			"name": "The Labour Party",
+			"screen_name": "UKLabour",
+			"location": "",
+			"description": "It's time for real change. Labour has the most radical, hopeful people-focused plan of modern times. #RealChange #ForTheManyNotTheFew",
+			"url": "https://t.co/3KXmtnXffi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3KXmtnXffi",
+							"expanded_url": "http://www.labour.org.uk",
+							"display_url": "labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758041,
+			"friends_count": 11854,
+			"listed_count": 4819,
+			"created_at": "Thu Apr 03 08:57:48 +0000 2008",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178630277545037824/Y9ASZW4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178630277545037824/Y9ASZW4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14291684/1573144636",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBF6FA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 933,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our radical, hopeful, people-focused plan for real change is fully-costed and will deliver the transformational change Britain needs. Read it here 👇🌹\n#OnYourSide https://t.co/9YVtdNn2xw"
+	},
+	{
+		"created_at": "Thu Nov 21 10:30:00 +0000 2019",
+		"id": 1197462157295837200,
+		"id_str": "1197462157295837184",
+		"full_text": "@CambUP_LangLing @philipseargeant Linguists can *middle finger* emoji the Sun by sharing this internet archive link https://t.co/IK0C1urOcQ",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CambUP_LangLing",
+					"name": "CUP Linguistics",
+					"id": 117051544,
+					"id_str": "117051544",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "philipseargeant",
+					"name": "Philip Seargeant",
+					"id": 2605136016,
+					"id_str": "2605136016",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IK0C1urOcQ",
+					"expanded_url": "https://web.archive.org/save/https://www.thesun.co.uk/news/10371755/university-students-study-emojis/amp/?__twitter_impression=true",
+					"display_url": "web.archive.org/save/https://w…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1197408059133505500,
+		"in_reply_to_status_id_str": "1197408059133505537",
+		"in_reply_to_user_id": 117051544,
+		"in_reply_to_user_id_str": "117051544",
+		"in_reply_to_screen_name": "CambUP_LangLing",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1884,
+			"friends_count": 1190,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CambUP_LangLing @philipseargeant Linguists can *middle finger* emoji the Sun by sharing this internet archive link https://t.co/IK0C1urOcQ"
+	},
+	{
 		"created_at": "Tue Nov 19 11:25:54 +0000 2019",
 		"id": 1196751446387167200,
 		"id_str": "1196751446387167233",
