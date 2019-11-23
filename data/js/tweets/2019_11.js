@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 19:21:35 +0000 2019",
+		"id": 1196553748014870500,
+		"id_str": "1197958321015267328",
+		"full_text": "Reminder that our 2020 wall calendar, with a daily dose of people's history, is out now! All proceeds help fund our work. Check it out at https://t.co/Eeyyl2xLkg https://t.co/97bK0ql3lw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eeyyl2xLkg",
+					"expanded_url": "https://shop.workingclasshistory.com/",
+					"display_url": "shop.workingclasshistory.com",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196553696315891700,
+					"id_str": "1196553696315891714",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196553696315891714/pu/img/Bg9YbsBmJfV5oa3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196553696315891714/pu/img/Bg9YbsBmJfV5oa3f.jpg",
+					"url": "https://t.co/97bK0ql3lw",
+					"display_url": "pic.twitter.com/97bK0ql3lw",
+					"expanded_url": "https://twitter.com/wrkclasshistory/status/1196553748014870528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196553696315891700,
+					"id_str": "1196553696315891714",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196553696315891714/pu/img/Bg9YbsBmJfV5oa3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196553696315891714/pu/img/Bg9YbsBmJfV5oa3f.jpg",
+					"url": "https://t.co/97bK0ql3lw",
+					"display_url": "pic.twitter.com/97bK0ql3lw",
+					"expanded_url": "https://twitter.com/wrkclasshistory/status/1196553748014870528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 2400,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196553696315891714/pu/vid/320x568/_SrWuDHQS64t-2Dt.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196553696315891714/pu/vid/360x640/5dw4vqRFJjRODisU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1196553696315891714/pu/pl/A2lIKGU1I6zBFlEA.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196553696315891714/pu/vid/720x1280/4qwmWvHfhxZiJR_G.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2695143194,
+			"id_str": "2695143194",
+			"name": "Working Class History",
+			"screen_name": "wrkclasshistory",
+			"location": "",
+			"description": "#OtD tweets & podcast. History isn't made by kings or politicians, it's made by billions of ordinary people. Support us: https://t.co/60aoJGzWaI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/60aoJGzWaI",
+							"expanded_url": "https://patreon.com/workingclasshistory",
+							"display_url": "patreon.com/workingclasshi…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48392,
+			"friends_count": 572,
+			"listed_count": 467,
+			"created_at": "Thu Jul 31 08:22:31 +0000 2014",
+			"favourites_count": 12142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127961522645479424/ar9eA5Av_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127961522645479424/ar9eA5Av_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2695143194/1557762013",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reminder that our 2020 wall calendar, with a daily dose of people's history, is out now! All proceeds help fund our work. Check it out at https://t.co/Eeyyl2xLkg https://t.co/97bK0ql3lw"
+	},
+	{
 		"created_at": "Thu Nov 21 15:46:42 +0000 2019",
 		"id": 1197533872310947800,
 		"id_str": "1197541855690416129",
