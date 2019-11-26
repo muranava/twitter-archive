@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 21:27:02 +0000 2019",
+		"id": 1199077056170082300,
+		"id_str": "1199077056170082306",
+		"full_text": "@robdelaney @FromSteveHowell @graceblakeley what about the rise in people who live off wealth and live off work?",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "robdelaney",
+					"name": "rob delaney",
+					"id": 22084427,
+					"id_str": "22084427",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "FromSteveHowell",
+					"name": "Steve Howell",
+					"id": 22754724,
+					"id_str": "22754724",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "graceblakeley",
+					"name": "Green New Deal Now Blakeley",
+					"id": 186851624,
+					"id_str": "186851624",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1199044610129043500,
+		"in_reply_to_status_id_str": "1199044610129043457",
+		"in_reply_to_user_id": 22084427,
+		"in_reply_to_user_id_str": "22084427",
+		"in_reply_to_screen_name": "robdelaney",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1190,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@robdelaney @FromSteveHowell @graceblakeley what about the rise in people who live off wealth and live off work?"
+	},
+	{
+		"created_at": "Mon Nov 25 21:01:56 +0000 2019",
+		"id": 1199067881167839200,
+		"id_str": "1199070740953419776",
+		"full_text": "In Seattle's election, Amazon spent $1.5 million to defeat a slate of progressive candidates — and lost.\n\nOne of Amazon’s top targets, re-elected socialist city councilmember @CMKshama Sawant, explains how people power beat big business.\n\nvia @AaronJMate \n\nhttps://t.co/wXhyag6HgG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmkshama",
+					"name": "Kshama Sawant",
+					"id": 2274777314,
+					"id_str": "2274777314",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"screen_name": "aaronjmate",
+					"name": "Aaron Maté",
+					"id": 153517357,
+					"id_str": "153517357",
+					"indices": [
+						243,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wXhyag6HgG",
+					"expanded_url": "https://thegrayzone.com/2019/11/25/how-a-grassroots-seattle-movement-delivered-amazon-a-major-loss/",
+					"display_url": "thegrayzone.com/2019/11/25/how…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4826563611,
+			"id_str": "4826563611",
+			"name": "The Grayzone",
+			"screen_name": "GrayzoneProject",
+			"location": "",
+			"description": "Independent news website publishing investigative journalism and analysis on politics and empire || En español: @GrayzoneES || https://t.co/aCAMIg54I0",
+			"url": "https://t.co/7AVzeutOxN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AVzeutOxN",
+							"expanded_url": "https://TheGrayzone.com",
+							"display_url": "TheGrayzone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aCAMIg54I0",
+							"expanded_url": "http://Facebook.com/TheGrayzone",
+							"display_url": "Facebook.com/TheGrayzone",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 37946,
+			"friends_count": 86,
+			"listed_count": 556,
+			"created_at": "Tue Jan 19 07:19:20 +0000 2016",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108087241530855425/J7n7srba_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108087241530855425/J7n7srba_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4826563611/1553023548",
+			"profile_link_color": "575463",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Seattle's election, Amazon spent $1.5 million to defeat a slate of progressive candidates — and lost.\n\nOne of Amazon’s top targets, re-elected socialist city councilmember @CMKshama Sawant, explains how people power beat big business.\n\nvia @AaronJMate \n\nhttps://t.co/wXhyag6HgG"
+	},
+	{
+		"created_at": "Mon Nov 25 19:06:33 +0000 2019",
+		"id": 1198721468256813000,
+		"id_str": "1199041700007759874",
+		"full_text": "Please take this survey or share/RT: https://t.co/IKNlRhSbPW\n\nIt's for anyone (18+) who is learning or has learned English as a second/additional language. There is a short writing prompt. The survey is 100% anonymous. Thanks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKNlRhSbPW",
+					"expanded_url": "https://forms.gle/oNBBovEg2d8bqxtv8",
+					"display_url": "forms.gle/oNBBovEg2d8bqx…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703598479944208400,
+			"id_str": "703598479944208384",
+			"name": "Michael Brown",
+			"screen_name": "Za_Maikeru",
+			"location": "Tokyo (via Montana & Oregon)",
+			"description": "corpus linguistics | ecolinguistics | language ed | open ed | Kanda University of International Studies (& NYU Tokyo) | he (they is ok, too) | green & left",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275,
+			"friends_count": 491,
+			"listed_count": 13,
+			"created_at": "Sat Feb 27 15:12:04 +0000 2016",
+			"favourites_count": 6658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047074779063304194/Ef3AXGL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047074779063304194/Ef3AXGL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703598479944208384/1459250295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please take this survey or share/RT: https://t.co/IKNlRhSbPW\n\nIt's for anyone (18+) who is learning or has learned English as a second/additional language. There is a short writing prompt. The survey is 100% anonymous. Thanks"
+	},
+	{
 		"created_at": "Sun Nov 24 19:35:54 +0000 2019",
 		"id": 1198686702149210000,
 		"id_str": "1198686702149210117",
