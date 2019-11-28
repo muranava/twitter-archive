@@ -1,10 +1,232 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 12:51:54 +0000 2019",
+		"id": 1199662557998530600,
+		"id_str": "1199672195250839552",
+		"full_text": "Mark my words, our cherished NHS will not survive another Tory Govt, especially one stuffed with hard right, free market ideologues like this one. They told us we were lying when we said that the NHS was on the table. Now we have evidence that it is: https://t.co/r06UaGsoo0 https://t.co/sIo0gUvNwi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r06UaGsoo0",
+					"expanded_url": "https://labour.org.uk/press/jeremy-corbyn-reveals-unredacted-documents-about-secret-us-uk-trade-talks/",
+					"display_url": "labour.org.uk/press/jeremy-c…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199661560890826800,
+					"id_str": "1199661560890826752",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1199661560890826752/img/LHaG1SDfanLQ_q5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1199661560890826752/img/LHaG1SDfanLQ_q5_.jpg",
+					"url": "https://t.co/sIo0gUvNwi",
+					"display_url": "pic.twitter.com/sIo0gUvNwi",
+					"expanded_url": "https://twitter.com/LauraPidcockMP/status/1199662557998530560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199661560890826800,
+					"id_str": "1199661560890826752",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1199661560890826752/img/LHaG1SDfanLQ_q5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1199661560890826752/img/LHaG1SDfanLQ_q5_.jpg",
+					"url": "https://t.co/sIo0gUvNwi",
+					"display_url": "pic.twitter.com/sIo0gUvNwi",
+					"expanded_url": "https://twitter.com/LauraPidcockMP/status/1199662557998530560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 148000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1199661560890826752/pl/p9ldSpMbQK18Mrye.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1199661560890826752/vid/640x360/96VwW2OYuoeuJ9jw.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1199661560890826752/vid/1280x720/Xy6tMrnsthhcZMOY.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1199661560890826752/vid/480x270/pI2Zndtbke5wOB49.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "Jeremy Corbyn | Our NHS is not for sale. ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 251821643,
+			"id_str": "251821643",
+			"name": "Laura Pidcock",
+			"screen_name": "LauraPidcockMP",
+			"location": "",
+			"description": "Proud to be the Labour Party candidate for North West Durham. Contact: laurapidcock4nwdurham@gmail.com",
+			"url": "https://t.co/JPeNwIyUNU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JPeNwIyUNU",
+							"expanded_url": "https://www.facebook.com/LauraPidcockMP/",
+							"display_url": "facebook.com/LauraPidcockMP/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78052,
+			"friends_count": 2532,
+			"listed_count": 500,
+			"created_at": "Sun Feb 13 22:45:04 +0000 2011",
+			"favourites_count": 3932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192506966956027904/hLGQVjxF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192506966956027904/hLGQVjxF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/251821643/1573771774",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1506,
+		"favorite_count": 2677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mark my words, our cherished NHS will not survive another Tory Govt, especially one stuffed with hard right, free market ideologues like this one. They told us we were lying when we said that the NHS was on the table. Now we have evidence that it is: https://t.co/r06UaGsoo0 https://t.co/sIo0gUvNwi"
+	},
+	{
 		"created_at": "Tue Nov 26 11:31:16 +0000 2019",
 		"id": 1199231728075845600,
 		"id_str": "1199289514696544256",
-		"full_text": "Morning! Labour is going to ban zero-hours contracts. Because every worker deserves better than that.🌹👩‍🔧👨‍🏭👷‍♀️👨‍🍳",
+		"full_text": "Morning! Labour is going to ban zero-hours contracts. Because every worker deserves better than that.🌹👩🔧👨🏭👷♀️👨🍳",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -95,7 +317,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "Morning! Labour is going to ban zero-hours contracts. Because every worker deserves better than that.🌹👩‍🔧👨‍🏭👷‍♀️👨‍🍳"
+		"text": "Morning! Labour is going to ban zero-hours contracts. Because every worker deserves better than that.🌹👩🔧👨🏭👷♀️👨🍳"
 	},
 	{
 		"created_at": "Mon Nov 25 21:27:02 +0000 2019",
