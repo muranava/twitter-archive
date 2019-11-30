@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 21:26:56 +0000 2019",
+		"id": 1199481930519064600,
+		"id_str": "1200526581606862854",
+		"full_text": "And we're back! A special episode to listen to if you have a trip ahead of you for this (gross) holiday, it's my presentation from the NYS TESOL conference.  It went very well and the recording is strong too. Enjoy and share: The Altruistic Shield, LIVE  https://t.co/V7QPrPlVS8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V7QPrPlVS8",
+					"expanded_url": "https://anchor.fm/unstandardized/episodes/The-Altruistic-Shield--LIVE-e914aj",
+					"display_url": "anchor.fm/unstandardized…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1193318090127360000,
+			"id_str": "1193318090127360000",
+			"name": "Unstandardized English",
+			"screen_name": "UnstandardizedE",
+			"location": "Long Island City, Queens",
+			"description": "English language teaching is unsustainable and dangerous in its current state. We seek to destroy its power structures so that we can rebuild it. The fire now!",
+			"url": "https://t.co/shuJR7eMyg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/shuJR7eMyg",
+							"expanded_url": "http://anchor.fm/unstandardized",
+							"display_url": "anchor.fm/unstandardized",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 472,
+			"listed_count": 1,
+			"created_at": "Sun Nov 10 00:03:14 +0000 2019",
+			"favourites_count": 452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193318406029791232/7UcCmm-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193318406029791232/7UcCmm-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1193318090127360000/1573345193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And we're back! A special episode to listen to if you have a trip ahead of you for this (gross) holiday, it's my presentation from the NYS TESOL conference.  It went very well and the recording is strong too. Enjoy and share: The Altruistic Shield, LIVE  https://t.co/V7QPrPlVS8"
+	},
+	{
+		"created_at": "Fri Nov 29 19:33:03 +0000 2019",
+		"id": 1200485304274243600,
+		"id_str": "1200497922686824449",
+		"full_text": "Excl: rattled Johnson admits Tories DO want to do a US trade deal that includes the NHS...\nhttps://t.co/BdL4D4ZbZ8 https://t.co/fnLACcPyHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdL4D4ZbZ8",
+					"expanded_url": "http://bit.ly/JohnsonSlips",
+					"display_url": "bit.ly/JohnsonSlips",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200485216860672000,
+					"id_str": "1200485216860672008",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200485216860672008/pu/img/Pzh4FMALq1mZCdI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200485216860672008/pu/img/Pzh4FMALq1mZCdI_.jpg",
+					"url": "https://t.co/fnLACcPyHP",
+					"display_url": "pic.twitter.com/fnLACcPyHP",
+					"expanded_url": "https://twitter.com/skwawkbox/status/1200485304274243584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200485216860672000,
+					"id_str": "1200485216860672008",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1200485216860672008/pu/img/Pzh4FMALq1mZCdI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1200485216860672008/pu/img/Pzh4FMALq1mZCdI_.jpg",
+					"url": "https://t.co/fnLACcPyHP",
+					"display_url": "pic.twitter.com/fnLACcPyHP",
+					"expanded_url": "https://twitter.com/skwawkbox/status/1200485304274243584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44178,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200485216860672008/pu/vid/640x360/zN0qQTrmFptd1jnK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1200485216860672008/pu/vid/480x270/uVUYzZ0EjKg5PI-A.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1200485216860672008/pu/pl/GmBpKnylTa4PCEBM.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19906029,
+			"id_str": "19906029",
+			"name": "The SKWAWKBOX",
+			"screen_name": "skwawkbox",
+			"location": "UK",
+			"description": "Politics, analysis. Smeared, feared by the Establishment\nTelegram: https://t.co/1Try5nnMko\nFB: https://t.co/uVHIw4pvbL\nMerch: https://t.co/anpxcEFOsd",
+			"url": "https://t.co/KfhbzXQcxd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KfhbzXQcxd",
+							"expanded_url": "http://skwawkbox.org",
+							"display_url": "skwawkbox.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1Try5nnMko",
+							"expanded_url": "http://t.me/SKWAWKBOX",
+							"display_url": "t.me/SKWAWKBOX",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/uVHIw4pvbL",
+							"expanded_url": "http://facebook.com/skwawkbox",
+							"display_url": "facebook.com/skwawkbox",
+							"indices": [
+								95,
+								118
+							]
+						},
+						{
+							"url": "https://t.co/anpxcEFOsd",
+							"expanded_url": "http://skwawkbox.teemill.com",
+							"display_url": "skwawkbox.teemill.com",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51509,
+			"friends_count": 19396,
+			"listed_count": 392,
+			"created_at": "Mon Feb 02 13:27:57 +0000 2009",
+			"favourites_count": 28288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145840466916716545/Q0dLjFIs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145840466916716545/Q0dLjFIs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19906029/1503944221",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 445,
+		"favorite_count": 421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excl: rattled Johnson admits Tories DO want to do a US trade deal that includes the NHS...\nhttps://t.co/BdL4D4ZbZ8 https://t.co/fnLACcPyHP"
+	},
+	{
+		"created_at": "Fri Nov 29 19:10:32 +0000 2019",
+		"id": 1200150105422209000,
+		"id_str": "1200492256240832513",
+		"full_text": "Episode 5 of the SLB Podcast is out! @thornburyscott, Geoff Jordan and @neil_mcm talk coursebooks, dogme, teacher training and pay and conditions. Available on all the usual platforms (iTunes/Apple, Spotify...) &amp; below. #ELT #EFL #ESL #ESOL #TEFL #TESOL https://t.co/tdDC3wVI74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						224,
+						228
+					]
+				},
+				{
+					"text": "EFL",
+					"indices": [
+						229,
+						233
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "ESOL",
+					"indices": [
+						239,
+						244
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "TESOL",
+					"indices": [
+						251,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thornburyscott",
+					"name": "Scott Thornbury",
+					"id": 23090474,
+					"id_str": "23090474",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tdDC3wVI74",
+					"expanded_url": "https://www.slb.coop/the-slb-podcast/",
+					"display_url": "slb.coop/the-slb-podcas…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2365399801,
+			"id_str": "2365399801",
+			"name": "Serveis Lingüístics de Barcelona",
+			"screen_name": "SLBCoop",
+			"location": "Barcelona, Catalunya, Espanya",
+			"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+			"url": "https://t.co/HVoXtXYxKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HVoXtXYxKW",
+							"expanded_url": "https://www.slb.coop",
+							"display_url": "slb.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 949,
+			"listed_count": 44,
+			"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+			"favourites_count": 1902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 5 of the SLB Podcast is out! @thornburyscott, Geoff Jordan and @neil_mcm talk coursebooks, dogme, teacher training and pay and conditions. Available on all the usual platforms (iTunes/Apple, Spotify...) &amp; below. #ELT #EFL #ESL #ESOL #TEFL #TESOL https://t.co/tdDC3wVI74"
+	},
+	{
 		"created_at": "Thu Nov 28 16:10:44 +0000 2019",
 		"id": 1200084620647321600,
 		"id_str": "1200084620647321600",
