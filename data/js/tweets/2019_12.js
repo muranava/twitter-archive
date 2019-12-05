@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 20:52:59 +0000 2019",
+		"id": 1202320341143568400,
+		"id_str": "1202329979226378240",
+		"full_text": "France has the lowest rate of poverty among the elderly in the European Union. \n\nhttps://t.co/GGju0Gb3Cs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGju0Gb3Cs",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/dec/04/french-workers-cherish-welfare-state-strike-reforms-macron",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16850401,
+			"id_str": "16850401",
+			"name": "Megan Clement",
+			"screen_name": "MegClement",
+			"location": "Paris, France",
+			"description": "Freelance journalist in Paris. Bylines in The Guardian, Al Jazeera, The Age and more. Editing for @globalpress. Barkeep @lebarcommun. Migrant many times over.",
+			"url": "https://t.co/SZJLPu2sne",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SZJLPu2sne",
+							"expanded_url": "http://meganclement.com",
+							"display_url": "meganclement.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5521,
+			"friends_count": 2186,
+			"listed_count": 131,
+			"created_at": "Sun Oct 19 11:59:42 +0000 2008",
+			"favourites_count": 4173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136535035/46187_548877579952_218102219_32815203_8144238_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136535035/46187_548877579952_218102219_32815203_8144238_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16850401/1515235612",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "France has the lowest rate of poverty among the elderly in the European Union. \n\nhttps://t.co/GGju0Gb3Cs"
+	},
+	{
 		"created_at": "Tue Dec 03 20:10:44 +0000 2019",
 		"id": 1201956956849791000,
 		"id_str": "1201956956849790978",
