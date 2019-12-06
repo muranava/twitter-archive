@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 23:38:17 +0000 2019",
+		"id": 1202726921550872600,
+		"id_str": "1202733964756164609",
+		"full_text": "Labour GAIN Ynyshir (Rhonnda Cynon Taf) from Plaid Cymru with 55% (+18) of votes.\n\nPlaid Cymru were 2nd on 45% (-18) of votes. https://t.co/9JI5LexCGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202726905683882000,
+					"id_str": "1202726905683881984",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ELDxv5cXsAAMvas.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELDxv5cXsAAMvas.jpg",
+					"url": "https://t.co/9JI5LexCGa",
+					"display_url": "pic.twitter.com/9JI5LexCGa",
+					"expanded_url": "https://twitter.com/ElectionMapsUK/status/1202726921550872576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1890,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202726905683882000,
+					"id_str": "1202726905683881984",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ELDxv5cXsAAMvas.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELDxv5cXsAAMvas.jpg",
+					"url": "https://t.co/9JI5LexCGa",
+					"display_url": "pic.twitter.com/9JI5LexCGa",
+					"expanded_url": "https://twitter.com/ElectionMapsUK/status/1202726921550872576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1890,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 845157941292380200,
+			"id_str": "845157941292380161",
+			"name": "Election Maps UK",
+			"screen_name": "ElectionMapsUK",
+			"location": "Dunny-on-the-wold",
+			"description": "Mapping and Graphing the UK's votes 🗳️ || Local Govt. || The worst puns in politics || #Impartiality || Support me on https://t.co/hbaofnYYwh",
+			"url": "https://t.co/i8zlo995Ds",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i8zlo995Ds",
+							"expanded_url": "http://electionmaps.uk",
+							"display_url": "electionmaps.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hbaofnYYwh",
+							"expanded_url": "http://Ko-fi.com/electionmapsuk",
+							"display_url": "Ko-fi.com/electionmapsuk",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 67841,
+			"friends_count": 104,
+			"listed_count": 513,
+			"created_at": "Fri Mar 24 06:18:50 +0000 2017",
+			"favourites_count": 9026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179041416502288384/HV140y97_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179041416502288384/HV140y97_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/845157941292380161/1557165037",
+			"profile_link_color": "1164B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 374,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "Labour GAIN Ynyshir (Rhonnda Cynon Taf) from Plaid Cymru with 55% (+18) of votes.\n\nPlaid Cymru were 2nd on 45% (-18) of votes. https://t.co/9JI5LexCGa"
+	},
+	{
+		"created_at": "Thu Dec 05 10:16:11 +0000 2019",
+		"id": 1202525603821424600,
+		"id_str": "1202532110181031937",
+		"full_text": "Free breakfasts to form part of Labour plan to 'poverty-proof' schools #OneWeekToWin  https://t.co/tc5Vozi9Sd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneWeekToWin",
+					"indices": [
+						71,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tc5Vozi9Sd",
+					"expanded_url": "https://www.theguardian.com/politics/2019/dec/04/free-breakfasts-to-form-part-of-labour-plan-to-poverty-proof-schools?CMP=share_btn_tw",
+					"display_url": "theguardian.com/politics/2019/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870848881,
+			"id_str": "2870848881",
+			"name": "Rachael Swindon",
+			"screen_name": "Rachael_Swindon",
+			"location": "",
+			"description": "Persistent | Blocked by 87 Tory MPs & Right Said Fred | Growing interest in politics | Bad driver | Mum | I swear | I blog a bit | GTTO",
+			"url": "https://t.co/VbiZJPzY5Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VbiZJPzY5Q",
+							"expanded_url": "https://www.paypal.me/Rachael236",
+							"display_url": "paypal.me/Rachael236",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76212,
+			"friends_count": 4035,
+			"listed_count": 686,
+			"created_at": "Mon Nov 10 17:29:10 +0000 2014",
+			"favourites_count": 164680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200404967745568768/e8CpwXYi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200404967745568768/e8CpwXYi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870848881/1565396195",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free breakfasts to form part of Labour plan to 'poverty-proof' schools #OneWeekToWin  https://t.co/tc5Vozi9Sd"
+	},
+	{
 		"created_at": "Wed Dec 04 20:52:59 +0000 2019",
 		"id": 1202320341143568400,
 		"id_str": "1202329979226378240",
