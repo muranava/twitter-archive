@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 16:27:07 +0000 2019",
+		"id": 1203348605995831300,
+		"id_str": "1203350234140684288",
+		"full_text": "The film ITV refuses to show until after the election #GE2019 https://t.co/YXbr4CpJfD via @Dorset_eye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2019",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dorset_eye",
+					"name": "Dorset Eye (Independent Citizen Community Media)",
+					"id": 430763384,
+					"id_str": "430763384",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YXbr4CpJfD",
+					"expanded_url": "https://dorseteye.com/the-film-itv-refuses-to-show-until-after-the-election/",
+					"display_url": "dorseteye.com/the-film-itv-r…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870848881,
+			"id_str": "2870848881",
+			"name": "Rachael Swindon",
+			"screen_name": "Rachael_Swindon",
+			"location": "",
+			"description": "Persistent | Blocked by 87 Tory MPs & Right Said Fred | Growing interest in politics | Bad driver | Mum | I swear | I blog a bit | GTTO",
+			"url": "https://t.co/VbiZJPzY5Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VbiZJPzY5Q",
+							"expanded_url": "https://www.paypal.me/Rachael236",
+							"display_url": "paypal.me/Rachael236",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76592,
+			"friends_count": 4035,
+			"listed_count": 687,
+			"created_at": "Mon Nov 10 17:29:10 +0000 2014",
+			"favourites_count": 164861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200404967745568768/e8CpwXYi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200404967745568768/e8CpwXYi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870848881/1565396195",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The film ITV refuses to show until after the election #GE2019 https://t.co/YXbr4CpJfD via @Dorset_eye"
+	},
+	{
+		"created_at": "Sat Dec 07 13:18:58 +0000 2019",
+		"id": 1203292119055708200,
+		"id_str": "1203302882054938625",
+		"full_text": "Next week and polling day are going to be huge - we need you to step up, take as much time off work as you can and campaign in the marginal that needs you most.\n\nWe've launched https://t.co/v6Fm0bo4Jn so you can find the marginal that needs you most on polling day. https://t.co/dmLpGJnuqD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v6Fm0bo4Jn",
+					"expanded_url": "http://MyPollingDay.com",
+					"display_url": "MyPollingDay.com",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203291480326058000,
+					"id_str": "1203291480326057984",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLzsjeW4AIGlo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLzsjeW4AIGlo3.jpg",
+					"url": "https://t.co/dmLpGJnuqD",
+					"display_url": "pic.twitter.com/dmLpGJnuqD",
+					"expanded_url": "https://twitter.com/PeoplesMomentum/status/1203292119055708162/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203291480326058000,
+					"id_str": "1203291480326057984",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/ELLzsjeW4AIGlo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELLzsjeW4AIGlo3.jpg",
+					"url": "https://t.co/dmLpGJnuqD",
+					"display_url": "pic.twitter.com/dmLpGJnuqD",
+					"expanded_url": "https://twitter.com/PeoplesMomentum/status/1203292119055708162/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 49120,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203291480326057984/vid/320x320/lGOCXHq9CSuPiz-v.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1203291480326057984/pl/DadG3HBjAIMx8F1E.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203291480326057984/vid/480x480/38Jx3g_HRPMK3eU4.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1203291480326057984/vid/720x720/WuMNCzqFe1me8ehK.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3751450582,
+			"id_str": "3751450582",
+			"name": "Momentum",
+			"screen_name": "PeoplesMomentum",
+			"location": "United Kingdom",
+			"description": "A grassroots network of people & groups continuing the energy & enthusiasm of Jeremy Corbyn's Leadership campaign. Join us https://t.co/9LNWWQ1xcF",
+			"url": "https://t.co/OuaU3eZeZx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OuaU3eZeZx",
+							"expanded_url": "http://www.peoplesmomentum.com",
+							"display_url": "peoplesmomentum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9LNWWQ1xcF",
+							"expanded_url": "http://join.peoplesmomentum.com",
+							"display_url": "join.peoplesmomentum.com",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 152146,
+			"friends_count": 5159,
+			"listed_count": 1018,
+			"created_at": "Wed Sep 23 17:09:28 +0000 2015",
+			"favourites_count": 6715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015610943450075137/FUslE1nG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015610943450075137/FUslE1nG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3751450582/1530975519",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next week and polling day are going to be huge - we need you to step up, take as much time off work as you can and campaign in the marginal that needs you most.\n\nWe've launched https://t.co/v6Fm0bo4Jn so you can find the marginal that needs you most on polling day. https://t.co/dmLpGJnuqD"
+	},
+	{
 		"created_at": "Thu Dec 05 23:38:17 +0000 2019",
 		"id": 1202726921550872600,
 		"id_str": "1202733964756164609",
