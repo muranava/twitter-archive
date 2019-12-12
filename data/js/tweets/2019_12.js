@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 20:44:20 +0000 2019",
+		"id": 1204733130520825900,
+		"id_str": "1204864517785767936",
+		"full_text": "Desi families when a member says they might vote Tory. \n\nWHO keeps turning these Indian dramas into Tory/Labour drama??? 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\nhttps://t.co/iqpgWCZ2hh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204727197862441000,
+					"id_str": "1204727197862440960",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204727197862440960/pu/img/Xcg-57IPj1bYp9lK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204727197862440960/pu/img/Xcg-57IPj1bYp9lK.jpg",
+					"url": "https://t.co/iqpgWCZ2hh",
+					"display_url": "pic.twitter.com/iqpgWCZ2hh",
+					"expanded_url": "https://twitter.com/bitfantastic1/status/1204729246402392070/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1204729246402392000,
+					"source_status_id_str": "1204729246402392070",
+					"source_user_id": 1204446307684884500,
+					"source_user_id_str": "1204446307684884480",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204727197862441000,
+					"id_str": "1204727197862440960",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1204727197862440960/pu/img/Xcg-57IPj1bYp9lK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1204727197862440960/pu/img/Xcg-57IPj1bYp9lK.jpg",
+					"url": "https://t.co/iqpgWCZ2hh",
+					"display_url": "pic.twitter.com/iqpgWCZ2hh",
+					"expanded_url": "https://twitter.com/bitfantastic1/status/1204729246402392070/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1204729246402392000,
+					"source_status_id_str": "1204729246402392070",
+					"source_user_id": 1204446307684884500,
+					"source_user_id_str": "1204446307684884480",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 138480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1204727197862440960/pu/pl/5brbhUd7GXHKn4G6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204727197862440960/pu/vid/640x360/hfxMRy2EODDXBZ6D.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204727197862440960/pu/vid/1280x720/0TnKF7WbsFHyDc42.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1204727197862440960/pu/vid/480x270/QhCrXhmrJBEQkgkU.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1204446307684884500,
+							"id_str": "1204446307684884480",
+							"name": "bitfantastic",
+							"screen_name": "bitfantastic1",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 27,
+							"friends_count": 2,
+							"listed_count": 0,
+							"created_at": "Tue Dec 10 17:05:03 +0000 2019",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+							"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": true,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3027221087,
+			"id_str": "3027221087",
+			"name": "Aleesha",
+			"screen_name": "a_leesha1",
+			"location": "",
+			"description": "21. @UKLabour. Outspoken Muslim & opinion writer. Azad Kashmir diaspora. Views my own. Enquiries: a_leesha1@outlook.com",
+			"url": "https://t.co/ckydouFWYY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ckydouFWYY",
+							"expanded_url": "http://instagram.com/a_leesha1",
+							"display_url": "instagram.com/a_leesha1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43929,
+			"friends_count": 1010,
+			"listed_count": 484,
+			"created_at": "Mon Feb 09 21:31:34 +0000 2015",
+			"favourites_count": 89943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189326136888758273/_nOCT8kf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189326136888758273/_nOCT8kf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3027221087/1568929009",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1750,
+		"favorite_count": 4885,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Desi families when a member says they might vote Tory. \n\nWHO keeps turning these Indian dramas into Tory/Labour drama??? 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\nhttps://t.co/iqpgWCZ2hh"
+	},
+	{
+		"created_at": "Wed Dec 11 15:00:42 +0000 2019",
+		"id": 1204737796931571700,
+		"id_str": "1204778037725798411",
+		"full_text": "1. “Throughout modern history, labour union activism has not only protected the basic rights of working people but also spearheaded the drive to create a more decent and just society.  The IWW has a particularly impressive record in this regard......",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 453,
+			"friends_count": 43,
+			"listed_count": 3,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1. “Throughout modern history, labour union activism has not only protected the basic rights of working people but also spearheaded the drive to create a more decent and just society.  The IWW has a particularly impressive record in this regard......"
+	},
+	{
 		"created_at": "Sun Dec 08 21:23:49 +0000 2019",
 		"id": 1203787287932407800,
 		"id_str": "1203787287932407816",
