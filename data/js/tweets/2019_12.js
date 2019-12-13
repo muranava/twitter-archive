@@ -1,6 +1,728 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 15:29:42 +0000 2019",
+		"id": 1205145046107873300,
+		"id_str": "1205147723323912193",
+		"full_text": "DIRECT #Paris #greve12decembre \n\nGrosse ambiance à Paris : « @EmmanuelMacron, président des patrons, on va niquer ta réforme ! »\n#Retraites \n\nImages : @Gaylord_VW https://t.co/KwsUjM3ZdQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Paris",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "greve12decembre",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"text": "Retraites",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmmanuelMacron",
+					"name": "Emmanuel Macron",
+					"id": 1976143068,
+					"id_str": "1976143068",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "Gaylord_VW",
+					"name": "Gaylord V.W",
+					"id": 1055027600245055500,
+					"id_str": "1055027600245055489",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205144797322842000,
+					"id_str": "1205144797322842112",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205144797322842112/pu/img/-JoQirX01JUeG-tX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205144797322842112/pu/img/-JoQirX01JUeG-tX.jpg",
+					"url": "https://t.co/KwsUjM3ZdQ",
+					"display_url": "pic.twitter.com/KwsUjM3ZdQ",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1205145046107873280/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205144797322842000,
+					"id_str": "1205144797322842112",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1205144797322842112/pu/img/-JoQirX01JUeG-tX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1205144797322842112/pu/img/-JoQirX01JUeG-tX.jpg",
+					"url": "https://t.co/KwsUjM3ZdQ",
+					"display_url": "pic.twitter.com/KwsUjM3ZdQ",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1205145046107873280/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 80333,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205144797322842112/pu/vid/476x270/NFSg6ZTgH1IjJ6Fy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1205144797322842112/pu/pl/Ez5drRhp97yRyEGN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205144797322842112/pu/vid/636x360/MaomP_KRoQQoM4Mx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1205144797322842112/pu/vid/1272x720/osEJCosP3Zi-Seun.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773565144,
+			"id_str": "2773565144",
+			"name": "Là-bas si j'y suis",
+			"screen_name": "LabasOfficiel",
+			"location": "",
+			"description": "Le site d’information « plus près des jetables que des notables », issu de l'émission de @MermetDaniel. Encore mieux sur le net !",
+			"url": "https://t.co/lUp9Mdgr4D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lUp9Mdgr4D",
+							"expanded_url": "http://la-bas.org",
+							"display_url": "la-bas.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35613,
+			"friends_count": 1537,
+			"listed_count": 317,
+			"created_at": "Wed Aug 27 15:22:29 +0000 2014",
+			"favourites_count": 1486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5D840",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2773565144/1481732454",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 261,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "DIRECT #Paris #greve12decembre \n\nGrosse ambiance à Paris : « @EmmanuelMacron, président des patrons, on va niquer ta réforme ! »\n#Retraites \n\nImages : @Gaylord_VW https://t.co/KwsUjM3ZdQ"
+	},
+	{
+		"created_at": "Thu Dec 12 13:39:52 +0000 2019",
+		"id": 1204985310607622100,
+		"id_str": "1205120084613701633",
+		"full_text": "The Precarious Work of English Language Teaching in Canada\n\nby Sherry Breshears (2019) \n\nhttps://t.co/1EeuO3hWEZ\n\nCC: @taw_sig @muranava @josipa74 @11thhourspecial @neil_mcm \n\n#ELT #WorkingConditions #precarity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "WorkingConditions",
+					"indices": [
+						181,
+						199
+					]
+				},
+				{
+					"text": "precarity",
+					"indices": [
+						200,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulw",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1EeuO3hWEZ",
+					"expanded_url": "https://teslcanadajournal.ca/index.php/tesl/article/view/1355/1181",
+					"display_url": "teslcanadajournal.ca/index.php/tesl…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2651,
+			"friends_count": 4220,
+			"listed_count": 30,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 60898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1574774237",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "74fad2166ae8b8e6",
+			"url": "https://api.twitter.com/1.1/geo/id/74fad2166ae8b8e6.json",
+			"place_type": "city",
+			"name": "Osaka-shi Kita",
+			"full_name": "Osaka-shi Kita, Osaka",
+			"country_code": "JP",
+			"country": "Japan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							135.477230003533,
+							34.683015999977
+						],
+						[
+							135.527178003877,
+							34.683015999977
+						],
+						[
+							135.527178003877,
+							34.7177310034282
+						],
+						[
+							135.477230003533,
+							34.7177310034282
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Precarious Work of English Language Teaching in Canada\n\nby Sherry Breshears (2019) \n\nhttps://t.co/1EeuO3hWEZ\n\nCC: @taw_sig @muranava @josipa74 @11thhourspecial @neil_mcm \n\n#ELT #WorkingConditions #precarity"
+	},
+	{
+		"created_at": "Thu Dec 12 12:28:57 +0000 2019",
+		"id": 1205102237871169500,
+		"id_str": "1205102237871169536",
+		"full_text": "@bbclaurak This (hyper) correction of apologise reflecting language pedants preference for form over content nicely parallels modern media's preference for churnalism over journalism",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbclaurak",
+					"name": "Laura Kuenssberg",
+					"id": 61183568,
+					"id_str": "61183568",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1204110491242643500,
+		"in_reply_to_status_id_str": "1204110491242643457",
+		"in_reply_to_user_id": 61183568,
+		"in_reply_to_user_id_str": "61183568",
+		"in_reply_to_screen_name": "bbclaurak",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1883,
+			"friends_count": 1054,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bbclaurak This (hyper) correction of apologise reflecting language pedants preference for form over content nicely parallels modern media's preference for churnalism over journalism"
+	},
+	{
+		"created_at": "Thu Dec 12 11:37:33 +0000 2019",
+		"id": 1205081639187034000,
+		"id_str": "1205089302230769664",
+		"full_text": "Historic queues at polling stations - ignored by media. Don't miss your chance to make (more) history. Here's how https://t.co/ADG1WV6hSk via @skwawkbox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skwawkbox",
+					"name": "The SKWAWKBOX",
+					"id": 19906029,
+					"id_str": "19906029",
+					"indices": [
+						142,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ADG1WV6hSk",
+					"expanded_url": "https://skwawkbox.org/2019/12/12/historic-queues-at-polling-stations-ignored-by-media-dont-miss-your-chance-to-make-more-history-heres-how/",
+					"display_url": "skwawkbox.org/2019/12/12/his…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128402033,
+			"id_str": "128402033",
+			"name": "simon maginn",
+			"screen_name": "simonmaginn",
+			"location": "Brighton, UK",
+			"description": "2020 Calendar  - 'Sea Pictures'\nAvailable here:\nhttps://t.co/rhysSoJGXV",
+			"url": "https://t.co/Yya58bjVC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yya58bjVC0",
+							"expanded_url": "https://www.etsy.com/shop/SimonMaginnPrints",
+							"display_url": "etsy.com/shop/SimonMagi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rhysSoJGXV",
+							"expanded_url": "https://www.etsy.com/uk/listing/732529474/new-2020-calendar-sea-pictures",
+							"display_url": "etsy.com/uk/listing/732…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8617,
+			"friends_count": 8330,
+			"listed_count": 42,
+			"created_at": "Thu Apr 01 01:11:17 +0000 2010",
+			"favourites_count": 31920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186378183630819328/HgrejVao_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186378183630819328/HgrejVao_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128402033/1571689622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Historic queues at polling stations - ignored by media. Don't miss your chance to make (more) history. Here's how https://t.co/ADG1WV6hSk via @skwawkbox"
+	},
+	{
 		"created_at": "Wed Dec 11 20:44:20 +0000 2019",
 		"id": 1204733130520825900,
 		"id_str": "1204864517785767936",
