@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 12:47:38 +0000 2019",
+		"id": 1208354754411335700,
+		"id_str": "1208368428479926272",
+		"full_text": "We will be running another 2 X 1.5 hour training course through zoom on Friday 3rd and Friday 10th January for new volunteers. It costs just £40 to register for the course. https://t.co/q7FCatsYUZ…/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q7FCatsYUZ",
+					"expanded_url": "https://handsupproject.org/hands-up-project-training-cours",
+					"display_url": "handsupproject.org/hands-up-proje…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028389409400528900,
+			"id_str": "1028389409400528896",
+			"name": "The Hands Up Project",
+			"screen_name": "HandsUpProject",
+			"location": "Totnes",
+			"description": "UK  #charity doing #Online #storytelling & #English #language #learning with #Palestinian & #Syrian children in #Gaza, #TheWestBank & #Zaatari refugee camp",
+			"url": "https://t.co/2uVu7dqVwg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2uVu7dqVwg",
+							"expanded_url": "https://handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 581,
+			"listed_count": 2,
+			"created_at": "Sat Aug 11 21:15:16 +0000 2018",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028970260152627202/6-dLLv0x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028970260152627202/6-dLLv0x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028389409400528896/1534022653",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We will be running another 2 X 1.5 hour training course through zoom on Friday 3rd and Friday 10th January for new volunteers. It costs just £40 to register for the course. https://t.co/q7FCatsYUZ…/"
+	},
+	{
 		"created_at": "Thu Dec 19 13:28:59 +0000 2019",
 		"id": 1207654059462840300,
 		"id_str": "1207654059462840321",
