@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 21:02:44 +0000 2019",
+		"id": 1209073668568965000,
+		"id_str": "1209217799538774027",
+		"full_text": "This is the Christmas we voted for. Enjoy... #ToryChristmas 🎄 https://t.co/hKPhUUGjkX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ToryChristmas",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209068837204897800,
+					"id_str": "1209068837204897792",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EMd6-sAXsAAHNoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMd6-sAXsAAHNoY.jpg",
+					"url": "https://t.co/hKPhUUGjkX",
+					"display_url": "pic.twitter.com/hKPhUUGjkX",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1209073668568965120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209068837204897800,
+					"id_str": "1209068837204897792",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EMd6-sAXsAAHNoY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMd6-sAXsAAHNoY.jpg",
+					"url": "https://t.co/hKPhUUGjkX",
+					"display_url": "pic.twitter.com/hKPhUUGjkX",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1209073668568965120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 77640,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1209068837204897792/vid/480x480/8mHN7XvKhFmlmG5m.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1209068837204897792/vid/320x320/IumAoVns2B_BBDJj.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1209068837204897792/vid/720x720/3fAS4PPjxYfdMcpW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1209068837204897792/pl/k9MVRZO5kTaU9Iia.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "@PoliticsJOE_uk | @FootballJOE | @SportsJOE_uk",
+							"url": "https://t.co/ExMq7aJrtM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ExMq7aJrtM",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 239072,
+							"friends_count": 1000,
+							"listed_count": 1328,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 8252,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 107887,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1573571129",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840502412842541000,
+			"id_str": "840502412842541056",
+			"name": "PoliticsJOE",
+			"screen_name": "PoliticsJOE_UK",
+			"location": "United Kingdom",
+			"description": "Politics for the many, not the few. Providing strong and stable coverage that’s equally biased against everyone. @JOE_co_uk approve this message.",
+			"url": "https://t.co/OrEs66qsMV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OrEs66qsMV",
+							"expanded_url": "https://www.youtube.com/PoliticsJOE",
+							"display_url": "youtube.com/PoliticsJOE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113032,
+			"friends_count": 734,
+			"listed_count": 428,
+			"created_at": "Sat Mar 11 09:59:25 +0000 2017",
+			"favourites_count": 2273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840502412842541056/1574282233",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5819,
+		"favorite_count": 11751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the Christmas we voted for. Enjoy... #ToryChristmas 🎄 https://t.co/hKPhUUGjkX"
+	},
+	{
+		"created_at": "Mon Dec 23 20:56:26 +0000 2019",
+		"id": 1208854136130883600,
+		"id_str": "1209216213366251520",
+		"full_text": "Racism is deeply rooted in UK elite policy and society. Does anyone really believe govts could so easily get away with helping to kill Yemenis, Iraqis, Syrians etc etc, as *routine* in foreign policy, *if they were white*? @stormzy has if anything understated the problem. https://t.co/d7M4tCv1e5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stormzy",
+					"name": "HEAVY IS THE HEAD",
+					"id": 129789846,
+					"id_str": "129789846",
+					"indices": [
+						223,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d7M4tCv1e5",
+					"expanded_url": "https://twitter.com/skynews/status/1208470892541546499",
+					"display_url": "twitter.com/skynews/status…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2278053312,
+			"id_str": "2278053312",
+			"name": "Mark Curtis",
+			"screen_name": "markcurtis30",
+			"location": "Oxford, England",
+			"description": "Historian/journalist on UK foreign policy. Editor, @DeclassifiedUK. Books include Secret Affairs, Web of Deceit, Unpeople, The Great Deception.",
+			"url": "https://t.co/e5Jvcb9VCz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e5Jvcb9VCz",
+							"expanded_url": "http://www.markcurtis.info",
+							"display_url": "markcurtis.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39993,
+			"friends_count": 1043,
+			"listed_count": 501,
+			"created_at": "Sun Jan 05 20:16:24 +0000 2014",
+			"favourites_count": 14387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180481017267789824/wlQC0zZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180481017267789824/wlQC0zZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2278053312/1469811188",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208470892541546500,
+		"quoted_status_id_str": "1208470892541546499",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d7M4tCv1e5",
+			"expanded": "https://twitter.com/skynews/status/1208470892541546499",
+			"display": "twitter.com/skynews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 21 19:34:47 +0000 2019",
+			"id": 1208470892541546500,
+			"id_str": "1208470892541546499",
+			"full_text": "Stormzy says Britain is \"definitely, 100%\" racist and it has got worse since Boris Johnson became prime minister https://t.co/6OwOfqF5N0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6OwOfqF5N0",
+						"expanded_url": "http://po.st/GdpMLu",
+						"display_url": "po.st/GdpMLu",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7587032,
+				"id_str": "7587032",
+				"name": "Sky News",
+				"screen_name": "SkyNews",
+				"location": "London, UK",
+				"description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+				"url": "https://t.co/SnOv0usOtw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SnOv0usOtw",
+								"expanded_url": "http://news.sky.com/",
+								"display_url": "news.sky.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5306832,
+				"friends_count": 28,
+				"listed_count": 25361,
+				"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+				"favourites_count": 27,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 369672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1516873161",
+				"profile_link_color": "385FAC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3702,
+			"favorite_count": 15729,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 640,
+		"favorite_count": 1497,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Racism is deeply rooted in UK elite policy and society. Does anyone really believe govts could so easily get away with helping to kill Yemenis, Iraqis, Syrians etc etc, as *routine* in foreign policy, *if they were white*? @stormzy has if anything understated the problem. https://t.co/d7M4tCv1e5"
+	},
+	{
+		"created_at": "Mon Dec 23 20:44:47 +0000 2019",
+		"id": 1209205284259991600,
+		"id_str": "1209213283120619526",
+		"full_text": "Ok so that article I wrote today that didn't get published? - here's what I did. I re-wrote it in bars to the tune of 'Big for your Boots' by Stormzy and I'm posting it below right now. 😁THREAD 👇🏿",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230701906,
+			"id_str": "230701906",
+			"name": "Jeffrey Boakye",
+			"screen_name": "unseenflirt",
+			"location": "London",
+			"description": "Father. Teacher. Author: HOLD TIGHT, BLACK, LISTED and WHAT IS MASCULINITY?. Represented by @sarahsuch. Lots going on.",
+			"url": "https://t.co/MIk7PaohTo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MIk7PaohTo",
+							"expanded_url": "https://fal.cn/33TIa",
+							"display_url": "fal.cn/33TIa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5072,
+			"friends_count": 1464,
+			"listed_count": 72,
+			"created_at": "Sun Dec 26 11:44:31 +0000 2010",
+			"favourites_count": 6842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082399724903284736/3gG1nj_F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082399724903284736/3gG1nj_F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230701906/1561284801",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 58,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Ok so that article I wrote today that didn't get published? - here's what I did. I re-wrote it in bars to the tune of 'Big for your Boots' by Stormzy and I'm posting it below right now. 😁THREAD 👇🏿"
+	},
+	{
+		"created_at": "Mon Dec 23 16:09:20 +0000 2019",
+		"id": 1209143963875233800,
+		"id_str": "1209143963875233792",
+		"full_text": "@MatthiasStrubel thanks just saw your reply on reddit",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthiasStrubel",
+					"name": "Matthias Strubel",
+					"id": 563084632,
+					"id_str": "563084632",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1209105950558314500,
+		"in_reply_to_status_id_str": "1209105950558314496",
+		"in_reply_to_user_id": 563084632,
+		"in_reply_to_user_id_str": "563084632",
+		"in_reply_to_screen_name": "MatthiasStrubel",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1882,
+			"friends_count": 1089,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MatthiasStrubel thanks just saw your reply on reddit"
+	},
+	{
 		"created_at": "Sun Dec 22 17:13:05 +0000 2019",
 		"id": 1208797621361553400,
 		"id_str": "1208797621361553409",
