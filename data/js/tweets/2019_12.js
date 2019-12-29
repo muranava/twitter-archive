@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 20:12:48 +0000 2019",
+		"id": 1211017175651274800,
+		"id_str": "1211017175651274752",
+		"full_text": "@Vijay_Ramjattan I quite like J Butler's notion of precarity as the unequal exposure to precariousness of life &amp; which offers a move way from individualising precariousness (thru racialised &amp; gendered identities) to a generalised precariousness &amp; then onto hopes of building solidarity",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1210982669804298200,
+		"in_reply_to_status_id_str": "1210982669804298241",
+		"in_reply_to_user_id": 1041441864786763800,
+		"in_reply_to_user_id_str": "1041441864786763776",
+		"in_reply_to_screen_name": "Vijay_Ramjattan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1883,
+			"friends_count": 1093,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Vijay_Ramjattan I quite like J Butler's notion of precarity as the unequal exposure to precariousness of life &amp; which offers a move way from individualising precariousness (thru racialised &amp; gendered identities) to a generalised precariousness &amp; then onto hopes of building solidarity"
+	},
+	{
+		"created_at": "Sat Dec 28 18:56:03 +0000 2019",
+		"id": 1210995178510536700,
+		"id_str": "1210997857995698176",
+		"full_text": "@Vijay_Ramjattan Precarity is racilized cuz my friend who teaches English at an international school in Turkey worked on Christmas day b/c she’s Iranian but her colleagues who hold “western” passports, even non-Christians, were allowed to take a a paid leave! \n#PassportPrivilege",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PassportPrivilege",
+					"indices": [
+						261,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1210982669804298200,
+		"in_reply_to_status_id_str": "1210982669804298241",
+		"in_reply_to_user_id": 1041441864786763800,
+		"in_reply_to_user_id_str": "1041441864786763776",
+		"in_reply_to_screen_name": "Vijay_Ramjattan",
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2676,
+			"friends_count": 4307,
+			"listed_count": 30,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 62233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148453562160054272/GM0HcE1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1574774237",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Vijay_Ramjattan Precarity is racilized cuz my friend who teaches English at an international school in Turkey worked on Christmas day b/c she’s Iranian but her colleagues who hold “western” passports, even non-Christians, were allowed to take a a paid leave! \n#PassportPrivilege"
+	},
+	{
 		"created_at": "Fri Dec 27 19:59:18 +0000 2019",
 		"id": 1210651389417984000,
 		"id_str": "1210651389417984006",
