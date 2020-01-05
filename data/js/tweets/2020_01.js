@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 17:13:00 +0000 2020",
+		"id": 1213506038344953900,
+		"id_str": "1213508639505473536",
+		"full_text": "On the precognitive talents of Mike Pompeo https://t.co/sH1X3mktxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sH1X3mktxA",
+					"expanded_url": "https://www.craigmurray.org.uk/archives/2020/01/lies-the-bethlehem-doctrine-and-the-illegal-murder-of-soleimani/",
+					"display_url": "craigmurray.org.uk/archives/2020/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14663837,
+			"id_str": "14663837",
+			"name": "Philip Challinor",
+			"screen_name": "pchallinor",
+			"location": "London, England",
+			"description": "Author of all this stuff https://t.co/QemU4ei4iD…",
+			"url": "http://t.co/FkXD4K382z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FkXD4K382z",
+							"expanded_url": "http://www.thecurmudgeonly.blogspot.com",
+							"display_url": "thecurmudgeonly.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QemU4ei4iD",
+							"expanded_url": "http://lulu.com/spotlight/chal",
+							"display_url": "lulu.com/spotlight/chal",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 809,
+			"friends_count": 781,
+			"listed_count": 40,
+			"created_at": "Mon May 05 19:38:18 +0000 2008",
+			"favourites_count": 25,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/53829328/davros_copy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/53829328/davros_copy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14663837/1418995575",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the precognitive talents of Mike Pompeo https://t.co/sH1X3mktxA"
+	},
+	{
+		"created_at": "Sat Jan 04 13:27:30 +0000 2020",
+		"id": 1213451893462179800,
+		"id_str": "1213451893462179841",
+		"full_text": "@EdSacredProfane @cbokhove @Sue_Cowley @suzyg001 Sidetracking off your discussion - self-organising dynamic systems need no overall decision maker",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdSacredProfane",
+					"name": "Peter Ford",
+					"id": 2288627443,
+					"id_str": "2288627443",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "cbokhove",
+					"name": "Christian Bokhove",
+					"id": 139020599,
+					"id_str": "139020599",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "Sue_Cowley",
+					"name": "Sue Cowley",
+					"id": 1094790043,
+					"id_str": "1094790043",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "suzyg001",
+					"name": "Sue Gerrard",
+					"id": 367628836,
+					"id_str": "367628836",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213437999238791200,
+		"in_reply_to_status_id_str": "1213437999238791170",
+		"in_reply_to_user_id": 2288627443,
+		"in_reply_to_user_id_str": "2288627443",
+		"in_reply_to_screen_name": "EdSacredProfane",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1887,
+			"friends_count": 1104,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdSacredProfane @cbokhove @Sue_Cowley @suzyg001 Sidetracking off your discussion - self-organising dynamic systems need no overall decision maker"
+	},
+	{
+		"created_at": "Sat Jan 04 10:57:30 +0000 2020",
+		"id": 1213414143761559600,
+		"id_str": "1213414143761559554",
+		"full_text": "Very interesting paired example story, potential for a narrow reading task or activity #eltchat #tefl #esl https://t.co/9RkkDLwCGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eltchat",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9RkkDLwCGS",
+					"expanded_url": "https://twitter.com/IanJSinclair/status/1213411672603402240",
+					"display_url": "twitter.com/IanJSinclair/s…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1887,
+			"friends_count": 1104,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213411672603402200,
+		"quoted_status_id_str": "1213411672603402240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9RkkDLwCGS",
+			"expanded": "https://twitter.com/IanJSinclair/status/1213411672603402240",
+			"display": "twitter.com/IanJSinclair/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 04 10:47:41 +0000 2020",
+			"id": 1213411672603402200,
+			"id_str": "1213411672603402240",
+			"full_text": "Compare and contrast the @M_Star_Online's reporting of the army's new recruitment campaign (inc. quotes from @PPUtoday and @ForcesWatch) with the Guardian's coverage https://t.co/siJNjzs5UY https://t.co/mGidl03jwa @cerenkardelen @joejglenton",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "M_Star_Online",
+						"name": "Morning Star",
+						"id": 36364025,
+						"id_str": "36364025",
+						"indices": [
+							25,
+							39
+						]
+					},
+					{
+						"screen_name": "PPUtoday",
+						"name": "Peace Pledge Union",
+						"id": 1603845234,
+						"id_str": "1603845234",
+						"indices": [
+							109,
+							118
+						]
+					},
+					{
+						"screen_name": "ForcesWatch",
+						"name": "ForcesWatch",
+						"id": 249723901,
+						"id_str": "249723901",
+						"indices": [
+							123,
+							135
+						]
+					},
+					{
+						"screen_name": "cerenkardelen",
+						"name": "Ceren Sagir",
+						"id": 2336979486,
+						"id_str": "2336979486",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "joejglenton",
+						"name": "don't iraq iran",
+						"id": 200167811,
+						"id_str": "200167811",
+						"indices": [
+							229,
+							241
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/siJNjzs5UY",
+						"expanded_url": "https://morningstaronline.co.uk/article/b/british-army-recruitment-ads-preying-on-people-who-lack-seld-condence-peace-campaigners-warn",
+						"display_url": "morningstaronline.co.uk/article/b/brit…",
+						"indices": [
+							166,
+							189
+						]
+					},
+					{
+						"url": "https://t.co/mGidl03jwa",
+						"expanded_url": "https://www.theguardian.com/uk-news/2020/jan/02/overweight-unfit-shy-british-army-still-wants-you",
+						"display_url": "theguardian.com/uk-news/2020/j…",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 270100506,
+				"id_str": "270100506",
+				"name": "Ian Sinclair",
+				"screen_name": "IanJSinclair",
+				"location": "London, UK",
+				"description": "Author of 'The March That Shook Blair: An Oral History of 15 February 2003', published by Peace News Press.",
+				"url": "https://t.co/P47FJp0Nen",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P47FJp0Nen",
+								"expanded_url": "https://ianjsinclair.wordpress.com",
+								"display_url": "ianjsinclair.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2609,
+				"friends_count": 379,
+				"listed_count": 68,
+				"created_at": "Tue Mar 22 00:27:51 +0000 2011",
+				"favourites_count": 4143,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting paired example story, potential for a narrow reading task or activity #eltchat #tefl #esl https://t.co/9RkkDLwCGS"
+	},
+	{
+		"created_at": "Sat Jan 04 09:43:09 +0000 2020",
+		"id": 1213395430505091000,
+		"id_str": "1213395430505091073",
+		"full_text": "@spsmith45 @ddeubel Yes or if the experiences reported in your post are examples of 'initial' word learning &amp; 'fast mapping' they might then have been consolidated later in someway that people may remember as being initial?",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1213170696089743400,
+		"in_reply_to_status_id_str": "1213170696089743360",
+		"in_reply_to_user_id": 303905601,
+		"in_reply_to_user_id_str": "303905601",
+		"in_reply_to_screen_name": "spsmith45",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1887,
+			"friends_count": 1104,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spsmith45 @ddeubel Yes or if the experiences reported in your post are examples of 'initial' word learning &amp; 'fast mapping' they might then have been consolidated later in someway that people may remember as being initial?"
+	},
+	{
 		"created_at": "Fri Jan 03 18:15:23 +0000 2020",
 		"id": 1213161950470951000,
 		"id_str": "1213161950470950912",
