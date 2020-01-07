@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 22:26:26 +0000 2020",
+		"id": 1214312294706040800,
+		"id_str": "1214312294706040832",
+		"full_text": "sheesh https://t.co/mOlgIjpKmd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mOlgIjpKmd",
+					"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288",
+					"display_url": "twitter.com/redfishstream/…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1888,
+			"friends_count": 1106,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214211269407969300,
+		"quoted_status_id_str": "1214211269407969288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mOlgIjpKmd",
+			"expanded": "https://twitter.com/redfishstream/status/1214211269407969288",
+			"display": "twitter.com/redfishstream/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 15:45:00 +0000 2020",
+			"id": 1214211269407969300,
+			"id_str": "1214211269407969288",
+			"full_text": "Yesterday up to 450 Spanish teenagers donned offensive Blackface as part of their end of Christmas \"tradition\". 🤦‍♀️\n\nFrom Spain to the U.S., Canada to the Netherlands, the legacies of slavery and colonialism are alive and celebrated. https://t.co/110GbKeaZH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1214196253715656700,
+						"id_str": "1214196253715656704",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"url": "https://t.co/110GbKeaZH",
+						"display_url": "pic.twitter.com/110GbKeaZH",
+						"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214196253715656700,
+						"id_str": "1214196253715656704",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1214196253715656704/pu/img/WCK3ESlc4uj7Mm22.jpg",
+						"url": "https://t.co/110GbKeaZH",
+						"display_url": "pic.twitter.com/110GbKeaZH",
+						"expanded_url": "https://twitter.com/redfishstream/status/1214211269407969288/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 50867,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/480x480/UYjDeEvBbJ8mRyfi.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/720x720/aXYJqzzLqdcpHhng.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/vid/320x320/HKzd03QnKdKJxCxv.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1214196253715656704/pu/pl/_9xCM5foW9YdV5Gi.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 913063871681835000,
+				"id_str": "913063871681835008",
+				"name": "redfish",
+				"screen_name": "redfishstream",
+				"location": "Berlin, Germany",
+				"description": "",
+				"url": "https://t.co/c6EZJZBX29",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c6EZJZBX29",
+								"expanded_url": "http://redfish.media",
+								"display_url": "redfish.media",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46243,
+				"friends_count": 467,
+				"listed_count": 374,
+				"created_at": "Wed Sep 27 15:32:45 +0000 2017",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1363,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928545401434669056/RO2Chva7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928545401434669056/RO2Chva7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/913063871681835008/1561383034",
+				"profile_link_color": "AC232C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 485,
+			"favorite_count": 637,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "hi",
+		"text": "sheesh https://t.co/mOlgIjpKmd"
+	},
+	{
 		"created_at": "Sun Jan 05 19:18:27 +0000 2020",
 		"id": 1213902601038762000,
 		"id_str": "1213902601038761984",
