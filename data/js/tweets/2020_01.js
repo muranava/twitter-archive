@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 21:10:13 +0000 2020",
+		"id": 1215742664039116800,
+		"id_str": "1215742664039116800",
+		"full_text": "Language design and communicative competence: The minimalist perspective: https://t.co/EyP0vZMhTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EyP0vZMhTE",
+					"expanded_url": "http://www.glossa-journal.org//article/10.5334/gjgl.1081",
+					"display_url": "glossa-journal.org//article/10.53…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1115,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Language design and communicative competence: The minimalist perspective: https://t.co/EyP0vZMhTE"
+	},
+	{
+		"created_at": "Fri Jan 10 20:00:41 +0000 2020",
+		"id": 1215714729030611000,
+		"id_str": "1215725166149488641",
+		"full_text": "Reminded why Scotland is not an option for me post-Brexit despite my jokes about moving there.\n\nSolidarity and hugs to @AGlasgowGirl who was just incredible here https://t.co/Rfp8rpdzAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AGlasgowGirl",
+					"name": "Amna",
+					"id": 212399888,
+					"id_str": "212399888",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rfp8rpdzAy",
+					"expanded_url": "https://twitter.com/bbcscotnine/status/1215386742813089798",
+					"display_url": "twitter.com/bbcscotnine/st…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106788885,
+			"id_str": "106788885",
+			"name": "Sunny Singh",
+			"screen_name": "sunnysingh_n6",
+			"location": "London, England",
+			"description": "Sunny Singh. It's Dr. Singh to you. Most recent novel: @HotelArcadia_. Chair @AuthorsClub. Co-founder @jhalakprize",
+			"url": "https://t.co/veQ7lwg55X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/veQ7lwg55X",
+							"expanded_url": "http://www.sunnysingh.net",
+							"display_url": "sunnysingh.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23021,
+			"friends_count": 1610,
+			"listed_count": 769,
+			"created_at": "Wed Jan 20 18:04:14 +0000 2010",
+			"favourites_count": 50622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 597931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167569402981695488/AfwxyZK3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167569402981695488/AfwxyZK3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106788885/1499686948",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215386742813089800,
+		"quoted_status_id_str": "1215386742813089798",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rfp8rpdzAy",
+			"expanded": "https://twitter.com/bbcscotnine/status/1215386742813089798",
+			"display": "twitter.com/bbcscotnine/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 21:35:54 +0000 2020",
+			"id": 1215386742813089800,
+			"id_str": "1215386742813089798",
+			"full_text": "What has prompted this sudden and dramatic withdrawal from royal life? And how much was the intense scrutiny from the public, and the media in particular, a part of it? Writers Amna Saleem and Iain Macwhirter shared their thoughts with #TheNine. https://t.co/s4Syvaprge",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheNine",
+						"indices": [
+							236,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1215385898021466000,
+						"id_str": "1215385898021466114",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1215385898021466114/img/THsOg00MoVKFsBD8.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1215385898021466114/img/THsOg00MoVKFsBD8.jpg",
+						"url": "https://t.co/s4Syvaprge",
+						"display_url": "pic.twitter.com/s4Syvaprge",
+						"expanded_url": "https://twitter.com/BBCScotNine/status/1215386742813089798/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1215385898021466000,
+						"id_str": "1215385898021466114",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1215385898021466114/img/THsOg00MoVKFsBD8.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1215385898021466114/img/THsOg00MoVKFsBD8.jpg",
+						"url": "https://t.co/s4Syvaprge",
+						"display_url": "pic.twitter.com/s4Syvaprge",
+						"expanded_url": "https://twitter.com/BBCScotNine/status/1215386742813089798/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 494336,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1215385898021466114/vid/1280x720/iZOJgkMufkzxFQrP.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1215385898021466114/vid/640x360/1jlD3iW_9P95R39W.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1215385898021466114/vid/480x270/BDNlLqnYGjAcC8z_.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1215385898021466114/pl/mKUc88PmTJ667PB1.m3u8?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86946790,
+				"id_str": "86946790",
+				"name": "The Nine",
+				"screen_name": "BBCScotNine",
+				"location": "Scotland, United Kingdom",
+				"description": "A new programme for Scotland covering stories that matter to you. National, UK-wide & international news. | IG: bbcscotnine | Got a story? nine.news@bbc.co.uk",
+				"url": "https://t.co/e86qvC652n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e86qvC652n",
+								"expanded_url": "http://www.bbc.co.uk/thenine",
+								"display_url": "bbc.co.uk/thenine",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41447,
+				"friends_count": 140,
+				"listed_count": 532,
+				"created_at": "Mon Nov 02 13:54:46 +0000 2009",
+				"favourites_count": 1446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093142571885514752/CPODz3ed_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093142571885514752/CPODz3ed_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86946790/1550317932",
+				"profile_link_color": "482683",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 443,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reminded why Scotland is not an option for me post-Brexit despite my jokes about moving there.\n\nSolidarity and hugs to @AGlasgowGirl who was just incredible here https://t.co/Rfp8rpdzAy"
+	},
+	{
+		"created_at": "Fri Jan 10 19:09:37 +0000 2020",
+		"id": 1215712315364061200,
+		"id_str": "1215712315364061184",
+		"full_text": "The man who tried to stop a catastrophe with a typewriter https://t.co/TSdCWxqGHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TSdCWxqGHL",
+					"expanded_url": "https://www.opendemocracy.net/en/transformation/man-who-tried-stop-catastrophe-typewriter/",
+					"display_url": "opendemocracy.net/en/transformat…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1115,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The man who tried to stop a catastrophe with a typewriter https://t.co/TSdCWxqGHL"
+	},
+	{
+		"created_at": "Fri Jan 10 13:02:08 +0000 2020",
+		"id": 1215604595520671700,
+		"id_str": "1215619833443880960",
+		"full_text": "#TEFL legend; Hugh Dellar, author of the ‘Outcomes’ course book, wants you to come to the introduction to the #TEFLWorkersUnion next Monday: \n\nhttps://t.co/oMpxa257Rf\n\nBe like Hugh. Get involved in the #Union\n\n#EFL #CELTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFL",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						110,
+						127
+					]
+				},
+				{
+					"text": "Union",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "EFL",
+					"indices": [
+						210,
+						214
+					]
+				},
+				{
+					"text": "CELTA",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMpxa257Rf",
+					"expanded_url": "https://www.facebook.com/events/mayday-rooms-88-fleet-st-london-ec4-1dh/an-introduction-to-the-tefl-workers-union/543387989543116/",
+					"display_url": "facebook.com/events/mayday-…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 506,
+			"friends_count": 42,
+			"listed_count": 5,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TEFL legend; Hugh Dellar, author of the ‘Outcomes’ course book, wants you to come to the introduction to the #TEFLWorkersUnion next Monday: \n\nhttps://t.co/oMpxa257Rf\n\nBe like Hugh. Get involved in the #Union\n\n#EFL #CELTA"
+	},
+	{
 		"created_at": "Thu Jan 09 15:10:18 +0000 2020",
 		"id": 1215276030493151200,
 		"id_str": "1215289700035985408",
