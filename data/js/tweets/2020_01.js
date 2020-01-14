@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 20:58:47 +0000 2020",
+		"id": 1216826951752736800,
+		"id_str": "1216826951752736769",
+		"full_text": "English word lists updated with The Most Frequent Idioms Used in Contemporary American English 2020 https://t.co/tPgn4b74PL #telf #esl #eltchat tip of the hat to @GeoffJordan17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "telf",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "eltchat",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tPgn4b74PL",
+					"expanded_url": "https://eflnotes.wordpress.com/english-wordlists/",
+					"display_url": "eflnotes.wordpress.com/english-wordli…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1119,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "English word lists updated with The Most Frequent Idioms Used in Contemporary American English 2020 https://t.co/tPgn4b74PL #telf #esl #eltchat tip of the hat to @GeoffJordan17"
+	},
+	{
+		"created_at": "Mon Jan 13 20:24:37 +0000 2020",
+		"id": 1216773941240438800,
+		"id_str": "1216818352443863040",
+		"full_text": "- Phillip Schofield: “what examples do you have (of racism against Meghan)?”\n\n- @SholaMos1: “That’s another problem. When people keep asking ‘what examples?’, it makes me question where have you been the last two years.”\n\nWhat an interview.\n\n https://t.co/9yfu1njOKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SholaMos1",
+					"name": "Dr Shola Mos-Shogbamimu",
+					"id": 243878865,
+					"id_str": "243878865",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1216730964036063200,
+					"id_str": "1216730964036063232",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216730964036063232/pu/img/RzxcSqtRvL4Tw2JE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216730964036063232/pu/img/RzxcSqtRvL4Tw2JE.jpg",
+					"url": "https://t.co/9yfu1njOKq",
+					"display_url": "pic.twitter.com/9yfu1njOKq",
+					"expanded_url": "https://twitter.com/SholaMos1/status/1216731171658354690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1216731171658354700,
+					"source_status_id_str": "1216731171658354690",
+					"source_user_id": 243878865,
+					"source_user_id_str": "243878865",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216730964036063200,
+					"id_str": "1216730964036063232",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1216730964036063232/pu/img/RzxcSqtRvL4Tw2JE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1216730964036063232/pu/img/RzxcSqtRvL4Tw2JE.jpg",
+					"url": "https://t.co/9yfu1njOKq",
+					"display_url": "pic.twitter.com/9yfu1njOKq",
+					"expanded_url": "https://twitter.com/SholaMos1/status/1216731171658354690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1216731171658354700,
+					"source_status_id_str": "1216731171658354690",
+					"source_user_id": 243878865,
+					"source_user_id_str": "243878865",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 134333,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216730964036063232/pu/vid/640x360/3yj9hke7pV5nltWc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216730964036063232/pu/vid/1280x720/l41Ukv3LJlcurLB1.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1216730964036063232/pu/vid/480x270/c9JFDAkJZ2HqldrT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1216730964036063232/pu/pl/xw1nL_9yVjjY6sbF.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 243878865,
+							"id_str": "243878865",
+							"name": "Dr Shola Mos-Shogbamimu",
+							"screen_name": "SholaMos1",
+							"location": "England, United Kingdom",
+							"description": "Lawyer, Political & Women's Rights Activist, Founder @WILPublication,\nAuthor, Wife & Mum to 3 girls. Lover of life, food, travel & dancing!",
+							"url": "https://t.co/3p6KCUd3pW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/3p6KCUd3pW",
+											"expanded_url": "https://www.drshola.com",
+											"display_url": "drshola.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 25939,
+							"friends_count": 1509,
+							"listed_count": 82,
+							"created_at": "Fri Jan 28 00:47:44 +0000 2011",
+							"favourites_count": 14439,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 4697,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1115372172099379213/OIVmW_M9_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115372172099379213/OIVmW_M9_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/243878865/1554760381",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266101459,
+			"id_str": "266101459",
+			"name": "Nadine White",
+			"screen_name": "Nadine_Writes",
+			"location": "London, England",
+			"description": "News Reporter at @HuffPostUK | Past: @TheVoiceNews | Powered by plantain🍌| Nadine.white@huffpost.com | @AmnestyUK Media Award Finalist '19 | My views. 🇯🇲🇬🇧",
+			"url": "https://t.co/d9iPcS5J1O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d9iPcS5J1O",
+							"expanded_url": "https://m.huffingtonpost.co.uk/author/nadine-white/",
+							"display_url": "m.huffingtonpost.co.uk/author/nadine-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8330,
+			"friends_count": 3080,
+			"listed_count": 91,
+			"created_at": "Mon Mar 14 17:17:35 +0000 2011",
+			"favourites_count": 11109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216512946857304064/XItghH97_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216512946857304064/XItghH97_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266101459/1541956022",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7081,
+		"favorite_count": 29752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "- Phillip Schofield: “what examples do you have (of racism against Meghan)?”\n\n- @SholaMos1: “That’s another problem. When people keep asking ‘what examples?’, it makes me question where have you been the last two years.”\n\nWhat an interview.\n\n https://t.co/9yfu1njOKq"
+	},
+	{
 		"created_at": "Fri Jan 10 21:10:13 +0000 2020",
 		"id": 1215742664039116800,
 		"id_str": "1215742664039116800",
