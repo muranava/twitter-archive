@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 16:29:22 +0000 2020",
+		"id": 1217121538341851100,
+		"id_str": "1217121538341851137",
+		"full_text": "@perayson @GretchenAMcC yes possible!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perayson",
+					"name": "Paul Rayson",
+					"id": 263108959,
+					"id_str": "263108959",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GretchenAMcC",
+					"name": "Gretchen McCulloch",
+					"id": 920491754,
+					"id_str": "920491754",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217111888531771400,
+		"in_reply_to_status_id_str": "1217111888531771397",
+		"in_reply_to_user_id": 263108959,
+		"in_reply_to_user_id_str": "263108959",
+		"in_reply_to_screen_name": "perayson",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1122,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@perayson @GretchenAMcC yes possible!"
+	},
+	{
+		"created_at": "Tue Jan 14 16:06:39 +0000 2020",
+		"id": 1217115823174770700,
+		"id_str": "1217115823174770689",
+		"full_text": "@Limerick1914 \"rediscover that gene\"",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Limerick1914",
+					"name": "Liam Hogan",
+					"id": 510455186,
+					"id_str": "510455186",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217111612227833900,
+		"in_reply_to_status_id_str": "1217111612227833856",
+		"in_reply_to_user_id": 510455186,
+		"in_reply_to_user_id_str": "510455186",
+		"in_reply_to_screen_name": "Limerick1914",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1122,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Limerick1914 \"rediscover that gene\""
+	},
+	{
+		"created_at": "Tue Jan 14 16:00:23 +0000 2020",
+		"id": 1217114243272790000,
+		"id_str": "1217114243272790017",
+		"full_text": "@GeoffJordan17 thx for the RT : ) @ELTResearch @GohLt1 @JanetBenger",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ELTResearch",
+					"name": "Chris Jones",
+					"id": 3308043417,
+					"id_str": "3308043417",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "GohLt1",
+					"name": "Gerard O’Hanlon",
+					"id": 928360481580113900,
+					"id_str": "928360481580113920",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "JanetBenger",
+					"name": "Janet Benger",
+					"id": 2281021446,
+					"id_str": "2281021446",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216826951752736800,
+		"in_reply_to_status_id_str": "1216826951752736769",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1122,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan17 thx for the RT : ) @ELTResearch @GohLt1 @JanetBenger"
+	},
+	{
+		"created_at": "Tue Jan 14 14:33:52 +0000 2020",
+		"id": 1217092470842056700,
+		"id_str": "1217092470842056710",
+		"full_text": "@perayson @GretchenAMcC there are conflicting accounts of whether Chomsky knew about Ali G's schtick or not, do you know any more on this? thx",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perayson",
+					"name": "Paul Rayson",
+					"id": 263108959,
+					"id_str": "263108959",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GretchenAMcC",
+					"name": "Gretchen McCulloch",
+					"id": 920491754,
+					"id_str": "920491754",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217083300784885800,
+		"in_reply_to_status_id_str": "1217083300784885760",
+		"in_reply_to_user_id": 263108959,
+		"in_reply_to_user_id_str": "263108959",
+		"in_reply_to_screen_name": "perayson",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1891,
+			"friends_count": 1122,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@perayson @GretchenAMcC there are conflicting accounts of whether Chomsky knew about Ali G's schtick or not, do you know any more on this? thx"
+	},
+	{
+		"created_at": "Tue Jan 14 14:28:14 +0000 2020",
+		"id": 1217082555616440300,
+		"id_str": "1217091055088291841",
+		"full_text": "Ce matin à Paris, 1100 médecins dont 600 chefs de services ont décidé de démissionner en raison du manque de moyens.\n\nIls ont annoncés leurs décisions durant une conférence de presse avec colère et émotion. Extrait. \n\nA revoir en intégralité sur @brutofficiel. https://t.co/8ByDbMxMrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brutofficiel",
+					"name": "Brut FR",
+					"id": 765849247262634000,
+					"id_str": "765849247262633984",
+					"indices": [
+						246,
+						259
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217082299675746300,
+					"id_str": "1217082299675746304",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217082299675746304/pu/img/d78GL5wUNUsBVSEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217082299675746304/pu/img/d78GL5wUNUsBVSEn.jpg",
+					"url": "https://t.co/8ByDbMxMrZ",
+					"display_url": "pic.twitter.com/8ByDbMxMrZ",
+					"expanded_url": "https://twitter.com/RemyBuisine/status/1217082555616440321/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 1054,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1054,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217082299675746300,
+					"id_str": "1217082299675746304",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217082299675746304/pu/img/d78GL5wUNUsBVSEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217082299675746304/pu/img/d78GL5wUNUsBVSEn.jpg",
+					"url": "https://t.co/8ByDbMxMrZ",
+					"display_url": "pic.twitter.com/8ByDbMxMrZ",
+					"expanded_url": "https://twitter.com/RemyBuisine/status/1217082555616440321/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 888,
+							"h": 1054,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1054,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							444,
+							527
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217082299675746304/pu/vid/320x378/2wifBuRhUsx7vHkF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217082299675746304/pu/vid/360x426/-9J02z7aOcaMrKmm.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217082299675746304/pu/vid/720x854/G5GB7irC_7le94ti.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217082299675746304/pu/pl/Sj0wTTMfosjEhOtw.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1643934410,
+			"id_str": "1643934410",
+			"name": "Remy Buisine",
+			"screen_name": "RemyBuisine",
+			"location": "Paris",
+			"description": "Journaliste @brutofficiel au coeur de l'actualité en Direct. Retrouvez moi également sur Instagram et Facebook. (Breaking News, News et événements à Paris)",
+			"url": "https://t.co/FTZbG0UUKx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FTZbG0UUKx",
+							"expanded_url": "https://www.instagram.com/remybuisine/",
+							"display_url": "instagram.com/remybuisine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66303,
+			"friends_count": 3413,
+			"listed_count": 751,
+			"created_at": "Sun Aug 04 00:10:14 +0000 2013",
+			"favourites_count": 23248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985358686901211136/w8004aX9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985358686901211136/w8004aX9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1643934410/1462752516",
+			"profile_link_color": "0C00B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4182,
+		"favorite_count": 4490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Ce matin à Paris, 1100 médecins dont 600 chefs de services ont décidé de démissionner en raison du manque de moyens.\n\nIls ont annoncés leurs décisions durant une conférence de presse avec colère et émotion. Extrait. \n\nA revoir en intégralité sur @brutofficiel. https://t.co/8ByDbMxMrZ"
+	},
+	{
 		"created_at": "Mon Jan 13 20:58:47 +0000 2020",
 		"id": 1216826951752736800,
 		"id_str": "1216826951752736769",
