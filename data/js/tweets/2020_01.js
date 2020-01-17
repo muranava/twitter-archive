@@ -1,6 +1,1413 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 22:15:45 +0000 2020",
+		"id": 1217933486214000600,
+		"id_str": "1217933486214000640",
+		"full_text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg big questions! re phonemes - not whether they are theoretical but whether they are theoretically justified?",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "adelegoldberg1",
+					"name": "Adele Goldberg",
+					"id": 871372298477023200,
+					"id_str": "871372298477023232",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Etyma1010",
+					"name": "Laura A. Michaelis",
+					"id": 2236239648,
+					"id_str": "2236239648",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "haspelmath",
+					"name": "Martin Haspelmath",
+					"id": 153079285,
+					"id_str": "153079285",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "IdanAsherBlank",
+					"name": "Idan Blank",
+					"id": 4764909501,
+					"id_str": "4764909501",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "davidadger",
+					"name": "David Adger",
+					"id": 200469764,
+					"id_str": "200469764",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "AdeleGoldberg",
+					"name": "Adele Goldberg",
+					"id": 403701094,
+					"id_str": "403701094",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217930950421643300,
+		"in_reply_to_status_id_str": "1217930950421643269",
+		"in_reply_to_user_id": 1181674037753368600,
+		"in_reply_to_user_id_str": "1181674037753368576",
+		"in_reply_to_screen_name": "TreanorFergal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1128,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg big questions! re phonemes - not whether they are theoretical but whether they are theoretically justified?"
+	},
+	{
+		"created_at": "Thu Jan 16 21:55:08 +0000 2020",
+		"id": 1217928296945594400,
+		"id_str": "1217928296945594368",
+		"full_text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg Columbia Linguistics &gt; because observables in language such as sound have a sparse empirical base compared to observables in other sciences like stars in astronomy so ling analysis has to begin with whys &amp; not whats which contrasts with natural science beginning with whats",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			377
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "adelegoldberg1",
+					"name": "Adele Goldberg",
+					"id": 871372298477023200,
+					"id_str": "871372298477023232",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Etyma1010",
+					"name": "Laura A. Michaelis",
+					"id": 2236239648,
+					"id_str": "2236239648",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "haspelmath",
+					"name": "Martin Haspelmath",
+					"id": 153079285,
+					"id_str": "153079285",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "IdanAsherBlank",
+					"name": "Idan Blank",
+					"id": 4764909501,
+					"id_str": "4764909501",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "davidadger",
+					"name": "David Adger",
+					"id": 200469764,
+					"id_str": "200469764",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "AdeleGoldberg",
+					"name": "Adele Goldberg",
+					"id": 403701094,
+					"id_str": "403701094",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1216624731568377900,
+		"in_reply_to_status_id_str": "1216624731568377857",
+		"in_reply_to_user_id": 1181674037753368600,
+		"in_reply_to_user_id_str": "1181674037753368576",
+		"in_reply_to_screen_name": "TreanorFergal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1128,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg Columbia Linguistics &gt; because observables in language such as sound have a sparse empirical base compared to observables in other sciences like stars in astronomy so ling analysis has to begin with whys &amp; not whats which contrasts with natural science beginning with whats"
+	},
+	{
+		"created_at": "Thu Jan 16 21:17:59 +0000 2020",
+		"id": 1217918946403410000,
+		"id_str": "1217918946403409925",
+		"full_text": "@josipa74 @Andrew_Adonis and they said Corbyn had fanatic followers : 0",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josipa74",
+					"name": "paulw",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Andrew_Adonis",
+					"name": "Andrew Adonis",
+					"id": 420366322,
+					"id_str": "420366322",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217917075819245600,
+		"in_reply_to_status_id_str": "1217917075819245578",
+		"in_reply_to_user_id": 134211317,
+		"in_reply_to_user_id_str": "134211317",
+		"in_reply_to_screen_name": "josipa74",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1128,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@josipa74 @Andrew_Adonis and they said Corbyn had fanatic followers : 0"
+	},
+	{
+		"created_at": "Thu Jan 16 17:27:28 +0000 2020",
+		"id": 1217857855367340000,
+		"id_str": "1217860937304223745",
+		"full_text": "@guardian I'm hoping people will randomly throw some money my way: https://t.co/990MosDj8J Living the #Brexit dream",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Brexit",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/990MosDj8J",
+					"expanded_url": "https://www.gofundme.com/f/i039ll-stand-in-my-garden-and-039bong039-for-brexit",
+					"display_url": "gofundme.com/f/i039ll-stand…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217854274606182400,
+		"in_reply_to_status_id_str": "1217854274606182407",
+		"in_reply_to_user_id": 87818409,
+		"in_reply_to_user_id_str": "87818409",
+		"in_reply_to_screen_name": "guardian",
+		"user": {
+			"id": 78543378,
+			"id_str": "78543378",
+			"name": "Adam Simpson",
+			"screen_name": "yearinthelifeof",
+			"location": "Turkey",
+			"description": "Language teacher living and working in Istanbul. I'm a teacher trainer, conference speaker and award winning blogger.",
+			"url": "http://t.co/9XsPsHTrGT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9XsPsHTrGT",
+							"expanded_url": "http://www.teachthemenglish.com/",
+							"display_url": "teachthemenglish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4344,
+			"friends_count": 1425,
+			"listed_count": 221,
+			"created_at": "Wed Sep 30 07:44:34 +0000 2009",
+			"favourites_count": 750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3631509371/58d02c1bbadd12516d17de635652eb05_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3631509371/58d02c1bbadd12516d17de635652eb05_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78543378/1353946196",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@guardian I'm hoping people will randomly throw some money my way: https://t.co/990MosDj8J Living the #Brexit dream"
+	},
+	{
+		"created_at": "Thu Jan 16 17:25:55 +0000 2020",
+		"id": 1217860086363775000,
+		"id_str": "1217860545090551809",
+		"full_text": "Union left with \"crippling\" legal bill despite activist being cleared of assault through soundwaves https://t.co/CB6Csa0zks via @leftfootfwd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeftFootFwd",
+					"name": "Left Foot Forward",
+					"id": 55218051,
+					"id_str": "55218051",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CB6Csa0zks",
+					"expanded_url": "https://leftfootforward.org/2020/01/union-left-with-crippling-legal-bill-despite-activist-being-cleared-of-assault-through-soundwaves/",
+					"display_url": "leftfootforward.org/2020/01/union-…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128402033,
+			"id_str": "128402033",
+			"name": "simon maginn",
+			"screen_name": "simonmaginn",
+			"location": "Brighton, UK",
+			"description": "2020 Calendar  - 'Sea Pictures'\nAvailable here:\nhttps://t.co/rhysSoJGXV",
+			"url": "https://t.co/Yya58bjVC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Yya58bjVC0",
+							"expanded_url": "https://www.etsy.com/shop/SimonMaginnPrints",
+							"display_url": "etsy.com/shop/SimonMagi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rhysSoJGXV",
+							"expanded_url": "https://www.etsy.com/uk/listing/732529474/new-2020-calendar-sea-pictures",
+							"display_url": "etsy.com/uk/listing/732…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9378,
+			"friends_count": 8647,
+			"listed_count": 44,
+			"created_at": "Thu Apr 01 01:11:17 +0000 2010",
+			"favourites_count": 34096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186378183630819328/HgrejVao_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186378183630819328/HgrejVao_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128402033/1571689622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Union left with \"crippling\" legal bill despite activist being cleared of assault through soundwaves https://t.co/CB6Csa0zks via @leftfootfwd"
+	},
+	{
+		"created_at": "Thu Jan 16 17:23:51 +0000 2020",
+		"id": 1217860024128737300,
+		"id_str": "1217860024128737286",
+		"full_text": "@yearinthelifeof @guardian this is a noble cause, i send you some Bozo dosh to let the mighty bong sound in Ukania",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yearinthelifeof",
+					"name": "Adam Simpson",
+					"id": 78543378,
+					"id_str": "78543378",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217857855367340000,
+		"in_reply_to_status_id_str": "1217857855367340034",
+		"in_reply_to_user_id": 78543378,
+		"in_reply_to_user_id_str": "78543378",
+		"in_reply_to_screen_name": "yearinthelifeof",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1128,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@yearinthelifeof @guardian this is a noble cause, i send you some Bozo dosh to let the mighty bong sound in Ukania"
+	},
+	{
+		"created_at": "Thu Jan 16 17:03:21 +0000 2020",
+		"id": 1217854867131289600,
+		"id_str": "1217854867131289602",
+		"full_text": "FAO pron peeps! why am i hearing \"sink you\" rather than the lyrics \"see you\"? thanks for any help! https://t.co/i45YDrZkX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i45YDrZkX4",
+					"expanded_url": "https://youtu.be/rqCva6XlDck?t=29",
+					"display_url": "youtu.be/rqCva6XlDck?t=…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 1128,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FAO pron peeps! why am i hearing \"sink you\" rather than the lyrics \"see you\"? thanks for any help! https://t.co/i45YDrZkX4"
+	},
+	{
+		"created_at": "Thu Jan 16 15:47:05 +0000 2020",
+		"id": 1217832644387442700,
+		"id_str": "1217835674193354752",
+		"full_text": "Solidarity with @sowetokinch and all those on the receiving end of racism in Britain. The UK has a racist Prime Minister in Boris Johnson (who receives very little criticism for this by the UK media) so people should not be surprised it's growing issue in society. https://t.co/YVRIoHgMn0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sowetokinch",
+					"name": "Soweto Kinch",
+					"id": 26915680,
+					"id_str": "26915680",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YVRIoHgMn0",
+					"expanded_url": "https://twitter.com/itvpeston/status/1217552068665364481",
+					"display_url": "twitter.com/itvpeston/stat…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244879054,
+			"id_str": "244879054",
+			"name": "Pablo Navarrete",
+			"screen_name": "pablonav1",
+			"location": "London Taan",
+			"description": "Journalist/Documentary Filmmaker @alboradafilms, @alboradanet, @pablo_telesur y mas. #Justice4Grenfell pablo.navarr(at)protonmail(dot)com #alborada10",
+			"url": "https://t.co/QSFisFDKE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QSFisFDKE9",
+							"expanded_url": "https://www.facebook.com/PabloRNav/",
+							"display_url": "facebook.com/PabloRNav/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4129,
+			"friends_count": 3143,
+			"listed_count": 114,
+			"created_at": "Sun Jan 30 10:20:34 +0000 2011",
+			"favourites_count": 15744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914811148414963712/_b_SSw_C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914811148414963712/_b_SSw_C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244879054/1506942949",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217552068665364500,
+		"quoted_status_id_str": "1217552068665364481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YVRIoHgMn0",
+			"expanded": "https://twitter.com/itvpeston/status/1217552068665364481",
+			"display": "twitter.com/itvpeston/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 15 21:00:08 +0000 2020",
+			"id": 1217552068665364500,
+			"id_str": "1217552068665364481",
+			"full_text": ".@sowetokinch says he agrees with @Stormzy’s recent comments about racism in Britain and shares a story of a racist incident from his train journey to the studio today. #Peston https://t.co/ENHggzahBg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Peston",
+						"indices": [
+							169,
+							176
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sowetokinch",
+						"name": "Soweto Kinch",
+						"id": 26915680,
+						"id_str": "26915680",
+						"indices": [
+							1,
+							13
+						]
+					},
+					{
+						"screen_name": "stormzy",
+						"name": "HEAVY IS THE HEAD",
+						"id": 129789846,
+						"id_str": "129789846",
+						"indices": [
+							34,
+							42
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1217551581270499300,
+						"id_str": "1217551581270499328",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1217551581270499328/img/aTKERABspoVuesnj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217551581270499328/img/aTKERABspoVuesnj.jpg",
+						"url": "https://t.co/ENHggzahBg",
+						"display_url": "pic.twitter.com/ENHggzahBg",
+						"expanded_url": "https://twitter.com/itvpeston/status/1217552068665364481/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217551581270499300,
+						"id_str": "1217551581270499328",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1217551581270499328/img/aTKERABspoVuesnj.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217551581270499328/img/aTKERABspoVuesnj.jpg",
+						"url": "https://t.co/ENHggzahBg",
+						"display_url": "pic.twitter.com/ENHggzahBg",
+						"expanded_url": "https://twitter.com/itvpeston/status/1217552068665364481/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 61741,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217551581270499328/vid/640x360/SH1IHUxrOiJdrGy1.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1217551581270499328/pl/8bi1uJWQTOyuDoY6.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217551581270499328/vid/1280x720/q7gLfXoJ_LiodVZ2.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1217551581270499328/vid/480x270/aYHUJ1I04eiMOcYy.mp4?tag=13"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"title": "Racism in the UK",
+							"description": "Speaking on #Peston 15/01/2020",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 709863948686909400,
+				"id_str": "709863948686909441",
+				"name": "Peston",
+				"screen_name": "itvpeston",
+				"location": "",
+				"description": "#Peston Watch live every Wednesday 8pm on Twitter and 10.45pm @ITV. RTs ≠ agreement. Tweets may be used on air. https://t.co/u4BYxXFfJq",
+				"url": "https://t.co/J3JdYcSvZq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J3JdYcSvZq",
+								"expanded_url": "https://www.instagram.com/itvpeston/",
+								"display_url": "instagram.com/itvpeston/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u4BYxXFfJq",
+								"expanded_url": "http://itv.com/terms",
+								"display_url": "itv.com/terms",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 57690,
+				"friends_count": 608,
+				"listed_count": 489,
+				"created_at": "Tue Mar 15 22:08:48 +0000 2016",
+				"favourites_count": 880,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5880,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057200615531651072/QC_zkVAh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057200615531651072/QC_zkVAh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/709863948686909441/1579094291",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 407,
+			"favorite_count": 876,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Solidarity with @sowetokinch and all those on the receiving end of racism in Britain. The UK has a racist Prime Minister in Boris Johnson (who receives very little criticism for this by the UK media) so people should not be surprised it's growing issue in society. https://t.co/YVRIoHgMn0"
+	},
+	{
 		"created_at": "Wed Jan 15 08:58:14 +0000 2020",
 		"id": 1217370395990380500,
 		"id_str": "1217370395990380545",
