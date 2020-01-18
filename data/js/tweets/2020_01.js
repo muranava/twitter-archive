@@ -1,6 +1,1189 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 15:40:26 +0000 2020",
+		"id": 1218171843422695400,
+		"id_str": "1218196387222958080",
+		"full_text": "Another day another violent  Homophobic attack. My heart bleeds for Charlie Graham who says she now accepts homophobia ‘As a fact of life’ This is outrageous.We should not live in fear, harsher sentences are needed for hate crimes. #No2LGBTHate |Metro News https://t.co/0bfP1B2DpP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "No2LGBTHate",
+					"indices": [
+						232,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0bfP1B2DpP",
+					"expanded_url": "https://metro.co.uk/2020/01/17/woman-shares-pictures-bleeding-face-violent-homophobic-attack-12073170/",
+					"display_url": "metro.co.uk/2020/01/17/wom…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 583643503,
+			"id_str": "583643503",
+			"name": "Linda Riley",
+			"screen_name": "LindaRiley8",
+			"location": "London, England",
+			"description": "Co-Founder @britlgbtawards @rainbowhonours Publisher @DIVAMagazine Pride Power List. Tweets represent my own personal views only. Ex-Board Director @glaad",
+			"url": "https://t.co/ovzC84JLyU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ovzC84JLyU",
+							"expanded_url": "http://www.lindariley.co.uk",
+							"display_url": "lindariley.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75095,
+			"friends_count": 8310,
+			"listed_count": 465,
+			"created_at": "Fri May 18 09:32:03 +0000 2012",
+			"favourites_count": 31491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074668965543194624/dzsivjvc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074668965543194624/dzsivjvc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/583643503/1574364055",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another day another violent  Homophobic attack. My heart bleeds for Charlie Graham who says she now accepts homophobia ‘As a fact of life’ This is outrageous.We should not live in fear, harsher sentences are needed for hate crimes. #No2LGBTHate |Metro News https://t.co/0bfP1B2DpP"
+	},
+	{
+		"created_at": "Fri Jan 17 15:30:42 +0000 2020",
+		"id": 1218138443353485300,
+		"id_str": "1218193938189881344",
+		"full_text": "On this day, 59 years ago, the first elected prime minister of the Democratic Republic of the Congo, Patrice Émery Lumumba, was assassinated by the American and Belgian government at only 35 years old. https://t.co/ZyuiMLoukI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218138019623911400,
+					"id_str": "1218138019623911424",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218138019623911424/pu/img/m-NMOtO2TKajg15O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218138019623911424/pu/img/m-NMOtO2TKajg15O.jpg",
+					"url": "https://t.co/ZyuiMLoukI",
+					"display_url": "pic.twitter.com/ZyuiMLoukI",
+					"expanded_url": "https://twitter.com/abcdrih/status/1218138443353485312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218138019623911400,
+					"id_str": "1218138019623911424",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218138019623911424/pu/img/m-NMOtO2TKajg15O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218138019623911424/pu/img/m-NMOtO2TKajg15O.jpg",
+					"url": "https://t.co/ZyuiMLoukI",
+					"display_url": "pic.twitter.com/ZyuiMLoukI",
+					"expanded_url": "https://twitter.com/abcdrih/status/1218138443353485312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140390,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218138019623911424/pu/vid/1280x720/AVyO_XYD26b7YEvv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218138019623911424/pu/pl/7g-mKVnxvMbUp7hd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218138019623911424/pu/vid/480x270/LEFmjNM5WkAcLEGH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218138019623911424/pu/vid/640x360/AjESaZZeDvnVCHJU.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 457815156,
+			"id_str": "457815156",
+			"name": "rebecca",
+			"screen_name": "abcdrih",
+			"location": "🇨🇦🇨🇩",
+			"description": "why are you boo’ing me? i’m right.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4396,
+			"friends_count": 3739,
+			"listed_count": 40,
+			"created_at": "Sat Jan 07 21:15:26 +0000 2012",
+			"favourites_count": 146175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200588874780573697/D3DVgkVk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200588874780573697/D3DVgkVk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/457815156/1575458495",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 773,
+		"favorite_count": 897,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day, 59 years ago, the first elected prime minister of the Democratic Republic of the Congo, Patrice Émery Lumumba, was assassinated by the American and Belgian government at only 35 years old. https://t.co/ZyuiMLoukI"
+	},
+	{
+		"created_at": "Fri Jan 17 15:25:34 +0000 2020",
+		"id": 1218192646021296000,
+		"id_str": "1218192646021296128",
+		"full_text": "@TreanorFergal fyi this is abstract The object of explanation for linguistics https://t.co/aA2904jf3R",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aA2904jf3R",
+					"expanded_url": "https://benjamins.com/catalog/sfsl.77.03rei",
+					"display_url": "benjamins.com/catalog/sfsl.7…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218190630112895000,
+		"in_reply_to_status_id_str": "1218190630112894977",
+		"in_reply_to_user_id": 1181674037753368600,
+		"in_reply_to_user_id_str": "1181674037753368576",
+		"in_reply_to_screen_name": "TreanorFergal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1894,
+			"friends_count": 1133,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TreanorFergal fyi this is abstract The object of explanation for linguistics https://t.co/aA2904jf3R"
+	},
+	{
+		"created_at": "Fri Jan 17 15:16:39 +0000 2020",
+		"id": 1218190402739744800,
+		"id_str": "1218190402739744776",
+		"full_text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg can dm you a pdf",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "adelegoldberg1",
+					"name": "Adele Goldberg",
+					"id": 871372298477023200,
+					"id_str": "871372298477023232",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Etyma1010",
+					"name": "Laura A. Michaelis",
+					"id": 2236239648,
+					"id_str": "2236239648",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "haspelmath",
+					"name": "Martin Haspelmath",
+					"id": 153079285,
+					"id_str": "153079285",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "IdanAsherBlank",
+					"name": "Idan Blank",
+					"id": 4764909501,
+					"id_str": "4764909501",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "davidadger",
+					"name": "David Adger",
+					"id": 200469764,
+					"id_str": "200469764",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "AdeleGoldberg",
+					"name": "Adele Goldberg",
+					"id": 403701094,
+					"id_str": "403701094",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218190145456943000,
+		"in_reply_to_status_id_str": "1218190145456943106",
+		"in_reply_to_user_id": 1181674037753368600,
+		"in_reply_to_user_id_str": "1181674037753368576",
+		"in_reply_to_screen_name": "TreanorFergal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1894,
+			"friends_count": 1133,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg can dm you a pdf"
+	},
+	{
+		"created_at": "Fri Jan 17 12:55:46 +0000 2020",
+		"id": 1218154947084275700,
+		"id_str": "1218154947084275712",
+		"full_text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg Columbia School considers inference process as not part of linguistics",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TreanorFergal",
+					"name": "Fergal Treanor",
+					"id": 1181674037753368600,
+					"id_str": "1181674037753368576",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "adelegoldberg1",
+					"name": "Adele Goldberg",
+					"id": 871372298477023200,
+					"id_str": "871372298477023232",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Etyma1010",
+					"name": "Laura A. Michaelis",
+					"id": 2236239648,
+					"id_str": "2236239648",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "haspelmath",
+					"name": "Martin Haspelmath",
+					"id": 153079285,
+					"id_str": "153079285",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "IdanAsherBlank",
+					"name": "Idan Blank",
+					"id": 4764909501,
+					"id_str": "4764909501",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "davidadger",
+					"name": "David Adger",
+					"id": 200469764,
+					"id_str": "200469764",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "AdeleGoldberg",
+					"name": "Adele Goldberg",
+					"id": 403701094,
+					"id_str": "403701094",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218148389394821000,
+		"in_reply_to_status_id_str": "1218148389394821121",
+		"in_reply_to_user_id": 1181674037753368600,
+		"in_reply_to_user_id_str": "1181674037753368576",
+		"in_reply_to_screen_name": "TreanorFergal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1894,
+			"friends_count": 1133,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TreanorFergal @adelegoldberg1 @Etyma1010 @haspelmath @IdanAsherBlank @davidadger @AdeleGoldberg Columbia School considers inference process as not part of linguistics"
+	},
+	{
+		"created_at": "Fri Jan 17 12:30:05 +0000 2020",
+		"id": 1218148484274061300,
+		"id_str": "1218148484274061312",
+		"full_text": "@11thhourspecial @neil_mcm Could be.../chugging back water for my very dry throat/",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218147718008230000,
+		"in_reply_to_status_id_str": "1218147718008229888",
+		"in_reply_to_user_id": 903200845671440400,
+		"in_reply_to_user_id_str": "903200845671440384",
+		"in_reply_to_screen_name": "11thhourspecial",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1894,
+			"friends_count": 1133,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 9952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@11thhourspecial @neil_mcm Could be.../chugging back water for my very dry throat/"
+	},
+	{
+		"created_at": "Fri Jan 17 12:21:27 +0000 2020",
+		"id": 1218145284225740800,
+		"id_str": "1218146313361141760",
+		"full_text": "Solid point but there is a caveat: \n\nLaurence Fox too would struggle to work again if he said homophobic, anti-semitic or sexual harassment allegations were \"all getting a bit boring now\". The problem is that racism is considered fair game. Racism denial is our national pastime https://t.co/3xeopemVc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3xeopemVc7",
+					"expanded_url": "https://twitter.com/adilray/status/1218110601932812288",
+					"display_url": "twitter.com/adilray/status…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 883057748,
+			"id_str": "883057748",
+			"name": "Nels Abbey 🏁",
+			"screen_name": "nelsabbey",
+			"location": "London",
+			"description": "Dad. Media exec. Writer. Satirist. Lover of beautiful things. \n\nReluctant co-scribe of the political satire, 'Think Like A White Man'.",
+			"url": "https://t.co/R1hBaF0GuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R1hBaF0GuQ",
+							"expanded_url": "https://www.amazon.co.uk/Think-Like-White-Boul%C3%A9-Whytelaw/dp/1786894343/ref=mp_s_a_1_1?keywords=",
+							"display_url": "amazon.co.uk/Think-Like-Whi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1703,
+			"friends_count": 690,
+			"listed_count": 14,
+			"created_at": "Mon Oct 15 20:24:42 +0000 2012",
+			"favourites_count": 7047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216409838894403584/E9Ov0Z9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216409838894403584/E9Ov0Z9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/883057748/1557957775",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218110601932812300,
+		"quoted_status_id_str": "1218110601932812288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3xeopemVc7",
+			"expanded": "https://twitter.com/adilray/status/1218110601932812288",
+			"display": "twitter.com/adilray/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 09:59:33 +0000 2020",
+			"id": 1218110601932812300,
+			"id_str": "1218110601932812288",
+			"full_text": "I have just watched a clip of a white man @bbcquestiontime last night saying the racism accusations were “all getting a bit boring now”. If I went on TV and said that about homophobic, anti-semitic or sexual harassment allegations I’d never work again. That’s privilege for you.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bbcquestiontime",
+						"name": "BBC Question Time",
+						"id": 20699709,
+						"id_str": "20699709",
+						"indices": [
+							42,
+							58
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19608718,
+				"id_str": "19608718",
+				"name": "Adil Ray OBE",
+				"screen_name": "adilray",
+				"location": "UK",
+				"description": "Creator of, co-writer & cuddly man in BBC1’s Citizen Khan, Ackley Bridge (C4), Beecham House (ITV) Good Morning Britain (ITV) Patron @acornshospice & @KNFMHBV",
+				"url": "https://t.co/WogNd2oTGG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WogNd2oTGG",
+								"expanded_url": "http://www.adilray.com",
+								"display_url": "adilray.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55278,
+				"friends_count": 3896,
+				"listed_count": 328,
+				"created_at": "Tue Jan 27 19:03:18 +0000 2009",
+				"favourites_count": 34393,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 83896,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090384150769647616/U4qkCX9g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090384150769647616/U4qkCX9g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19608718/1551171842",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5282,
+			"favorite_count": 23414,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Solid point but there is a caveat: \n\nLaurence Fox too would struggle to work again if he said homophobic, anti-semitic or sexual harassment allegations were \"all getting a bit boring now\". The problem is that racism is considered fair game. Racism denial is our national pastime https://t.co/3xeopemVc7"
+	},
+	{
 		"created_at": "Thu Jan 16 22:15:45 +0000 2020",
 		"id": 1217933486214000600,
 		"id_str": "1217933486214000640",
