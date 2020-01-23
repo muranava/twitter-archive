@@ -1,6 +1,1391 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 22 20:43:03 +0000 2020",
+		"id": 1220084481337561000,
+		"id_str": "1220084481337561094",
+		"full_text": "@plthomasEdD @ThePantherPause @ConversationUS Roy Harris - What people think writing is must be counted a no less important aspect of literacy than counting how many of them have mastered the practice. https://t.co/ZFQAXVQHYI",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plthomasEdD",
+					"name": "Paul Thomas",
+					"id": 248490471,
+					"id_str": "248490471",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ThePantherPause",
+					"name": "Leah Panther",
+					"id": 1655634614,
+					"id_str": "1655634614",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "ConversationUS",
+					"name": "The Conversation US",
+					"id": 2733320850,
+					"id_str": "2733320850",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220084477537538000,
+					"id_str": "1220084477537538049",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EO6cXjeX0AE1Grf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO6cXjeX0AE1Grf.png",
+					"url": "https://t.co/ZFQAXVQHYI",
+					"display_url": "pic.twitter.com/ZFQAXVQHYI",
+					"expanded_url": "https://twitter.com/muranava/status/1220084481337561094/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220084477537538000,
+					"id_str": "1220084477537538049",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EO6cXjeX0AE1Grf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO6cXjeX0AE1Grf.png",
+					"url": "https://t.co/ZFQAXVQHYI",
+					"display_url": "pic.twitter.com/ZFQAXVQHYI",
+					"expanded_url": "https://twitter.com/muranava/status/1220084481337561094/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 637,
+							"h": 194,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220070729812717600,
+		"in_reply_to_status_id_str": "1220070729812717568",
+		"in_reply_to_user_id": 248490471,
+		"in_reply_to_user_id_str": "248490471",
+		"in_reply_to_screen_name": "plthomasEdD",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1897,
+			"friends_count": 1143,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@plthomasEdD @ThePantherPause @ConversationUS Roy Harris - What people think writing is must be counted a no less important aspect of literacy than counting how many of them have mastered the practice. https://t.co/ZFQAXVQHYI"
+	},
+	{
+		"created_at": "Wed Jan 22 20:06:39 +0000 2020",
+		"id": 1220075321074110500,
+		"id_str": "1220075321074110464",
+		"full_text": "@spsmith45 thanks for boosting that great post written by @AnthonyTeacher : )",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AnthonyTeacher",
+					"name": "Anthony Schmidt",
+					"id": 285614027,
+					"id_str": "285614027",
+					"indices": [
+						58,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220072644059566000,
+		"in_reply_to_status_id_str": "1220072644059566080",
+		"in_reply_to_user_id": 303905601,
+		"in_reply_to_user_id_str": "303905601",
+		"in_reply_to_screen_name": "spsmith45",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1897,
+			"friends_count": 1143,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spsmith45 thanks for boosting that great post written by @AnthonyTeacher : )"
+	},
+	{
+		"created_at": "Wed Jan 22 19:30:45 +0000 2020",
+		"id": 1219978419238264800,
+		"id_str": "1220066287335936001",
+		"full_text": "The government must scrap Universal Credit.\n\n#PMQs https://t.co/wCkq1m9gIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PMQs",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219977644713947100,
+					"id_str": "1219977644713947136",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1219977644713947136/img/UMJerFx8UoeqdJt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219977644713947136/img/UMJerFx8UoeqdJt1.jpg",
+					"url": "https://t.co/wCkq1m9gIj",
+					"display_url": "pic.twitter.com/wCkq1m9gIj",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1219978419238264832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219977644713947100,
+					"id_str": "1219977644713947136",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1219977644713947136/img/UMJerFx8UoeqdJt1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219977644713947136/img/UMJerFx8UoeqdJt1.jpg",
+					"url": "https://t.co/wCkq1m9gIj",
+					"display_url": "pic.twitter.com/wCkq1m9gIj",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1219978419238264832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45920,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219977644713947136/vid/480x480/52uGMM8cQsnhm2HC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1219977644713947136/pl/9ou8N9daYIm1RD5M.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219977644713947136/vid/720x720/UgFbCZzMpn4Fre5M.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219977644713947136/vid/320x320/3sJmZrDJ8212wGlD.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Leader of the Labour Party.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2367913,
+			"friends_count": 2724,
+			"listed_count": 7917,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1975,
+		"favorite_count": 6992,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The government must scrap Universal Credit.\n\n#PMQs https://t.co/wCkq1m9gIj"
+	},
+	{
+		"created_at": "Wed Jan 22 18:59:52 +0000 2020",
+		"id": 1219698721811845000,
+		"id_str": "1220058516259508224",
+		"full_text": "\"I've been treated differently by my peers, because of the colour of my skin, and it feels like that in parliament.\"\n\nThe UK's youngest MP @NadiaWhittomeMP has only been in the Commons for two weeks and says she has already experienced racism in parliament. https://t.co/j5VLg496Nl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NadiaWhittomeMP",
+					"name": "Nadia Whittome",
+					"id": 576682647,
+					"id_str": "576682647",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219697327537107000,
+					"id_str": "1219697327537106944",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EO08cwgX0AAk6mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO08cwgX0AAk6mo.jpg",
+					"url": "https://t.co/j5VLg496Nl",
+					"display_url": "pic.twitter.com/j5VLg496Nl",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1219698721811845121/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219697327537107000,
+					"id_str": "1219697327537106944",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EO08cwgX0AAk6mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO08cwgX0AAk6mo.jpg",
+					"url": "https://t.co/j5VLg496Nl",
+					"display_url": "pic.twitter.com/j5VLg496Nl",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1219698721811845121/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 208560,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1219697327537106944/pl/tmze90gRQt1jY0av.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219697327537106944/vid/480x480/tiVAp7SS6edHT12X.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219697327537106944/vid/320x320/0PzDD8ipGVgSuTbM.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1219697327537106944/vid/720x720/fUlRYa9cHrquy3rw.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "Britain's youngest MP says parliament is racist",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/2bKW0-YpZW0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "Journalism. Opinion. Entertainment. @PoliticsJOE_uk | @FootballJOE | @SportsJOE_uk",
+							"url": "https://t.co/ExMq7aJrtM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ExMq7aJrtM",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 239098,
+							"friends_count": 1007,
+							"listed_count": 1328,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 8269,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 108150,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1573571129",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840502412842541000,
+			"id_str": "840502412842541056",
+			"name": "PoliticsJOE",
+			"screen_name": "PoliticsJOE_UK",
+			"location": "United Kingdom",
+			"description": "Politics for the many, not the few. Providing strong and stable coverage that’s equally biased against everyone. @JOE_co_uk approve this message.",
+			"url": "https://t.co/OrEs66qsMV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OrEs66qsMV",
+							"expanded_url": "https://www.youtube.com/PoliticsJOE",
+							"display_url": "youtube.com/PoliticsJOE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114274,
+			"friends_count": 741,
+			"listed_count": 437,
+			"created_at": "Sat Mar 11 09:59:25 +0000 2017",
+			"favourites_count": 2317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840502412842541056/1574282233",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 100,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I've been treated differently by my peers, because of the colour of my skin, and it feels like that in parliament.\"\n\nThe UK's youngest MP @NadiaWhittomeMP has only been in the Commons for two weeks and says she has already experienced racism in parliament. https://t.co/j5VLg496Nl"
+	},
+	{
+		"created_at": "Wed Jan 22 12:37:05 +0000 2020",
+		"id": 1219962185134346200,
+		"id_str": "1219962185134346243",
+		"full_text": "PHB Lexical stress https://t.co/ZHZeJyTHy5 via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZHZeJyTHy5",
+					"expanded_url": "https://youtu.be/8ITsIuhsp-k",
+					"display_url": "youtu.be/8ITsIuhsp-k",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1897,
+			"friends_count": 1143,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PHB Lexical stress https://t.co/ZHZeJyTHy5 via @YouTube"
+	},
+	{
+		"created_at": "Wed Jan 22 07:17:21 +0000 2020",
+		"id": 1219881721191182300,
+		"id_str": "1219881721191182336",
+		"full_text": "@nickbilbrough yes i would say that is a critical aspect, wonder if Wray's research group has looked at measuring implicit effects?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickbilbrough",
+					"name": "Nick Bilbrough, Founder of @HandsUpProject",
+					"id": 273391079,
+					"id_str": "273391079",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1219774795841228800,
+		"in_reply_to_status_id_str": "1219774795841228802",
+		"in_reply_to_user_id": 273391079,
+		"in_reply_to_user_id_str": "273391079",
+		"in_reply_to_screen_name": "nickbilbrough",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1897,
+			"friends_count": 1143,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nickbilbrough yes i would say that is a critical aspect, wonder if Wray's research group has looked at measuring implicit effects?"
+	},
+	{
+		"created_at": "Wed Jan 22 07:11:56 +0000 2020",
+		"id": 1219676764177404000,
+		"id_str": "1219880356893134850",
+		"full_text": "If you don't let us dream, we won't let you sleep.\n\nIn my maiden speech last night, I spoke about the people who inspire me, about the working class struggle for justice and dignity, and my generation's struggle for a planet we can live on.\n\nFull version: https://t.co/50sxIGfbww https://t.co/5EigifUKm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/50sxIGfbww",
+					"expanded_url": "http://bit.ly/2NNCl5F",
+					"display_url": "bit.ly/2NNCl5F",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219676666760433700,
+					"id_str": "1219676666760433665",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219676666760433665/pu/img/WRZ5MYSDMNG6mHLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219676666760433665/pu/img/WRZ5MYSDMNG6mHLo.jpg",
+					"url": "https://t.co/5EigifUKm1",
+					"display_url": "pic.twitter.com/5EigifUKm1",
+					"expanded_url": "https://twitter.com/NadiaWhittomeMP/status/1219676764177403904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219676666760433700,
+					"id_str": "1219676666760433665",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219676666760433665/pu/img/WRZ5MYSDMNG6mHLo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219676666760433665/pu/img/WRZ5MYSDMNG6mHLo.jpg",
+					"url": "https://t.co/5EigifUKm1",
+					"display_url": "pic.twitter.com/5EigifUKm1",
+					"expanded_url": "https://twitter.com/NadiaWhittomeMP/status/1219676764177403904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 344,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							77,
+							43
+						],
+						"duration_millis": 129833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219676666760433665/pu/pl/NvhFtp37ztgh-2kP.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219676666760433665/pu/vid/616x344/ugGXq2RWRP16SQuU.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219676666760433665/pu/vid/482x270/SouxqnXQdZ5Tr3dE.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 576682647,
+			"id_str": "576682647",
+			"name": "Nadia Whittome",
+			"screen_name": "NadiaWhittomeMP",
+			"location": "Nottingham",
+			"description": "Labour Member of Parliament for Nottingham East | casework and enquiries: nadia.whittome.mp@parliament.uk",
+			"url": "https://t.co/v0qQYdGmQk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v0qQYdGmQk",
+							"expanded_url": "http://nadiawhittome.org",
+							"display_url": "nadiawhittome.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21305,
+			"friends_count": 988,
+			"listed_count": 116,
+			"created_at": "Thu May 10 21:49:17 +0000 2012",
+			"favourites_count": 9053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193930675411394560/wieeVlr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193930675411394560/wieeVlr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/576682647/1573490545",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 1552,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you don't let us dream, we won't let you sleep.\n\nIn my maiden speech last night, I spoke about the people who inspire me, about the working class struggle for justice and dignity, and my generation's struggle for a planet we can live on.\n\nFull version: https://t.co/50sxIGfbww https://t.co/5EigifUKm1"
+	},
+	{
 		"created_at": "Tue Jan 21 23:58:57 +0000 2020",
 		"id": 1219771395468603400,
 		"id_str": "1219771395468603392",
