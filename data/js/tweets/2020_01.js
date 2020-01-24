@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 15:25:27 +0000 2020",
+		"id": 1220364004276809700,
+		"id_str": "1220366943934468097",
+		"full_text": "Noam Chomsky on the impeachment circus: “Don’t think it matters, it’s all predictable.” For the Democrats a real crime is when you attack the powerful. \n\nhttps://t.co/a6qzgRsiuD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6qzgRsiuD",
+					"expanded_url": "https://lawandcrime.com/high-profile/noam-chomsky-torches-democrats-narrow-trump-impeachment-a-tragedy-that-may-send-him-back-to-office/",
+					"display_url": "lawandcrime.com/high-profile/n…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847518196097790000,
+			"id_str": "847518196097789953",
+			"name": "❤️Black Rose/Rosa Negra🖤",
+			"screen_name": "BRRN_Fed",
+			"location": "United States",
+			"description": "US political organization building popular power from below / Organización política construyendo el poder popular desde abajo 🚩🏴 #socialism #anarchism",
+			"url": "https://t.co/d0cfCISDaz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d0cfCISDaz",
+							"expanded_url": "https://linktr.ee/blackrose_rosanegra",
+							"display_url": "linktr.ee/blackrose_rosa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19325,
+			"friends_count": 2154,
+			"listed_count": 157,
+			"created_at": "Thu Mar 30 18:37:39 +0000 2017",
+			"favourites_count": 17776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875353657646174208/A3MlHHuG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875353657646174208/A3MlHHuG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847518196097789953/1541685411",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Noam Chomsky on the impeachment circus: “Don’t think it matters, it’s all predictable.” For the Democrats a real crime is when you attack the powerful. \n\nhttps://t.co/a6qzgRsiuD"
+	},
+	{
 		"created_at": "Wed Jan 22 20:43:03 +0000 2020",
 		"id": 1220084481337561000,
 		"id_str": "1220084481337561094",
