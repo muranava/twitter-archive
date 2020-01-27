@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 12:34:42 +0000 2020",
+		"id": 1221411138379878400,
+		"id_str": "1221411138379878400",
+		"full_text": "@EdSacredProfane @greg_ashman interesting blog, the \"clever discourse\" has to be clever in some ways as mainstream cog science assumes *activity requires knowledge* &amp; so old problem - how do we get knowldge if we can't recognise it? but if we recognise it don't we already have knowledge? (after Susan Oyama)",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdSacredProfane",
+					"name": "Peter Ford",
+					"id": 2288627443,
+					"id_str": "2288627443",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "greg_ashman",
+					"name": "Greg Ashman",
+					"id": 614246029,
+					"id_str": "614246029",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221381090922942500,
+		"in_reply_to_status_id_str": "1221381090922942465",
+		"in_reply_to_user_id": 2288627443,
+		"in_reply_to_user_id_str": "2288627443",
+		"in_reply_to_screen_name": "EdSacredProfane",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 1149,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdSacredProfane @greg_ashman interesting blog, the \"clever discourse\" has to be clever in some ways as mainstream cog science assumes *activity requires knowledge* &amp; so old problem - how do we get knowldge if we can't recognise it? but if we recognise it don't we already have knowledge? (after Susan Oyama)"
+	},
+	{
 		"created_at": "Sat Jan 25 16:44:16 +0000 2020",
 		"id": 1221048886720114700,
 		"id_str": "1221111556194426880",
