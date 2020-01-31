@@ -1,6 +1,1148 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 15:52:41 +0000 2020",
+		"id": 1222836491086377000,
+		"id_str": "1222910514340208640",
+		"full_text": "St Mary's workers celebrating their historic &amp; unprecedented victory - which was won in a record 4 months - which has led to 1000 workers across 5 Imperial Trust hosptitals becoming employees of the NHS from 1 April. Sodexo uniforms are getting torn off &amp; thrown away as we speak! https://t.co/YFZL0Xq6q2 https://t.co/tP6ZfBp804",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YFZL0Xq6q2",
+					"expanded_url": "https://twitter.com/UVWunion/status/1222821447900549120",
+					"display_url": "twitter.com/UVWunion/statu…",
+					"indices": [
+						289,
+						312
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222836448698814500,
+					"id_str": "1222836448698814464",
+					"indices": [
+						313,
+						336
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222836448698814464/pu/img/EROOKlcBo6dxjaJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222836448698814464/pu/img/EROOKlcBo6dxjaJX.jpg",
+					"url": "https://t.co/tP6ZfBp804",
+					"display_url": "pic.twitter.com/tP6ZfBp804",
+					"expanded_url": "https://twitter.com/UVWunion/status/1222836491086376961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222836448698814500,
+					"id_str": "1222836448698814464",
+					"indices": [
+						313,
+						336
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222836448698814464/pu/img/EROOKlcBo6dxjaJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222836448698814464/pu/img/EROOKlcBo6dxjaJX.jpg",
+					"url": "https://t.co/tP6ZfBp804",
+					"display_url": "pic.twitter.com/tP6ZfBp804",
+					"expanded_url": "https://twitter.com/UVWunion/status/1222836491086376961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9066,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222836448698814464/pu/vid/1280x720/HmYGYgW963WlKT1L.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222836448698814464/pu/vid/640x360/NpiGe1QGxVQWfqRF.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1222836448698814464/pu/vid/480x270/mh_oVFW4H2cTccbs.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1222836448698814464/pu/pl/-gMgwG44YqgbiVe_.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2923235807,
+			"id_str": "2923235807",
+			"name": "United Voices of the World",
+			"screen_name": "UVWunion",
+			"location": "Waterloo SE1 7NQ, London",
+			"description": "UVW is a members-led, campaigning trade union of migrant & precarious workers. Also @LSWUnited @unitedstripper @UVW_SAW @UVW_DCW @UVW_GBV @UVWnoticias",
+			"url": "https://t.co/J1mZ5g2mZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1mZ5g2mZD",
+							"expanded_url": "http://www.uvwunion.org.uk",
+							"display_url": "uvwunion.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8624,
+			"friends_count": 2460,
+			"listed_count": 81,
+			"created_at": "Mon Dec 15 17:18:33 +0000 2014",
+			"favourites_count": 3294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2923235807/1564172431",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222821447900549000,
+		"quoted_status_id_str": "1222821447900549120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YFZL0Xq6q2",
+			"expanded": "https://twitter.com/UVWunion/status/1222821447900549120",
+			"display": "twitter.com/UVWunion/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 09:58:46 +0000 2020",
+			"id": 1222821447900549000,
+			"id_str": "1222821447900549120",
+			"full_text": "📣📣BREAKING NEWS: Porters, caterers and cleaners at St. Mary’s hospital celebrate a historic victory after @ImperialNHS announces they will be brought in-house within 2 months. This was achieved in a record 3 months and with a total of 9-days of strike action! 1/3 https://t.co/yBNUfOWqBj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ImperialNHS",
+						"name": "Imperial NHS",
+						"id": 22152147,
+						"id_str": "22152147",
+						"indices": [
+							106,
+							118
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1222821440313086000,
+						"id_str": "1222821440313085953",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+						"url": "https://t.co/yBNUfOWqBj",
+						"display_url": "pic.twitter.com/yBNUfOWqBj",
+						"expanded_url": "https://twitter.com/UVWunion/status/1222821447900549120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "66327572",
+										"screen_name": "keepnhspublic",
+										"name": "Keep Our NHS Public"
+									},
+									{
+										"type": "user",
+										"user_id": "69545227",
+										"screen_name": "libcomorg",
+										"name": "libcom dot org"
+									},
+									{
+										"type": "user",
+										"user_id": "65045121",
+										"screen_name": "OwenJones84",
+										"name": "Owen Jones🌹"
+									},
+									{
+										"type": "user",
+										"user_id": "15458694",
+										"screen_name": "HuffPostPol",
+										"name": "HuffPost Politics"
+									},
+									{
+										"type": "user",
+										"user_id": "26744267",
+										"screen_name": "chakrabortty",
+										"name": "Aditya Chakrabortty"
+									},
+									{
+										"type": "user",
+										"user_id": "14880200",
+										"screen_name": "hackneylad",
+										"name": "Jack Shenker"
+									},
+									{
+										"type": "user",
+										"user_id": "55218051",
+										"screen_name": "LeftFootFwd",
+										"name": "Left Foot Forward"
+									},
+									{
+										"type": "user",
+										"user_id": "4882743003",
+										"screen_name": "NHSMillion",
+										"name": "NHS Million"
+									},
+									{
+										"type": "user",
+										"user_id": "16240643",
+										"screen_name": "danhancox",
+										"name": "Dan Hancox"
+									},
+									{
+										"type": "user",
+										"user_id": "14243046",
+										"screen_name": "TheBMA",
+										"name": "The BMA"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 464,
+										"y": 249,
+										"h": 26,
+										"w": 26
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222821440313086000,
+						"id_str": "1222821440313085953",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+						"url": "https://t.co/yBNUfOWqBj",
+						"display_url": "pic.twitter.com/yBNUfOWqBj",
+						"expanded_url": "https://twitter.com/UVWunion/status/1222821447900549120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "66327572",
+										"screen_name": "keepnhspublic",
+										"name": "Keep Our NHS Public"
+									},
+									{
+										"type": "user",
+										"user_id": "69545227",
+										"screen_name": "libcomorg",
+										"name": "libcom dot org"
+									},
+									{
+										"type": "user",
+										"user_id": "65045121",
+										"screen_name": "OwenJones84",
+										"name": "Owen Jones🌹"
+									},
+									{
+										"type": "user",
+										"user_id": "15458694",
+										"screen_name": "HuffPostPol",
+										"name": "HuffPost Politics"
+									},
+									{
+										"type": "user",
+										"user_id": "26744267",
+										"screen_name": "chakrabortty",
+										"name": "Aditya Chakrabortty"
+									},
+									{
+										"type": "user",
+										"user_id": "14880200",
+										"screen_name": "hackneylad",
+										"name": "Jack Shenker"
+									},
+									{
+										"type": "user",
+										"user_id": "55218051",
+										"screen_name": "LeftFootFwd",
+										"name": "Left Foot Forward"
+									},
+									{
+										"type": "user",
+										"user_id": "4882743003",
+										"screen_name": "NHSMillion",
+										"name": "NHS Million"
+									},
+									{
+										"type": "user",
+										"user_id": "16240643",
+										"screen_name": "danhancox",
+										"name": "Dan Hancox"
+									},
+									{
+										"type": "user",
+										"user_id": "14243046",
+										"screen_name": "TheBMA",
+										"name": "The BMA"
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 464,
+										"y": 249,
+										"h": 26,
+										"w": 26
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 700,
+										"y": 376,
+										"h": 40,
+										"w": 40
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2923235807,
+				"id_str": "2923235807",
+				"name": "United Voices of the World",
+				"screen_name": "UVWunion",
+				"location": "Waterloo SE1 7NQ, London",
+				"description": "UVW is a members-led, campaigning trade union of migrant & precarious workers. Also @LSWUnited @unitedstripper @UVW_SAW @UVW_DCW @UVW_GBV @UVWnoticias",
+				"url": "https://t.co/J1mZ5g2mZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J1mZ5g2mZD",
+								"expanded_url": "http://www.uvwunion.org.uk",
+								"display_url": "uvwunion.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8624,
+				"friends_count": 2460,
+				"listed_count": 81,
+				"created_at": "Mon Dec 15 17:18:33 +0000 2014",
+				"favourites_count": 3294,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2923235807/1564172431",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 387,
+			"favorite_count": 760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 472,
+		"favorite_count": 986,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "St Mary's workers celebrating their historic &amp; unprecedented victory - which was won in a record 4 months - which has led to 1000 workers across 5 Imperial Trust hosptitals becoming employees of the NHS from 1 April. Sodexo uniforms are getting torn off &amp; thrown away as we speak! https://t.co/YFZL0Xq6q2 https://t.co/tP6ZfBp804"
+	},
+	{
+		"created_at": "Thu Jan 30 14:42:36 +0000 2020",
+		"id": 1222867872801792000,
+		"id_str": "1222892875765043202",
+		"full_text": "The #TEFLWorkersUnion is collecting workplace stories. What’s your experience of #EFL? Any problems? Did you raise them with management? Any victories? Write us at tefl@iww.org.uk and let us know! #SharingIsCaring",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						4,
+						21
+					]
+				},
+				{
+					"text": "EFL",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "SharingIsCaring",
+					"indices": [
+						197,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 81,
+			"listed_count": 5,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The #TEFLWorkersUnion is collecting workplace stories. What’s your experience of #EFL? Any problems? Did you raise them with management? Any victories? Write us at tefl@iww.org.uk and let us know! #SharingIsCaring"
+	},
+	{
+		"created_at": "Thu Jan 30 14:38:56 +0000 2020",
+		"id": 1222821447900549000,
+		"id_str": "1222891954163240960",
+		"full_text": "📣📣BREAKING NEWS: Porters, caterers and cleaners at St. Mary’s hospital celebrate a historic victory after @ImperialNHS announces they will be brought in-house within 2 months. This was achieved in a record 3 months and with a total of 9-days of strike action! 1/3 https://t.co/yBNUfOWqBj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ImperialNHS",
+					"name": "Imperial NHS",
+					"id": 22152147,
+					"id_str": "22152147",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222821440313086000,
+					"id_str": "1222821440313085953",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+					"url": "https://t.co/yBNUfOWqBj",
+					"display_url": "pic.twitter.com/yBNUfOWqBj",
+					"expanded_url": "https://twitter.com/UVWunion/status/1222821447900549120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "66327572",
+									"screen_name": "keepnhspublic",
+									"name": "Keep Our NHS Public"
+								},
+								{
+									"type": "user",
+									"user_id": "69545227",
+									"screen_name": "libcomorg",
+									"name": "libcom dot org"
+								},
+								{
+									"type": "user",
+									"user_id": "65045121",
+									"screen_name": "OwenJones84",
+									"name": "Owen Jones🌹"
+								},
+								{
+									"type": "user",
+									"user_id": "15458694",
+									"screen_name": "HuffPostPol",
+									"name": "HuffPost Politics"
+								},
+								{
+									"type": "user",
+									"user_id": "26744267",
+									"screen_name": "chakrabortty",
+									"name": "Aditya Chakrabortty"
+								},
+								{
+									"type": "user",
+									"user_id": "14880200",
+									"screen_name": "hackneylad",
+									"name": "Jack Shenker"
+								},
+								{
+									"type": "user",
+									"user_id": "55218051",
+									"screen_name": "LeftFootFwd",
+									"name": "Left Foot Forward"
+								},
+								{
+									"type": "user",
+									"user_id": "4882743003",
+									"screen_name": "NHSMillion",
+									"name": "NHS Million"
+								},
+								{
+									"type": "user",
+									"user_id": "16240643",
+									"screen_name": "danhancox",
+									"name": "Dan Hancox"
+								},
+								{
+									"type": "user",
+									"user_id": "14243046",
+									"screen_name": "TheBMA",
+									"name": "The BMA"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 249,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222821440313086000,
+					"id_str": "1222821440313085953",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPhVnwWX0AE9-9I.jpg",
+					"url": "https://t.co/yBNUfOWqBj",
+					"display_url": "pic.twitter.com/yBNUfOWqBj",
+					"expanded_url": "https://twitter.com/UVWunion/status/1222821447900549120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "66327572",
+									"screen_name": "keepnhspublic",
+									"name": "Keep Our NHS Public"
+								},
+								{
+									"type": "user",
+									"user_id": "69545227",
+									"screen_name": "libcomorg",
+									"name": "libcom dot org"
+								},
+								{
+									"type": "user",
+									"user_id": "65045121",
+									"screen_name": "OwenJones84",
+									"name": "Owen Jones🌹"
+								},
+								{
+									"type": "user",
+									"user_id": "15458694",
+									"screen_name": "HuffPostPol",
+									"name": "HuffPost Politics"
+								},
+								{
+									"type": "user",
+									"user_id": "26744267",
+									"screen_name": "chakrabortty",
+									"name": "Aditya Chakrabortty"
+								},
+								{
+									"type": "user",
+									"user_id": "14880200",
+									"screen_name": "hackneylad",
+									"name": "Jack Shenker"
+								},
+								{
+									"type": "user",
+									"user_id": "55218051",
+									"screen_name": "LeftFootFwd",
+									"name": "Left Foot Forward"
+								},
+								{
+									"type": "user",
+									"user_id": "4882743003",
+									"screen_name": "NHSMillion",
+									"name": "NHS Million"
+								},
+								{
+									"type": "user",
+									"user_id": "16240643",
+									"screen_name": "danhancox",
+									"name": "Dan Hancox"
+								},
+								{
+									"type": "user",
+									"user_id": "14243046",
+									"screen_name": "TheBMA",
+									"name": "The BMA"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 464,
+									"y": 249,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 376,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2923235807,
+			"id_str": "2923235807",
+			"name": "United Voices of the World",
+			"screen_name": "UVWunion",
+			"location": "Waterloo SE1 7NQ, London",
+			"description": "UVW is a members-led, campaigning trade union of migrant & precarious workers. Also @LSWUnited @unitedstripper @UVW_SAW @UVW_DCW @UVW_GBV @UVWnoticias",
+			"url": "https://t.co/J1mZ5g2mZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1mZ5g2mZD",
+							"expanded_url": "http://www.uvwunion.org.uk",
+							"display_url": "uvwunion.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8624,
+			"friends_count": 2460,
+			"listed_count": 81,
+			"created_at": "Mon Dec 15 17:18:33 +0000 2014",
+			"favourites_count": 3294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2923235807/1564172431",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣📣BREAKING NEWS: Porters, caterers and cleaners at St. Mary’s hospital celebrate a historic victory after @ImperialNHS announces they will be brought in-house within 2 months. This was achieved in a record 3 months and with a total of 9-days of strike action! 1/3 https://t.co/yBNUfOWqBj"
+	},
+	{
 		"created_at": "Wed Jan 29 22:11:00 +0000 2020",
 		"id": 1222643331727085600,
 		"id_str": "1222643331727085569",
