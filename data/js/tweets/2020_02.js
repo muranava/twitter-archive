@@ -1,6 +1,1545 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 16 19:00:36 +0000 2020",
+		"id": 1229118395599216600,
+		"id_str": "1229118395599216642",
+		"full_text": "@ClarkTommyc @hansmollman Like News of World shutting down we can shut down these rags if we want",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClarkTommyc",
+					"name": "Thomas Clark",
+					"id": 495999352,
+					"id_str": "495999352",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "hansmollman",
+					"name": "Mollie Goodfellow",
+					"id": 86101978,
+					"id_str": "86101978",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228964033652498400,
+		"in_reply_to_status_id_str": "1228964033652498432",
+		"in_reply_to_user_id": 495999352,
+		"in_reply_to_user_id_str": "495999352",
+		"in_reply_to_screen_name": "ClarkTommyc",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 1185,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClarkTommyc @hansmollman Like News of World shutting down we can shut down these rags if we want"
+	},
+	{
+		"created_at": "Sun Feb 16 12:00:18 +0000 2020",
+		"id": 1229009931363389400,
+		"id_str": "1229012624651759616",
+		"full_text": "Quote tweeting this because it's worth noting this \"all good traits are correlated\" assumption more explicitly.\n\nLegacies of this kind of reasoning are common in modern \"Hereditarian\" arguments.\nhttps://t.co/KWdMQtZZTu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KWdMQtZZTu",
+					"expanded_url": "https://twitter.com/arthur_affect/status/1229006460773756928",
+					"display_url": "twitter.com/arthur_affect/…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228991252106039300,
+		"in_reply_to_status_id_str": "1228991252106039302",
+		"in_reply_to_user_id": 217967944,
+		"in_reply_to_user_id_str": "217967944",
+		"in_reply_to_screen_name": "Simon_Whitten",
+		"user": {
+			"id": 217967944,
+			"id_str": "217967944",
+			"name": "Simon Whitten",
+			"screen_name": "Simon_Whitten",
+			"location": "",
+			"description": "Positivist in the street, standpoint theorist in the sheets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1865,
+			"friends_count": 475,
+			"listed_count": 13,
+			"created_at": "Sun Nov 21 01:41:42 +0000 2010",
+			"favourites_count": 3719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229006460773757000,
+		"quoted_status_id_str": "1229006460773756928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KWdMQtZZTu",
+			"expanded": "https://twitter.com/arthur_affect/status/1229006460773756928",
+			"display": "twitter.com/arthur_affect/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 16 11:35:48 +0000 2020",
+			"id": 1229006460773757000,
+			"id_str": "1229006460773756928",
+			"full_text": "In fact the key prejudice that drives eugenics is something now Juan to be definitively false (that all \"positive\" traits are correlated, that physically healthy and beautiful people are also competent, virtuous and wise) https://t.co/UcyFyQiCqq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UcyFyQiCqq",
+						"expanded_url": "https://twitter.com/Simon_Whitten/status/1228991252106039302",
+						"display_url": "twitter.com/Simon_Whitten/…",
+						"indices": [
+							222,
+							245
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65260792,
+				"id_str": "65260792",
+				"name": "Arthur Chu",
+				"screen_name": "arthur_affect",
+				"location": "Broadview Heights, Ohio",
+				"description": "Mad genius, comedian, actor, and freelance voiceover artist broadcasting from the distant shores of Lake Erie.",
+				"url": "http://t.co/arUdB95QC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/arUdB95QC6",
+								"expanded_url": "http://arthur-chu.com",
+								"display_url": "arthur-chu.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40409,
+				"friends_count": 983,
+				"listed_count": 753,
+				"created_at": "Thu Aug 13 03:28:27 +0000 2009",
+				"favourites_count": 169769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 330992,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1830206330/profile_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1830206330/profile_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65260792/1415599606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1228991252106039300,
+			"quoted_status_id_str": "1228991252106039302",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UcyFyQiCqq",
+				"expanded": "https://twitter.com/Simon_Whitten/status/1228991252106039302",
+				"display": "twitter.com/Simon_Whitten/…"
+			},
+			"retweet_count": 70,
+			"favorite_count": 350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 51,
+		"favorite_count": 515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quote tweeting this because it's worth noting this \"all good traits are correlated\" assumption more explicitly.\n\nLegacies of this kind of reasoning are common in modern \"Hereditarian\" arguments.\nhttps://t.co/KWdMQtZZTu"
+	},
+	{
+		"created_at": "Sun Feb 16 11:56:44 +0000 2020",
+		"id": 1229004758414975000,
+		"id_str": "1229011726361907200",
+		"full_text": "#Marseille, #France: Cops killed 18 year old - Eyewitness reports speak of a downright execution - #JusticePourMehdi #ftp #acab #antireport - Read here: https://t.co/Yg6NoFYeZF https://t.co/OKOqJdAEOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Marseille",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "France",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "JusticePourMehdi",
+					"indices": [
+						99,
+						116
+					]
+				},
+				{
+					"text": "ftp",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "acab",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "antireport",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yg6NoFYeZF",
+					"expanded_url": "https://enoughisenough14.org/2020/02/16/marseille-france-cops-killed-18-year-old-eyewitness-reports-speak-of-a-downright-execution/",
+					"display_url": "enoughisenough14.org/2020/02/16/mar…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229004716211933200,
+					"id_str": "1229004716211933184",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ5NRyEXkAAd4pO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ5NRyEXkAAd4pO.jpg",
+					"url": "https://t.co/OKOqJdAEOT",
+					"display_url": "pic.twitter.com/OKOqJdAEOT",
+					"expanded_url": "https://twitter.com/enough14/status/1229004758414974976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229004716211933200,
+					"id_str": "1229004716211933184",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ5NRyEXkAAd4pO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ5NRyEXkAAd4pO.jpg",
+					"url": "https://t.co/OKOqJdAEOT",
+					"display_url": "pic.twitter.com/OKOqJdAEOT",
+					"expanded_url": "https://twitter.com/enough14/status/1229004758414974976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 298652581,
+			"id_str": "298652581",
+			"name": "Enough 14",
+			"screen_name": "enough14",
+			"location": "Planet Earth",
+			"description": "Its time to revolt!",
+			"url": "https://t.co/xV3QvhQ3R1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xV3QvhQ3R1",
+							"expanded_url": "https://enoughisenough14.org",
+							"display_url": "enoughisenough14.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18533,
+			"friends_count": 1025,
+			"listed_count": 425,
+			"created_at": "Sat May 14 17:57:25 +0000 2011",
+			"favourites_count": 7990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047361937850421248/yWCml7l4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047361937850421248/yWCml7l4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298652581/1538545773",
+			"profile_link_color": "FA0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0DCF5",
+			"profile_text_color": "050505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Marseille, #France: Cops killed 18 year old - Eyewitness reports speak of a downright execution - #JusticePourMehdi #ftp #acab #antireport - Read here: https://t.co/Yg6NoFYeZF https://t.co/OKOqJdAEOT"
+	},
+	{
+		"created_at": "Sun Feb 16 11:46:53 +0000 2020",
+		"id": 1229009249893802000,
+		"id_str": "1229009249893801984",
+		"full_text": "@BeckyWhin @suzyg001 @doxtdatorb No problem",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeckyWhin",
+					"name": "Becky Whinnerah",
+					"id": 3061320995,
+					"id_str": "3061320995",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "suzyg001",
+					"name": "Sue Gerrard 🕷",
+					"id": 367628836,
+					"id_str": "367628836",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "doxtdatorb",
+					"name": "Benjamin Doxtdator",
+					"id": 2343972634,
+					"id_str": "2343972634",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229007866448810000,
+		"in_reply_to_status_id_str": "1229007866448809984",
+		"in_reply_to_user_id": 3061320995,
+		"in_reply_to_user_id_str": "3061320995",
+		"in_reply_to_screen_name": "BeckyWhin",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 1185,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BeckyWhin @suzyg001 @doxtdatorb No problem"
+	},
+	{
+		"created_at": "Sun Feb 16 11:41:06 +0000 2020",
+		"id": 1229007791865593900,
+		"id_str": "1229007791865593862",
+		"full_text": "@BeckyWhin @suzyg001 @doxtdatorb This thread may help re Dawkins https://t.co/rcBWtK4TQF",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeckyWhin",
+					"name": "Becky Whinnerah",
+					"id": 3061320995,
+					"id_str": "3061320995",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "suzyg001",
+					"name": "Sue Gerrard 🕷",
+					"id": 367628836,
+					"id_str": "367628836",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "doxtdatorb",
+					"name": "Benjamin Doxtdator",
+					"id": 2343972634,
+					"id_str": "2343972634",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rcBWtK4TQF",
+					"expanded_url": "https://mobile.twitter.com/Simon_Whitten/status/1228991240345137158",
+					"display_url": "mobile.twitter.com/Simon_Whitten/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1229005274096316400,
+		"in_reply_to_status_id_str": "1229005274096316416",
+		"in_reply_to_user_id": 3061320995,
+		"in_reply_to_user_id_str": "3061320995",
+		"in_reply_to_screen_name": "BeckyWhin",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 1185,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228991240345137200,
+		"quoted_status_id_str": "1228991240345137158",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rcBWtK4TQF",
+			"expanded": "https://mobile.twitter.com/Simon_Whitten/status/1228991240345137158",
+			"display": "mobile.twitter.com/Simon_Whitten/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 16 10:35:19 +0000 2020",
+			"id": 1228991240345137200,
+			"id_str": "1228991240345137158",
+			"full_text": "The view that eugenics is simply the application of selective breeding principles to humans and that it was abandoned solely for ideological reasons is entirely ahistoric. https://t.co/wwzOt0ePLk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wwzOt0ePLk",
+						"expanded_url": "https://twitter.com/RichardDawkins/status/1228943686953664512",
+						"display_url": "twitter.com/RichardDawkins…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 217967944,
+				"id_str": "217967944",
+				"name": "Simon Whitten",
+				"screen_name": "Simon_Whitten",
+				"location": "",
+				"description": "Positivist in the street, standpoint theorist in the sheets.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1865,
+				"friends_count": 475,
+				"listed_count": 13,
+				"created_at": "Sun Nov 21 01:41:42 +0000 2010",
+				"favourites_count": 3719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1846,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1228943686953664500,
+			"quoted_status_id_str": "1228943686953664512",
+			"quoted_status_permalink": {
+				"url": "https://t.co/wwzOt0ePLk",
+				"expanded": "https://twitter.com/RichardDawkins/status/1228943686953664512",
+				"display": "twitter.com/RichardDawkins…"
+			},
+			"retweet_count": 1177,
+			"favorite_count": 5787,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BeckyWhin @suzyg001 @doxtdatorb This thread may help re Dawkins https://t.co/rcBWtK4TQF"
+	},
+	{
+		"created_at": "Sun Feb 16 11:07:43 +0000 2020",
+		"id": 1228999394395074600,
+		"id_str": "1228999394395074561",
+		"full_text": "@Simon_Whitten FYI https://t.co/W1LcTdGtzc",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Simon_Whitten",
+					"name": "Simon Whitten",
+					"id": 217967944,
+					"id_str": "217967944",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W1LcTdGtzc",
+					"expanded_url": "https://link.springer.com/article/10.1162/BIOT_a_00058",
+					"display_url": "link.springer.com/article/10.116…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228998925937512400,
+		"in_reply_to_status_id_str": "1228998925937512448",
+		"in_reply_to_user_id": 217967944,
+		"in_reply_to_user_id_str": "217967944",
+		"in_reply_to_screen_name": "Simon_Whitten",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 1185,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Simon_Whitten FYI https://t.co/W1LcTdGtzc"
+	},
+	{
+		"created_at": "Sun Feb 16 10:56:06 +0000 2020",
+		"id": 1228996470776508400,
+		"id_str": "1228996470776508417",
+		"full_text": "@Simon_Whitten Off topic - do u think it is important to distinguish design (which Darwin rejected) from function/purpose which is useful in connecting evolutionary theory with other sciences?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Simon_Whitten",
+					"name": "Simon Whitten",
+					"id": 217967944,
+					"id_str": "217967944",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228991250633756700,
+		"in_reply_to_status_id_str": "1228991250633756672",
+		"in_reply_to_user_id": 217967944,
+		"in_reply_to_user_id_str": "217967944",
+		"in_reply_to_screen_name": "Simon_Whitten",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1912,
+			"friends_count": 1185,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Simon_Whitten Off topic - do u think it is important to distinguish design (which Darwin rejected) from function/purpose which is useful in connecting evolutionary theory with other sciences?"
+	},
+	{
+		"created_at": "Sun Feb 16 10:50:23 +0000 2020",
+		"id": 1228991240345137200,
+		"id_str": "1228995030670553091",
+		"full_text": "The view that eugenics is simply the application of selective breeding principles to humans and that it was abandoned solely for ideological reasons is entirely ahistoric. https://t.co/wwzOt0ePLk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wwzOt0ePLk",
+					"expanded_url": "https://twitter.com/RichardDawkins/status/1228943686953664512",
+					"display_url": "twitter.com/RichardDawkins…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217967944,
+			"id_str": "217967944",
+			"name": "Simon Whitten",
+			"screen_name": "Simon_Whitten",
+			"location": "",
+			"description": "Positivist in the street, standpoint theorist in the sheets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1865,
+			"friends_count": 475,
+			"listed_count": 13,
+			"created_at": "Sun Nov 21 01:41:42 +0000 2010",
+			"favourites_count": 3719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931609214350430208/rOdiTOMi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228943686953664500,
+		"quoted_status_id_str": "1228943686953664512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wwzOt0ePLk",
+			"expanded": "https://twitter.com/RichardDawkins/status/1228943686953664512",
+			"display": "twitter.com/RichardDawkins…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 16 07:26:22 +0000 2020",
+			"id": 1228943686953664500,
+			"id_str": "1228943686953664512",
+			"full_text": "It’s one thing to deplore eugenics on ideological, political, moral grounds. It’s quite another to conclude that it wouldn’t work in practice. Of course it would. It works for cows, horses, pigs, dogs &amp; roses. Why on earth wouldn’t it work for humans? Facts ignore ideology.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15143478,
+				"id_str": "15143478",
+				"name": "Richard Dawkins",
+				"screen_name": "RichardDawkins",
+				"location": "",
+				"description": "UK biologist & writer. Science, the poetry of reality. Good-humoured ridicule of religions. RTs don't imply endorsement, nor exhaustive research of tweeter's CV",
+				"url": "http://t.co/HGuuVn25X5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HGuuVn25X5",
+								"expanded_url": "http://richarddawkins.net",
+								"display_url": "richarddawkins.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2870348,
+				"friends_count": 366,
+				"listed_count": 19778,
+				"created_at": "Tue Jun 17 08:15:17 +0000 2008",
+				"favourites_count": 236,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31088,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094327574031945729/tU8wz8DL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094327574031945729/tU8wz8DL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15143478/1567361538",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2935,
+			"favorite_count": 18817,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1177,
+		"favorite_count": 5787,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The view that eugenics is simply the application of selective breeding principles to humans and that it was abandoned solely for ideological reasons is entirely ahistoric. https://t.co/wwzOt0ePLk"
+	},
+	{
+		"created_at": "Sun Feb 16 10:24:37 +0000 2020",
+		"id": 1228934475112947700,
+		"id_str": "1228988547039932421",
+		"full_text": "So Dominic Cummins selects prominent eugenicist Andrew Sabisky for advisor position. Remember Sabisky wrote the Appendix to David Didau’s book, which led to Didau going down the white supremacist HBD hole. \n\nhttps://t.co/mEKbF2RBja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mEKbF2RBja",
+					"expanded_url": "https://longviewoneducation.org/putting-researcheds-equity-backlash-under-the-microscope/",
+					"display_url": "longviewoneducation.org/putting-resear…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343972634,
+			"id_str": "2343972634",
+			"name": "Benjamin Doxtdator",
+			"screen_name": "doxtdatorb",
+			"location": "Brussels, Belgium",
+			"description": "Haudenosaunee/ Oneida Nation / teacher/ views own / human companion to two rescue pups / I'm w @learn_thru_it / he, him, his",
+			"url": "https://t.co/kBAv3IwTVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kBAv3IwTVg",
+							"expanded_url": "https://www.longviewoneducation.org",
+							"display_url": "longviewoneducation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8309,
+			"friends_count": 4456,
+			"listed_count": 173,
+			"created_at": "Fri Feb 14 23:12:42 +0000 2014",
+			"favourites_count": 37719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343972634/1565286388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So Dominic Cummins selects prominent eugenicist Andrew Sabisky for advisor position. Remember Sabisky wrote the Appendix to David Didau’s book, which led to Didau going down the white supremacist HBD hole. \n\nhttps://t.co/mEKbF2RBja"
+	},
+	{
 		"created_at": "Sat Feb 15 21:16:00 +0000 2020",
 		"id": 1228790082565529600,
 		"id_str": "1228790082565529601",
