@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 11:41:01 +0000 2020",
+		"id": 1230047644833198000,
+		"id_str": "1230094934218285056",
+		"full_text": "Sabisky was given a platform and endorsed by #ResearchEd, Tom Bennett, David Didau, and Dylan Wiliam. \n https://t.co/G5PD1nqFh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ResearchEd",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G5PD1nqFh6",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/feb/18/andrew-sabisky-job-no-10-alt-right-adviser",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343972634,
+			"id_str": "2343972634",
+			"name": "Benjamin Doxtdator",
+			"screen_name": "doxtdatorb",
+			"location": "Brussels, Belgium",
+			"description": "Haudenosaunee/ Oneida Nation / teacher/ views own / human companion to two rescue pups / I'm w @learn_thru_it / he, him, his",
+			"url": "https://t.co/kBAv3IwTVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kBAv3IwTVg",
+							"expanded_url": "https://www.longviewoneducation.org",
+							"display_url": "longviewoneducation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8339,
+			"friends_count": 4472,
+			"listed_count": 173,
+			"created_at": "Fri Feb 14 23:12:42 +0000 2014",
+			"favourites_count": 37872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343972634/1565286388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sabisky was given a platform and endorsed by #ResearchEd, Tom Bennett, David Didau, and Dylan Wiliam. \n https://t.co/G5PD1nqFh6"
+	},
+	{
 		"created_at": "Tue Feb 18 17:45:25 +0000 2020",
 		"id": 1229824254285316000,
 		"id_str": "1229824254285316097",
