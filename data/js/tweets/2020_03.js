@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 20:06:04 +0000 2020",
+		"id": 1237756996708958200,
+		"id_str": "1237832179327041538",
+		"full_text": "Jeremy Corbyn says a decade of austerity hasn't worked even in its own terms. He gives the heartbreaking example of the human cost, talking about Errol Graham who died of starvation weighing just 4½ stone after his benefits were cut. #Budget2020 https://t.co/VIgwQfWzrn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Budget2020",
+					"indices": [
+						234,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237751637462134800,
+					"id_str": "1237751637462134785",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1237751637462134785/img/56L6NgNc8p_LWt3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237751637462134785/img/56L6NgNc8p_LWt3o.jpg",
+					"url": "https://t.co/VIgwQfWzrn",
+					"display_url": "pic.twitter.com/VIgwQfWzrn",
+					"expanded_url": "https://twitter.com/imajsaclaimant/status/1237756996708958208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237751637462134800,
+					"id_str": "1237751637462134785",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1237751637462134785/img/56L6NgNc8p_LWt3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237751637462134785/img/56L6NgNc8p_LWt3o.jpg",
+					"url": "https://t.co/VIgwQfWzrn",
+					"display_url": "pic.twitter.com/VIgwQfWzrn",
+					"expanded_url": "https://twitter.com/imajsaclaimant/status/1237756996708958208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 209743,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1237751637462134785/pl/lYKz0Rk5_0iWuuJy.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1237751637462134785/vid/480x270/nbgThPANBWk6rFmj.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1237751637462134785/vid/1280x720/eLPE9WddMbNxBi84.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1237751637462134785/vid/640x360/YSk4CkV2i9BIpN6t.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Jeremy Corbyn says new budget will not reverse Tory austerity policies",
+						"description": "Having ruthlessly forced down the living standards and life chances of millions of our people for a decade, the talk of levelling up is a cruel joke.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927662736,
+			"id_str": "927662736",
+			"name": "Ben Claimant 💚",
+			"screen_name": "imajsaclaimant",
+			"location": "South West, England.",
+			"description": "Activist & campaigner | Labour | #no2sanctions | Contact me: imajsaclaimant@gmail.com | https://t.co/QP08pzNyi4",
+			"url": "https://t.co/fIfT4Zbsyg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fIfT4Zbsyg",
+							"expanded_url": "https://imajsaclaimant.wordpress.com/",
+							"display_url": "imajsaclaimant.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QP08pzNyi4",
+							"expanded_url": "http://paypal.me/imajsaclaimant",
+							"display_url": "paypal.me/imajsaclaimant",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43338,
+			"friends_count": 17480,
+			"listed_count": 352,
+			"created_at": "Mon Nov 05 13:59:58 +0000 2012",
+			"favourites_count": 38895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 132001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160151715288690688/NbzqU_7L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160151715288690688/NbzqU_7L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/927662736/1534631610",
+			"profile_link_color": "911203",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 230,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jeremy Corbyn says a decade of austerity hasn't worked even in its own terms. He gives the heartbreaking example of the human cost, talking about Errol Graham who died of starvation weighing just 4½ stone after his benefits were cut. #Budget2020 https://t.co/VIgwQfWzrn"
+	},
+	{
+		"created_at": "Wed Mar 11 19:17:36 +0000 2020",
+		"id": 1237819983192883200,
+		"id_str": "1237819983192883201",
+		"full_text": "Academic Grammar Pattern List 2020 added to English Word Lists https://t.co/tPgn4b74PL #efl #tefl #esl #corpuslinguistics #eltchat h/t @MizumotoAtsushi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "efl",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						103,
+						121
+					]
+				},
+				{
+					"text": "eltchat",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MizumotoAtsushi",
+					"name": "水本　篤",
+					"id": 298592919,
+					"id_str": "298592919",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tPgn4b74PL",
+					"expanded_url": "https://eflnotes.wordpress.com/english-wordlists/",
+					"display_url": "eflnotes.wordpress.com/english-wordli…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1916,
+			"friends_count": 1219,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Academic Grammar Pattern List 2020 added to English Word Lists https://t.co/tPgn4b74PL #efl #tefl #esl #corpuslinguistics #eltchat h/t @MizumotoAtsushi"
+	},
+	{
 		"created_at": "Tue Mar 10 20:03:50 +0000 2020",
 		"id": 1237469232977391600,
 		"id_str": "1237469232977391618",
