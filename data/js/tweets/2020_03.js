@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 17:39:12 +0000 2020",
+		"id": 1238155996435972000,
+		"id_str": "1238157608034467845",
+		"full_text": ".@BorisJohnson's claim that not closing schools is justified by the science is false. Scientific studies show that school closures can reduce peak deaths and the size of epidemic by 20-60%. *This* delays the spread and reduces the burden on healthcare https://t.co/UXDFd44NVl https://t.co/o8QivVUHed",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BorisJohnson",
+					"name": "Boris Johnson",
+					"id": 3131144855,
+					"id_str": "3131144855",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UXDFd44NVl",
+					"expanded_url": "https://medium.com/insurge-intelligence/science-shows-that-only-radical-action-can-avert-a-coronavirus-bloodbath-2e9955a724d2",
+					"display_url": "medium.com/insurge-intell…",
+					"indices": [
+						252,
+						275
+					]
+				},
+				{
+					"url": "https://t.co/o8QivVUHed",
+					"expanded_url": "https://twitter.com/BBCNews/status/1238149342990667776",
+					"display_url": "twitter.com/BBCNews/status…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110692399,
+			"id_str": "110692399",
+			"name": "Dr Nafeez Ahmed",
+			"screen_name": "NafeezAhmed",
+			"location": "London, England",
+			"description": "System shifter @VICE. Words @guardian @independent @times @thesundaytimes. Crowdfunded investigations @insurgeintel. Fellow @schumacherinst https://t.co/Yi6HJfhENZ",
+			"url": "https://t.co/unkqzW6Znc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/unkqzW6Znc",
+							"expanded_url": "http://patreon.com/nafeez",
+							"display_url": "patreon.com/nafeez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Yi6HJfhENZ",
+							"expanded_url": "http://nafeezahmed.net",
+							"display_url": "nafeezahmed.net",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49425,
+			"friends_count": 5306,
+			"listed_count": 1148,
+			"created_at": "Tue Feb 02 12:56:18 +0000 2010",
+			"favourites_count": 33281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "65C7B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774312587500654592/VU9GiWiQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774312587500654592/VU9GiWiQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110692399/1473445638",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238149342990667800,
+		"quoted_status_id_str": "1238149342990667776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o8QivVUHed",
+			"expanded": "https://twitter.com/BBCNews/status/1238149342990667776",
+			"display": "twitter.com/BBCNews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 17:06:21 +0000 2020",
+			"id": 1238149342990667800,
+			"id_str": "1238149342990667776",
+			"full_text": "\"We are not, I repeat not, closing schools now\"\n\nUK PM Boris Johnson says \"the scientific advice\" is that closing schools across the country \"could do more harm than good\" in tackling coronavirus\n\nhttps://t.co/uwJOIBtUWY #CoronavirusPandemic https://t.co/p4xvIBioJx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoronavirusPandemic",
+						"indices": [
+							221,
+							241
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uwJOIBtUWY",
+						"expanded_url": "http://bbc.in/39MbH6a",
+						"display_url": "bbc.in/39MbH6a",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238148886465781800,
+						"id_str": "1238148886465781767",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1238148886465781767/img/8BpfzYQiB9fnlkxs.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1238148886465781767/img/8BpfzYQiB9fnlkxs.jpg",
+						"url": "https://t.co/p4xvIBioJx",
+						"display_url": "pic.twitter.com/p4xvIBioJx",
+						"expanded_url": "https://twitter.com/BBCNews/status/1238149342990667776/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238148886465781800,
+						"id_str": "1238148886465781767",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1238148886465781767/img/8BpfzYQiB9fnlkxs.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1238148886465781767/img/8BpfzYQiB9fnlkxs.jpg",
+						"url": "https://t.co/p4xvIBioJx",
+						"display_url": "pic.twitter.com/p4xvIBioJx",
+						"expanded_url": "https://twitter.com/BBCNews/status/1238149342990667776/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 27650,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1238148886465781767/vid/640x360/XgrpKnhzGbHCKgGx.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1238148886465781767/vid/480x270/4b9m04j5DhPyLGIQ.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1238148886465781767/vid/1280x720/tX0ZOhUdu3_1iT78.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1238148886465781767/pl/-NdWA-mETCKjqnBK.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.bbc.co.uk/news"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612473,
+				"id_str": "612473",
+				"name": "BBC News (UK)",
+				"screen_name": "BBCNews",
+				"location": "London",
+				"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+				"url": "https://t.co/vBzl7LNCCQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vBzl7LNCCQ",
+								"expanded_url": "http://www.bbc.co.uk/news",
+								"display_url": "bbc.co.uk/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10590584,
+				"friends_count": 101,
+				"listed_count": 42779,
+				"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+				"favourites_count": 42,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 409747,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1529425670",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1621,
+			"favorite_count": 4755,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 23,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@BorisJohnson's claim that not closing schools is justified by the science is false. Scientific studies show that school closures can reduce peak deaths and the size of epidemic by 20-60%. *This* delays the spread and reduces the burden on healthcare https://t.co/UXDFd44NVl https://t.co/o8QivVUHed"
+	},
+	{
+		"created_at": "Thu Mar 12 17:26:09 +0000 2020",
+		"id": 1238099381003391000,
+		"id_str": "1238154326402576386",
+		"full_text": "The UK government is shielding its economy, not its people.\n\nIn doing so: it plays with not just the safety of the UK, but an entire world\n\n#Coronavirus #Covid_19\n\nhttps://t.co/CRo6sMdbc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Coronavirus",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "Covid_19",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CRo6sMdbc9",
+					"expanded_url": "https://www.doubledown.news/watch/2020/12/march/coronavirus-what-britain-can-learn-from-china-pandemic-boris-johnson-covid-19",
+					"display_url": "doubledown.news/watch/2020/12/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808638164411842600,
+			"id_str": "808638164411842560",
+			"name": "Double Down News",
+			"screen_name": "DoubleDownNews",
+			"location": "United Kingdom",
+			"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+			"url": "https://t.co/mVcinH54Lh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVcinH54Lh",
+							"expanded_url": "http://www.doubledown.news",
+							"display_url": "doubledown.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V0RZWehJE0",
+							"expanded_url": "http://patreon.com/DoubleDownNews",
+							"display_url": "patreon.com/DoubleDownNews",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/BG2aXVXDbq",
+							"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+							"display_url": "paypal.com/cgi-bin/webscr…",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33443,
+			"friends_count": 1275,
+			"listed_count": 243,
+			"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+			"favourites_count": 2733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The UK government is shielding its economy, not its people.\n\nIn doing so: it plays with not just the safety of the UK, but an entire world\n\n#Coronavirus #Covid_19\n\nhttps://t.co/CRo6sMdbc9"
+	},
+	{
 		"created_at": "Wed Mar 11 20:06:04 +0000 2020",
 		"id": 1237756996708958200,
 		"id_str": "1237832179327041538",
