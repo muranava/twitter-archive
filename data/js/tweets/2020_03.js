@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 14:41:20 +0000 2020",
+		"id": 1238468160967377000,
+		"id_str": "1238475237005680641",
+		"full_text": "COVID-19 UK Mutual Aid groups: a list https://t.co/hhVEoDopmd https://t.co/0QmxggAtWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hhVEoDopmd",
+					"expanded_url": "https://freedomnews.org.uk/covid-19-uk-mutual-aid-groups-a-list/",
+					"display_url": "freedomnews.org.uk/covid-19-uk-mu…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238468159167959000,
+					"id_str": "1238468159167959044",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_sOqTWkAQyyWS.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES_sOqTWkAQyyWS.png",
+					"url": "https://t.co/0QmxggAtWo",
+					"display_url": "pic.twitter.com/0QmxggAtWo",
+					"expanded_url": "https://twitter.com/Freedom_Paper/status/1238468160967376903/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238468159167959000,
+					"id_str": "1238468159167959044",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/ES_sOqTWkAQyyWS.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES_sOqTWkAQyyWS.png",
+					"url": "https://t.co/0QmxggAtWo",
+					"display_url": "pic.twitter.com/0QmxggAtWo",
+					"expanded_url": "https://twitter.com/Freedom_Paper/status/1238468160967376903/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 444,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 364175805,
+			"id_str": "364175805",
+			"name": "Freedom Press",
+			"screen_name": "Freedom_Paper",
+			"location": "London E1 7QX",
+			"description": "Britain's oldest anarchist publisher & bookshop. Occasionally disreputable. https://t.co/Sgtm3XmJtQ for the news site. editor@ or shop@freedompress.org.uk",
+			"url": "http://t.co/pxFcMvuROw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pxFcMvuROw",
+							"expanded_url": "http://www.freedompress.org.uk",
+							"display_url": "freedompress.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Sgtm3XmJtQ",
+							"expanded_url": "http://freedomnews.org.uk",
+							"display_url": "freedomnews.org.uk",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11636,
+			"friends_count": 909,
+			"listed_count": 175,
+			"created_at": "Mon Aug 29 10:07:22 +0000 2011",
+			"favourites_count": 2169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00131C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875687519966441472/UvDJm768_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875687519966441472/UvDJm768_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/364175805/1497390450",
+			"profile_link_color": "ADA77D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "COVID-19 UK Mutual Aid groups: a list https://t.co/hhVEoDopmd https://t.co/0QmxggAtWo"
+	},
+	{
 		"created_at": "Thu Mar 12 17:39:12 +0000 2020",
 		"id": 1238155996435972000,
 		"id_str": "1238157608034467845",
