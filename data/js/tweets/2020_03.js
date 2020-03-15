@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 09:23:19 +0000 2020",
+		"id": 1238513167573147600,
+		"id_str": "1238757590424858624",
+		"full_text": "Breaking News: The German government announces immediate financial support to the arts sector and for freelancers due to the  #COVID19 crisis. https://t.co/lQvssM9wGl…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lQvssM9wGl",
+					"expanded_url": "https://bundesregierung.de/breg-de/bundesregierung/staatsministerin-fuer-kultur-und-medien/aktuelles/bundesregierung-startet-hilfsmassnahmen-wegen-coronavirus-kulturstaatsministerin-gruetters-kultur-und-kreativwirtschaft-muessen-massiv-unterstuetzt-werden--1730406",
+					"display_url": "bundesregierung.de/breg-de/bundes…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28603783,
+			"id_str": "28603783",
+			"name": "ICSOM",
+			"screen_name": "ICSOM",
+			"location": "",
+			"description": "International Conference of Symphony and Opera Musicians: tweets about orchestras, classical music, and the arts • Promoting unity among musicians everywhere",
+			"url": "http://t.co/bdBJs5Zg2k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bdBJs5Zg2k",
+							"expanded_url": "http://www.icsom.org",
+							"display_url": "icsom.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9514,
+			"friends_count": 6422,
+			"listed_count": 198,
+			"created_at": "Fri Apr 03 16:59:34 +0000 2009",
+			"favourites_count": 541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/296614320/ICSOM_Logo_for_banner__rl1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/296614320/ICSOM_Logo_for_banner__rl1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28603783/1401601548",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5344,
+		"favorite_count": 17127,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking News: The German government announces immediate financial support to the arts sector and for freelancers due to the  #COVID19 crisis. https://t.co/lQvssM9wGl…"
+	},
+	{
 		"created_at": "Fri Mar 13 14:41:20 +0000 2020",
 		"id": 1238468160967377000,
 		"id_str": "1238475237005680641",
