@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 19:05:16 +0000 2020",
+		"id": 1239986278147526700,
+		"id_str": "1239991206060457992",
+		"full_text": "Britain made a fucking huge mistake on the 12th December 2019. \n\nThat is all. \n\nhttps://t.co/KGCIC7fdUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239957740237344800,
+					"id_str": "1239957740237344768",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ETU37fNWkAc6VJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETU37fNWkAc6VJw.jpg",
+					"url": "https://t.co/KGCIC7fdUL",
+					"display_url": "pic.twitter.com/KGCIC7fdUL",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1239959541523124226/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239959541523124200,
+					"source_status_id_str": "1239959541523124226",
+					"source_user_id": 117777690,
+					"source_user_id_str": "117777690"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239957740237344800,
+					"id_str": "1239957740237344768",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ETU37fNWkAc6VJw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETU37fNWkAc6VJw.jpg",
+					"url": "https://t.co/KGCIC7fdUL",
+					"display_url": "pic.twitter.com/KGCIC7fdUL",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1239959541523124226/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239959541523124200,
+					"source_status_id_str": "1239959541523124226",
+					"source_user_id": 117777690,
+					"source_user_id_str": "117777690",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 162520,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239957740237344768/vid/480x480/wkJjFFVp2e_9Y3yu.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239957740237344768/vid/320x320/WSsxd6auQmk2yrJA.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239957740237344768/vid/720x720/DjSvtZpFq00IEvnY.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1239957740237344768/pl/CnasdlYcNykx-aqJ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 117777690,
+							"id_str": "117777690",
+							"name": "Jeremy Corbyn",
+							"screen_name": "jeremycorbyn",
+							"location": "UK",
+							"description": "Leader of the Labour Party.",
+							"url": "https://t.co/C2js91ZsYc",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/C2js91ZsYc",
+											"expanded_url": "https://join.labour.org.uk/",
+											"display_url": "join.labour.org.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2378154,
+							"friends_count": 2757,
+							"listed_count": 7939,
+							"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+							"favourites_count": 349,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 14209,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870848881,
+			"id_str": "2870848881",
+			"name": "Rachael Swindon #UTFC",
+			"screen_name": "Rachael_Swindon",
+			"location": "",
+			"description": "Persistent | Blocked by 87 Tory MPs & Right Said Fred | Growing interest in politics | Bad driver | Mum | I swear | I blog a bit | GTTO",
+			"url": "https://t.co/VbiZJPzY5Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VbiZJPzY5Q",
+							"expanded_url": "https://www.paypal.me/Rachael236",
+							"display_url": "paypal.me/Rachael236",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77512,
+			"friends_count": 4005,
+			"listed_count": 671,
+			"created_at": "Mon Nov 10 17:29:10 +0000 2014",
+			"favourites_count": 171043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205269874869768193/8CbfeMd0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205269874869768193/8CbfeMd0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870848881/1576276307",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 585,
+		"favorite_count": 1707,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Britain made a fucking huge mistake on the 12th December 2019. \n\nThat is all. \n\nhttps://t.co/KGCIC7fdUL"
+	},
+	{
 		"created_at": "Mon Mar 16 17:24:43 +0000 2020",
 		"id": 1239322717519777800,
 		"id_str": "1239603515619770369",
