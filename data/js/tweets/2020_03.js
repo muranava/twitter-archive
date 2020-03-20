@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 20:38:38 +0000 2020",
+		"id": 1240739089676152800,
+		"id_str": "1240739478857232389",
+		"full_text": "We know how easily pleased you wretched peasants are so we tossed off this piece of shit song for you https://t.co/pF201PyK5o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1240592718004445200,
+					"id_str": "1240592718004445184",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240592718004445184/pu/img/bv1DJa9qmK1L_11V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240592718004445184/pu/img/bv1DJa9qmK1L_11V.jpg",
+					"url": "https://t.co/pF201PyK5o",
+					"display_url": "pic.twitter.com/pF201PyK5o",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1240592765483974657/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1240592765483974700,
+					"source_status_id_str": "1240592765483974657",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240592718004445200,
+					"id_str": "1240592718004445184",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240592718004445184/pu/img/bv1DJa9qmK1L_11V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240592718004445184/pu/img/bv1DJa9qmK1L_11V.jpg",
+					"url": "https://t.co/pF201PyK5o",
+					"display_url": "pic.twitter.com/pF201PyK5o",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1240592765483974657/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1240592765483974700,
+					"source_status_id_str": "1240592765483974657",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552",
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							213
+						],
+						"duration_millis": 72011,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240592718004445184/pu/vid/404x270/Rh31qTOIhepkoEPH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240592718004445184/pu/vid/1080x720/QuZBtbp5V7me5_St.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1240592718004445184/pu/vid/540x360/IXKY658xoxJEI2Vk.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1240592718004445184/pu/pl/TTFYQ7EZMBMEgs9-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3291321552,
+							"id_str": "3291321552",
+							"name": "TheIainDuncanSmiths",
+							"screen_name": "TheIDSmiths",
+							"location": "DWP",
+							"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+							"url": "https://t.co/LpP9z6apMW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LpP9z6apMW",
+											"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+											"display_url": "youtube.com/TheIainDuncanS…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6386,
+							"friends_count": 864,
+							"listed_count": 18,
+							"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+							"favourites_count": 3129,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 8288,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6386,
+			"friends_count": 864,
+			"listed_count": 18,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 3129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We know how easily pleased you wretched peasants are so we tossed off this piece of shit song for you https://t.co/pF201PyK5o"
+	},
+	{
 		"created_at": "Tue Mar 17 19:05:16 +0000 2020",
 		"id": 1239986278147526700,
 		"id_str": "1239991206060457992",
