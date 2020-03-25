@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 11:37:09 +0000 2020",
+		"id": 1242410191414411300,
+		"id_str": "1242415150705106944",
+		"full_text": "\"Don't Touch-a You Face\" was suggested to us by Isaac Marshall, a 13-year-old who knows his ‘80s novelty hits. It works equally as well as public health advice &amp; as a tribute to the last few weeks of the government's laissez-faire approach to coronavirus containment #COVIDIDIOTS https://t.co/a6Br3CTeXL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVIDIDIOTS",
+					"indices": [
+						271,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242410148112588800,
+					"id_str": "1242410148112588802",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242410148112588802/pu/img/86QL4pt8ZHbhmFB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242410148112588802/pu/img/86QL4pt8ZHbhmFB3.jpg",
+					"url": "https://t.co/a6Br3CTeXL",
+					"display_url": "pic.twitter.com/a6Br3CTeXL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1242410191414411264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 572,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242410148112588800,
+					"id_str": "1242410148112588802",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242410148112588802/pu/img/86QL4pt8ZHbhmFB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242410148112588802/pu/img/86QL4pt8ZHbhmFB3.jpg",
+					"url": "https://t.co/a6Br3CTeXL",
+					"display_url": "pic.twitter.com/a6Br3CTeXL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1242410191414411264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 572,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							509,
+							286
+						],
+						"duration_millis": 96523,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242410148112588802/pu/vid/480x270/RlQAe0hlJ6gHixLQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242410148112588802/pu/vid/640x360/EOSdKuOfUghlswUi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1242410148112588802/pu/pl/IudwQ2LCOIGfSYqg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242410148112588802/pu/vid/1018x572/Ic0FOWnC_XuDNIap.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6469,
+			"friends_count": 871,
+			"listed_count": 18,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 3234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 192,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Don't Touch-a You Face\" was suggested to us by Isaac Marshall, a 13-year-old who knows his ‘80s novelty hits. It works equally as well as public health advice &amp; as a tribute to the last few weeks of the government's laissez-faire approach to coronavirus containment #COVIDIDIOTS https://t.co/a6Br3CTeXL"
+	},
+	{
 		"created_at": "Mon Mar 23 22:57:03 +0000 2020",
 		"id": 1242223866958819300,
 		"id_str": "1242223866958819328",
