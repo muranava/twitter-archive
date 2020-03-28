@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 22:02:46 +0000 2020",
+		"id": 1243624759641825300,
+		"id_str": "1243659756297957376",
+		"full_text": "from Santiago Chile, \"Solidarity is the virus which capitalism fears.\" In Spanish. 5min30sec.\n#NiceShitForEverybody\n#FreeShitForEverybody\n#Solidaridad #ApoyoMutuo\nhttps://t.co/Ge1BQM8snM https://t.co/LDpbuoKWjX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NiceShitForEverybody",
+					"indices": [
+						94,
+						115
+					]
+				},
+				{
+					"text": "FreeShitForEverybody",
+					"indices": [
+						116,
+						137
+					]
+				},
+				{
+					"text": "Solidaridad",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "ApoyoMutuo",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ge1BQM8snM",
+					"expanded_url": "https://www.youtube.com/watch?v=OrvPTPmHT0c",
+					"display_url": "youtube.com/watch?v=OrvPTP…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243624626204311600,
+					"id_str": "1243624626204311559",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EUI-Ai7WAAc0L9d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUI-Ai7WAAc0L9d.png",
+					"url": "https://t.co/LDpbuoKWjX",
+					"display_url": "pic.twitter.com/LDpbuoKWjX",
+					"expanded_url": "https://twitter.com/prolewave/status/1243624759641825280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243624626204311600,
+					"id_str": "1243624626204311559",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EUI-Ai7WAAc0L9d.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUI-Ai7WAAc0L9d.png",
+					"url": "https://t.co/LDpbuoKWjX",
+					"display_url": "pic.twitter.com/LDpbuoKWjX",
+					"expanded_url": "https://twitter.com/prolewave/status/1243624759641825280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818943410790862800,
+			"id_str": "818943410790862849",
+			"name": "prole wave",
+			"screen_name": "prolewave",
+			"location": "Tovaagnar",
+			"description": "now-collaborating to re-form. for anarchy & communism. formerly ediciones inéditas. based out of Los Angeles.",
+			"url": "https://t.co/bUB2dDkp5L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUB2dDkp5L",
+							"expanded_url": "https://prolewave.noblogs.org",
+							"display_url": "prolewave.noblogs.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5148,
+			"friends_count": 388,
+			"listed_count": 42,
+			"created_at": "Tue Jan 10 22:11:39 +0000 2017",
+			"favourites_count": 6099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198052958329397248/eKB8Nmu4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198052958329397248/eKB8Nmu4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818943410790862849/1582766146",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "from Santiago Chile, \"Solidarity is the virus which capitalism fears.\" In Spanish. 5min30sec.\n#NiceShitForEverybody\n#FreeShitForEverybody\n#Solidaridad #ApoyoMutuo\nhttps://t.co/Ge1BQM8snM https://t.co/LDpbuoKWjX"
+	},
+	{
 		"created_at": "Thu Mar 26 22:36:11 +0000 2020",
 		"id": 1243283899008106500,
 		"id_str": "1243305777789534208",
