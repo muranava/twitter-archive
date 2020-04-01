@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 20:59:26 +0000 2020",
+		"id": 1244737672930824200,
+		"id_str": "1245093367702261760",
+		"full_text": "Ever wondered how the @zoom_us macOS installer does it’s job without you ever clicking install? Turns out they (ab)use preinstallation scripts, manually unpack the app using a bundled 7zip and install it to /Applications if the current user is in the admin group (no root needed). https://t.co/qgQ1XdU11M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zoom_us",
+					"name": "Zoom",
+					"id": 522701657,
+					"id_str": "522701657",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244734638523891700,
+					"id_str": "1244734638523891713",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYvjxDXQAEYGWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYvjxDXQAEYGWM.jpg",
+					"url": "https://t.co/qgQ1XdU11M",
+					"display_url": "pic.twitter.com/qgQ1XdU11M",
+					"expanded_url": "https://twitter.com/c1truz_/status/1244737672930824193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244734638523891700,
+					"id_str": "1244734638523891713",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYvjxDXQAEYGWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYvjxDXQAEYGWM.jpg",
+					"url": "https://t.co/qgQ1XdU11M",
+					"display_url": "pic.twitter.com/qgQ1XdU11M",
+					"expanded_url": "https://twitter.com/c1truz_/status/1244737672930824193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244734943026184200,
+					"id_str": "1244734943026184198",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYv1faXgAYBHVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYv1faXgAYBHVC.jpg",
+					"url": "https://t.co/qgQ1XdU11M",
+					"display_url": "pic.twitter.com/qgQ1XdU11M",
+					"expanded_url": "https://twitter.com/c1truz_/status/1244737672930824193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 767,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1298,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244734943135137800,
+					"id_str": "1244734943135137793",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EUYv1f0WAAEXJjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUYv1f0WAAEXJjJ.jpg",
+					"url": "https://t.co/qgQ1XdU11M",
+					"display_url": "pic.twitter.com/qgQ1XdU11M",
+					"expanded_url": "https://twitter.com/c1truz_/status/1244737672930824193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1644,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14777065,
+			"id_str": "14777065",
+			"name": "Felix",
+			"screen_name": "c1truz_",
+			"location": "Bochum, Germany",
+			"description": "Technical Lead at @vmray, focused on macOS. Opinions are my cat's.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 932,
+			"friends_count": 508,
+			"listed_count": 29,
+			"created_at": "Wed May 14 19:07:30 +0000 2008",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A0998A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/910605537724833793/ImAIZlZi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/910605537724833793/ImAIZlZi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14777065/1488441418",
+			"profile_link_color": "03339A",
+			"profile_sidebar_border_color": "98875E",
+			"profile_sidebar_fill_color": "F5E5BE",
+			"profile_text_color": "2B0C13",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2355,
+		"favorite_count": 5011,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered how the @zoom_us macOS installer does it’s job without you ever clicking install? Turns out they (ab)use preinstallation scripts, manually unpack the app using a bundled 7zip and install it to /Applications if the current user is in the admin group (no root needed). https://t.co/qgQ1XdU11M"
+	},
+	{
 		"created_at": "Mon Mar 30 15:54:18 +0000 2020",
 		"id": 1244654190959497200,
 		"id_str": "1244654190959497216",
