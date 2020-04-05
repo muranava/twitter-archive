@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 09:10:32 +0000 2020",
+		"id": 1246346045128401000,
+		"id_str": "1246364518487293953",
+		"full_text": "Should be on every teacher training course: how not to use mnemonics https://t.co/UBHoBZ7DvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 989430755347513300,
+					"id_str": "989430755347513344",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/989430755347513344/pu/img/RbuCbzzNrK5Lo2N-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/989430755347513344/pu/img/RbuCbzzNrK5Lo2N-.jpg",
+					"url": "https://t.co/UBHoBZ7DvX",
+					"display_url": "pic.twitter.com/UBHoBZ7DvX",
+					"expanded_url": "https://twitter.com/CFBClips/status/989431131924611072/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989431131924611100,
+					"source_status_id_str": "989431131924611072",
+					"source_user_id": 918490481511804900,
+					"source_user_id_str": "918490481511804928"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989430755347513300,
+					"id_str": "989430755347513344",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/989430755347513344/pu/img/RbuCbzzNrK5Lo2N-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/989430755347513344/pu/img/RbuCbzzNrK5Lo2N-.jpg",
+					"url": "https://t.co/UBHoBZ7DvX",
+					"display_url": "pic.twitter.com/UBHoBZ7DvX",
+					"expanded_url": "https://twitter.com/CFBClips/status/989431131924611072/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 432,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989431131924611100,
+					"source_status_id_str": "989431131924611072",
+					"source_user_id": 918490481511804900,
+					"source_user_id_str": "918490481511804928",
+					"video_info": {
+						"aspect_ratio": [
+							27,
+							20
+						],
+						"duration_millis": 30590,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/989430755347513344/pu/pl/2hMO-VmKUmP8Epgq.m3u8?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/989430755347513344/pu/vid/242x180/ADkjSLL3JvWzw5yF.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 918490481511804900,
+							"id_str": "918490481511804928",
+							"name": "CFB Clips",
+							"screen_name": "CFBClips",
+							"location": "",
+							"description": "Charming. Forgotten. Bizarre. TV clips compiled by @MrMichaelSpicer.",
+							"url": "https://t.co/zQJEK77LzQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zQJEK77LzQ",
+											"expanded_url": "http://www.michaelspicer.co.uk",
+											"display_url": "michaelspicer.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 17163,
+							"friends_count": 1,
+							"listed_count": 71,
+							"created_at": "Thu Oct 12 14:56:10 +0000 2017",
+							"favourites_count": 4485,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2442,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/918491777769799680/Q_AzdaHS_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/918491777769799680/Q_AzdaHS_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/918490481511804928/1507821043",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1427645696,
+			"id_str": "1427645696",
+			"name": "Duncan Partridge",
+			"screen_name": "PartridgeSBP",
+			"location": "UK",
+			"description": "Director of Programmes, @Skills_Builder",
+			"url": "https://t.co/lI8S6Zr01n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lI8S6Zr01n",
+							"expanded_url": "http://www.skillsbuilder.org",
+							"display_url": "skillsbuilder.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1969,
+			"friends_count": 2077,
+			"listed_count": 53,
+			"created_at": "Tue May 14 11:51:36 +0000 2013",
+			"favourites_count": 1959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165925319582392320/6056KCaT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165925319582392320/6056KCaT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1427645696/1567411668",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0b30aadf406d13cc",
+			"url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json",
+			"place_type": "city",
+			"name": "Hounslow",
+			"full_name": "Hounslow, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.457966,
+							51.420633
+						],
+						[
+							-0.243419,
+							51.420633
+						],
+						[
+							-0.243419,
+							51.502851
+						],
+						[
+							-0.457966,
+							51.502851
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should be on every teacher training course: how not to use mnemonics https://t.co/UBHoBZ7DvX"
+	},
+	{
 		"created_at": "Fri Apr 03 22:35:52 +0000 2020",
 		"id": 1246052649130168300,
 		"id_str": "1246204799739211777",
@@ -726,7 +1023,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
