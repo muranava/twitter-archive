@@ -1,6 +1,1040 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 20:15:20 +0000 2020",
+		"id": 1246892732733362200,
+		"id_str": "1246894208486703105",
+		"full_text": "Alternative Proposal for IATEFL Global Get-Together 2020 https://t.co/10ZM8j3LXU https://t.co/adYT4WrxA0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/10ZM8j3LXU",
+					"expanded_url": "https://applingtesol.wordpress.com/2020/04/05/alternative-proposal-for-iatefl-global-get-together-2020/",
+					"display_url": "applingtesol.wordpress.com/2020/04/05/alt…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246892729768063000,
+					"id_str": "1246892729768062985",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EU3aVNbXsAkZi7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU3aVNbXsAkZi7d.jpg",
+					"url": "https://t.co/adYT4WrxA0",
+					"display_url": "pic.twitter.com/adYT4WrxA0",
+					"expanded_url": "https://twitter.com/GeoffJordan17/status/1246892732733362176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246892729768063000,
+					"id_str": "1246892729768062985",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EU3aVNbXsAkZi7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU3aVNbXsAkZi7d.jpg",
+					"url": "https://t.co/adYT4WrxA0",
+					"display_url": "pic.twitter.com/adYT4WrxA0",
+					"expanded_url": "https://twitter.com/GeoffJordan17/status/1246892732733362176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 930,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 930,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1202653711052480500,
+			"id_str": "1202653711052480512",
+			"name": "Geoff Jordan",
+			"screen_name": "GeoffJordan17",
+			"location": "",
+			"description": "https://t.co/05Obmar9cV. (Econ.); M.A.; Ph.D. Associate tutor in MA in A.L. & TESOL, Leicester University, UK. Member of SLB Cooperative. I live near Girona, Spain.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/05Obmar9cV",
+							"expanded_url": "http://B.Sc",
+							"display_url": "B.Sc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 379,
+			"friends_count": 279,
+			"listed_count": 3,
+			"created_at": "Thu Dec 05 18:19:39 +0000 2019",
+			"favourites_count": 481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202653923322060800/LLjNScR3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202653923322060800/LLjNScR3_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alternative Proposal for IATEFL Global Get-Together 2020 https://t.co/10ZM8j3LXU https://t.co/adYT4WrxA0"
+	},
+	{
+		"created_at": "Sun Apr 05 10:41:52 +0000 2020",
+		"id": 1246721750852870100,
+		"id_str": "1246749891449274368",
+		"full_text": "Since I moved to London I witnessed several live #FacialRecognition deployments by UK police forces. Thousands were scanned without consent. Many racially profiled and intimidated\nI've made a short film about the #UKSurveillanceState\n\nWatch the film here: https://t.co/Fj787Dv8V6 https://t.co/cAvyEm5cbX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FacialRecognition",
+					"indices": [
+						49,
+						67
+					]
+				},
+				{
+					"text": "UKSurveillanceState",
+					"indices": [
+						213,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fj787Dv8V6",
+					"expanded_url": "https://bmstudios.org/uk-surveillance-state/",
+					"display_url": "bmstudios.org/uk-surveillanc…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246721264510800000,
+					"id_str": "1246721264510799872",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246721264510799872/pu/img/rPEFllxhamp-vObD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246721264510799872/pu/img/rPEFllxhamp-vObD.jpg",
+					"url": "https://t.co/cAvyEm5cbX",
+					"display_url": "pic.twitter.com/cAvyEm5cbX",
+					"expanded_url": "https://twitter.com/iamBorjaMoya/status/1246721750852870144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246721264510800000,
+					"id_str": "1246721264510799872",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246721264510799872/pu/img/rPEFllxhamp-vObD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246721264510799872/pu/img/rPEFllxhamp-vObD.jpg",
+					"url": "https://t.co/cAvyEm5cbX",
+					"display_url": "pic.twitter.com/cAvyEm5cbX",
+					"expanded_url": "https://twitter.com/iamBorjaMoya/status/1246721750852870144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 119958,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246721264510799872/pu/vid/480x480/2BDTw3Eb0fNQ8uSH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246721264510799872/pu/pl/rdKSHO6wpRVOVTqM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246721264510799872/pu/vid/720x720/qaJl5frl9ipLa1yb.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246721264510799872/pu/vid/320x320/_5T7FSwSLgOrRJ5X.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048837044,
+			"id_str": "1048837044",
+			"name": "Borja Moya",
+			"screen_name": "iamBorjaMoya",
+			"location": "London",
+			"description": "#DataRebel, writer and filmmaker. Author of 'Data Dictatorships: The Arms Race to Hack Humankind'. Founder of BM Studios: https://t.co/nVkCm7Bi6p.",
+			"url": "https://t.co/WTzHJaxuPN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WTzHJaxuPN",
+							"expanded_url": "https://borjamoya.com",
+							"display_url": "borjamoya.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nVkCm7Bi6p",
+							"expanded_url": "http://bmstudios.org",
+							"display_url": "bmstudios.org",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 348,
+			"friends_count": 239,
+			"listed_count": 21,
+			"created_at": "Sun Dec 30 21:25:38 +0000 2012",
+			"favourites_count": 384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102565710100942848/DZMcPLFd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102565710100942848/DZMcPLFd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048837044/1586087512",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 80,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since I moved to London I witnessed several live #FacialRecognition deployments by UK police forces. Thousands were scanned without consent. Many racially profiled and intimidated\nI've made a short film about the #UKSurveillanceState\n\nWatch the film here: https://t.co/Fj787Dv8V6 https://t.co/cAvyEm5cbX"
+	},
+	{
+		"created_at": "Sun Apr 05 10:02:04 +0000 2020",
+		"id": 1246739878043431000,
+		"id_str": "1246739878043430913",
+		"full_text": "@ParisaMehran @ELGazette Good to read your article in any case.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParisaMehran",
+					"name": "Parisa Mehran, PhD",
+					"id": 1115272279,
+					"id_str": "1115272279",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ELGazette",
+					"name": "EL Gazette",
+					"id": 614186998,
+					"id_str": "614186998",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246737046640574500,
+		"in_reply_to_status_id_str": "1246737046640574468",
+		"in_reply_to_user_id": 1115272279,
+		"in_reply_to_user_id_str": "1115272279",
+		"in_reply_to_screen_name": "ParisaMehran",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1253,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ParisaMehran @ELGazette Good to read your article in any case."
+	},
+	{
+		"created_at": "Sun Apr 05 09:56:27 +0000 2020",
+		"id": 1246738464663580700,
+		"id_str": "1246738464663580674",
+		"full_text": "@devisridhar Linguist @tonythorne007 is compiling a list here https://t.co/vgr7onkir3",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "devisridhar",
+					"name": "Devi Sridhar",
+					"id": 174151902,
+					"id_str": "174151902",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vgr7onkir3",
+					"expanded_url": "https://language-and-innovation.com/2020/03/31/coronaspeak-the-language-of-covid-19-goes-viral/",
+					"display_url": "language-and-innovation.com/2020/03/31/cor…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246736153765720000,
+		"in_reply_to_status_id_str": "1246736153765720064",
+		"in_reply_to_user_id": 174151902,
+		"in_reply_to_user_id_str": "174151902",
+		"in_reply_to_screen_name": "devisridhar",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1253,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@devisridhar Linguist @tonythorne007 is compiling a list here https://t.co/vgr7onkir3"
+	},
+	{
+		"created_at": "Sun Apr 05 09:43:23 +0000 2020",
+		"id": 1246735175255502800,
+		"id_str": "1246735175255502849",
+		"full_text": "\"We need to focus on eliminating racist conditions, not on fixing marginalied teachers\" well said Parisa! https://t.co/KjG3QfhxRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KjG3QfhxRx",
+					"expanded_url": "https://twitter.com/ParisaMehran/status/1246616382306836481",
+					"display_url": "twitter.com/ParisaMehran/s…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1253,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246616382306836500,
+		"quoted_status_id_str": "1246616382306836481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KjG3QfhxRx",
+			"expanded": "https://twitter.com/ParisaMehran/status/1246616382306836481",
+			"display": "twitter.com/ParisaMehran/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 01:51:21 +0000 2020",
+			"id": 1246616382306836500,
+			"id_str": "1246616382306836481",
+			"full_text": "This happened when I l wrote 4 @ELGazette\nI contacted them &amp; asked them to edit it! They also wrote Instagram poet &amp; I asked them to remove “Instagram”. I told them she’s published 2 books! They edited the online version but not the paper version. \nYes, it’s racist. https://t.co/evg9hz2c0H https://t.co/eRcqHePpMw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				298
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ELGazette",
+						"name": "EL Gazette",
+						"id": 614186998,
+						"id_str": "614186998",
+						"indices": [
+							31,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/evg9hz2c0H",
+						"expanded_url": "https://twitter.com/aliawhs/status/1246401688245854209",
+						"display_url": "twitter.com/aliawhs/status…",
+						"indices": [
+							275,
+							298
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1246616362643935200,
+						"id_str": "1246616362643935232",
+						"indices": [
+							299,
+							322
+						],
+						"media_url": "http://pbs.twimg.com/media/EUze-hqU0AAOrSk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUze-hqU0AAOrSk.jpg",
+						"url": "https://t.co/eRcqHePpMw",
+						"display_url": "pic.twitter.com/eRcqHePpMw",
+						"expanded_url": "https://twitter.com/ParisaMehran/status/1246616382306836481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246616362643935200,
+						"id_str": "1246616362643935232",
+						"indices": [
+							299,
+							322
+						],
+						"media_url": "http://pbs.twimg.com/media/EUze-hqU0AAOrSk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUze-hqU0AAOrSk.jpg",
+						"url": "https://t.co/eRcqHePpMw",
+						"display_url": "pic.twitter.com/eRcqHePpMw",
+						"expanded_url": "https://twitter.com/ParisaMehran/status/1246616382306836481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115272279,
+				"id_str": "1115272279",
+				"name": "Parisa Mehran, PhD",
+				"screen_name": "ParisaMehran",
+				"location": "Osaka-fu, Japan",
+				"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+				"url": "https://t.co/n5GLjpenSJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n5GLjpenSJ",
+								"expanded_url": "https://sites.google.com/view/parisamehran",
+								"display_url": "sites.google.com/view/parisameh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2845,
+				"friends_count": 4694,
+				"listed_count": 34,
+				"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+				"favourites_count": 68642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24762,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1227251621148540928/Gm-HcKnK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227251621148540928/Gm-HcKnK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1582122612",
+				"profile_link_color": "59200D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1246401688245854200,
+			"quoted_status_id_str": "1246401688245854209",
+			"quoted_status_permalink": {
+				"url": "https://t.co/evg9hz2c0H",
+				"expanded": "https://twitter.com/aliawhs/status/1246401688245854209",
+				"display": "twitter.com/aliawhs/status…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We need to focus on eliminating racist conditions, not on fixing marginalied teachers\" well said Parisa! https://t.co/KjG3QfhxRx"
+	},
+	{
 		"created_at": "Sat Apr 04 09:10:32 +0000 2020",
 		"id": 1246346045128401000,
 		"id_str": "1246364518487293953",
