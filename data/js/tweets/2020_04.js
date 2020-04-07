@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 20:38:40 +0000 2020",
+		"id": 1247257255264882700,
+		"id_str": "1247262468444954626",
+		"full_text": "There is no politics tonight. Just people getting sick in detention centres and prisons he won't release. In the building sites, warehouses, and call centres he won't close. On the hospital floors he failed to supply with PPE and tests. No politics though. https://t.co/j5Q5DSXa4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j5Q5DSXa4u",
+					"expanded_url": "https://twitter.com/bbcnickrobinson/status/1247248049098895360",
+					"display_url": "twitter.com/bbcnickrobinso…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "Petrograd",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/xiOWJ610Vk",
+			"url": "https://t.co/NisDMEzbCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NisDMEzbCY",
+							"expanded_url": "http://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xiOWJ610Vk",
+							"expanded_url": "https://www.patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45681,
+			"friends_count": 2685,
+			"listed_count": 826,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 15579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1584963593",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247248049098895400,
+		"quoted_status_id_str": "1247248049098895360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j5Q5DSXa4u",
+			"expanded": "https://twitter.com/bbcnickrobinson/status/1247248049098895360",
+			"display": "twitter.com/bbcnickrobinso…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 19:41:22 +0000 2020",
+			"id": 1247248049098895400,
+			"id_str": "1247248049098895360",
+			"full_text": "Grim news. Was evident earlier that things were a lot worse than No 10 was letting on. There is no politics tonight. Just best wishes for a fellow human being struck low by this dreadful virus. https://t.co/2sgmQdLfGW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2sgmQdLfGW",
+						"expanded_url": "https://twitter.com/bbcnickrobinson/status/1247244459030560770",
+						"display_url": "twitter.com/bbcnickrobinso…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25984418,
+				"id_str": "25984418",
+				"name": "Nick Robinson",
+				"screen_name": "bbcnickrobinson",
+				"location": "",
+				"description": "Presenter, Today & Political Thinking, BBC Radio 4. Former BBC/ITV Political Editor. Author, Election Notebook & Live from Downing Street",
+				"url": "https://t.co/2loe51lD3W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2loe51lD3W",
+								"expanded_url": "http://bbc.in/2nSrTPc",
+								"display_url": "bbc.in/2nSrTPc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 977092,
+				"friends_count": 515,
+				"listed_count": 6039,
+				"created_at": "Mon Mar 23 11:20:34 +0000 2009",
+				"favourites_count": 1211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/870258194198802432/c-6Cegbb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/870258194198802432/c-6Cegbb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25984418/1559064045",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1247244459030560800,
+			"quoted_status_id_str": "1247244459030560770",
+			"quoted_status_permalink": {
+				"url": "https://t.co/2sgmQdLfGW",
+				"expanded": "https://twitter.com/bbcnickrobinson/status/1247244459030560770",
+				"display": "twitter.com/bbcnickrobinso…"
+			},
+			"retweet_count": 450,
+			"favorite_count": 4843,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 670,
+		"favorite_count": 1822,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is no politics tonight. Just people getting sick in detention centres and prisons he won't release. In the building sites, warehouses, and call centres he won't close. On the hospital floors he failed to supply with PPE and tests. No politics though. https://t.co/j5Q5DSXa4u"
+	},
+	{
+		"created_at": "Mon Apr 06 20:05:03 +0000 2020",
+		"id": 1247254008554827800,
+		"id_str": "1247254008554827776",
+		"full_text": "@perezparedes hi Pascual, do you know if there are any plans to make the video files available in SACODEYL and Backbone?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perezparedes",
+					"name": "Pascual Pérez-Paredes",
+					"id": 28528850,
+					"id_str": "28528850",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247053946411237400,
+		"in_reply_to_status_id_str": "1247053946411237377",
+		"in_reply_to_user_id": 28528850,
+		"in_reply_to_user_id_str": "28528850",
+		"in_reply_to_screen_name": "perezparedes",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1254,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@perezparedes hi Pascual, do you know if there are any plans to make the video files available in SACODEYL and Backbone?"
+	},
+	{
+		"created_at": "Mon Apr 06 19:25:36 +0000 2020",
+		"id": 1247244081274794000,
+		"id_str": "1247244081274793990",
+		"full_text": "@ELTResearch @perezparedes @SeanHutchman @leoselivan yes Scott Thornbury in comment to post cites Willis \"Concordances in the classroom without a computer: assembling and exploring concordances of common words\" 1998",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTResearch",
+					"name": "Chris Jones",
+					"id": 3308043417,
+					"id_str": "3308043417",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "perezparedes",
+					"name": "Pascual Pérez-Paredes",
+					"id": 28528850,
+					"id_str": "28528850",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "SeanHutchman",
+					"name": "Sean Hutchman",
+					"id": 2444199513,
+					"id_str": "2444199513",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247240136078823400,
+		"in_reply_to_status_id_str": "1247240136078823425",
+		"in_reply_to_user_id": 3308043417,
+		"in_reply_to_user_id_str": "3308043417",
+		"in_reply_to_screen_name": "ELTResearch",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1254,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ELTResearch @perezparedes @SeanHutchman @leoselivan yes Scott Thornbury in comment to post cites Willis \"Concordances in the classroom without a computer: assembling and exploring concordances of common words\" 1998"
+	},
+	{
+		"created_at": "Mon Apr 06 17:36:46 +0000 2020",
+		"id": 1247216694776520700,
+		"id_str": "1247216694776520704",
+		"full_text": "@perezparedes @SeanHutchman @leoselivan a related aspect is hand concordancing, or dogme concordancing, used as a reactive focus on form e.g. - https://t.co/PPu4sbmASE",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perezparedes",
+					"name": "Pascual Pérez-Paredes",
+					"id": 28528850,
+					"id_str": "28528850",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SeanHutchman",
+					"name": "Sean Hutchman",
+					"id": 2444199513,
+					"id_str": "2444199513",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PPu4sbmASE",
+					"expanded_url": "https://blog.englishup.me/2014/01/14/dogme-and-manual-concordancing/",
+					"display_url": "blog.englishup.me/2014/01/14/dog…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247109872782540800,
+		"in_reply_to_status_id_str": "1247109872782540800",
+		"in_reply_to_user_id": 28528850,
+		"in_reply_to_user_id_str": "28528850",
+		"in_reply_to_screen_name": "perezparedes",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1254,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@perezparedes @SeanHutchman @leoselivan a related aspect is hand concordancing, or dogme concordancing, used as a reactive focus on form e.g. - https://t.co/PPu4sbmASE"
+	},
+	{
+		"created_at": "Mon Apr 06 13:44:55 +0000 2020",
+		"id": 1247152776464838700,
+		"id_str": "1247158347763073026",
+		"full_text": "Deaccenting Is Forever? Apparently not. https://t.co/XXh4mNEdeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XXh4mNEdeo",
+					"expanded_url": "https://www.youtube.com/watch?v=pa20xOTEdtw",
+					"display_url": "youtube.com/watch?v=pa20xO…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 381534458,
+			"id_str": "381534458",
+			"name": "Geoff Lindsey",
+			"screen_name": "GeoffLindsey",
+			"location": "UK",
+			"description": "speech • accents • dialects • phonetics • coaching • courses",
+			"url": "http://t.co/477lHcgz8b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/477lHcgz8b",
+							"expanded_url": "http://englishspeechservices.com",
+							"display_url": "englishspeechservices.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 411,
+			"listed_count": 10,
+			"created_at": "Wed Sep 28 14:09:04 +0000 2011",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110976371801636864/QMdu-y2v_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110976371801636864/QMdu-y2v_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/381534458/1553712596",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deaccenting Is Forever? Apparently not. https://t.co/XXh4mNEdeo"
+	},
+	{
 		"created_at": "Sun Apr 05 20:15:20 +0000 2020",
 		"id": 1246892732733362200,
 		"id_str": "1246894208486703105",
@@ -952,7 +1729,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "Parisa Mehran, PhD",
 				"screen_name": "ParisaMehran",
 				"location": "Osaka-fu, Japan",
-				"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+				"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
 				"url": "https://t.co/n5GLjpenSJ",
 				"entities": {
 					"url": {
