@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 18:47:04 +0000 2020",
+		"id": 1247872752901664800,
+		"id_str": "1247959162170101766",
+		"full_text": "The World at One have just played Boris Johnson’s favourite song, No Scrubs (PPE Remix), “in the hope that it might reach him. A simple yet very moving moment of radio. #wato https://t.co/P6rs4MfvUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wato",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243885321441415200,
+					"id_str": "1243885321441415168",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243885321441415168/pu/img/b1yv80KzOPPsZcTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243885321441415168/pu/img/b1yv80KzOPPsZcTR.jpg",
+					"url": "https://t.co/P6rs4MfvUF",
+					"display_url": "pic.twitter.com/P6rs4MfvUF",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1243885366312124416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243885366312124400,
+					"source_status_id_str": "1243885366312124416",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243885321441415200,
+					"id_str": "1243885321441415168",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243885321441415168/pu/img/b1yv80KzOPPsZcTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243885321441415168/pu/img/b1yv80KzOPPsZcTR.jpg",
+					"url": "https://t.co/P6rs4MfvUF",
+					"display_url": "pic.twitter.com/P6rs4MfvUF",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1243885366312124416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243885366312124400,
+					"source_status_id_str": "1243885366312124416",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552",
+					"video_info": {
+						"aspect_ratio": [
+							637,
+							359
+						],
+						"duration_millis": 100055,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243885321441415168/pu/vid/478x270/0enP9IwHnVcaCNg_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243885321441415168/pu/vid/638x360/fNiBO_94IU7Geqdl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243885321441415168/pu/vid/1274x718/4fuZDvFccnGkcMpp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1243885321441415168/pu/pl/tUZBfZ9P_TsoBG5q.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3291321552,
+							"id_str": "3291321552",
+							"name": "TheIainDuncanSmiths",
+							"screen_name": "TheIDSmiths",
+							"location": "DWP",
+							"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+							"url": "https://t.co/LpP9z6apMW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LpP9z6apMW",
+											"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+											"display_url": "youtube.com/TheIainDuncanS…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 6726,
+							"friends_count": 902,
+							"listed_count": 20,
+							"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+							"favourites_count": 3626,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 8784,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6726,
+			"friends_count": 902,
+			"listed_count": 20,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 3626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The World at One have just played Boris Johnson’s favourite song, No Scrubs (PPE Remix), “in the hope that it might reach him. A simple yet very moving moment of radio. #wato https://t.co/P6rs4MfvUF"
+	},
+	{
 		"created_at": "Tue Apr 07 20:51:06 +0000 2020",
 		"id": 1247627985722708000,
 		"id_str": "1247627985722707969",
