@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 12:39:07 +0000 2020",
+		"id": 1248226925375520800,
+		"id_str": "1248228952293830657",
+		"full_text": "\"Nonsense, Mr. Johnson\" is taken from our new album The Prime Minister is Not Dead https://t.co/tHCeVGwfIL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248226870090330000,
+					"id_str": "1248226870090330112",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248226870090330112/pu/img/a2UZcZnw1Lizrej5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248226870090330112/pu/img/a2UZcZnw1Lizrej5.jpg",
+					"url": "https://t.co/tHCeVGwfIL",
+					"display_url": "pic.twitter.com/tHCeVGwfIL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1248226925375520774/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248226870090330000,
+					"id_str": "1248226870090330112",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248226870090330112/pu/img/a2UZcZnw1Lizrej5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248226870090330112/pu/img/a2UZcZnw1Lizrej5.jpg",
+					"url": "https://t.co/tHCeVGwfIL",
+					"display_url": "pic.twitter.com/tHCeVGwfIL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1248226925375520774/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 121408,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248226870090330112/pu/vid/480x270/-ikqBbMDJaHktmS5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248226870090330112/pu/pl/s9q0PHsrds6PX3ix.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248226870090330112/pu/vid/640x360/yyDkJZobx94r81YO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248226870090330112/pu/vid/1280x720/shMRV2zlxvkf45Na.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6807,
+			"friends_count": 907,
+			"listed_count": 20,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 3681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 100,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Nonsense, Mr. Johnson\" is taken from our new album The Prime Minister is Not Dead https://t.co/tHCeVGwfIL"
+	},
+	{
+		"created_at": "Thu Apr 09 12:29:17 +0000 2020",
+		"id": 1247848686253682700,
+		"id_str": "1248226474613751808",
+		"full_text": "The Spanish government is releasing everyone from immigration detention.\n\nMeanwhile the UK government is not only keeping people detained, they're putting new people in detention. Absolutely appalling. \n\nRelease all detainees now. https://t.co/KYiFFYe4KW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KYiFFYe4KW",
+					"expanded_url": "https://twitter.com/BellaSankey/status/1247838179736129536",
+					"display_url": "twitter.com/BellaSankey/st…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71318028,
+			"id_str": "71318028",
+			"name": "Maya Goodfellow",
+			"screen_name": "MayaGoodfellow",
+			"location": "Newcastle/London",
+			"description": "Author: ‘Hostile Environment: How Immigrants Became Scapegoats' -  https://t.co/XlXHsKM0mT. Writer. PhD in race, racism and whiteness. Instragram: mayagoodfellow",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XlXHsKM0mT",
+							"expanded_url": "http://bit.ly/31QDSw5",
+							"display_url": "bit.ly/31QDSw5",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 35998,
+			"friends_count": 1519,
+			"listed_count": 346,
+			"created_at": "Thu Sep 03 18:08:35 +0000 2009",
+			"favourites_count": 6007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874343000272506886/OVA6Mp84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874343000272506886/OVA6Mp84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71318028/1571731427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247838179736129500,
+		"quoted_status_id_str": "1247838179736129536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KYiFFYe4KW",
+			"expanded": "https://twitter.com/BellaSankey/status/1247838179736129536",
+			"display": "twitter.com/BellaSankey/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 08 10:46:20 +0000 2020",
+			"id": 1247838179736129500,
+			"id_str": "1247838179736129536",
+			"full_text": "BREAKING: There is a confirmed #COVID19 case at Brook House detention centre. The person with COVID was detained on 2nd April. \n\n@ukhomeoffice you have been warned of the risks, so why continue to detain? \n\nWhere is Priti Patel? Why isn't she explaining her decisions? @mrjamesob",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							31,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ukhomeoffice",
+						"name": "Home Office",
+						"id": 138037459,
+						"id_str": "138037459",
+						"indices": [
+							129,
+							142
+						]
+					},
+					{
+						"screen_name": "mrjamesob",
+						"name": "James O'Brien",
+						"id": 152656121,
+						"id_str": "152656121",
+						"indices": [
+							269,
+							279
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1193148540316463000,
+				"id_str": "1193148540316463104",
+				"name": "Bella Sankey",
+				"screen_name": "BellaSankey",
+				"location": "Sussex",
+				"description": "Director of @DetentionAction ⚖️Human rights campaigner 🗽🌈Mother 🤱🏻Mixed Race yoga lover 🧘🏽‍♀️Formerly @Reprieve & @LibertyHQ. Views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4197,
+				"friends_count": 1117,
+				"listed_count": 24,
+				"created_at": "Sat Nov 09 12:49:19 +0000 2019",
+				"favourites_count": 917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1208042012160725000/ol4GOyIC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208042012160725000/ol4GOyIC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1193148540316463104/1576854636",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 646,
+			"favorite_count": 997,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 417,
+		"favorite_count": 790,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Spanish government is releasing everyone from immigration detention.\n\nMeanwhile the UK government is not only keeping people detained, they're putting new people in detention. Absolutely appalling. \n\nRelease all detainees now. https://t.co/KYiFFYe4KW"
+	},
+	{
+		"created_at": "Thu Apr 09 09:27:07 +0000 2020",
+		"id": 1248180631026258000,
+		"id_str": "1248180631026257926",
+		"full_text": "@AchilleasK @11thhourspecial the amount of faith that we in general (not just in ELT) can continue as normal is understandable but remarkable; would like to see an online teaching webinar on sabotaging distance learning techniques ; )",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AchilleasK",
+					"name": "Achilleas Kostoulas",
+					"id": 134191406,
+					"id_str": "134191406",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248171551821828000,
+		"in_reply_to_status_id_str": "1248171551821828096",
+		"in_reply_to_user_id": 134191406,
+		"in_reply_to_user_id_str": "134191406",
+		"in_reply_to_screen_name": "AchilleasK",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1260,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AchilleasK @11thhourspecial the amount of faith that we in general (not just in ELT) can continue as normal is understandable but remarkable; would like to see an online teaching webinar on sabotaging distance learning techniques ; )"
+	},
+	{
+		"created_at": "Thu Apr 09 09:16:51 +0000 2020",
+		"id": 1248173937672032300,
+		"id_str": "1248178047985033216",
+		"full_text": "#Solidarity to teachers and students at English Studio School in Dublin. If you need support or advice about furlough or any other issues related to coronavirus, please contact the union at tefl@iww.org.uk ✊✊#CELTA #TEFL ##ESL\nhttps://t.co/AVrfhkB92w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Solidarity",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "CELTA",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						222,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVrfhkB92w",
+					"expanded_url": "http://ow.ly/6TAt50z8Fge",
+					"display_url": "ow.ly/6TAt50z8Fge",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758,
+			"friends_count": 88,
+			"listed_count": 8,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Solidarity to teachers and students at English Studio School in Dublin. If you need support or advice about furlough or any other issues related to coronavirus, please contact the union at tefl@iww.org.uk ✊✊#CELTA #TEFL ##ESL\nhttps://t.co/AVrfhkB92w"
+	},
+	{
 		"created_at": "Wed Apr 08 18:47:04 +0000 2020",
 		"id": 1247872752901664800,
 		"id_str": "1247959162170101766",
