@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 20:44:10 +0000 2020",
+		"id": 1248712692543742000,
+		"id_str": "1248713406808547334",
+		"full_text": "Here is a sneak preview from the first in a series of Podcasts from The People's Assembly - \"Pidcast\" hosted by our National secretary @LauraPidcock first up: @jeremycorbyn - Full podcast interview out on Sunday! https://t.co/COv3SYM1Pg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraPidcock",
+					"name": "Laura Pidcock",
+					"id": 251821643,
+					"id_str": "251821643",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"screen_name": "jeremycorbyn",
+					"name": "Jeremy Corbyn",
+					"id": 117777690,
+					"id_str": "117777690",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248711988513067000,
+					"id_str": "1248711988513067009",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248711988513067009/pu/img/fcl86Yv0L0DE8WgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248711988513067009/pu/img/fcl86Yv0L0DE8WgZ.jpg",
+					"url": "https://t.co/COv3SYM1Pg",
+					"display_url": "pic.twitter.com/COv3SYM1Pg",
+					"expanded_url": "https://twitter.com/pplsassembly/status/1248712692543741954/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248711988513067000,
+					"id_str": "1248711988513067009",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248711988513067009/pu/img/fcl86Yv0L0DE8WgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248711988513067009/pu/img/fcl86Yv0L0DE8WgZ.jpg",
+					"url": "https://t.co/COv3SYM1Pg",
+					"display_url": "pic.twitter.com/COv3SYM1Pg",
+					"expanded_url": "https://twitter.com/pplsassembly/status/1248712692543741954/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 134000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248711988513067009/pu/vid/640x360/NKuv2xOWKg_O-R6H.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1248711988513067009/pu/pl/CRy676SOjaG36FEL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248711988513067009/pu/vid/1280x720/e3eR1W4qtPk3oCF2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1248711988513067009/pu/vid/480x270/eGy1Qm3iK_JuyuP7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247478108,
+			"id_str": "1247478108",
+			"name": "People's Assembly",
+			"screen_name": "pplsassembly",
+			"location": "",
+			"description": "We are a registered Non Party Campaigner GE 2019. The Promoter: R McCartney on behalf of PAAA - organisation address is 52 Beachy Rd, London E3 2NS.",
+			"url": "http://t.co/u3kfYfRArD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/u3kfYfRArD",
+							"expanded_url": "http://thepeoplesassembly.org.uk/",
+							"display_url": "thepeoplesassembly.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48346,
+			"friends_count": 3329,
+			"listed_count": 481,
+			"created_at": "Wed Mar 06 23:36:23 +0000 2013",
+			"favourites_count": 2771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/481531514044157952/e8zlQs30_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/481531514044157952/e8zlQs30_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247478108/1417351346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a sneak preview from the first in a series of Podcasts from The People's Assembly - \"Pidcast\" hosted by our National secretary @LauraPidcock first up: @jeremycorbyn - Full podcast interview out on Sunday! https://t.co/COv3SYM1Pg"
+	},
+	{
+		"created_at": "Fri Apr 10 14:06:06 +0000 2020",
+		"id": 1248613227707035600,
+		"id_str": "1248613227707035649",
+		"full_text": "@11thhourspecial Yes maybe should add a note about it? 2 word chunk from COCA, search them on Play phrase me, pick suitable ones, edit them together, Hot potatoes for quiz. 2 more if u find it useful https://t.co/YhgvvtTRZH, https://t.co/IDepNaPnHn",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YhgvvtTRZH",
+					"expanded_url": "http://interact.englishup.me/which-chunk-2.htm",
+					"display_url": "interact.englishup.me/which-chunk-2.…",
+					"indices": [
+						200,
+						223
+					]
+				},
+				{
+					"url": "https://t.co/IDepNaPnHn",
+					"expanded_url": "http://interact.englishup.me/which-chunk-3.htm",
+					"display_url": "interact.englishup.me/which-chunk-3.…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248611183134822400,
+		"in_reply_to_status_id_str": "1248611183134822407",
+		"in_reply_to_user_id": 903200845671440400,
+		"in_reply_to_user_id_str": "903200845671440384",
+		"in_reply_to_screen_name": "11thhourspecial",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1262,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@11thhourspecial Yes maybe should add a note about it? 2 word chunk from COCA, search them on Play phrase me, pick suitable ones, edit them together, Hot potatoes for quiz. 2 more if u find it useful https://t.co/YhgvvtTRZH, https://t.co/IDepNaPnHn"
+	},
+	{
+		"created_at": "Fri Apr 10 13:51:46 +0000 2020",
+		"id": 1248609622128091100,
+		"id_str": "1248609622128091142",
+		"full_text": "@11thhourspecial No probs, re microlistenings have done chunk listening with groups e.g https://t.co/OKAeLunGQI",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "11thhourspecial",
+					"name": "Exclamation Marc",
+					"id": 903200845671440400,
+					"id_str": "903200845671440384",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OKAeLunGQI",
+					"expanded_url": "http://interact.englishup.me/which-chunk-1.htm",
+					"display_url": "interact.englishup.me/which-chunk-1.…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248608378659594200,
+		"in_reply_to_status_id_str": "1248608378659594244",
+		"in_reply_to_user_id": 903200845671440400,
+		"in_reply_to_user_id_str": "903200845671440384",
+		"in_reply_to_screen_name": "11thhourspecial",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1262,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@11thhourspecial No probs, re microlistenings have done chunk listening with groups e.g https://t.co/OKAeLunGQI"
+	},
+	{
+		"created_at": "Fri Apr 10 13:45:03 +0000 2020",
+		"id": 1248602770195677200,
+		"id_str": "1248607931299287043",
+		"full_text": "@ParisaMehran Thank you. I'm was quite emotional early today because even if Ts are the ones using their own resources to make the school operational, the Management do not appreciate that and would further reduce our salary.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParisaMehran",
+					"name": "Parisa Mehran, PhD",
+					"id": 1115272279,
+					"id_str": "1115272279",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248602344176021500,
+		"in_reply_to_status_id_str": "1248602344176021504",
+		"in_reply_to_user_id": 1115272279,
+		"in_reply_to_user_id_str": "1115272279",
+		"in_reply_to_screen_name": "ParisaMehran",
+		"user": {
+			"id": 872647552864206800,
+			"id_str": "872647552864206848",
+			"name": "Joana Acebedo",
+			"screen_name": "joana_acebedo",
+			"location": "Makati City",
+			"description": "In a spin.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 165,
+			"listed_count": 0,
+			"created_at": "Thu Jun 08 02:52:44 +0000 2017",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872653010257629185/exTO7vc-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872653010257629185/exTO7vc-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872647552864206848/1497437384",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ParisaMehran Thank you. I'm was quite emotional early today because even if Ts are the ones using their own resources to make the school operational, the Management do not appreciate that and would further reduce our salary."
+	},
+	{
+		"created_at": "Fri Apr 10 13:43:34 +0000 2020",
+		"id": 1248607558601826300,
+		"id_str": "1248607558601826305",
+		"full_text": "have tried dictating a (summarised) story and then getting student to read (original) story in 1-1 classes, considering if /how this would work with in a group class online; https://t.co/68Y9vMk7M6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/68Y9vMk7M6",
+					"expanded_url": "https://twitter.com/11thhourspecial/status/1248604293998841856",
+					"display_url": "twitter.com/11thhourspecia…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1262,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248604293998841900,
+		"quoted_status_id_str": "1248604293998841856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/68Y9vMk7M6",
+			"expanded": "https://twitter.com/11thhourspecial/status/1248604293998841856",
+			"display": "twitter.com/11thhourspecia…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 13:30:36 +0000 2020",
+			"id": 1248604293998841900,
+			"id_str": "1248604293998841856",
+			"full_text": "How can I Teach Listening Online? Here is what I (am planning to) do. Probably more to come as I think about more problems. https://t.co/rGzAcbFp0A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rGzAcbFp0A",
+						"expanded_url": "http://getgreatenglish.com/ftsd/2020/04/10/how-can-i-teach-listening-online/",
+						"display_url": "getgreatenglish.com/ftsd/2020/04/1…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903200845671440400,
+				"id_str": "903200845671440384",
+				"name": "Exclamation Marc",
+				"screen_name": "11thhourspecial",
+				"location": "Kawasaki, Japan",
+				"description": "English Teacher @ unis in Tokyo. ❤️ listening/pronunciation/phonology/TBLT. #ADHD as a difference, not a deficit, not a superpower.",
+				"url": "https://t.co/fzYN3IGXMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fzYN3IGXMR",
+								"expanded_url": "http://getgreatenglish.com/ftsd/",
+								"display_url": "getgreatenglish.com/ftsd/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1571,
+				"friends_count": 1066,
+				"listed_count": 16,
+				"created_at": "Thu Aug 31 10:20:37 +0000 2017",
+				"favourites_count": 8669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12464,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903200845671440384/1533999204",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "have tried dictating a (summarised) story and then getting student to read (original) story in 1-1 classes, considering if /how this would work with in a group class online; https://t.co/68Y9vMk7M6"
+	},
+	{
 		"created_at": "Thu Apr 09 12:39:07 +0000 2020",
 		"id": 1248226925375520800,
 		"id_str": "1248228952293830657",
@@ -364,7 +1201,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "Bella Sankey",
 				"screen_name": "BellaSankey",
 				"location": "Sussex",
-				"description": "Director of @DetentionAction ⚖️Human rights campaigner 🗽🌈Mother 🤱🏻Mixed Race yoga lover 🧘🏽‍♀️Formerly @Reprieve & @LibertyHQ. Views are my own.",
+				"description": "Director of @DetentionAction ⚖️Human rights campaigner 🗽🌈Mother 🤱🏻Mixed Race yoga lover 🧘🏽♀️Formerly @Reprieve & @LibertyHQ. Views are my own.",
 				"url": null,
 				"entities": {
 					"description": {
