@@ -1,6 +1,1191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 22:43:53 +0000 2020",
+		"id": 1249468307369013200,
+		"id_str": "1249468307369013248",
+		"full_text": "@SuButcher @OwenJones84 https://t.co/DgYtNjZjcC",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuButcher",
+					"name": "Su Butcher 💚",
+					"id": 16242432,
+					"id_str": "16242432",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "OwenJones84",
+					"name": "Owen Jones🌹",
+					"id": 65045121,
+					"id_str": "65045121",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DgYtNjZjcC",
+					"expanded_url": "https://twitter.com/SolHughesWriter/status/1249424504503312384",
+					"display_url": "twitter.com/SolHughesWrite…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249252301002412000,
+		"in_reply_to_status_id_str": "1249252301002412035",
+		"in_reply_to_user_id": 16242432,
+		"in_reply_to_user_id_str": "16242432",
+		"in_reply_to_screen_name": "SuButcher",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1269,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249424504503312400,
+		"quoted_status_id_str": "1249424504503312384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DgYtNjZjcC",
+			"expanded": "https://twitter.com/SolHughesWriter/status/1249424504503312384",
+			"display": "twitter.com/SolHughesWrite…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 19:49:49 +0000 2020",
+			"id": 1249424504503312400,
+			"id_str": "1249424504503312384",
+			"full_text": "The Labour 'Hostility to Corbyn was more important than investigating anti-Semitism ' Report fully leaked now - a copy here if you want it https://t.co/eJ0GvHypGq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eJ0GvHypGq",
+						"expanded_url": "https://www.dropbox.com/s/iw3b752flmvjfwl/The%20Work%20of%20the%20Labour%20Party%27s%20Governance%20and%20Legal%20Unit%20in%20relation%20to%20antisemitism%202014-2019.pdf?dl=0",
+						"display_url": "dropbox.com/s/iw3b752flmvj…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 600019268,
+				"id_str": "600019268",
+				"name": "Solomon Hughes",
+				"screen_name": "SolHughesWriter",
+				"location": "",
+				"description": "Journalist, Private Eye magazine, Also Vice, Buzzfeed, Guardian, Observer and more . Own views here.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8608,
+				"friends_count": 856,
+				"listed_count": 134,
+				"created_at": "Tue Jun 05 11:00:48 +0000 2012",
+				"favourites_count": 23045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23357,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161932954467278849/IIDaN6cu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161932954467278849/IIDaN6cu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/600019268/1519463752",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@SuButcher @OwenJones84 https://t.co/DgYtNjZjcC"
+	},
+	{
+		"created_at": "Sun Apr 12 22:40:07 +0000 2020",
+		"id": 1249467360735629300,
+		"id_str": "1249467360735629320",
+		"full_text": "@orsetii @AaronBastani https://t.co/DgYtNjZjcC",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "orsetii",
+					"name": "Tom",
+					"id": 1207995296581668900,
+					"id_str": "1207995296581668865",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "AaronBastani",
+					"name": "Aaron Bastani",
+					"id": 63082578,
+					"id_str": "63082578",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DgYtNjZjcC",
+					"expanded_url": "https://twitter.com/SolHughesWriter/status/1249424504503312384",
+					"display_url": "twitter.com/SolHughesWrite…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249369093850964000,
+		"in_reply_to_status_id_str": "1249369093850963968",
+		"in_reply_to_user_id": 1207995296581668900,
+		"in_reply_to_user_id_str": "1207995296581668865",
+		"in_reply_to_screen_name": "orsetii",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1269,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249424504503312400,
+		"quoted_status_id_str": "1249424504503312384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DgYtNjZjcC",
+			"expanded": "https://twitter.com/SolHughesWriter/status/1249424504503312384",
+			"display": "twitter.com/SolHughesWrite…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 19:49:49 +0000 2020",
+			"id": 1249424504503312400,
+			"id_str": "1249424504503312384",
+			"full_text": "The Labour 'Hostility to Corbyn was more important than investigating anti-Semitism ' Report fully leaked now - a copy here if you want it https://t.co/eJ0GvHypGq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eJ0GvHypGq",
+						"expanded_url": "https://www.dropbox.com/s/iw3b752flmvjfwl/The%20Work%20of%20the%20Labour%20Party%27s%20Governance%20and%20Legal%20Unit%20in%20relation%20to%20antisemitism%202014-2019.pdf?dl=0",
+						"display_url": "dropbox.com/s/iw3b752flmvj…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 600019268,
+				"id_str": "600019268",
+				"name": "Solomon Hughes",
+				"screen_name": "SolHughesWriter",
+				"location": "",
+				"description": "Journalist, Private Eye magazine, Also Vice, Buzzfeed, Guardian, Observer and more . Own views here.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8608,
+				"friends_count": 856,
+				"listed_count": 134,
+				"created_at": "Tue Jun 05 11:00:48 +0000 2012",
+				"favourites_count": 23045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23357,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161932954467278849/IIDaN6cu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161932954467278849/IIDaN6cu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/600019268/1519463752",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@orsetii @AaronBastani https://t.co/DgYtNjZjcC"
+	},
+	{
+		"created_at": "Sun Apr 12 22:30:07 +0000 2020",
+		"id": 1249464843129819100,
+		"id_str": "1249464843129819136",
+		"full_text": "some more what Labour right thought terms of abuse from the left were https://t.co/WKTszfInSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249464829422813200,
+					"id_str": "1249464829422813184",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb9pHUXQAA1c-U.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb9pHUXQAA1c-U.png",
+					"url": "https://t.co/WKTszfInSN",
+					"display_url": "pic.twitter.com/WKTszfInSN",
+					"expanded_url": "https://twitter.com/muranava/status/1249464843129819136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 746,
+							"h": 221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249464829422813200,
+					"id_str": "1249464829422813184",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb9pHUXQAA1c-U.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb9pHUXQAA1c-U.png",
+					"url": "https://t.co/WKTszfInSN",
+					"display_url": "pic.twitter.com/WKTszfInSN",
+					"expanded_url": "https://twitter.com/muranava/status/1249464843129819136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 746,
+							"h": 221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 201,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249464342292172800,
+		"in_reply_to_status_id_str": "1249464342292172800",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1269,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some more what Labour right thought terms of abuse from the left were https://t.co/WKTszfInSN"
+	},
+	{
+		"created_at": "Sun Apr 12 22:28:07 +0000 2020",
+		"id": 1249464342292172800,
+		"id_str": "1249464342292172800",
+		"full_text": "people on Labour right in 2016 looking for abuse from the left using search term \"rat\" https://t.co/wzIwjn4Xhm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249464298767818800,
+					"id_str": "1249464298767818753",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb9KOeWoAEsrFk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb9KOeWoAEsrFk.png",
+					"url": "https://t.co/wzIwjn4Xhm",
+					"display_url": "pic.twitter.com/wzIwjn4Xhm",
+					"expanded_url": "https://twitter.com/muranava/status/1249464342292172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 769,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249464298767818800,
+					"id_str": "1249464298767818753",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb9KOeWoAEsrFk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb9KOeWoAEsrFk.png",
+					"url": "https://t.co/wzIwjn4Xhm",
+					"display_url": "pic.twitter.com/wzIwjn4Xhm",
+					"expanded_url": "https://twitter.com/muranava/status/1249464342292172800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 769,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249460563471728600,
+		"in_reply_to_status_id_str": "1249460563471728643",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1269,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "people on Labour right in 2016 looking for abuse from the left using search term \"rat\" https://t.co/wzIwjn4Xhm"
+	},
+	{
+		"created_at": "Sun Apr 12 22:13:06 +0000 2020",
+		"id": 1249460563471728600,
+		"id_str": "1249460563471728643",
+		"full_text": "interesting reading in Labour report on change between 2016 &amp; 2019 in investigating anti-semitism; when searches are conducted now 20 terms are used https://t.co/IKDooukIpC https://t.co/lCF6gNVB1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKDooukIpC",
+					"expanded_url": "https://www.dropbox.com/s/iw3b752flmvjfwl/The%20Work%20of%20the%20Labour%20Party%27s%20Governance%20and%20Legal%20Unit%20in%20relation%20to%20antisemitism%202014-2019.pdf?dl=0",
+					"display_url": "dropbox.com/s/iw3b752flmvj…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249459197961527300,
+					"id_str": "1249459197961527296",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb4hUfXYAASX3Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb4hUfXYAASX3Y.png",
+					"url": "https://t.co/lCF6gNVB1Z",
+					"display_url": "pic.twitter.com/lCF6gNVB1Z",
+					"expanded_url": "https://twitter.com/muranava/status/1249460563471728643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 777,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249459197961527300,
+					"id_str": "1249459197961527296",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EVb4hUfXYAASX3Y.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVb4hUfXYAASX3Y.png",
+					"url": "https://t.co/lCF6gNVB1Z",
+					"display_url": "pic.twitter.com/lCF6gNVB1Z",
+					"expanded_url": "https://twitter.com/muranava/status/1249460563471728643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 777,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 777,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1269,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting reading in Labour report on change between 2016 &amp; 2019 in investigating anti-semitism; when searches are conducted now 20 terms are used https://t.co/IKDooukIpC https://t.co/lCF6gNVB1Z"
+	},
+	{
+		"created_at": "Sun Apr 12 09:51:53 +0000 2020",
+		"id": 1249271895117234200,
+		"id_str": "1249274028763865089",
+		"full_text": "Au centre de rétention de Mesnil Amelot hier soir et ce matin : témoignages audio de la révolte ! https://t.co/Qw1ykxvJsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qw1ykxvJsI",
+					"expanded_url": "https://paris-luttes.info/au-centre-de-retention-de-mesnil-13804",
+					"display_url": "paris-luttes.info/au-centre-de-r…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2247216896,
+			"id_str": "2247216896",
+			"name": "Paris Luttes Info",
+			"screen_name": "Paris_luttes",
+			"location": "Ile-de-France, France",
+			"description": "Site coopératif d’infos et de luttes Paris - Banlieue",
+			"url": "https://t.co/TU6oH55m9m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TU6oH55m9m",
+							"expanded_url": "https://paris-luttes.info",
+							"display_url": "paris-luttes.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20715,
+			"friends_count": 178,
+			"listed_count": 242,
+			"created_at": "Sun Dec 15 13:32:01 +0000 2013",
+			"favourites_count": 480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171706356426055681/KWvGwZa__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171706356426055681/KWvGwZa__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2247216896/1575739228",
+			"profile_link_color": "A30005",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Au centre de rétention de Mesnil Amelot hier soir et ce matin : témoignages audio de la révolte ! https://t.co/Qw1ykxvJsI"
+	},
+	{
 		"created_at": "Sat Apr 11 19:41:55 +0000 2020",
 		"id": 1249060128298619000,
 		"id_str": "1249060128298618881",
