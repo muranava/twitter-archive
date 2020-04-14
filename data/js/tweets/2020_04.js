@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 20:19:51 +0000 2020",
+		"id": 1249761086548709400,
+		"id_str": "1249794449426743297",
+		"full_text": "With regards to our profession/''industry''who/what is status quo?Why/how should they be challenged?What/who is snake oil? 'Empower' who/how/WHEN? What needs change? Why bother?Hoping for discussion.Tag others\n@josipa74 @neil_mcm @muranava @GeoffJordan17 @sbrowntweets @TeflUnion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						230,
+						239
+					]
+				},
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						240,
+						254
+					]
+				},
+				{
+					"screen_name": "sbrowntweets",
+					"name": "Steve Brown",
+					"id": 885343459,
+					"id_str": "885343459",
+					"indices": [
+						255,
+						268
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 368969639,
+			"id_str": "368969639",
+			"name": "kevin towl",
+			"screen_name": "ktowl",
+			"location": "Santiago de Chile",
+			"description": "Shropshire Lad/Dad in Chile. MSc TESOL. Teachers as Workers. For the many not the few. AFC Telford/Arsenal.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 1080,
+			"listed_count": 2,
+			"created_at": "Tue Sep 06 14:56:05 +0000 2011",
+			"favourites_count": 1003,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176232151269990400/PaFfD947_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176232151269990400/PaFfD947_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/368969639/1396549034",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "With regards to our profession/''industry''who/what is status quo?Why/how should they be challenged?What/who is snake oil? 'Empower' who/how/WHEN? What needs change? Why bother?Hoping for discussion.Tag others\n@josipa74 @neil_mcm @muranava @GeoffJordan17 @sbrowntweets @TeflUnion"
+	},
+	{
+		"created_at": "Mon Apr 13 20:19:33 +0000 2020",
+		"id": 1249794373660946400,
+		"id_str": "1249794373660946432",
+		"full_text": "@ktowl @josipa74 @neil_mcm @GeoffJordan17 @sbrowntweets @TeflUnion Why bother indeed!",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ktowl",
+					"name": "kevin towl",
+					"id": 368969639,
+					"id_str": "368969639",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "sbrowntweets",
+					"name": "Steve Brown",
+					"id": 885343459,
+					"id_str": "885343459",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249761086548709400,
+		"in_reply_to_status_id_str": "1249761086548709376",
+		"in_reply_to_user_id": 368969639,
+		"in_reply_to_user_id_str": "368969639",
+		"in_reply_to_screen_name": "ktowl",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1271,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ktowl @josipa74 @neil_mcm @GeoffJordan17 @sbrowntweets @TeflUnion Why bother indeed!"
+	},
+	{
 		"created_at": "Sun Apr 12 22:43:53 +0000 2020",
 		"id": 1249468307369013200,
 		"id_str": "1249468307369013248",
