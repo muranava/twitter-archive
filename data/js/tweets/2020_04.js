@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 20:46:53 +0000 2020",
+		"id": 1250162207184302000,
+		"id_str": "1250163640570908673",
+		"full_text": "Because racism is not supposed to hurt. Since it’s not supposed to be that ‘bad’ anymore. And they use the race card. And black ppl don’t feel pain anyway &amp; actually they’re much stronger than ‘us’...plus if they only played by the rules...plenty of reasons. https://t.co/hk4GQFlr7C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hk4GQFlr7C",
+					"expanded_url": "https://twitter.com/iamhereforit1/status/1250160729916874752",
+					"display_url": "twitter.com/iamhereforit1/…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2371069948,
+			"id_str": "2371069948",
+			"name": "Guilaine Kinouani",
+			"screen_name": "KGuilaine",
+			"location": "French migrant in the U.K.",
+			"description": "Senior Psychologist. Adj. Prof. of Critical Psychology. Feminist. Therapist. Scholar: BLACKNESS-#Antiracism-healing-JUSTICE-intersectionality-EQUALITY",
+			"url": "https://t.co/nGTtbqtxhm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nGTtbqtxhm",
+							"expanded_url": "http://www.racereflections.co.uk",
+							"display_url": "racereflections.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22502,
+			"friends_count": 357,
+			"listed_count": 330,
+			"created_at": "Fri Feb 28 13:11:40 +0000 2014",
+			"favourites_count": 36034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163140863209484288/Nd1GkWOI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163140863209484288/Nd1GkWOI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2371069948/1466447906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250160729916874800,
+		"quoted_status_id_str": "1250160729916874752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hk4GQFlr7C",
+			"expanded": "https://twitter.com/iamhereforit1/status/1250160729916874752",
+			"display": "twitter.com/iamhereforit1/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 14 20:35:19 +0000 2020",
+			"id": 1250160729916874800,
+			"id_str": "1250160729916874752",
+			"full_text": "@KGuilaine This is fascinating. Why can't some people just sit out the racism/trauma talk? Why does it bother them so much? Why is the word ”racism” so powerful/threatening?",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KGuilaine",
+						"name": "Guilaine Kinouani",
+						"id": 2371069948,
+						"id_str": "2371069948",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1250153353054691300,
+			"in_reply_to_status_id_str": "1250153353054691328",
+			"in_reply_to_user_id": 2371069948,
+			"in_reply_to_user_id_str": "2371069948",
+			"in_reply_to_screen_name": "KGuilaine",
+			"user": {
+				"id": 1193082275359084500,
+				"id_str": "1193082275359084545",
+				"name": "BoyDakar👣",
+				"screen_name": "Iamhereforit1",
+				"location": "Koumbi Saleh",
+				"description": "Muslim, Mother, Sarakhoule + Toucouleur. “diagnosis is the Holy Grail of psychiatry and the key to its legitimation” - Kovel, 1981, p.86.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99,
+				"friends_count": 551,
+				"listed_count": 0,
+				"created_at": "Sat Nov 09 08:26:04 +0000 2019",
+				"favourites_count": 1900,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249780956493422593/aNaAY6TC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249780956493422593/aNaAY6TC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1193082275359084545/1586805975",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Because racism is not supposed to hurt. Since it’s not supposed to be that ‘bad’ anymore. And they use the race card. And black ppl don’t feel pain anyway &amp; actually they’re much stronger than ‘us’...plus if they only played by the rules...plenty of reasons. https://t.co/hk4GQFlr7C"
+	},
+	{
+		"created_at": "Tue Apr 14 20:43:19 +0000 2020",
+		"id": 1250138704070488000,
+		"id_str": "1250162744705323008",
+		"full_text": "Those coronavirus contact-tracing apps essentially rely on two tests: the virus and the signal. Both need to deliver to make apps the way forward in prevention. https://t.co/dum2n5eaOV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250138035657871400,
+					"id_str": "1250138035657871361",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EVlh63-XkAE3TEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVlh63-XkAE3TEy.jpg",
+					"url": "https://t.co/dum2n5eaOV",
+					"display_url": "pic.twitter.com/dum2n5eaOV",
+					"expanded_url": "https://twitter.com/cecilejanssens/status/1250138704070488077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250138035657871400,
+					"id_str": "1250138035657871361",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EVlh63-XkAE3TEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVlh63-XkAE3TEy.jpg",
+					"url": "https://t.co/dum2n5eaOV",
+					"display_url": "pic.twitter.com/dum2n5eaOV",
+					"expanded_url": "https://twitter.com/cecilejanssens/status/1250138704070488077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2290307712,
+			"id_str": "2290307712",
+			"name": "Cecile Janssens",
+			"screen_name": "cecilejanssens",
+			"location": "Atlanta, GA",
+			"description": "Professor of epidemiology • Teacher • Columnist @NRC • Slow science  • Tweet about (genetic) prediction, critical thinking, evidence, and lack thereof.",
+			"url": "https://t.co/YEt9itn7RZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YEt9itn7RZ",
+							"expanded_url": "http://www.cecilejanssens.org",
+							"display_url": "cecilejanssens.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9426,
+			"friends_count": 523,
+			"listed_count": 174,
+			"created_at": "Mon Jan 13 23:00:20 +0000 2014",
+			"favourites_count": 5442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098361557115904000/Akzksij9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098361557115904000/Akzksij9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2290307712/1473626484",
+			"profile_link_color": "2E3133",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those coronavirus contact-tracing apps essentially rely on two tests: the virus and the signal. Both need to deliver to make apps the way forward in prevention. https://t.co/dum2n5eaOV"
+	},
+	{
 		"created_at": "Mon Apr 13 20:19:51 +0000 2020",
 		"id": 1249761086548709400,
 		"id_str": "1249794449426743297",
