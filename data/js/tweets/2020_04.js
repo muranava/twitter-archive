@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 17:00:04 +0000 2020",
+		"id": 1251193723419009000,
+		"id_str": "1251193723419009028",
+		"full_text": "@JWGrieve @tonythorne007 @JemButterfield you can set that in options i think",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "JemButterfield",
+					"name": "JMB",
+					"id": 131090801,
+					"id_str": "131090801",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1251191895277146000,
+		"in_reply_to_status_id_str": "1251191895277146112",
+		"in_reply_to_user_id": 2950391813,
+		"in_reply_to_user_id_str": "2950391813",
+		"in_reply_to_screen_name": "JWGrieve",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1282,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWGrieve @tonythorne007 @JemButterfield you can set that in options i think"
+	},
+	{
+		"created_at": "Fri Apr 17 16:49:30 +0000 2020",
+		"id": 1251191066038096000,
+		"id_str": "1251191066038095877",
+		"full_text": "@tonythorne007 @JWGrieve @JemButterfield\ndo you mean OR operator like Information|News https://t.co/LLpmSupFZu",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "JemButterfield",
+					"name": "JMB",
+					"id": 131090801,
+					"id_str": "131090801",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251191045796266000,
+					"id_str": "1251191045796265985",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EV0foIbWAAErzHn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EV0foIbWAAErzHn.png",
+					"url": "https://t.co/LLpmSupFZu",
+					"display_url": "pic.twitter.com/LLpmSupFZu",
+					"expanded_url": "https://twitter.com/muranava/status/1251191066038095877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1188,
+							"h": 159,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 91,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251191045796266000,
+					"id_str": "1251191045796265985",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EV0foIbWAAErzHn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EV0foIbWAAErzHn.png",
+					"url": "https://t.co/LLpmSupFZu",
+					"display_url": "pic.twitter.com/LLpmSupFZu",
+					"expanded_url": "https://twitter.com/muranava/status/1251191066038095877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1188,
+							"h": 159,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1188,
+							"h": 159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 91,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1251167051269341200,
+		"in_reply_to_status_id_str": "1251167051269341185",
+		"in_reply_to_user_id": 762192800,
+		"in_reply_to_user_id_str": "762192800",
+		"in_reply_to_screen_name": "tonythorne007",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 1282,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tonythorne007 @JWGrieve @JemButterfield\ndo you mean OR operator like Information|News https://t.co/LLpmSupFZu"
+	},
+	{
+		"created_at": "Fri Apr 17 16:18:18 +0000 2020",
+		"id": 1251182000955891700,
+		"id_str": "1251183212778467328",
+		"full_text": "Stanford U Covid-19 antibody study out as preprint\n\n3,300 people recruited via Facebook ads\n\nconsidering test performance, estimate 2.4 - 4.6% positive on antibodies in Santa Clara country\n\n 50-85 TIMES (!!!!!) the # confirmed cases\n\nhttps://t.co/rI4DH4Od4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rI4DH4Od4G",
+					"expanded_url": "https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1?__cf_chl_jschl_tk__=be77753b5f9c509cb865d14fbdaf97eeb78e11d5-1587139595-0-AWIUFx6wN0uXOvkl2GvKJJc-Ig8sPLjxRzO454lTi9KpWYjKbxnVGQzEHGD9bYZUKYUUOdrfRQ_wQREzNDVmpdEWVIZYt6UTI9m_LD7byikYQA-loXE677ZRO1gHfKAz7mccB9JD5q3Y8YVehLtYCxNulZzxgq75-rzgoHZ2Heyj5PDAftyTcJ9j-gS_9XvqhP1w_lcrCrvVy9EM4vDfOYSqAiDYODT4O2PXN776dtAuibDok5gMCdzZYcCoRi69cdjoFoqV7X4-dhUOTFhjUA5EzGIOpkN7fsqrkufnBv0pOXqb3nOUoVRFDs5ZdBzO9w_yicdwyhIdvht3lBZyMgA",
+					"display_url": "medrxiv.org/content/10.110…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23085502,
+			"id_str": "23085502",
+			"name": "Antonio Regalado",
+			"screen_name": "antonioregalado",
+			"location": "regalado@mit.edu",
+			"description": "Progress in science depends on new techniques, new discoveries and new ideas, probably in that order - {Sydney Brenner}. I write about biotech @techreview",
+			"url": "https://t.co/LrJGP2M2Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LrJGP2M2Me",
+							"expanded_url": "https://www.technologyreview.com/topic/rewriting-life/",
+							"display_url": "technologyreview.com/topic/rewritin…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18546,
+			"friends_count": 2120,
+			"listed_count": 708,
+			"created_at": "Fri Mar 06 16:42:13 +0000 2009",
+			"favourites_count": 9177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229865049214287872/NM0WBoB7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229865049214287872/NM0WBoB7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23085502/1583883758",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stanford U Covid-19 antibody study out as preprint\n\n3,300 people recruited via Facebook ads\n\nconsidering test performance, estimate 2.4 - 4.6% positive on antibodies in Santa Clara country\n\n 50-85 TIMES (!!!!!) the # confirmed cases\n\nhttps://t.co/rI4DH4Od4G"
+	},
+	{
+		"created_at": "Fri Apr 17 12:51:23 +0000 2020",
+		"id": 1250869667578679300,
+		"id_str": "1251131141727412224",
+		"full_text": "Btw @SLBCoop have done a survey on the effects of the crisis on Ts in the Barcelona area. Some results soon I hope. #eltworkerchat https://t.co/WldxOjF6iZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eltworkerchat",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WldxOjF6iZ",
+					"expanded_url": "https://twitter.com/josipa74/status/1250846249558913029",
+					"display_url": "twitter.com/josipa74/statu…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60425505,
+			"id_str": "60425505",
+			"name": "Neil McMillan",
+			"screen_name": "neil_mcm",
+			"location": "Barcelona, Catalonia",
+			"description": "Dad, teacher, writer, @SLBcoop presi. Eternally disappointed for not having come up with the lines: 'Views not those of my employer. Self-employed.'",
+			"url": "https://t.co/sDjCyd4jQH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDjCyd4jQH",
+							"expanded_url": "http://animalisingelt.wordpress.com/",
+							"display_url": "animalisingelt.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 678,
+			"listed_count": 15,
+			"created_at": "Sun Jul 26 23:32:26 +0000 2009",
+			"favourites_count": 3814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114195322023088128/xb-Cz5N0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114195322023088128/xb-Cz5N0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60425505/1574587578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250846249558913000,
+		"quoted_status_id_str": "1250846249558913029",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WldxOjF6iZ",
+			"expanded": "https://twitter.com/josipa74/status/1250846249558913029",
+			"display": "twitter.com/josipa74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 17:59:20 +0000 2020",
+			"id": 1250846249558913000,
+			"id_str": "1250846249558913029",
+			"full_text": "OK let's start this #eltworkerchat! How have *you* been affected by Covid19?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "eltworkerchat",
+						"indices": [
+							20,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1250846247361134600,
+			"in_reply_to_status_id_str": "1250846247361134595",
+			"in_reply_to_user_id": 134211317,
+			"in_reply_to_user_id_str": "134211317",
+			"in_reply_to_screen_name": "josipa74",
+			"user": {
+				"id": 134211317,
+				"id_str": "134211317",
+				"name": "paulwalsh",
+				"screen_name": "josipa74",
+				"location": "berlin",
+				"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+				"url": "https://t.co/0wx2uSf84O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0wx2uSf84O",
+								"expanded_url": "https://www.paulwalshwriting.com/",
+								"display_url": "paulwalshwriting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2108,
+				"friends_count": 4994,
+				"listed_count": 53,
+				"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+				"favourites_count": 4604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7419,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Btw @SLBCoop have done a survey on the effects of the crisis on Ts in the Barcelona area. Some results soon I hope. #eltworkerchat https://t.co/WldxOjF6iZ"
+	},
+	{
 		"created_at": "Thu Apr 16 23:19:29 +0000 2020",
 		"id": 1250926821497024500,
 		"id_str": "1250926821497024518",
