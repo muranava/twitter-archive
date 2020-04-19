@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 22:18:24 +0000 2020",
+		"id": 1251634451060273200,
+		"id_str": "1251636223371870210",
+		"full_text": "Sunday Times piece in full here: https://t.co/JyWDEJUxT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JyWDEJUxT1",
+					"expanded_url": "https://archive.is/20200418182037/https://www.thetimes.co.uk/edition/news/coronavirus-38-days-when-britain-sleepwalked-into-disaster-hq3b9tlgh",
+					"display_url": "archive.is/20200418182037…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128402033,
+			"id_str": "128402033",
+			"name": "simon maginn",
+			"screen_name": "simonmaginn",
+			"location": "Brighton, UK",
+			"description": "Left politics, mostly. Some lost dogs. Occasional card tricks. Recovering piano teacher.",
+			"url": "https://t.co/llZowz2oxP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/llZowz2oxP",
+							"expanded_url": "http://www.simonmaginn.com",
+							"display_url": "simonmaginn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12011,
+			"friends_count": 11184,
+			"listed_count": 43,
+			"created_at": "Thu Apr 01 01:11:17 +0000 2010",
+			"favourites_count": 39075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251112009493557250/iNQB3nRB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251112009493557250/iNQB3nRB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128402033/1580054643",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunday Times piece in full here: https://t.co/JyWDEJUxT1"
+	},
+	{
+		"created_at": "Sat Apr 18 10:19:53 +0000 2020",
+		"id": 1251452372460736500,
+		"id_str": "1251455402119696386",
+		"full_text": "@ELTExperiences @muranava The directors direct those changes! They opened ELT enterprises for personal profits to be taken off the wages of Ts. \n\nManagers manage that change! The rewards beyond 'staying in ELT' are small.\n\nTs who teach are unionising. Let's support them. @TeflUnion  @ELTUnite",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTExperiences",
+					"name": "Martin Sketchley",
+					"id": 22779473,
+					"id_str": "22779473",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						272,
+						282
+					]
+				},
+				{
+					"screen_name": "ELTUnite",
+					"name": "ELT Branch of Unite the union, Ireland",
+					"id": 1180961573457801200,
+					"id_str": "1180961573457801222",
+					"indices": [
+						284,
+						293
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1251449792691146800,
+		"in_reply_to_status_id_str": "1251449792691146753",
+		"in_reply_to_user_id": 22779473,
+		"in_reply_to_user_id_str": "22779473",
+		"in_reply_to_screen_name": "ELTExperiences",
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1292,
+			"friends_count": 1094,
+			"listed_count": 22,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 5833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ELTExperiences @muranava The directors direct those changes! They opened ELT enterprises for personal profits to be taken off the wages of Ts. \n\nManagers manage that change! The rewards beyond 'staying in ELT' are small.\n\nTs who teach are unionising. Let's support them. @TeflUnion  @ELTUnite"
+	},
+	{
+		"created_at": "Sat Apr 18 09:13:53 +0000 2020",
+		"id": 1251435509810954200,
+		"id_str": "1251438791476248582",
+		"full_text": "Tell us your experience here or email them to tefl@iww.org.uk #covid #TEFL #ESL #EFL #furlough https://t.co/xA8wiLuNZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "covid",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "EFL",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "furlough",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251435508296794000,
+					"id_str": "1251435508296794112",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EV399uNXQAAv9Y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV399uNXQAAv9Y_.jpg",
+					"url": "https://t.co/xA8wiLuNZU",
+					"display_url": "pic.twitter.com/xA8wiLuNZU",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1251435509810954240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251435508296794000,
+					"id_str": "1251435508296794112",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EV399uNXQAAv9Y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV399uNXQAAv9Y_.jpg",
+					"url": "https://t.co/xA8wiLuNZU",
+					"display_url": "pic.twitter.com/xA8wiLuNZU",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1251435509810954240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 775,
+			"friends_count": 94,
+			"listed_count": 8,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tell us your experience here or email them to tefl@iww.org.uk #covid #TEFL #ESL #EFL #furlough https://t.co/xA8wiLuNZU"
+	},
+	{
 		"created_at": "Fri Apr 17 17:00:04 +0000 2020",
 		"id": 1251193723419009000,
 		"id_str": "1251193723419009028",
