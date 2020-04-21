@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 22:01:05 +0000 2020",
+		"id": 1252266724449230800,
+		"id_str": "1252356640432480259",
+		"full_text": "Regarding those 128 fake #NHS Staff accounts posting for 'Herd Mentality'  and support of the Govt that were set up by @DHSCgovuk or their marketing agency  ...\n\nPosts were sent using Hootsuite, a mass-posting tool. Account registered to 1 person with 4 assigned contributors. https://t.co/r7fRFQaFwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						25,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DHSCgovuk",
+					"name": "Department of Health and Social Care",
+					"id": 37963496,
+					"id_str": "37963496",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252266196558401500,
+					"id_str": "1252266196558401542",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EWDxeJIX0AYwXvZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWDxeJIX0AYwXvZ.png",
+					"url": "https://t.co/r7fRFQaFwG",
+					"display_url": "pic.twitter.com/r7fRFQaFwG",
+					"expanded_url": "https://twitter.com/jdpoc/status/1252266724449230848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252266196558401500,
+					"id_str": "1252266196558401542",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EWDxeJIX0AYwXvZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWDxeJIX0AYwXvZ.png",
+					"url": "https://t.co/r7fRFQaFwG",
+					"display_url": "pic.twitter.com/r7fRFQaFwG",
+					"expanded_url": "https://twitter.com/jdpoc/status/1252266724449230848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213243802,
+			"id_str": "213243802",
+			"name": "John O'Connell",
+			"screen_name": "jdpoc",
+			"location": "London",
+			"description": "Founder/Editor at FRW Anti-Racism Group.\n\nSalesForce™, CRM & LamP Consultant, Journalist, Coder, Entrepreneur, Biker, Cyclist, Minimalist, Mentor, Christian.",
+			"url": "https://t.co/YeMmVtyXAd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YeMmVtyXAd",
+							"expanded_url": "http://www.farrightwatch.net",
+							"display_url": "farrightwatch.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15896,
+			"friends_count": 1511,
+			"listed_count": 143,
+			"created_at": "Mon Nov 08 11:36:40 +0000 2010",
+			"favourites_count": 15765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237458398746161152/xZmcnuD7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237458398746161152/xZmcnuD7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213243802/1571833241",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13226,
+		"favorite_count": 15754,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Regarding those 128 fake #NHS Staff accounts posting for 'Herd Mentality'  and support of the Govt that were set up by @DHSCgovuk or their marketing agency  ...\n\nPosts were sent using Hootsuite, a mass-posting tool. Account registered to 1 person with 4 assigned contributors. https://t.co/r7fRFQaFwG"
+	},
+	{
+		"created_at": "Mon Apr 20 21:39:36 +0000 2020",
+		"id": 1252351233832054800,
+		"id_str": "1252351233832054789",
+		"full_text": "@profnoury why use 'your brain' and not simply 'you' ?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profnoury",
+					"name": "Nelly نياو",
+					"id": 902894909631463400,
+					"id_str": "902894909631463425",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252350557206921200,
+		"in_reply_to_status_id_str": "1252350557206921216",
+		"in_reply_to_user_id": 902894909631463400,
+		"in_reply_to_user_id_str": "902894909631463425",
+		"in_reply_to_screen_name": "profnoury",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1929,
+			"friends_count": 1287,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profnoury why use 'your brain' and not simply 'you' ?"
+	},
+	{
 		"created_at": "Sun Apr 19 16:54:45 +0000 2020",
 		"id": 1251917159938359300,
 		"id_str": "1251917159938359299",
