@@ -1,6 +1,1110 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 21:46:58 +0000 2020",
+		"id": 1252701564977860600,
+		"id_str": "1252715476611936256",
+		"full_text": "The brass neck on it https://t.co/mYoeFgNqIx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252701428847710200,
+					"id_str": "1252701428847710209",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252701428847710209/pu/img/vlANTBtSlnP6Ekdx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252701428847710209/pu/img/vlANTBtSlnP6Ekdx.jpg",
+					"url": "https://t.co/mYoeFgNqIx",
+					"display_url": "pic.twitter.com/mYoeFgNqIx",
+					"expanded_url": "https://twitter.com/UKDemockery/status/1252701564977860608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252701428847710200,
+					"id_str": "1252701428847710209",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252701428847710209/pu/img/vlANTBtSlnP6Ekdx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252701428847710209/pu/img/vlANTBtSlnP6Ekdx.jpg",
+					"url": "https://t.co/mYoeFgNqIx",
+					"display_url": "pic.twitter.com/mYoeFgNqIx",
+					"expanded_url": "https://twitter.com/UKDemockery/status/1252701564977860608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49817,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1252701428847710209/pu/pl/Tx5yMGQXSn2G-gr8.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252701428847710209/pu/vid/640x360/oYEEQdXhirnOxl_W.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252701428847710209/pu/vid/1280x720/2kptTjMhyd44MYcR.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1252701428847710209/pu/vid/480x270/8Uao8C4EmE0CX4Lb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734778182105239600,
+			"id_str": "734778182105239552",
+			"name": "The Agitator",
+			"screen_name": "UKDemockery",
+			"location": "",
+			"description": "Educate, Agitate, Organise.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30125,
+			"friends_count": 4900,
+			"listed_count": 78,
+			"created_at": "Mon May 23 16:09:04 +0000 2016",
+			"favourites_count": 237137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151123342163922944/qK7ct2Wu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151123342163922944/qK7ct2Wu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734778182105239552/1585785629",
+			"profile_link_color": "BB0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 187,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The brass neck on it https://t.co/mYoeFgNqIx"
+	},
+	{
+		"created_at": "Tue Apr 21 21:43:45 +0000 2020",
+		"id": 1252714668537393200,
+		"id_str": "1252714668537393152",
+		"full_text": "hmm not sure if this was worth time to explain highest mountain vs tallest mountain but now know draw function in google docs not bad https://t.co/YSlza1VNJJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252714472000630800,
+					"id_str": "1252714472000630788",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EWKJLNSWsAQM3-A.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWKJLNSWsAQM3-A.png",
+					"url": "https://t.co/YSlza1VNJJ",
+					"display_url": "pic.twitter.com/YSlza1VNJJ",
+					"expanded_url": "https://twitter.com/muranava/status/1252714668537393152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252714472000630800,
+					"id_str": "1252714472000630788",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EWKJLNSWsAQM3-A.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWKJLNSWsAQM3-A.png",
+					"url": "https://t.co/YSlza1VNJJ",
+					"display_url": "pic.twitter.com/YSlza1VNJJ",
+					"expanded_url": "https://twitter.com/muranava/status/1252714668537393152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 1288,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hmm not sure if this was worth time to explain highest mountain vs tallest mountain but now know draw function in google docs not bad https://t.co/YSlza1VNJJ"
+	},
+	{
+		"created_at": "Tue Apr 21 21:03:08 +0000 2020",
+		"id": 1252645958422155300,
+		"id_str": "1252704444413734912",
+		"full_text": "New working paper by me on technology expenses and education among university English language teachers. I would love to hear opinions. https://t.co/C19r7Nv4lw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C19r7Nv4lw",
+					"expanded_url": "http://www.marcjones.tokyo/2020/04/22/new-working-paper-technology-expenses-and-education-among-university-english-language-teachers/",
+					"display_url": "marcjones.tokyo/2020/04/22/new…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1014494170839306200,
+			"id_str": "1014494170839306240",
+			"name": "marcjonestyo",
+			"screen_name": "marcjonestyo",
+			"location": "Tokyo",
+			"description": "English Language Teacher also doing research in Tokyo. Task-Based teaching, listening and pronunciation, corpus linguistics.",
+			"url": "https://t.co/FtKFewZDYB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FtKFewZDYB",
+							"expanded_url": "http://marcjones.tokyo/",
+							"display_url": "marcjones.tokyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 595,
+			"listed_count": 7,
+			"created_at": "Wed Jul 04 13:00:33 +0000 2018",
+			"favourites_count": 324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New working paper by me on technology expenses and education among university English language teachers. I would love to hear opinions. https://t.co/C19r7Nv4lw"
+	},
+	{
+		"created_at": "Tue Apr 21 20:34:19 +0000 2020",
+		"id": 1252697194270019600,
+		"id_str": "1252697194270019584",
+		"full_text": "@GeoffJordan17 can you open comments Geoff? thx",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252658507331113000,
+		"in_reply_to_status_id_str": "1252658507331112962",
+		"in_reply_to_user_id": 1202653711052480500,
+		"in_reply_to_user_id_str": "1202653711052480512",
+		"in_reply_to_screen_name": "GeoffJordan17",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 1288,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan17 can you open comments Geoff? thx"
+	},
+	{
+		"created_at": "Tue Apr 21 19:40:09 +0000 2020",
+		"id": 1252683561733406700,
+		"id_str": "1252683561733406722",
+		"full_text": "@BeeBond1 @alexanderding @maxclare @LeedsLangCentre @SMLCLeeds @CentreCelt i hope she is taking breaks now then!",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeeBond1",
+					"name": "Bee Bond",
+					"id": 605298072,
+					"id_str": "605298072",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "alexanderding",
+					"name": "Alex Ding",
+					"id": 118014141,
+					"id_str": "118014141",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "maxclare",
+					"name": "Clare Maxwell",
+					"id": 20393233,
+					"id_str": "20393233",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "LeedsLangCentre",
+					"name": "The Language Centre",
+					"id": 1156724952,
+					"id_str": "1156724952",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "SMLCLeeds",
+					"name": "LCS Leeds",
+					"id": 521270503,
+					"id_str": "521270503",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "CentreCelt",
+					"name": "Centre for Excellence in Language Teaching (CELT)",
+					"id": 1198299352537714700,
+					"id_str": "1198299352537714690",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252680474042028000,
+		"in_reply_to_status_id_str": "1252680474042028040",
+		"in_reply_to_user_id": 605298072,
+		"in_reply_to_user_id_str": "605298072",
+		"in_reply_to_screen_name": "BeeBond1",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 1288,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BeeBond1 @alexanderding @maxclare @LeedsLangCentre @SMLCLeeds @CentreCelt i hope she is taking breaks now then!"
+	},
+	{
+		"created_at": "Tue Apr 21 19:13:32 +0000 2020",
+		"id": 1252676861873791000,
+		"id_str": "1252676861873790976",
+		"full_text": "@alexanderding @maxclare @LeedsLangCentre @SMLCLeeds @CentreCelt \"Two full hours of intense screen time\" you don't take breaks? our institution has mandated for 2 hours session 15min break each hour.",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexanderding",
+					"name": "Alex Ding",
+					"id": 118014141,
+					"id_str": "118014141",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "maxclare",
+					"name": "Clare Maxwell",
+					"id": 20393233,
+					"id_str": "20393233",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "LeedsLangCentre",
+					"name": "The Language Centre",
+					"id": 1156724952,
+					"id_str": "1156724952",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "SMLCLeeds",
+					"name": "LCS Leeds",
+					"id": 521270503,
+					"id_str": "521270503",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "CentreCelt",
+					"name": "Centre for Excellence in Language Teaching (CELT)",
+					"id": 1198299352537714700,
+					"id_str": "1198299352537714690",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252580819362873300,
+		"in_reply_to_status_id_str": "1252580819362873345",
+		"in_reply_to_user_id": 118014141,
+		"in_reply_to_user_id_str": "118014141",
+		"in_reply_to_screen_name": "alexanderding",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 1288,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alexanderding @maxclare @LeedsLangCentre @SMLCLeeds @CentreCelt \"Two full hours of intense screen time\" you don't take breaks? our institution has mandated for 2 hours session 15min break each hour."
+	},
+	{
+		"created_at": "Tue Apr 21 18:58:18 +0000 2020",
+		"id": 1252673029013938200,
+		"id_str": "1252673029013938176",
+		"full_text": "Anybody seen a pineapple? https://t.co/uB4UgUkK6F via @GeoffJordan17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						54,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uB4UgUkK6F",
+					"expanded_url": "https://applingtesol.wordpress.com/2020/04/21/anybody-seen-a-pineapple/",
+					"display_url": "applingtesol.wordpress.com/2020/04/21/any…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1927,
+			"friends_count": 1288,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anybody seen a pineapple? https://t.co/uB4UgUkK6F via @GeoffJordan17"
+	},
+	{
 		"created_at": "Mon Apr 20 22:01:05 +0000 2020",
 		"id": 1252266724449230800,
 		"id_str": "1252356640432480259",
