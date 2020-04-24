@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 08:04:16 +0000 2020",
+		"id": 1253233212400324600,
+		"id_str": "1253233212400324611",
+		"full_text": "@chriswcollins @Futurealisreal have seen direct links to COCA examples for error feedback, an option for lower proficiency learners e.g. by @peterrenshu https://t.co/maVK933Ead",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chriswcollins",
+					"name": "Christopher W. Collins",
+					"id": 546618642,
+					"id_str": "546618642",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Futurealisreal",
+					"name": "Mark Makino",
+					"id": 1740448560,
+					"id_str": "1740448560",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "peterrenshu",
+					"name": "Peter Parise",
+					"id": 631949549,
+					"id_str": "631949549",
+					"indices": [
+						140,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/maVK933Ead",
+					"expanded_url": "https://tesolpeter.wordpress.com/references-%e3%83%bb%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae-for-poster-at-the-international-symposium-on-innovative-teaching-and-research-in-esp-at-the-university-of-electro-communications%e3%83%bb/",
+					"display_url": "tesolpeter.wordpress.com/references-%e3…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1253128836184715300,
+		"in_reply_to_status_id_str": "1253128836184715264",
+		"in_reply_to_user_id": 546618642,
+		"in_reply_to_user_id_str": "546618642",
+		"in_reply_to_screen_name": "chriswcollins",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 1290,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@chriswcollins @Futurealisreal have seen direct links to COCA examples for error feedback, an option for lower proficiency learners e.g. by @peterrenshu https://t.co/maVK933Ead"
+	},
+	{
+		"created_at": "Thu Apr 23 07:33:11 +0000 2020",
+		"id": 1253095018639876000,
+		"id_str": "1253225390384074752",
+		"full_text": "Presentation that I probably would have given at a conference some time this year: Simplify your correction codes with COCA. https://t.co/0mel7Tjyfu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mel7Tjyfu",
+					"expanded_url": "https://youtu.be/OBW2mleq52w",
+					"display_url": "youtu.be/OBW2mleq52w",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1740448560,
+			"id_str": "1740448560",
+			"name": "Mark Makino",
+			"screen_name": "Futurealisreal",
+			"location": "Orange County→富士宮市→オレンジ郡→???",
+			"description": "I teach English as just another language.",
+			"url": "https://t.co/kO7OQYxXxj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kO7OQYxXxj",
+							"expanded_url": "https://futurealisreal.wordpress.com/",
+							"display_url": "futurealisreal.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 515,
+			"friends_count": 349,
+			"listed_count": 17,
+			"created_at": "Sat Sep 07 04:27:11 +0000 2013",
+			"favourites_count": 5552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880841615966846976/ty35-1I2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880841615966846976/ty35-1I2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Presentation that I probably would have given at a conference some time this year: Simplify your correction codes with COCA. https://t.co/0mel7Tjyfu"
+	},
+	{
 		"created_at": "Wed Apr 22 21:39:25 +0000 2020",
 		"id": 1253075962566189000,
 		"id_str": "1253075962566189058",
