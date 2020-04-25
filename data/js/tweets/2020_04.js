@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 20:53:11 +0000 2020",
+		"id": 1253735353128816600,
+		"id_str": "1253789103096823808",
+		"full_text": "Texte important, signé par une trentaine d'organisations politiques, syndicales et militantes, qui considère légitimes les révoltes en banlieue ces derniers jours.\n\nFait rare, il ne renvoie pas dos à dos les violences urbaines et les violences policières.\n\nhttps://t.co/ZYmpF3YJP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZYmpF3YJP6",
+					"expanded_url": "https://www.bondyblog.fr/societe/police-justice/la-colere-des-quartiers-populaires-est-legitime/",
+					"display_url": "bondyblog.fr/societe/police…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835174698623336400,
+			"id_str": "835174698623336448",
+			"name": "Taha Bouhafs",
+			"screen_name": "T_Bouhafs",
+			"location": "Paris, France",
+			"description": "Journaliste, plus souvent dans la rue qu’à la rédac’ Mes DM sont ouverts 📩",
+			"url": "https://t.co/SWl2dGZesM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SWl2dGZesM",
+							"expanded_url": "http://instagram.com/taha.bouhafs",
+							"display_url": "instagram.com/taha.bouhafs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63487,
+			"friends_count": 2929,
+			"listed_count": 238,
+			"created_at": "Fri Feb 24 17:08:59 +0000 2017",
+			"favourites_count": 25803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233286278243856384/370Ef8UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233286278243856384/370Ef8UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835174698623336448/1586696318",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 303,
+		"favorite_count": 523,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Texte important, signé par une trentaine d'organisations politiques, syndicales et militantes, qui considère légitimes les révoltes en banlieue ces derniers jours.\n\nFait rare, il ne renvoie pas dos à dos les violences urbaines et les violences policières.\n\nhttps://t.co/ZYmpF3YJP6"
+	},
+	{
 		"created_at": "Thu Apr 23 08:04:16 +0000 2020",
 		"id": 1253233212400324600,
 		"id_str": "1253233212400324611",
