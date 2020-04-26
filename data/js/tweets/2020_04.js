@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 13:18:58 +0000 2020",
+		"id": 1254012759987159000,
+		"id_str": "1254037183784239104",
+		"full_text": "ICYMI 👉  COVID-19 SPECIAL INVESTIGATION: Part Two – Government Documents Reveal Concern for 'Economic' and 'Business' Impacts Prevented Early Action || via @BylineTimes \nhttps://t.co/Uu4ydbW02m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BylineTimes",
+					"name": "Byline Times",
+					"id": 1035418272764715000,
+					"id_str": "1035418272764715008",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Uu4ydbW02m",
+					"expanded_url": "https://bylinetimes.com/2020/03/23/covid-19-special-investigation-part-two-government-documents-reveal-concern-for-economic-and-business-impacts-prevented-early-action/",
+					"display_url": "bylinetimes.com/2020/03/23/cov…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923921421910380500,
+			"id_str": "923921421910380544",
+			"name": "Ⓜ️uumi🕷️McBot (@🏠)🍋🏴󠁧󠁢󠁳󠁣󠁴󠁿❄️🌊🦋🍑",
+			"screen_name": "muumi_tweets",
+			"location": "",
+			"description": "Muumi quotes ❄️ #TrumpTweets for everything 🦋 DUM EXCUSARE CREDIS, ACCUSAS 🌊 NE BIS IN IDEM 📎 #WorldCitizen🗽💙 FB 🌊 FBPE 🇪🇺🕯️🐟 #TeamNeuroSyphillis🍄",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2710,
+			"friends_count": 3160,
+			"listed_count": 2,
+			"created_at": "Fri Oct 27 14:36:47 +0000 2017",
+			"favourites_count": 60295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218497363368607744/YYisQkq2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218497363368607744/YYisQkq2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923921421910380544/1528969763",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI 👉  COVID-19 SPECIAL INVESTIGATION: Part Two – Government Documents Reveal Concern for 'Economic' and 'Business' Impacts Prevented Early Action || via @BylineTimes \nhttps://t.co/Uu4ydbW02m"
+	},
+	{
+		"created_at": "Sat Apr 25 12:53:27 +0000 2020",
+		"id": 1253673995200848000,
+		"id_str": "1254030764930408448",
+		"full_text": "“I find the clapping quite sinister. It’s as if it’s okay not to care about the neglect of the NHS.”\n\n@SleafordMods frontman Jason Williamson says #ClapForCarers helps us feel better about frontline workers being “treated like shit”. https://t.co/FNeEiST0tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClapForCarers",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sleafordmods",
+					"name": "Sleaford Mods",
+					"id": 23674486,
+					"id_str": "23674486",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253671007627477000,
+					"id_str": "1253671007627476993",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EWXxhBkWkAAZPbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWXxhBkWkAAZPbe.jpg",
+					"url": "https://t.co/FNeEiST0tZ",
+					"display_url": "pic.twitter.com/FNeEiST0tZ",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1253673995200847874/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253671007627477000,
+					"id_str": "1253671007627476993",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EWXxhBkWkAAZPbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWXxhBkWkAAZPbe.jpg",
+					"url": "https://t.co/FNeEiST0tZ",
+					"display_url": "pic.twitter.com/FNeEiST0tZ",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1253673995200847874/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 212920,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1253671007627476993/pl/hLJqF6uSH3zEAH_T.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253671007627476993/vid/480x480/nGNIohzLFuOTaHTU.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253671007627476993/vid/720x720/kH4cunjMlHa8GwP2.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1253671007627476993/vid/320x320/pS-YC5HrqIvtVj9k.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "NHS clap is 'sinister', says Sleaford Mods frontman",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "@PoliticsJOE_uk - @FootballJOE - @SportsJOE_uk",
+							"url": "https://t.co/ExMq7aJrtM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ExMq7aJrtM",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 239848,
+							"friends_count": 1024,
+							"listed_count": 1326,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 8491,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 109106,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1573571129",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840502412842541000,
+			"id_str": "840502412842541056",
+			"name": "PoliticsJOE",
+			"screen_name": "PoliticsJOE_UK",
+			"location": "United Kingdom",
+			"description": "Strong and stable political coverage for the many, not the few. @JOE_co_uk approve this message.",
+			"url": "https://t.co/5c0SO4F6tj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5c0SO4F6tj",
+							"expanded_url": "https://www.youtube.com/PoliticsJOE?sub_confirmation=1",
+							"display_url": "youtube.com/PoliticsJOE?su…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119456,
+			"friends_count": 780,
+			"listed_count": 476,
+			"created_at": "Sat Mar 11 09:59:25 +0000 2017",
+			"favourites_count": 2609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840502412842541056/1586453739",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 994,
+		"favorite_count": 2068,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I find the clapping quite sinister. It’s as if it’s okay not to care about the neglect of the NHS.”\n\n@SleafordMods frontman Jason Williamson says #ClapForCarers helps us feel better about frontline workers being “treated like shit”. https://t.co/FNeEiST0tZ"
+	},
+	{
+		"created_at": "Sat Apr 25 12:41:19 +0000 2020",
+		"id": 1254027710826983400,
+		"id_str": "1254027710826983427",
+		"full_text": "@neil_mcm i think he was on twitter at one time?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neil_mcm",
+					"name": "Neil McMillan",
+					"id": 60425505,
+					"id_str": "60425505",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1253944409508515800,
+		"in_reply_to_status_id_str": "1253944409508515840",
+		"in_reply_to_user_id": 60425505,
+		"in_reply_to_user_id_str": "60425505",
+		"in_reply_to_screen_name": "neil_mcm",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1924,
+			"friends_count": 1293,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neil_mcm i think he was on twitter at one time?"
+	},
+	{
+		"created_at": "Sat Apr 25 11:28:52 +0000 2020",
+		"id": 1253808065692029000,
+		"id_str": "1254009477818433538",
+		"full_text": "This young black woman has had her story copied and plagiarised by @Forbes magazine. Please retweet to get the message out there! Black voices matter.  #charlotteseck #Plagiarism #blackvoicesmatter https://t.co/VmslIYHTet https://t.co/73koAiObrU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "charlotteseck",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "Plagiarism",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "blackvoicesmatter",
+					"indices": [
+						179,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VmslIYHTet",
+					"expanded_url": "https://www.amina-mag.com/covid-19-les-femmes-cheffes-de-gouvernement-ont-une-meilleure-gestion-de-lepidemie/",
+					"display_url": "amina-mag.com/covid-19-les-f…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1253808060927271000,
+					"id_str": "1253808060927270914",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EWZrydgXYAIX0vV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWZrydgXYAIX0vV.jpg",
+					"url": "https://t.co/73koAiObrU",
+					"display_url": "pic.twitter.com/73koAiObrU",
+					"expanded_url": "https://twitter.com/stxphisthinking/status/1253808065692028936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253808060927271000,
+					"id_str": "1253808060927270914",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EWZrydgXYAIX0vV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWZrydgXYAIX0vV.jpg",
+					"url": "https://t.co/73koAiObrU",
+					"display_url": "pic.twitter.com/73koAiObrU",
+					"expanded_url": "https://twitter.com/stxphisthinking/status/1253808065692028936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73879732,
+			"id_str": "73879732",
+			"name": "SMB",
+			"screen_name": "stxphisthinking",
+			"location": "",
+			"description": "Introverted Extrovert...Views are my own of course...East Londoner living in Paris. 🇬🇧 🇫🇷",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 1034,
+			"listed_count": 1,
+			"created_at": "Sun Sep 13 13:10:05 +0000 2009",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245835757966811136/yr8uSNby_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245835757966811136/yr8uSNby_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73879732/1585865029",
+			"profile_link_color": "67CF7F",
+			"profile_sidebar_border_color": "C2B7B7",
+			"profile_sidebar_fill_color": "EB3D60",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 268,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This young black woman has had her story copied and plagiarised by @Forbes magazine. Please retweet to get the message out there! Black voices matter.  #charlotteseck #Plagiarism #blackvoicesmatter https://t.co/VmslIYHTet https://t.co/73koAiObrU"
+	},
+	{
 		"created_at": "Fri Apr 24 20:53:11 +0000 2020",
 		"id": 1253735353128816600,
 		"id_str": "1253789103096823808",
