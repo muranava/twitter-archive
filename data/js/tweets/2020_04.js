@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 21:10:52 +0000 2020",
+		"id": 1255243105374175200,
+		"id_str": "1255243105374175237",
+		"full_text": "@ParisaMehran fook : (",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParisaMehran",
+					"name": "Parisa Mehran, PhD",
+					"id": 1115272279,
+					"id_str": "1115272279",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255240722401439700,
+		"in_reply_to_status_id_str": "1255240722401439751",
+		"in_reply_to_user_id": 1115272279,
+		"in_reply_to_user_id_str": "1115272279",
+		"in_reply_to_screen_name": "ParisaMehran",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1300,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ParisaMehran fook : ("
+	},
+	{
+		"created_at": "Tue Apr 28 19:50:03 +0000 2020",
+		"id": 1255221816483885000,
+		"id_str": "1255222770012696576",
+		"full_text": "This is not essential PPE for frontline workers - this is just a tribute #minutesilence #MendaciousB https://t.co/GuLhZ2Ab6m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minutesilence",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"text": "MendaciousB",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255221770438807600,
+					"id_str": "1255221770438807559",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255221770438807559/pu/img/00_mXJd-x2XjozYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255221770438807559/pu/img/00_mXJd-x2XjozYv.jpg",
+					"url": "https://t.co/GuLhZ2Ab6m",
+					"display_url": "pic.twitter.com/GuLhZ2Ab6m",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1255221816483885056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255221770438807600,
+					"id_str": "1255221770438807559",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255221770438807559/pu/img/00_mXJd-x2XjozYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255221770438807559/pu/img/00_mXJd-x2XjozYv.jpg",
+					"url": "https://t.co/GuLhZ2Ab6m",
+					"display_url": "pic.twitter.com/GuLhZ2Ab6m",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1255221816483885056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139119,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255221770438807559/pu/vid/640x360/oNJvXtm6Nxyunzae.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255221770438807559/pu/vid/480x270/bIxdMtab8c_iLpWY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255221770438807559/pu/vid/1280x720/r2CEP6dxp0OWQVCf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1255221770438807559/pu/pl/tQ5XEfICzboWvtqD.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7351,
+			"friends_count": 945,
+			"listed_count": 26,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 4142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is not essential PPE for frontline workers - this is just a tribute #minutesilence #MendaciousB https://t.co/GuLhZ2Ab6m"
+	},
+	{
+		"created_at": "Tue Apr 28 19:41:23 +0000 2020",
+		"id": 1255220587758325800,
+		"id_str": "1255220587758325764",
+		"full_text": "Usage based Theories Part 2 https://t.co/v5SH8pbGzU via @GeoffJordan17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v5SH8pbGzU",
+					"expanded_url": "https://applingtesol.wordpress.com/2020/04/28/usage-based-theories-part-2/",
+					"display_url": "applingtesol.wordpress.com/2020/04/28/usa…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1300,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Usage based Theories Part 2 https://t.co/v5SH8pbGzU via @GeoffJordan17"
+	},
+	{
+		"created_at": "Tue Apr 28 10:31:16 +0000 2020",
+		"id": 1255079355837005800,
+		"id_str": "1255082144029958146",
+		"full_text": "🚨BREAKING NEWS! Outsourced cleaners at the @MoJGovUK have downed tools on #IWMD20. 2 of their colleagues have died from suspected Coranavirus. They allege they've been left without sufficient PPE and that OCS and the MoJ is failing to follow government rules. Hear from Fatima: https://t.co/j4WxTZ4JNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IWMD20",
+					"indices": [
+						74,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoJGovUK",
+					"name": "Ministry of Justice",
+					"id": 40015678,
+					"id_str": "40015678",
+					"indices": [
+						43,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255079150303535000,
+					"id_str": "1255079150303535104",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255079150303535104/pu/img/s0rZSm-EW8Xyfv2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255079150303535104/pu/img/s0rZSm-EW8Xyfv2X.jpg",
+					"url": "https://t.co/j4WxTZ4JNY",
+					"display_url": "pic.twitter.com/j4WxTZ4JNY",
+					"expanded_url": "https://twitter.com/UVWunion/status/1255079355837005824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255079150303535000,
+					"id_str": "1255079150303535104",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255079150303535104/pu/img/s0rZSm-EW8Xyfv2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255079150303535104/pu/img/s0rZSm-EW8Xyfv2X.jpg",
+					"url": "https://t.co/j4WxTZ4JNY",
+					"display_url": "pic.twitter.com/j4WxTZ4JNY",
+					"expanded_url": "https://twitter.com/UVWunion/status/1255079355837005824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 66883,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255079150303535104/pu/vid/640x352/-zjGojU56R0N3R8g.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1255079150303535104/pu/pl/OGpT7Mms1cHXsOq7.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255079150303535104/pu/vid/490x270/F4nbS6Ss7akpT7We.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2923235807,
+			"id_str": "2923235807",
+			"name": "United Voices of the World",
+			"screen_name": "UVWunion",
+			"location": "Waterloo SE1 7NQ, London",
+			"description": "UVW is a members-led, campaigning trade union of migrant & precarious workers. Also @LSWUnited @unitedstripper @UVW_SAW @UVW_DCW @UVW_GBV @UVWnoticias",
+			"url": "https://t.co/J1mZ5g2mZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1mZ5g2mZD",
+							"expanded_url": "http://www.uvwunion.org.uk",
+							"display_url": "uvwunion.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9964,
+			"friends_count": 2587,
+			"listed_count": 94,
+			"created_at": "Mon Dec 15 17:18:33 +0000 2014",
+			"favourites_count": 3602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2923235807/1564172431",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 202,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨BREAKING NEWS! Outsourced cleaners at the @MoJGovUK have downed tools on #IWMD20. 2 of their colleagues have died from suspected Coranavirus. They allege they've been left without sufficient PPE and that OCS and the MoJ is failing to follow government rules. Hear from Fatima: https://t.co/j4WxTZ4JNY"
+	},
+	{
 		"created_at": "Mon Apr 27 19:54:39 +0000 2020",
 		"id": 1254861538894045200,
 		"id_str": "1254861538894045184",
