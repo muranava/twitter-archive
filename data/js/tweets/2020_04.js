@@ -1,6 +1,1274 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 21:12:00 +0000 2020",
+		"id": 1255605777982607400,
+		"id_str": "1255605777982607360",
+		"full_text": "@ambientGillian @lizburgh @sister1029 \"switch and bait\" is interesting use though",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ambientGillian",
+					"name": "Aisling McCrea",
+					"id": 1136670685,
+					"id_str": "1136670685",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lizburgh",
+					"name": "🥈🄻🄸🅉🄱🅄🅁🄶🄷🥈",
+					"id": 41719692,
+					"id_str": "41719692",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "sister1029",
+					"name": "BigSister1029",
+					"id": 1218649692441104400,
+					"id_str": "1218649692441104384",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255604224005726200,
+		"in_reply_to_status_id_str": "1255604224005726210",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1299,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ambientGillian @lizburgh @sister1029 \"switch and bait\" is interesting use though"
+	},
+	{
+		"created_at": "Wed Apr 29 21:05:49 +0000 2020",
+		"id": 1255604224005726200,
+		"id_str": "1255604224005726210",
+		"full_text": "@ambientGillian @lizburgh @sister1029 if we can compare another shortform text e.g. newspaper headlines they also omit articles",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ambientGillian",
+					"name": "Aisling McCrea",
+					"id": 1136670685,
+					"id_str": "1136670685",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "lizburgh",
+					"name": "🥈🄻🄸🅉🄱🅄🅁🄶🄷🥈",
+					"id": 41719692,
+					"id_str": "41719692",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "sister1029",
+					"name": "BigSister1029",
+					"id": 1218649692441104400,
+					"id_str": "1218649692441104384",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255591028008026000,
+		"in_reply_to_status_id_str": "1255591028008026118",
+		"in_reply_to_user_id": 1136670685,
+		"in_reply_to_user_id_str": "1136670685",
+		"in_reply_to_screen_name": "ambientGillian",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1299,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ambientGillian @lizburgh @sister1029 if we can compare another shortform text e.g. newspaper headlines they also omit articles"
+	},
+	{
+		"created_at": "Wed Apr 29 18:45:25 +0000 2020",
+		"id": 1255568889779544000,
+		"id_str": "1255568889779544070",
+		"full_text": "@onalifeglug My deepest condolences.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onalifeglug",
+					"name": "Graham",
+					"id": 19516039,
+					"id_str": "19516039",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255557815000862700,
+		"in_reply_to_status_id_str": "1255557815000862721",
+		"in_reply_to_user_id": 19516039,
+		"in_reply_to_user_id_str": "19516039",
+		"in_reply_to_screen_name": "onalifeglug",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1299,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@onalifeglug My deepest condolences."
+	},
+	{
+		"created_at": "Wed Apr 29 16:38:09 +0000 2020",
+		"id": 1255516175322230800,
+		"id_str": "1255536861071753218",
+		"full_text": "BAE's weekly cargo flight from its war plane factory in England to an air base in Saudi Arabia is on its way again. Looks like its about to land at RAF Akrotiri in Cyprus to refuel. Meanwhile UK govt say it supports a ceasefire in Yemen https://t.co/KCZDyesuQG https://t.co/D7l4k5H12A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KCZDyesuQG",
+					"expanded_url": "https://uk.flightaware.com/live/flight/BAE101/history/20200429/1039Z/EGNO",
+					"display_url": "uk.flightaware.com/live/flight/BA…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255515999669018600,
+					"id_str": "1255515999669018625",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx9JlIXYAEpCQT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWx9JlIXYAEpCQT.png",
+					"url": "https://t.co/D7l4k5H12A",
+					"display_url": "pic.twitter.com/D7l4k5H12A",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1255516175322230786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 837,
+							"h": 777,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 837,
+							"h": 777,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255515999669018600,
+					"id_str": "1255515999669018625",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx9JlIXYAEpCQT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWx9JlIXYAEpCQT.png",
+					"url": "https://t.co/D7l4k5H12A",
+					"display_url": "pic.twitter.com/D7l4k5H12A",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1255516175322230786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 837,
+							"h": 777,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 837,
+							"h": 777,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594641380,
+			"id_str": "2594641380",
+			"name": "Phil Miller",
+			"screen_name": "pmillerinfo",
+			"location": "London",
+			"description": "Staff reporter for @DeclassifiedUK. Email phil@declassifieduk.org Author of Keenie Meenie - book about British mercenary company KMS Ltd https://t.co/698thEXrOo",
+			"url": "https://t.co/2j7BzQuhQv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2j7BzQuhQv",
+							"expanded_url": "http://www.philmiller.info/about",
+							"display_url": "philmiller.info/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/698thEXrOo",
+							"expanded_url": "http://www.KeenieMeenie.Info",
+							"display_url": "KeenieMeenie.Info",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4441,
+			"friends_count": 864,
+			"listed_count": 36,
+			"created_at": "Sun Jun 29 11:32:29 +0000 2014",
+			"favourites_count": 569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238161512151289856/OxaLLcWV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238161512151289856/OxaLLcWV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594641380/1581441066",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BAE's weekly cargo flight from its war plane factory in England to an air base in Saudi Arabia is on its way again. Looks like its about to land at RAF Akrotiri in Cyprus to refuel. Meanwhile UK govt say it supports a ceasefire in Yemen https://t.co/KCZDyesuQG https://t.co/D7l4k5H12A"
+	},
+	{
+		"created_at": "Wed Apr 29 16:36:56 +0000 2020",
+		"id": 1255535516461805600,
+		"id_str": "1255536554673569792",
+		"full_text": "To save your life, they gave their own - Remember them.\nhttps://t.co/0GS5FK4dlb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255401044491800600,
+					"id_str": "1255401044491800581",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EWwUrKZX0AAtbXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWwUrKZX0AAtbXa.jpg",
+					"url": "https://t.co/0GS5FK4dlb",
+					"display_url": "pic.twitter.com/0GS5FK4dlb",
+					"expanded_url": "https://twitter.com/GMB/status/1255401271940591618/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1255401271940591600,
+					"source_status_id_str": "1255401271940591618",
+					"source_user_id": 19424427,
+					"source_user_id_str": "19424427"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255401044491800600,
+					"id_str": "1255401044491800581",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EWwUrKZX0AAtbXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWwUrKZX0AAtbXa.jpg",
+					"url": "https://t.co/0GS5FK4dlb",
+					"display_url": "pic.twitter.com/0GS5FK4dlb",
+					"expanded_url": "https://twitter.com/GMB/status/1255401271940591618/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1255401271940591600,
+					"source_status_id_str": "1255401271940591618",
+					"source_user_id": 19424427,
+					"source_user_id_str": "19424427",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 303760,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1255401044491800581/vid/1280x720/_nZbNv0W1P0t9fZj.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1255401044491800581/vid/640x360/e2ysB2yI0mJa819G.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1255401044491800581/pl/MUrQ-6N9HILVkX2u.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1255401044491800581/vid/480x270/-9ADbIMx8HM4gs1g.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 19424427,
+							"id_str": "19424427",
+							"name": "Good Morning Britain",
+							"screen_name": "GMB",
+							"location": "London",
+							"description": "The UK's most talked about breakfast television show. Weekdays from 6am on @ITV. Replies & content may be used on air. See https://t.co/u4BYxXFfJq",
+							"url": "https://t.co/ZZKX14E7X3",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ZZKX14E7X3",
+											"expanded_url": "http://www.itv.com/gmb",
+											"display_url": "itv.com/gmb",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/u4BYxXFfJq",
+											"expanded_url": "http://itv.com/terms",
+											"display_url": "itv.com/terms",
+											"indices": [
+												123,
+												146
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 705042,
+							"friends_count": 2974,
+							"listed_count": 1788,
+							"created_at": "Sat Jan 24 00:25:12 +0000 2009",
+							"favourites_count": 5196,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 74028,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F3800D",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1251008232040136705/eC9hDm_F_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251008232040136705/eC9hDm_F_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/19424427/1585828916",
+							"profile_link_color": "B85B0E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "282828",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734778182105239600,
+			"id_str": "734778182105239552",
+			"name": "The Agitator",
+			"screen_name": "UKDemockery",
+			"location": "",
+			"description": "Educate, Agitate, Organise.",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30563,
+			"friends_count": 4935,
+			"listed_count": 81,
+			"created_at": "Mon May 23 16:09:04 +0000 2016",
+			"favourites_count": 239043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 229166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151123342163922944/qK7ct2Wu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151123342163922944/qK7ct2Wu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734778182105239552/1585785629",
+			"profile_link_color": "BB0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 51,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To save your life, they gave their own - Remember them.\nhttps://t.co/0GS5FK4dlb"
+	},
+	{
+		"created_at": "Wed Apr 29 16:12:27 +0000 2020",
+		"id": 1255530394662862800,
+		"id_str": "1255530394662862850",
+		"full_text": "The Raven Paradox https://t.co/qNTXwYDQLj via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qNTXwYDQLj",
+					"expanded_url": "https://youtu.be/8u2Ecyjp9g4",
+					"display_url": "youtu.be/8u2Ecyjp9g4",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1299,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Raven Paradox https://t.co/qNTXwYDQLj via @YouTube"
+	},
+	{
+		"created_at": "Wed Apr 29 16:05:54 +0000 2020",
+		"id": 1255528747383611400,
+		"id_str": "1255528747383611393",
+		"full_text": "@ddeubel great story! first time I heard it : )",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255519196668145700,
+		"in_reply_to_status_id_str": "1255519196668145666",
+		"in_reply_to_user_id": 52174903,
+		"in_reply_to_user_id_str": "52174903",
+		"in_reply_to_screen_name": "ddeubel",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 1299,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 10997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ddeubel great story! first time I heard it : )"
+	},
+	{
+		"created_at": "Wed Apr 29 14:22:45 +0000 2020",
+		"id": 1255500748835750000,
+		"id_str": "1255502786856435712",
+		"full_text": "This is an incredibly important victory for human rights and a blow against Israel's apartheid regime.\n\nEveryone who believes in an ethical foreign policy should get behind the #BDS campaign and help the struggle for the Palestinian people.\n https://t.co/bMu8Sp1lZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BDS",
+					"indices": [
+						177,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMu8Sp1lZ8",
+					"expanded_url": "https://dorseteye.com/palestine-solidarity-campaign-defeats-uk-government-in-supreme-court-over-ethical-pensions-divestment/?amp&__twitter_impression=true",
+					"display_url": "dorseteye.com/palestine-soli…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49682880,
+			"id_str": "49682880",
+			"name": "Chris Williamson #GTTO",
+			"screen_name": "DerbyChrisW",
+			"location": "Derby",
+			"description": "Former Derby North MP and City Council Leader | Now focusing on building a grassroots, anti-imperialist working class movement",
+			"url": "https://t.co/yMMMvGILu2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yMMMvGILu2",
+							"expanded_url": "http://resistfest.co.uk",
+							"display_url": "resistfest.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67716,
+			"friends_count": 3939,
+			"listed_count": 741,
+			"created_at": "Mon Jun 22 16:39:04 +0000 2009",
+			"favourites_count": 6541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206744523226914816/RpwEUz6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206744523226914816/RpwEUz6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49682880/1573091703",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 552,
+		"favorite_count": 898,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an incredibly important victory for human rights and a blow against Israel's apartheid regime.\n\nEveryone who believes in an ethical foreign policy should get behind the #BDS campaign and help the struggle for the Palestinian people.\n https://t.co/bMu8Sp1lZ8"
+	},
+	{
 		"created_at": "Tue Apr 28 21:10:52 +0000 2020",
 		"id": 1255243105374175200,
 		"id_str": "1255243105374175237",
