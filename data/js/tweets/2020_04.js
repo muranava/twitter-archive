@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 20:09:15 +0000 2020",
+		"id": 1255948106232934400,
+		"id_str": "1255952376487346178",
+		"full_text": "https://t.co/ZQgvyawlot https://t.co/0fSAPnPIhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fSAPnPIhB",
+					"expanded_url": "https://twitter.com/guardian/status/1255919804181069824",
+					"display_url": "twitter.com/guardian/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230132367869776000,
+					"id_str": "1230132367869775872",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230132367869775872/pu/img/eCPhm3dq8JcBeyJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230132367869775872/pu/img/eCPhm3dq8JcBeyJn.jpg",
+					"url": "https://t.co/ZQgvyawlot",
+					"display_url": "pic.twitter.com/ZQgvyawlot",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1230132424614567936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1230132424614568000,
+					"source_status_id_str": "1230132424614567936",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230132367869776000,
+					"id_str": "1230132367869775872",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230132367869775872/pu/img/eCPhm3dq8JcBeyJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230132367869775872/pu/img/eCPhm3dq8JcBeyJn.jpg",
+					"url": "https://t.co/ZQgvyawlot",
+					"display_url": "pic.twitter.com/ZQgvyawlot",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1230132424614567936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1230132424614568000,
+					"source_status_id_str": "1230132424614567936",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552",
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 134427,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230132367869775872/pu/vid/476x270/kgCBLSbSXP4gCDS8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230132367869775872/pu/vid/848x480/z67MCxn3iheRnCUn.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230132367869775872/pu/pl/c1fdHOXdaunTALcw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230132367869775872/pu/vid/636x360/hwFOF0-Ya6q5IH5C.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3291321552,
+							"id_str": "3291321552",
+							"name": "TheIainDuncanSmiths",
+							"screen_name": "TheIDSmiths",
+							"location": "DWP",
+							"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+							"url": "https://t.co/LpP9z6apMW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LpP9z6apMW",
+											"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+											"display_url": "youtube.com/TheIainDuncanS…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7406,
+							"friends_count": 950,
+							"listed_count": 26,
+							"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+							"favourites_count": 4229,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 9292,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7406,
+			"friends_count": 950,
+			"listed_count": 26,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 4229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255919804181069800,
+		"quoted_status_id_str": "1255919804181069824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0fSAPnPIhB",
+			"expanded": "https://twitter.com/guardian/status/1255919804181069824",
+			"display": "twitter.com/guardian/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 17:59:49 +0000 2020",
+			"id": 1255919804181069800,
+			"id_str": "1255919804181069824",
+			"full_text": "Labour should not 'shy away' from patriotism, says Starmer https://t.co/QbARaGSqrV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QbARaGSqrV",
+						"expanded_url": "https://www.theguardian.com/politics/2020/apr/30/labour-should-not-shy-away-from-patriotism-says-starmer?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1588269589",
+						"display_url": "theguardian.com/politics/2020/…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gWyuUVlObq",
+								"expanded_url": "https://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8762315,
+				"friends_count": 1085,
+				"listed_count": 63404,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 596790,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ZQgvyawlot https://t.co/0fSAPnPIhB"
+	},
+	{
 		"created_at": "Wed Apr 29 21:12:00 +0000 2020",
 		"id": 1255605777982607400,
 		"id_str": "1255605777982607360",
