@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 21:20:51 +0000 2020",
+		"id": 1258144172973920300,
+		"id_str": "1258144721148547079",
+		"full_text": "If you're a care worker who has faced pressure, threats or disciplinary action for speaking out about PPE, contact my office *in confidence*.\n\nWe're collecting evidence on how care workers are undervalued, underpaid, and fear speaking out due to precarious employment status. https://t.co/8x2dY3k0ug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258144103860068400,
+					"id_str": "1258144103860068352",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258144103860068352/pu/img/yFFwxHxT8ACFB3ud.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258144103860068352/pu/img/yFFwxHxT8ACFB3ud.jpg",
+					"url": "https://t.co/8x2dY3k0ug",
+					"display_url": "pic.twitter.com/8x2dY3k0ug",
+					"expanded_url": "https://twitter.com/NadiaWhittomeMP/status/1258144172973920262/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258144103860068400,
+					"id_str": "1258144103860068352",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258144103860068352/pu/img/yFFwxHxT8ACFB3ud.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258144103860068352/pu/img/yFFwxHxT8ACFB3ud.jpg",
+					"url": "https://t.co/8x2dY3k0ug",
+					"display_url": "pic.twitter.com/8x2dY3k0ug",
+					"expanded_url": "https://twitter.com/NadiaWhittomeMP/status/1258144172973920262/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 77267,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258144103860068352/pu/vid/320x320/nodzocvRwZbG9YsD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258144103860068352/pu/pl/9gnY2o0m4Wt4uzbT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258144103860068352/pu/vid/480x480/SbCVYH7v7i98K8G7.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258144103860068352/pu/vid/640x640/3mwkh87kJnVNzEuo.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 576682647,
+			"id_str": "576682647",
+			"name": "Nadia Whittome MP",
+			"screen_name": "NadiaWhittomeMP",
+			"location": "Nottingham",
+			"description": "Labour MP for Nottingham East | @LabourHealth team | sit on @CommonsEAC.",
+			"url": "https://t.co/VcRvEeMI3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VcRvEeMI3Z",
+							"expanded_url": "http://instagram.com/nadiawhittomemp",
+							"display_url": "instagram.com/nadiawhittomemp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36371,
+			"friends_count": 996,
+			"listed_count": 169,
+			"created_at": "Thu May 10 21:49:17 +0000 2012",
+			"favourites_count": 10237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229722962594553857/js8m1Cn1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229722962594553857/js8m1Cn1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/576682647/1573490545",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1814,
+		"favorite_count": 3687,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're a care worker who has faced pressure, threats or disciplinary action for speaking out about PPE, contact my office *in confidence*.\n\nWe're collecting evidence on how care workers are undervalued, underpaid, and fear speaking out due to precarious employment status. https://t.co/8x2dY3k0ug"
+	},
+	{
+		"created_at": "Wed May 06 21:01:31 +0000 2020",
+		"id": 1258067401737994200,
+		"id_str": "1258139856347299842",
+		"full_text": "Full #Kraftwerk clip from The New Dance Show, Detroit 1991 https://t.co/wwgoeK5dLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kraftwerk",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wwgoeK5dLq",
+					"expanded_url": "https://youtu.be/jdjEqP6mhV4",
+					"display_url": "youtu.be/jdjEqP6mhV4",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1258066858852442000,
+		"in_reply_to_status_id_str": "1258066858852442117",
+		"in_reply_to_user_id": 14898147,
+		"in_reply_to_user_id_str": "14898147",
+		"in_reply_to_screen_name": "Sarah_Woolley",
+		"user": {
+			"id": 14898147,
+			"id_str": "14898147",
+			"name": "Sarah_Woolley",
+			"screen_name": "Sarah_Woolley",
+			"location": "London",
+			"description": "Freelance writer & charity worker | @guardian @i_D @Independent @ViceUK ✍️ | Producer & host of a podcast for people with sight loss in Croydon 🎙️She/her",
+			"url": "https://t.co/5FkrXIRDMB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5FkrXIRDMB",
+							"expanded_url": "https://muckrack.com/sarah-woolley-2",
+							"display_url": "muckrack.com/sarah-woolley-2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7484,
+			"friends_count": 2167,
+			"listed_count": 92,
+			"created_at": "Sun May 25 11:46:03 +0000 2008",
+			"favourites_count": 41201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239279296180555776/57Bpc5-h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239279296180555776/57Bpc5-h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14898147/1576496266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full #Kraftwerk clip from The New Dance Show, Detroit 1991 https://t.co/wwgoeK5dLq"
+	},
+	{
+		"created_at": "Wed May 06 21:00:18 +0000 2020",
+		"id": 1258066132763848700,
+		"id_str": "1258139549760397315",
+		"full_text": "Kraftwerk co-founder Florian Schneider is dead at 73.\n\nThis is Jeremy Deller sharing #Kraftwerk’s impact on Detroit in #EverybodyInThePlace. It’s a documentary I once watched twice in a day because it makes me feel so good. https://t.co/uiF8H5PZ4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kraftwerk",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "EverybodyInThePlace",
+					"indices": [
+						119,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258065920741666800,
+					"id_str": "1258065920741666817",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258065920741666817/pu/img/RCMLMOAg8uPrhwte.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258065920741666817/pu/img/RCMLMOAg8uPrhwte.jpg",
+					"url": "https://t.co/uiF8H5PZ4a",
+					"display_url": "pic.twitter.com/uiF8H5PZ4a",
+					"expanded_url": "https://twitter.com/Sarah_Woolley/status/1258066132763848706/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258065920741666800,
+					"id_str": "1258065920741666817",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258065920741666817/pu/img/RCMLMOAg8uPrhwte.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258065920741666817/pu/img/RCMLMOAg8uPrhwte.jpg",
+					"url": "https://t.co/uiF8H5PZ4a",
+					"display_url": "pic.twitter.com/uiF8H5PZ4a",
+					"expanded_url": "https://twitter.com/Sarah_Woolley/status/1258066132763848706/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258065920741666817/pu/vid/640x360/kUptPPLWyNgTaXfy.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258065920741666817/pu/vid/480x270/GfovartgPHCFPyit.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258065920741666817/pu/pl/W6duDshjTyh4Rt9D.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258065920741666817/pu/vid/1280x720/sFjK3Txq6_HGp59G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14898147,
+			"id_str": "14898147",
+			"name": "Sarah_Woolley",
+			"screen_name": "Sarah_Woolley",
+			"location": "London",
+			"description": "Freelance writer & charity worker | @guardian @i_D @Independent @ViceUK ✍️ | Producer & host of a podcast for people with sight loss in Croydon 🎙️She/her",
+			"url": "https://t.co/5FkrXIRDMB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5FkrXIRDMB",
+							"expanded_url": "https://muckrack.com/sarah-woolley-2",
+							"display_url": "muckrack.com/sarah-woolley-2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7484,
+			"friends_count": 2167,
+			"listed_count": 92,
+			"created_at": "Sun May 25 11:46:03 +0000 2008",
+			"favourites_count": 41201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239279296180555776/57Bpc5-h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239279296180555776/57Bpc5-h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14898147/1576496266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 310,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kraftwerk co-founder Florian Schneider is dead at 73.\n\nThis is Jeremy Deller sharing #Kraftwerk’s impact on Detroit in #EverybodyInThePlace. It’s a documentary I once watched twice in a day because it makes me feel so good. https://t.co/uiF8H5PZ4a"
+	},
+	{
 		"created_at": "Tue May 05 21:44:54 +0000 2020",
 		"id": 1257727530238435300,
 		"id_str": "1257788386343075845",
