@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 20:55:02 +0000 2020",
+		"id": 1258498300199809000,
+		"id_str": "1258500611328348160",
+		"full_text": "UK hip hop has lost a legend. I hope he knew how much he was loved and appreciated. https://t.co/KYsortOnRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KYsortOnRz",
+					"expanded_url": "https://www.theguardian.com/music/2020/may/07/ty-mercury-prize-nominated-uk-rapper-dies-aged-47-of-coronavirus",
+					"display_url": "theguardian.com/music/2020/may…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277041135,
+			"id_str": "277041135",
+			"name": "Darren Chetty",
+			"screen_name": "rapclassroom",
+			"location": "London, England",
+			"description": "Teaching, Writing, Researching.  Columnist for @BooksForKeeps https://t.co/1PIVT9xTFN \nAgent: @rachelphilippa",
+			"url": "https://t.co/4ybHBtF4oK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4ybHBtF4oK",
+							"expanded_url": "https://ioe-ac.academia.edu/DarrenChetty",
+							"display_url": "ioe-ac.academia.edu/DarrenChetty",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1PIVT9xTFN",
+							"expanded_url": "http://booksforkeeps.co.uk/member/darren-chetty",
+							"display_url": "booksforkeeps.co.uk/member/darren-…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10541,
+			"friends_count": 4016,
+			"listed_count": 201,
+			"created_at": "Mon Apr 04 15:45:39 +0000 2011",
+			"favourites_count": 37280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114271707034996736/9DZrxV3p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114271707034996736/9DZrxV3p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277041135/1573080079",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK hip hop has lost a legend. I hope he knew how much he was loved and appreciated. https://t.co/KYsortOnRz"
+	},
+	{
 		"created_at": "Wed May 06 21:20:51 +0000 2020",
 		"id": 1258144172973920300,
 		"id_str": "1258144721148547079",
