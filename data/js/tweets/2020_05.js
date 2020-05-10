@@ -1,6 +1,1426 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 21:24:23 +0000 2020",
+		"id": 1259232775087030300,
+		"id_str": "1259232775087030273",
+		"full_text": "@Ricky_Jeffrey 😂, may be of interest to note W was interested (philosophically) in teaching (a language) but not in learning (a language)",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ricky_Jeffrey",
+					"name": "Ricky Jeffrey",
+					"id": 237250367,
+					"id_str": "237250367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259211627494363100,
+		"in_reply_to_status_id_str": "1259211627494363138",
+		"in_reply_to_user_id": 237250367,
+		"in_reply_to_user_id_str": "237250367",
+		"in_reply_to_screen_name": "Ricky_Jeffrey",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1931,
+			"friends_count": 1316,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ricky_Jeffrey 😂, may be of interest to note W was interested (philosophically) in teaching (a language) but not in learning (a language)"
+	},
+	{
+		"created_at": "Sat May 09 19:03:58 +0000 2020",
+		"id": 1259194836097392600,
+		"id_str": "1259197436301541376",
+		"full_text": "broke: Maladie\n\nbespoke : M'ladie https://t.co/itTMUaMIxN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itTMUaMIxN",
+					"expanded_url": "https://twitter.com/schradie/status/1258835033873428481",
+					"display_url": "twitter.com/schradie/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817165422,
+			"id_str": "817165422",
+			"name": "hk",
+			"screen_name": "HKesvani",
+			"location": "SE London",
+			"description": "Another writer that mistakes tweets and content for art",
+			"url": "https://t.co/qsaoLXhqF1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qsaoLXhqF1",
+							"expanded_url": "https://melmagazine.com/en-us/story/author/hussein-kesvani",
+							"display_url": "melmagazine.com/en-us/story/au…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41399,
+			"friends_count": 11070,
+			"listed_count": 475,
+			"created_at": "Tue Sep 11 10:45:14 +0000 2012",
+			"favourites_count": 77890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257488157265846274/49eoLMvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257488157265846274/49eoLMvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817165422/1553624302",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258835033873428500,
+		"quoted_status_id_str": "1258835033873428481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/itTMUaMIxN",
+			"expanded": "https://twitter.com/schradie/status/1258835033873428481",
+			"display": "twitter.com/schradie/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 19:03:54 +0000 2020",
+			"id": 1258835033873428500,
+			"id_str": "1258835033873428481",
+			"full_text": "BREAKING NEWS: The Académie Française, the French language police, have just announced that while Covid19 *could* be a masculine word because of “le virus” that it’s preferable to be feminine because of “la maladie.” https://t.co/rsYWY97VEJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rsYWY97VEJ",
+						"expanded_url": "http://www.academie-francaise.fr/le-covid-19-ou-la-covid-19",
+						"display_url": "academie-francaise.fr/le-covid-19-ou…",
+						"indices": [
+							217,
+							240
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64219646,
+				"id_str": "64219646",
+				"name": "Dr. Jen Schradie",
+				"screen_name": "schradie",
+				"location": "France and Silicon Valley",
+				"description": "Sociologist @SciencesPo Paris, PhD @UCBerkeley. How Digital Activism Favors Conservatives @Harvard_Press. Tech & inequality, labor, democracy. Banjo & Yoga hack",
+				"url": "https://t.co/aT8IkFkYOP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aT8IkFkYOP",
+								"expanded_url": "http://therevolutionthatwasnt.com/",
+								"display_url": "therevolutionthatwasnt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4644,
+				"friends_count": 729,
+				"listed_count": 286,
+				"created_at": "Sun Aug 09 18:06:07 +0000 2009",
+				"favourites_count": 30163,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240653613309087745/9gFWCHP8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240653613309087745/9gFWCHP8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64219646/1584629848",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 490,
+			"favorite_count": 1150,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "broke: Maladie\n\nbespoke : M'ladie https://t.co/itTMUaMIxN"
+	},
+	{
+		"created_at": "Sat May 09 15:21:30 +0000 2020",
+		"id": 1259141450849280000,
+		"id_str": "1259141450849280005",
+		"full_text": "@spsmith45 critics say he is a \"brain in the vat\" type of researcher : ) i.e. that people are brains",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259124556796702700,
+		"in_reply_to_status_id_str": "1259124556796702720",
+		"in_reply_to_user_id": 303905601,
+		"in_reply_to_user_id_str": "303905601",
+		"in_reply_to_screen_name": "spsmith45",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1931,
+			"friends_count": 1316,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@spsmith45 critics say he is a \"brain in the vat\" type of researcher : ) i.e. that people are brains"
+	},
+	{
+		"created_at": "Sat May 09 15:16:44 +0000 2020",
+		"id": 1259075932939268000,
+		"id_str": "1259140252083662850",
+		"full_text": "Don't forget to fill in our #coronavirus survey! The more information we have, the more we can do to hold the #TEFL industry to account.\n\nhttps://t.co/ILzVgwV0ca\n\nPlease share with your #EFL friends, workmates, and comrades.\n\n#TEFLWorkersUnion #IWW #ESL #CELTA #DELTA #union",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirus",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "EFL",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						226,
+						243
+					]
+				},
+				{
+					"text": "IWW",
+					"indices": [
+						244,
+						248
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						249,
+						253
+					]
+				},
+				{
+					"text": "CELTA",
+					"indices": [
+						254,
+						260
+					]
+				},
+				{
+					"text": "DELTA",
+					"indices": [
+						261,
+						267
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						268,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ILzVgwV0ca",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSenB78tTjXjvfl3Pp8PbgjdQOmpcVx8oiM82nAuc1LF6eXMtw/viewform",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 98,
+			"listed_count": 9,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget to fill in our #coronavirus survey! The more information we have, the more we can do to hold the #TEFL industry to account.\n\nhttps://t.co/ILzVgwV0ca\n\nPlease share with your #EFL friends, workmates, and comrades.\n\n#TEFLWorkersUnion #IWW #ESL #CELTA #DELTA #union"
+	},
+	{
+		"created_at": "Sat May 09 09:54:44 +0000 2020",
+		"id": 1259049198483374000,
+		"id_str": "1259059219057213445",
+		"full_text": "Injures, fake news, liste de journalistes « ennemis », remerciement à Dieudonné...\nOn s’est demandé si les syndicats de police étaient en roue libre sur Twitter. Et on leur a posé directement la question https://t.co/hoTfyzBWjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258527404504514600,
+					"id_str": "1258527404504514565",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcwiloWAAccTu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXcwiloWAAccTu0.jpg",
+					"url": "https://t.co/hoTfyzBWjg",
+					"display_url": "pic.twitter.com/hoTfyzBWjg",
+					"expanded_url": "https://twitter.com/Loopsidernews/status/1259043681383985152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259043681383985200,
+					"source_status_id_str": "1259043681383985152",
+					"source_user_id": 920582396793278500,
+					"source_user_id_str": "920582396793278465"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258527404504514600,
+					"id_str": "1258527404504514565",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EXcwiloWAAccTu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXcwiloWAAccTu0.jpg",
+					"url": "https://t.co/hoTfyzBWjg",
+					"display_url": "pic.twitter.com/hoTfyzBWjg",
+					"expanded_url": "https://twitter.com/Loopsidernews/status/1259043681383985152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1259043681383985200,
+					"source_status_id_str": "1259043681383985152",
+					"source_user_id": 920582396793278500,
+					"source_user_id_str": "920582396793278465",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 442480,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258527404504514565/vid/720x720/4aCKAHpvn05-aaGd.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1258527404504514565/pl/oH2DhMkzTM82k-Xw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258527404504514565/vid/480x480/h5a_3YYFyAcpCpME.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1258527404504514565/vid/320x320/huzY-AEVR88rx77r.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 920582396793278500,
+							"id_str": "920582396793278465",
+							"name": "Loopsider",
+							"screen_name": "Loopsidernews",
+							"location": "",
+							"description": "Regarder, comprendre, partager.",
+							"url": "https://t.co/095tCmKVeM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/095tCmKVeM",
+											"expanded_url": "http://www.loopsider.com",
+											"display_url": "loopsider.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 46020,
+							"friends_count": 251,
+							"listed_count": 361,
+							"created_at": "Wed Oct 18 09:28:41 +0000 2017",
+							"favourites_count": 744,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 4917,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1146037065508933633/3lnCbYYb_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146037065508933633/3lnCbYYb_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/920582396793278465/1512666889",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233532563,
+			"id_str": "233532563",
+			"name": "David Perrotin",
+			"screen_name": "davidperrotin",
+			"location": "Paris",
+			"description": "Journaliste chez @Loopsidernews et parfois ailleurs (passé par le JDD, BuzzFeed et Rue89) davidperrotin@gmail(.)com  site : https://t.co/NcwK51zLIX",
+			"url": "https://t.co/19K1OkYL0n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/19K1OkYL0n",
+							"expanded_url": "http://www.buzzfeed.com/davidperrotin",
+							"display_url": "buzzfeed.com/davidperrotin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NcwK51zLIX",
+							"expanded_url": "http://loopsider.com/society/fr",
+							"display_url": "loopsider.com/society/fr",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44974,
+			"friends_count": 2972,
+			"listed_count": 596,
+			"created_at": "Mon Jan 03 13:44:13 +0000 2011",
+			"favourites_count": 10499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055481473837551619/KuoH6aLJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055481473837551619/KuoH6aLJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233532563/1462987034",
+			"profile_link_color": "090C0D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "250996",
+			"profile_text_color": "F5EDEF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2091,
+		"favorite_count": 2763,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Injures, fake news, liste de journalistes « ennemis », remerciement à Dieudonné...\nOn s’est demandé si les syndicats de police étaient en roue libre sur Twitter. Et on leur a posé directement la question https://t.co/hoTfyzBWjg"
+	},
+	{
+		"created_at": "Sat May 09 07:55:10 +0000 2020",
+		"id": 1259029126985416700,
+		"id_str": "1259029126985416706",
+		"full_text": "@suzyg001 @Trivium21c a still deeper confusion that seems prominent is that humans are brains",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suzyg001",
+					"name": "Sue Gerrard",
+					"id": 367628836,
+					"id_str": "367628836",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Trivium21c",
+					"name": "Martin Robinson",
+					"id": 99895700,
+					"id_str": "99895700",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259016980360843300,
+		"in_reply_to_status_id_str": "1259016980360843264",
+		"in_reply_to_user_id": 367628836,
+		"in_reply_to_user_id_str": "367628836",
+		"in_reply_to_screen_name": "suzyg001",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1931,
+			"friends_count": 1316,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suzyg001 @Trivium21c a still deeper confusion that seems prominent is that humans are brains"
+	},
+	{
+		"created_at": "Sat May 09 06:20:10 +0000 2020",
+		"id": 1258882131583012900,
+		"id_str": "1259005222560641024",
+		"full_text": "Nationalism is a disease. https://t.co/cyFjvGJwhN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cyFjvGJwhN",
+					"expanded_url": "https://twitter.com/MerseyHack/status/1258758842680254465",
+					"display_url": "twitter.com/MerseyHack/sta…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "Petrograd",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/xiOWJ610Vk",
+			"url": "https://t.co/NisDMEzbCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NisDMEzbCY",
+							"expanded_url": "http://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xiOWJ610Vk",
+							"expanded_url": "https://www.patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47212,
+			"friends_count": 2685,
+			"listed_count": 773,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 16209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1587570116",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258758842680254500,
+		"quoted_status_id_str": "1258758842680254465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cyFjvGJwhN",
+			"expanded": "https://twitter.com/MerseyHack/status/1258758842680254465",
+			"display": "twitter.com/MerseyHack/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 14:01:09 +0000 2020",
+			"id": 1258758842680254500,
+			"id_str": "1258758842680254465",
+			"full_text": "Residents in Grappenhall near #Warrington keep to #coronavirus rules by performing socially distanced conga to celebrate #VEDay75. More in @BBCNWT 6.40 https://t.co/nyaJmusvzN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Warrington",
+						"indices": [
+							30,
+							41
+						]
+					},
+					{
+						"text": "coronavirus",
+						"indices": [
+							50,
+							62
+						]
+					},
+					{
+						"text": "VEDay75",
+						"indices": [
+							121,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCNWT",
+						"name": "BBC North West",
+						"id": 64683174,
+						"id_str": "64683174",
+						"indices": [
+							139,
+							146
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1258758762694881300,
+						"id_str": "1258758762694881280",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258758762694881280/pu/img/MRakPMmi8j3gt5PX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258758762694881280/pu/img/MRakPMmi8j3gt5PX.jpg",
+						"url": "https://t.co/nyaJmusvzN",
+						"display_url": "pic.twitter.com/nyaJmusvzN",
+						"expanded_url": "https://twitter.com/MerseyHack/status/1258758842680254465/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258758762694881300,
+						"id_str": "1258758762694881280",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258758762694881280/pu/img/MRakPMmi8j3gt5PX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258758762694881280/pu/img/MRakPMmi8j3gt5PX.jpg",
+						"url": "https://t.co/nyaJmusvzN",
+						"display_url": "pic.twitter.com/nyaJmusvzN",
+						"expanded_url": "https://twitter.com/MerseyHack/status/1258758842680254465/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16467,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258758762694881280/pu/vid/640x360/7FFrfaywcRSLOcKV.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258758762694881280/pu/vid/1280x720/qjnw-zGbrIjhskdt.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1258758762694881280/pu/pl/mgvhJ0vMXA3tDEnN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258758762694881280/pu/vid/480x270/-y1itCAE-ERgz1OR.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213244038,
+				"id_str": "213244038",
+				"name": "Andy Gill",
+				"screen_name": "MerseyHack",
+				"location": "Liverpool/Manchester/The North",
+				"description": "BBC News reporter and presenter in North West England & occasionally elsewhere. My views, not BBC's. Instagram: andygillbbc",
+				"url": "https://t.co/1l5TrbpGg1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1l5TrbpGg1",
+								"expanded_url": "http://bbc.co.uk/liverpool",
+								"display_url": "bbc.co.uk/liverpool",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7933,
+				"friends_count": 327,
+				"listed_count": 142,
+				"created_at": "Mon Nov 08 11:37:44 +0000 2010",
+				"favourites_count": 37,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13513,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241146320976515075/UgEa2Lfl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241146320976515075/UgEa2Lfl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213244038/1551994425",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1245,
+			"favorite_count": 6727,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 108,
+		"favorite_count": 740,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nationalism is a disease. https://t.co/cyFjvGJwhN"
+	},
+	{
 		"created_at": "Thu May 07 20:55:02 +0000 2020",
 		"id": 1258498300199809000,
 		"id_str": "1258500611328348160",
