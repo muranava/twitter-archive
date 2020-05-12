@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 10:02:01 +0000 2020",
+		"id": 1259735364652150800,
+		"id_str": "1259785825895821312",
+		"full_text": "EAP Practitioner Precarity and the Coronavirus 1-week Event. Day One: Views from precarious practitioners is now live. You can read, listen and watch as well as discuss the views of practitioners https://t.co/zPaFC48qg6 feel free to join in/share/retweet #tleap #HigherEducation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tleap",
+					"indices": [
+						255,
+						261
+					]
+				},
+				{
+					"text": "HigherEducation",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPaFC48qg6",
+					"expanded_url": "https://celt.leeds.ac.uk/day-one-views-from-precarious-practitioners/",
+					"display_url": "celt.leeds.ac.uk/day-one-views-…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118014141,
+			"id_str": "118014141",
+			"name": "Alex Ding",
+			"screen_name": "alexanderding",
+			"location": "University of Leeds",
+			"description": "Director of the Centre for Excellence in Language Teaching & Associate Professor in EAP University of Leeds interests: agency ideology epistemology  scholarship",
+			"url": "https://t.co/FjxyRRIGPa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjxyRRIGPa",
+							"expanded_url": "https://teachingeap.wordpress.com/",
+							"display_url": "teachingeap.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1274,
+			"friends_count": 829,
+			"listed_count": 26,
+			"created_at": "Sat Feb 27 09:35:07 +0000 2010",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123250578765828098/kgokWnFm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123250578765828098/kgokWnFm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118014141/1558033219",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EAP Practitioner Precarity and the Coronavirus 1-week Event. Day One: Views from precarious practitioners is now live. You can read, listen and watch as well as discuss the views of practitioners https://t.co/zPaFC48qg6 feel free to join in/share/retweet #tleap #HigherEducation"
+	},
+	{
 		"created_at": "Sun May 10 21:51:59 +0000 2020",
 		"id": 1259602107386208300,
 		"id_str": "1259602107386208256",
