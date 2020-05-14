@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 11:25:16 +0000 2020",
+		"id": 1260521918924558300,
+		"id_str": "1260531554620768258",
+		"full_text": "Thank you @DawnButlerBrent for speaking truth to power. Wish others would follow by example instead of enabling this mess  https://t.co/PsjH5i4EnX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DawnButlerBrent",
+					"name": "(((Dawn Butler)))",
+					"id": 114505454,
+					"id_str": "114505454",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260498503475888000,
+					"id_str": "1260498503475888130",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4y9L1WsAE_BoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4y9L1WsAE_BoK.jpg",
+					"url": "https://t.co/PsjH5i4EnX",
+					"display_url": "pic.twitter.com/PsjH5i4EnX",
+					"expanded_url": "https://twitter.com/JeremyVineOn5/status/1260501504131305473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1260501504131305500,
+					"source_status_id_str": "1260501504131305473",
+					"source_user_id": 52360480,
+					"source_user_id_str": "52360480"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260498503475888000,
+					"id_str": "1260498503475888130",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EX4y9L1WsAE_BoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX4y9L1WsAE_BoK.jpg",
+					"url": "https://t.co/PsjH5i4EnX",
+					"display_url": "pic.twitter.com/PsjH5i4EnX",
+					"expanded_url": "https://twitter.com/JeremyVineOn5/status/1260501504131305473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1260501504131305500,
+					"source_status_id_str": "1260501504131305473",
+					"source_user_id": 52360480,
+					"source_user_id_str": "52360480",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 105720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1260498503475888130/pl/rMBhRayz3XixWlPn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260498503475888130/vid/640x360/RGEIdRHQ_3i4SoDa.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260498503475888130/vid/1280x720/V9TR6E96f6tvGoeX.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1260498503475888130/vid/480x270/Ga0nbrxdgW6gUlCH.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 52360480,
+							"id_str": "52360480",
+							"name": "Jeremy Vine On 5",
+							"screen_name": "JeremyVineOn5",
+							"location": "London, England",
+							"description": "Join @TheJeremyVine and @StormHuntley with celebrity panelists on @channel5_tv every Mon-Fri 9.15-11.15am 📱 Text AUDIENCE to 85525 (standard rates) #jeremyvine",
+							"url": "https://t.co/j1lSUcVGPI",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/j1lSUcVGPI",
+											"expanded_url": "http://facebook.com/JeremyVineOn5",
+											"display_url": "facebook.com/JeremyVineOn5",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 129268,
+							"friends_count": 3794,
+							"listed_count": 651,
+							"created_at": "Tue Jun 30 10:25:40 +0000 2009",
+							"favourites_count": 4119,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 24794,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "3B94D9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1035500614464286720/LNCT_3Ie_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035500614464286720/LNCT_3Ie_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/52360480/1535717601",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDFFCC",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1849667018,
+			"id_str": "1849667018",
+			"name": "Aniqah",
+			"screen_name": "AniqahC",
+			"location": "manchester",
+			"description": "~Bi 🌈 WoC Muslim journalist ~ words for @The_NewArab, @IndyVoices, @TheatreMagazine 🌹 @SocofColour co-founder 🐝 commissions - aniqahca@gmail.com",
+			"url": "https://t.co/0TYas4bb4d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0TYas4bb4d",
+							"expanded_url": "http://odetoalibrary.wordpress.com/",
+							"display_url": "odetoalibrary.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4359,
+			"friends_count": 2554,
+			"listed_count": 137,
+			"created_at": "Mon Sep 09 22:53:15 +0000 2013",
+			"favourites_count": 37540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249075202006409219/y1LrASeg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249075202006409219/y1LrASeg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1849667018/1581520469",
+			"profile_link_color": "0D6FAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @DawnButlerBrent for speaking truth to power. Wish others would follow by example instead of enabling this mess  https://t.co/PsjH5i4EnX"
+	},
+	{
 		"created_at": "Tue May 12 16:10:02 +0000 2020",
 		"id": 1260240828154478600,
 		"id_str": "1260240828154478592",
