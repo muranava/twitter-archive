@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 10:59:30 +0000 2020",
+		"id": 1261827888489300000,
+		"id_str": "1261974618572800000",
+		"full_text": "People that are upset by the latest teacher bashing, check out the comments on the tweet below. This type of bashing has existed all my life. Doesn’t seem to be going away. https://t.co/yMb0nQ683R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yMb0nQ683R",
+					"expanded_url": "https://twitter.com/DVATW/status/1261732197544976384",
+					"display_url": "twitter.com/DVATW/status/1…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613446992,
+			"id_str": "613446992",
+			"name": "Amjad Ali",
+			"screen_name": "ASTsupportAAli",
+			"location": "UK ",
+			"description": "P/T AHT & Consultant•Deliver INSET&CPD•Collate FREE T&L Toolkit @TryThisTeaching•Book out with @CrownHousePub•CoFounder of @bameednetwork #BAMEed ViewsMyOwn",
+			"url": "https://t.co/74AIk9GC1J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/74AIk9GC1J",
+							"expanded_url": "Https://www.trythisteaching.com",
+							"display_url": "trythisteaching.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24741,
+			"friends_count": 568,
+			"listed_count": 378,
+			"created_at": "Wed Jun 20 13:41:47 +0000 2012",
+			"favourites_count": 103990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "59BEE4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260097774512734208/DiP4S7lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260097774512734208/DiP4S7lq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/613446992/1550446698",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "191F22",
+			"profile_text_color": "4BB7DF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261732197544976400,
+		"quoted_status_id_str": "1261732197544976384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yMb0nQ683R",
+			"expanded": "https://twitter.com/DVATW/status/1261732197544976384",
+			"display": "twitter.com/DVATW/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 16 18:56:12 +0000 2020",
+			"id": 1261732197544976400,
+			"id_str": "1261732197544976384",
+			"full_text": "I wonder who Tesco are aiming this at? https://t.co/PIZ7NoGKO8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PIZ7NoGKO8",
+						"expanded_url": "https://twitter.com/Nigel21915926/status/1261639931434274816/video/1",
+						"display_url": "twitter.com/Nigel21915926/…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19899606,
+				"id_str": "19899606",
+				"name": "David Vance",
+				"screen_name": "DVATW",
+				"location": "UK",
+				"description": "“I used to be disgusted but now I try to be amused”",
+				"url": "https://t.co/ksQ1hRguPJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ksQ1hRguPJ",
+								"expanded_url": "http://www.altnewsmedia.net",
+								"display_url": "altnewsmedia.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 161614,
+				"friends_count": 1098,
+				"listed_count": 900,
+				"created_at": "Mon Feb 02 09:36:06 +0000 2009",
+				"favourites_count": 48888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 188853,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214971037420605441/zsclHUeE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214971037420605441/zsclHUeE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19899606/1552130358",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 455,
+			"favorite_count": 1237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 44,
+		"favorite_count": 288,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People that are upset by the latest teacher bashing, check out the comments on the tweet below. This type of bashing has existed all my life. Doesn’t seem to be going away. https://t.co/yMb0nQ683R"
+	},
+	{
 		"created_at": "Sat May 16 21:45:01 +0000 2020",
 		"id": 1261774684112277500,
 		"id_str": "1261774684112277507",
