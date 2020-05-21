@@ -1,6 +1,1227 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 22:09:40 +0000 2020",
+		"id": 1263230436425240600,
+		"id_str": "1263230436425240576",
+		"full_text": "@canguroenglish @adelegoldberg1 big clue in vid - 'you're tearing this family apart' : )",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "canguroenglish",
+					"name": "Canguro English",
+					"id": 2789515027,
+					"id_str": "2789515027",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "adelegoldberg1",
+					"name": "Adele Goldberg",
+					"id": 871372298477023200,
+					"id_str": "871372298477023232",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1263228756145180700,
+		"in_reply_to_status_id_str": "1263228756145180674",
+		"in_reply_to_user_id": 2789515027,
+		"in_reply_to_user_id_str": "2789515027",
+		"in_reply_to_screen_name": "canguroenglish",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1330,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@canguroenglish @adelegoldberg1 big clue in vid - 'you're tearing this family apart' : )"
+	},
+	{
+		"created_at": "Wed May 20 20:47:33 +0000 2020",
+		"id": 1260663501758042000,
+		"id_str": "1263209770636513288",
+		"full_text": "There must be no new wave of the austerity that has caused disgraceful levels of poverty, inequality and insecurity.\n\nWe need investment in all our futures.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Labour MP for Islington North 🌹",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2421382,
+			"friends_count": 2786,
+			"listed_count": 6923,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4145,
+		"favorite_count": 17501,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There must be no new wave of the austerity that has caused disgraceful levels of poverty, inequality and insecurity.\n\nWe need investment in all our futures."
+	},
+	{
+		"created_at": "Wed May 20 20:46:36 +0000 2020",
+		"id": 1263209533033320400,
+		"id_str": "1263209533033320448",
+		"full_text": "it seems that use of -ing form in \"how are you knowing so accurately these numbers that you have\" adds to the incredulity of the BBC reporter on the success of the interviewee and her actions in fighting covid19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1263098075137990700,
+		"in_reply_to_status_id_str": "1263098075137990662",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1330,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "it seems that use of -ing form in \"how are you knowing so accurately these numbers that you have\" adds to the incredulity of the BBC reporter on the success of the interviewee and her actions in fighting covid19"
+	},
+	{
+		"created_at": "Wed May 20 13:23:42 +0000 2020",
+		"id": 1263098075137990700,
+		"id_str": "1263098075137990662",
+		"full_text": "\"..so you know of the numbers. You know, how are you knowing so accurately these numbers that you have.\" nice example of 'state' verb to know in -ing form #esl #tefl #elt https://t.co/FWmgFuJsVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "esl",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FWmgFuJsVe",
+					"expanded_url": "https://twitter.com/DearthOfSid/status/1262440308454748160",
+					"display_url": "twitter.com/DearthOfSid/st…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1330,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262440308454748200,
+		"quoted_status_id_str": "1262440308454748160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FWmgFuJsVe",
+			"expanded": "https://twitter.com/DearthOfSid/status/1262440308454748160",
+			"display": "twitter.com/DearthOfSid/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 17:49:59 +0000 2020",
+			"id": 1262440308454748200,
+			"id_str": "1262440308454748160",
+			"full_text": "(Part 2/3) https://t.co/YDOyaPVLo9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262439901783486500,
+						"id_str": "1262439901783486464",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262439901783486464/pu/img/W_lbMKgL0zn4qSAf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262439901783486464/pu/img/W_lbMKgL0zn4qSAf.jpg",
+						"url": "https://t.co/YDOyaPVLo9",
+						"display_url": "pic.twitter.com/YDOyaPVLo9",
+						"expanded_url": "https://twitter.com/DearthOfSid/status/1262440308454748160/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262439901783486500,
+						"id_str": "1262439901783486464",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262439901783486464/pu/img/W_lbMKgL0zn4qSAf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262439901783486464/pu/img/W_lbMKgL0zn4qSAf.jpg",
+						"url": "https://t.co/YDOyaPVLo9",
+						"display_url": "pic.twitter.com/YDOyaPVLo9",
+						"expanded_url": "https://twitter.com/DearthOfSid/status/1262440308454748160/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								23
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1262439901783486464/pu/vid/400x230/CSCWNOuRZwu2AFb8.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1262439901783486464/pu/pl/O8Ix3b1jFD2lWj-p.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1262439276249149400,
+			"in_reply_to_status_id_str": "1262439276249149440",
+			"in_reply_to_user_id": 101207254,
+			"in_reply_to_user_id_str": "101207254",
+			"in_reply_to_screen_name": "DearthOfSid",
+			"user": {
+				"id": 101207254,
+				"id_str": "101207254",
+				"name": "Siddharth🌹",
+				"screen_name": "DearthOfSid",
+				"location": "",
+				"description": "He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13804,
+				"friends_count": 1787,
+				"listed_count": 31,
+				"created_at": "Sat Jan 02 12:10:42 +0000 2010",
+				"favourites_count": 127562,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85323,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257359005174779904/mVY7CkuK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257359005174779904/mVY7CkuK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101207254/1587422699",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"..so you know of the numbers. You know, how are you knowing so accurately these numbers that you have.\" nice example of 'state' verb to know in -ing form #esl #tefl #elt https://t.co/FWmgFuJsVe"
+	},
+	{
+		"created_at": "Wed May 20 13:17:28 +0000 2020",
+		"id": 1262833596072702000,
+		"id_str": "1263096503633133569",
+		"full_text": "This is a remarkable interview. This BBC presenter almost can’t believe what she’s hearing. https://t.co/IlJmhvRf5w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlJmhvRf5w",
+					"expanded_url": "https://twitter.com/dearthofsid/status/1262439276249149440",
+					"display_url": "twitter.com/dearthofsid/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4449471987,
+			"id_str": "4449471987",
+			"name": "Sonia",
+			"screen_name": "yet_so_far",
+			"location": "Ireland",
+			"description": "(she/her) Mathematician, but mostly here to get mad and shitpost. Socialism or barbarism.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2610,
+			"friends_count": 3964,
+			"listed_count": 20,
+			"created_at": "Fri Dec 11 15:05:20 +0000 2015",
+			"favourites_count": 100040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208689502576877568/rCnqEypv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208689502576877568/rCnqEypv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4449471987/1576833865",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262439276249149400,
+		"quoted_status_id_str": "1262439276249149440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IlJmhvRf5w",
+			"expanded": "https://twitter.com/dearthofsid/status/1262439276249149440",
+			"display": "twitter.com/dearthofsid/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 17:45:53 +0000 2020",
+			"id": 1262439276249149400,
+			"id_str": "1262439276249149440",
+			"full_text": "Kerala's \"rockstar\" Health Minister @shailajateacher sharing the state's #COVID19 story live on BBC World News 🔥\n\n(Part 1/3) https://t.co/GM8VI8hlLO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							73,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shailajateacher",
+						"name": "Shailaja Teacher",
+						"id": 2780361002,
+						"id_str": "2780361002",
+						"indices": [
+							36,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262438714795372500,
+						"id_str": "1262438714795372544",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262438714795372544/pu/img/hKg6iMm0bWnJCuK3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262438714795372544/pu/img/hKg6iMm0bWnJCuK3.jpg",
+						"url": "https://t.co/GM8VI8hlLO",
+						"display_url": "pic.twitter.com/GM8VI8hlLO",
+						"expanded_url": "https://twitter.com/DearthOfSid/status/1262439276249149440/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262438714795372500,
+						"id_str": "1262438714795372544",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262438714795372544/pu/img/hKg6iMm0bWnJCuK3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262438714795372544/pu/img/hKg6iMm0bWnJCuK3.jpg",
+						"url": "https://t.co/GM8VI8hlLO",
+						"display_url": "pic.twitter.com/GM8VI8hlLO",
+						"expanded_url": "https://twitter.com/DearthOfSid/status/1262439276249149440/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 230,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								23
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1262438714795372544/pu/pl/4XF6G-U2W_uq1HBC.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1262438714795372544/pu/vid/400x230/m4Q8C-e0lmY1VdpY.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101207254,
+				"id_str": "101207254",
+				"name": "Siddharth🌹",
+				"screen_name": "DearthOfSid",
+				"location": "",
+				"description": "He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13804,
+				"friends_count": 1787,
+				"listed_count": 31,
+				"created_at": "Sat Jan 02 12:10:42 +0000 2010",
+				"favourites_count": 127562,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85323,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257359005174779904/mVY7CkuK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257359005174779904/mVY7CkuK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101207254/1587422699",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 400,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 52,
+		"favorite_count": 244,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a remarkable interview. This BBC presenter almost can’t believe what she’s hearing. https://t.co/IlJmhvRf5w"
+	},
+	{
+		"created_at": "Wed May 20 11:40:27 +0000 2020",
+		"id": 1263072089780768800,
+		"id_str": "1263072089780768768",
+		"full_text": "Life skills, technology, teacher evaluation and the World Bank https://t.co/GyIB2jNchL via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GyIB2jNchL",
+					"expanded_url": "https://adaptivelearninginelt.wordpress.com/2020/05/18/life-skills-technology-teacher-evaluation-and-the-world-bank/",
+					"display_url": "adaptivelearninginelt.wordpress.com/2020/05/18/lif…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1932,
+			"friends_count": 1330,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life skills, technology, teacher evaluation and the World Bank https://t.co/GyIB2jNchL via @wordpressdotcom"
+	},
+	{
+		"created_at": "Wed May 20 10:53:09 +0000 2020",
+		"id": 1262812073353982000,
+		"id_str": "1263060184617943041",
+		"full_text": "Il semble que le gouvernement français capitulera face au cartel du Cloud et fournira les informations médicales du pays directement à Microsoft. Pourquoi? C'est juste plus simple. https://t.co/iz0Il2o1GD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iz0Il2o1GD",
+					"expanded_url": "https://interhop.org/le-gouvernement-contraint-les-hopitaux-a-abandonner-vos-donnees-chez-microsoft_en/",
+					"display_url": "interhop.org/le-gouvernemen…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2916305152,
+			"id_str": "2916305152",
+			"name": "Edward Snowden",
+			"screen_name": "Snowden",
+			"location": "",
+			"description": "I used to work for the government. Now I work for the public. President at @FreedomofPress.",
+			"url": "https://t.co/U63fP7T2ST",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U63fP7T2ST",
+							"expanded_url": "https://freedom.press",
+							"display_url": "freedom.press",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4270364,
+			"friends_count": 1,
+			"listed_count": 21334,
+			"created_at": "Thu Dec 11 21:24:28 +0000 2014",
+			"favourites_count": 478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2916305152/1443542022",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4020,
+		"favorite_count": 5424,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Il semble que le gouvernement français capitulera face au cartel du Cloud et fournira les informations médicales du pays directement à Microsoft. Pourquoi? C'est juste plus simple. https://t.co/iz0Il2o1GD"
+	},
+	{
 		"created_at": "Tue May 19 23:05:38 +0000 2020",
 		"id": 1262877572007952400,
 		"id_str": "1262882132357234689",
