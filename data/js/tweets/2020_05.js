@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 19:55:24 +0000 2020",
+		"id": 1263569290000601000,
+		"id_str": "1263921425234251779",
+		"full_text": "Unionizing is good, actually. https://t.co/8TuluUrd10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263569262779621400,
+					"id_str": "1263569262779621376",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EYkZjMEU4AAiZIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYkZjMEU4AAiZIV.jpg",
+					"url": "https://t.co/8TuluUrd10",
+					"display_url": "pic.twitter.com/8TuluUrd10",
+					"expanded_url": "https://twitter.com/RiverCityIWW/status/1263569290000601089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 809,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263569262779621400,
+					"id_str": "1263569262779621376",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EYkZjMEU4AAiZIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYkZjMEU4AAiZIV.jpg",
+					"url": "https://t.co/8TuluUrd10",
+					"display_url": "pic.twitter.com/8TuluUrd10",
+					"expanded_url": "https://twitter.com/RiverCityIWW/status/1263569290000601089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 809,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180734876120518700,
+			"id_str": "1180734876120518657",
+			"name": "Sacramento IWW",
+			"screen_name": "RiverCityIWW",
+			"location": "",
+			"description": "Sacramento local of the Industrial Workers of the World. Building a better world one workplace at a time. In support of #COLA4All #1u",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 631,
+			"friends_count": 202,
+			"listed_count": 4,
+			"created_at": "Sun Oct 06 06:44:21 +0000 2019",
+			"favourites_count": 2306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180895892020219904/mclNLzps_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180895892020219904/mclNLzps_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180734876120518657/1570382499",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 1198,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Unionizing is good, actually. https://t.co/8TuluUrd10"
+	},
+	{
+		"created_at": "Fri May 22 15:00:55 +0000 2020",
+		"id": 1263840161210736600,
+		"id_str": "1263847314482958338",
+		"full_text": "A new cover of Radiohead's 'Creep' was on 6 Music this morning and reminded me of the late great Patrice O'Neal's sensational riff about it https://t.co/G6AT8jlerr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263839964573438000,
+					"id_str": "1263839964573437953",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263839964573437953/pu/img/-e6Pggbmmj_0pAuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263839964573437953/pu/img/-e6Pggbmmj_0pAuv.jpg",
+					"url": "https://t.co/G6AT8jlerr",
+					"display_url": "pic.twitter.com/G6AT8jlerr",
+					"expanded_url": "https://twitter.com/PhilNWang/status/1263840161210736642/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263839964573438000,
+					"id_str": "1263839964573437953",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263839964573437953/pu/img/-e6Pggbmmj_0pAuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263839964573437953/pu/img/-e6Pggbmmj_0pAuv.jpg",
+					"url": "https://t.co/G6AT8jlerr",
+					"display_url": "pic.twitter.com/G6AT8jlerr",
+					"expanded_url": "https://twitter.com/PhilNWang/status/1263840161210736642/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 138822,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1263839964573437953/pu/pl/zQPsoE8sE0qt1su4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1263839964573437953/pu/vid/360x270/dIG9zhFl2Rxk9BSC.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1263839964573437953/pu/vid/480x360/sSXWPmTIH26QSM-W.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38505015,
+			"id_str": "38505015",
+			"name": "Phil Wang",
+			"screen_name": "PhilNWang",
+			"location": "London",
+			"description": "Comedian. Netflix filming on sale now. ON TOUR til April. Tickets on website. Instagram: wangpix // Podcast: @thebudpod",
+			"url": "https://t.co/C0RvHluJ5w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C0RvHluJ5w",
+							"expanded_url": "http://www.philwang.co.uk",
+							"display_url": "philwang.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121430,
+			"friends_count": 1287,
+			"listed_count": 236,
+			"created_at": "Thu May 07 20:04:33 +0000 2009",
+			"favourites_count": 21765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/761875959788232704/cD0061IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/761875959788232704/cD0061IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38505015/1547048658",
+			"profile_link_color": "00609C",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 2860,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new cover of Radiohead's 'Creep' was on 6 Music this morning and reminded me of the late great Patrice O'Neal's sensational riff about it https://t.co/G6AT8jlerr"
+	},
+	{
 		"created_at": "Thu May 21 19:12:55 +0000 2020",
 		"id": 1263548343646642200,
 		"id_str": "1263548343646642177",
