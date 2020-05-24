@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 21:04:54 +0000 2020",
+		"id": 1264203015445188600,
+		"id_str": "1264301302844133376",
+		"full_text": "I'd like to organise a conference/event focussed on race, LGBTQIA, and gender issues in ELT.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20650366,
+			"id_str": "20650366",
+			"name": "Tyson Seburn",
+			"screen_name": "seburnt",
+			"location": "Toronto, Canada",
+			"description": "🌱ELT/EAP instructor, EMI Lecturer @NewCollegeUoT, @TDSIG Coord, curriculum director, I talk a lot about #representation these days it seems...\n🚶‍♂️il/ele/he",
+			"url": "https://t.co/a5wDeFaTcy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a5wDeFaTcy",
+							"expanded_url": "http://fourc.ca",
+							"display_url": "fourc.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4935,
+			"friends_count": 773,
+			"listed_count": 218,
+			"created_at": "Thu Feb 12 03:07:20 +0000 2009",
+			"favourites_count": 10667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226582626041057289/wSGQ5t5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226582626041057289/wSGQ5t5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20650366/1589600057",
+			"profile_link_color": "120B00",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'd like to organise a conference/event focussed on race, LGBTQIA, and gender issues in ELT."
+	},
+	{
 		"created_at": "Fri May 22 19:55:24 +0000 2020",
 		"id": 1263569290000601000,
 		"id_str": "1263921425234251779",
