@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 13:46:35 +0000 2020",
+		"id": 1264553384322965500,
+		"id_str": "1264553384322965505",
+		"full_text": "equating Boris Johnson and Jeremy Corbyn 'in the interests of political balance' from @AdamRutherford https://t.co/yiH2L1LMBy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamRutherford",
+					"name": "Dr Adam Rutherford",
+					"id": 22419487,
+					"id_str": "22419487",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1264553362336481300,
+					"id_str": "1264553362336481281",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EYyYlUmXgAEhaMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYyYlUmXgAEhaMC.jpg",
+					"url": "https://t.co/yiH2L1LMBy",
+					"display_url": "pic.twitter.com/yiH2L1LMBy",
+					"expanded_url": "https://twitter.com/muranava/status/1264553384322965505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 965,
+							"h": 502,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264553362336481300,
+					"id_str": "1264553362336481281",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EYyYlUmXgAEhaMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYyYlUmXgAEhaMC.jpg",
+					"url": "https://t.co/yiH2L1LMBy",
+					"display_url": "pic.twitter.com/yiH2L1LMBy",
+					"expanded_url": "https://twitter.com/muranava/status/1264553384322965505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 965,
+							"h": 502,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 1333,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "equating Boris Johnson and Jeremy Corbyn 'in the interests of political balance' from @AdamRutherford https://t.co/yiH2L1LMBy"
+	},
+	{
 		"created_at": "Sat May 23 21:04:54 +0000 2020",
 		"id": 1264203015445188600,
 		"id_str": "1264301302844133376",
@@ -28,7 +232,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Tyson Seburn",
 			"screen_name": "seburnt",
 			"location": "Toronto, Canada",
-			"description": "🌱ELT/EAP instructor, EMI Lecturer @NewCollegeUoT, @TDSIG Coord, curriculum director, I talk a lot about #representation these days it seems...\n🚶‍♂️il/ele/he",
+			"description": "🌱ELT/EAP instructor, EMI Lecturer @NewCollegeUoT, @TDSIG Coord, curriculum director, I talk a lot about #representation these days it seems...\n🚶♂️il/ele/he",
 			"url": "https://t.co/a5wDeFaTcy",
 			"entities": {
 				"url": {
