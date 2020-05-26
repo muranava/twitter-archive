@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 22:04:01 +0000 2020",
+		"id": 1265016028506910700,
+		"id_str": "1265040955880738817",
+		"full_text": "The UK now has the highest number of daily confirmed Covid-19 deaths per million people. (Via @OurWorldInData.) https://t.co/jwNxvwHKLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OurWorldInData",
+					"name": "Our World in Data",
+					"id": 3169963433,
+					"id_str": "3169963433",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265015992847081500,
+					"id_str": "1265015992847081477",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EY49V9jWoAUPzMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY49V9jWoAUPzMX.jpg",
+					"url": "https://t.co/jwNxvwHKLm",
+					"display_url": "pic.twitter.com/jwNxvwHKLm",
+					"expanded_url": "https://twitter.com/georgeeaton/status/1265016028506910721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1902,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265015992847081500,
+					"id_str": "1265015992847081477",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EY49V9jWoAUPzMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY49V9jWoAUPzMX.jpg",
+					"url": "https://t.co/jwNxvwHKLm",
+					"display_url": "pic.twitter.com/jwNxvwHKLm",
+					"expanded_url": "https://twitter.com/georgeeaton/status/1265016028506910721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1902,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20668369,
+			"id_str": "20668369",
+			"name": "George Eaton",
+			"screen_name": "georgeeaton",
+			"location": "London",
+			"description": "Senior online editor, @NewStatesman. Email: George[at]https://t.co/Vt8yIRpvk3",
+			"url": "https://t.co/yv5j7BklLK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yv5j7BklLK",
+							"expanded_url": "http://www.newstatesman.com/writers/george_eaton",
+							"display_url": "newstatesman.com/writers/george…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vt8yIRpvk3",
+							"expanded_url": "http://newstatesman.co.uk",
+							"display_url": "newstatesman.co.uk",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95180,
+			"friends_count": 5224,
+			"listed_count": 1606,
+			"created_at": "Thu Feb 12 11:11:24 +0000 2009",
+			"favourites_count": 22161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855893207519039489/HA4dHQ_F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855893207519039489/HA4dHQ_F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20668369/1536340403",
+			"profile_link_color": "0073FF",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1596,
+		"favorite_count": 1465,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The UK now has the highest number of daily confirmed Covid-19 deaths per million people. (Via @OurWorldInData.) https://t.co/jwNxvwHKLm"
+	},
+	{
+		"created_at": "Mon May 25 22:02:23 +0000 2020",
+		"id": 1264832897648918500,
+		"id_str": "1265040544612470784",
+		"full_text": "Please share:\nhttps://t.co/zxRxmKCYUw\nYour fellow teachers and students agree that all students deserve quality ELT. Students, please sign and share. You deserve to be heard. \n\n#ELT #Ireland #Covid19 #StudyAbroad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "Ireland",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "Covid19",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "StudyAbroad",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zxRxmKCYUw",
+					"expanded_url": "https://bit.ly/3eddDXd",
+					"display_url": "bit.ly/3eddDXd",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1310,
+			"friends_count": 1114,
+			"listed_count": 23,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 6140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please share:\nhttps://t.co/zxRxmKCYUw\nYour fellow teachers and students agree that all students deserve quality ELT. Students, please sign and share. You deserve to be heard. \n\n#ELT #Ireland #Covid19 #StudyAbroad"
+	},
+	{
 		"created_at": "Sun May 24 13:46:35 +0000 2020",
 		"id": 1264553384322965500,
 		"id_str": "1264553384322965505",
