@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 20:02:29 +0000 2020",
+		"id": 1266822307965800400,
+		"id_str": "1266822307965800454",
+		"full_text": "@bernywern @desireejweber My pleasure, his use of primitive normativity (i.e. a sense of fit) to bootstrap later rule following is neat",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bernywern",
+					"name": "Bernard Andrews",
+					"id": 411800297,
+					"id_str": "411800297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "desireejweber",
+					"name": "Desiree Weber",
+					"id": 3435695819,
+					"id_str": "3435695819",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1266785950312681500,
+		"in_reply_to_status_id_str": "1266785950312681473",
+		"in_reply_to_user_id": 411800297,
+		"in_reply_to_user_id_str": "411800297",
+		"in_reply_to_screen_name": "bernywern",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 1334,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bernywern @desireejweber My pleasure, his use of primitive normativity (i.e. a sense of fit) to bootstrap later rule following is neat"
+	},
+	{
+		"created_at": "Sat May 30 14:14:17 +0000 2020",
+		"id": 1266717712828575700,
+		"id_str": "1266734683431321602",
+		"full_text": "My latest: All the BBC's future Emily Maitlises watched the dressing down of the corporation's star journalist this week for criticising the Johnson government and drew the right conclusion: Their job is *not* to hold power to account \n\nhttps://t.co/iXOeqNC0mE https://t.co/resyEcYLep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iXOeqNC0mE",
+					"expanded_url": "https://www.jonathan-cook.net/blog/2020-05-29/emily-maitlis-bbc-cummings-row/",
+					"display_url": "jonathan-cook.net/blog/2020-05-2…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266717612668588000,
+					"id_str": "1266717612668588032",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EZRI9RXXkAAKDMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZRI9RXXkAAKDMX.jpg",
+					"url": "https://t.co/resyEcYLep",
+					"display_url": "pic.twitter.com/resyEcYLep",
+					"expanded_url": "https://twitter.com/Jonathan_K_Cook/status/1266717712828575744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266717612668588000,
+					"id_str": "1266717612668588032",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EZRI9RXXkAAKDMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZRI9RXXkAAKDMX.jpg",
+					"url": "https://t.co/resyEcYLep",
+					"display_url": "pic.twitter.com/resyEcYLep",
+					"expanded_url": "https://twitter.com/Jonathan_K_Cook/status/1266717712828575744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2459644405,
+			"id_str": "2459644405",
+			"name": "Jonathan Cook",
+			"screen_name": "Jonathan_K_Cook",
+			"location": "Nazareth",
+			"description": "Journalist covering Israel-Palestine, and self-appointed media critic. A winner of the Martha Gellhorn Special Prize for Journalism.",
+			"url": "https://t.co/INAsP2RSNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INAsP2RSNA",
+							"expanded_url": "https://www.jonathan-cook.net",
+							"display_url": "jonathan-cook.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32905,
+			"friends_count": 57,
+			"listed_count": 491,
+			"created_at": "Wed Apr 23 12:07:16 +0000 2014",
+			"favourites_count": 3395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2459644405/1398257807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest: All the BBC's future Emily Maitlises watched the dressing down of the corporation's star journalist this week for criticising the Johnson government and drew the right conclusion: Their job is *not* to hold power to account \n\nhttps://t.co/iXOeqNC0mE https://t.co/resyEcYLep"
+	},
+	{
+		"created_at": "Sat May 30 12:40:11 +0000 2020",
+		"id": 1266685913595347000,
+		"id_str": "1266710999282876417",
+		"full_text": "Never forget the death of Belly Mujinga. She held a ticketing office position before being moved to concourse. Belly was high risk and had respiratory problems, known by her employer. Her life was devalued. Her right to workplace safety must be vindicated, even if posthumously. https://t.co/VllXcv0pZa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266685907647824000,
+					"id_str": "1266685907647823872",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EZQsHy9XgAADC4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZQsHy9XgAADC4a.jpg",
+					"url": "https://t.co/VllXcv0pZa",
+					"display_url": "pic.twitter.com/VllXcv0pZa",
+					"expanded_url": "https://twitter.com/SocOfColour/status/1266685913595346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266685907647824000,
+					"id_str": "1266685907647823872",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EZQsHy9XgAADC4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZQsHy9XgAADC4a.jpg",
+					"url": "https://t.co/VllXcv0pZa",
+					"display_url": "pic.twitter.com/VllXcv0pZa",
+					"expanded_url": "https://twitter.com/SocOfColour/status/1266685913595346944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1250859343265828900,
+			"id_str": "1250859343265828866",
+			"name": "Socialists of Colour 🌹",
+			"screen_name": "SocOfColour",
+			"location": "",
+			"description": "Black Socialists and Socialists of Colour, organising within and outside Labour 🌹",
+			"url": "https://t.co/O5fmEWinHo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O5fmEWinHo",
+							"expanded_url": "http://medium.com/@socialistsofcolour",
+							"display_url": "medium.com/@socialistsofc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3726,
+			"friends_count": 110,
+			"listed_count": 4,
+			"created_at": "Thu Apr 16 18:52:09 +0000 2020",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250887902122434582/1-WzKnrG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250887902122434582/1-WzKnrG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1250859343265828866/1587065435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1652,
+		"favorite_count": 3862,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never forget the death of Belly Mujinga. She held a ticketing office position before being moved to concourse. Belly was high risk and had respiratory problems, known by her employer. Her life was devalued. Her right to workplace safety must be vindicated, even if posthumously. https://t.co/VllXcv0pZa"
+	},
+	{
 		"created_at": "Fri May 29 20:33:48 +0000 2020",
 		"id": 1266440348605255700,
 		"id_str": "1266467803722375175",
