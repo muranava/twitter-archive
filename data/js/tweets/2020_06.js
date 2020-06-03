@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 21:16:40 +0000 2020",
+		"id": 1267783527246037000,
+		"id_str": "1267928142536151041",
+		"full_text": "PHE report into BAME deaths from Covid-19 has been published https://t.co/9ZeyllAf7G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZeyllAf7G",
+					"expanded_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/889195/disparities_review.pdf",
+					"display_url": "assets.publishing.service.gov.uk/government/upl…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1662773784,
+			"id_str": "1662773784",
+			"name": "Luke Bailey",
+			"screen_name": "imbadatlife",
+			"location": "London",
+			"description": "We live in a hellworld of our own making, but at least the memes are good. Editor of https://t.co/TB4OHylaHB @theipaper",
+			"url": "https://t.co/2sAtz6t9em",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2sAtz6t9em",
+							"expanded_url": "http://Instagram.com/imbadatlife/",
+							"display_url": "Instagram.com/imbadatlife/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TB4OHylaHB",
+							"expanded_url": "http://inews.co.uk",
+							"display_url": "inews.co.uk",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9805,
+			"friends_count": 2597,
+			"listed_count": 131,
+			"created_at": "Sun Aug 11 15:22:42 +0000 2013",
+			"favourites_count": 2515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901530692059881472/4CZk0I9X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901530692059881472/4CZk0I9X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1662773784/1376236152",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 223,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PHE report into BAME deaths from Covid-19 has been published https://t.co/9ZeyllAf7G"
+	},
+	{
+		"created_at": "Tue Jun 02 18:50:42 +0000 2020",
+		"id": 1267074245311545300,
+		"id_str": "1267891406858792963",
+		"full_text": "\"Teachers are at the heart of the ELT industry, they are... Key Workers... If there is one thing we have learned from Covid is that in normal times key workers are overlooked, underpaid and on zero hour contracts.\" From this week's EL Gazette https://t.co/fKWv7ZXChT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fKWv7ZXChT",
+					"expanded_url": "https://www.elgazette.com/class-struggle-and-the-corona-virus/",
+					"display_url": "elgazette.com/class-struggle…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 614186998,
+			"id_str": "614186998",
+			"name": "EL Gazette",
+			"screen_name": "ELGazette",
+			"location": "London",
+			"description": "News for the EFL and English medium education industries. Our Facebook: https://t.co/9A8W4ZDx4D",
+			"url": "http://t.co/J8tjrFSWRH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/J8tjrFSWRH",
+							"expanded_url": "http://www.elgazette.com",
+							"display_url": "elgazette.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9A8W4ZDx4D",
+							"expanded_url": "https://goo.gl/5ygMqr",
+							"display_url": "goo.gl/5ygMqr",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7388,
+			"friends_count": 5685,
+			"listed_count": 221,
+			"created_at": "Thu Jun 21 09:59:15 +0000 2012",
+			"favourites_count": 1375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B30000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/841278431098736641/AdArX5df_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/841278431098736641/AdArX5df_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/614186998/1489411446",
+			"profile_link_color": "B30000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Teachers are at the heart of the ELT industry, they are... Key Workers... If there is one thing we have learned from Covid is that in normal times key workers are overlooked, underpaid and on zero hour contracts.\" From this week's EL Gazette https://t.co/fKWv7ZXChT"
+	},
+	{
+		"created_at": "Tue Jun 02 17:31:11 +0000 2020",
+		"id": 1267865170317136000,
+		"id_str": "1267871397470142465",
+		"full_text": "this is so heartbreaking #JusticePourAdama https://t.co/jv6z7fn93t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JusticePourAdama",
+					"indices": [
+						25,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253335832359915500,
+					"id_str": "1253335832359915521",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253335832359915521/pu/img/0ugB31AxmEGx2U9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253335832359915521/pu/img/0ugB31AxmEGx2U9X.jpg",
+					"url": "https://t.co/jv6z7fn93t",
+					"display_url": "pic.twitter.com/jv6z7fn93t",
+					"expanded_url": "https://twitter.com/laveritepradama/status/1253335915868459011/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1253335915868459000,
+					"source_status_id_str": "1253335915868459011",
+					"source_user_id": 783710695716159500,
+					"source_user_id_str": "783710695716159489"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253335832359915500,
+					"id_str": "1253335832359915521",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253335832359915521/pu/img/0ugB31AxmEGx2U9X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253335832359915521/pu/img/0ugB31AxmEGx2U9X.jpg",
+					"url": "https://t.co/jv6z7fn93t",
+					"display_url": "pic.twitter.com/jv6z7fn93t",
+					"expanded_url": "https://twitter.com/laveritepradama/status/1253335915868459011/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1253335915868459000,
+					"source_status_id_str": "1253335915868459011",
+					"source_user_id": 783710695716159500,
+					"source_user_id_str": "783710695716159489",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59933,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253335832359915521/pu/vid/640x640/MOlkdZbMd8bBYTKF.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253335832359915521/pu/vid/320x320/5wsI4iXSemADJGDK.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253335832359915521/pu/vid/480x480/gpluRAvbaoxYnMRS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1253335832359915521/pu/pl/CxrGflEIStKfVacO.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 783710695716159500,
+							"id_str": "783710695716159489",
+							"name": "La Vérité Pour Adama",
+							"screen_name": "laveritepradama",
+							"location": "Beaumont-sur-Oise, France",
+							"description": "Soutenir la famille Traoré👉https://t.co/09LuUpUBxs #JusticePourAdama #JeSuisAdama #AdamaTraore #JeSoutiensLaFamilleTraoré https://t.co/VxEvoy2pmI",
+							"url": "https://t.co/wKzIEmpPCt",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/wKzIEmpPCt",
+											"expanded_url": "https://m.facebook.com/La-vérité-pour-Adama-160752057668634/",
+											"display_url": "m.facebook.com/La-vérité-pour…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/09LuUpUBxs",
+											"expanded_url": "http://okpal.com/adama-traore/#/",
+											"display_url": "okpal.com/adama-traore/#/",
+											"indices": [
+												27,
+												50
+											]
+										},
+										{
+											"url": "https://t.co/VxEvoy2pmI",
+											"expanded_url": "https://youtu.be/Ec69MnqYJog",
+											"display_url": "youtu.be/Ec69MnqYJog",
+											"indices": [
+												122,
+												145
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 34069,
+							"friends_count": 4415,
+							"listed_count": 84,
+							"created_at": "Wed Oct 05 16:49:25 +0000 2016",
+							"favourites_count": 13393,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 11057,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/783710695716159489/1479885525",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1095765060545335300,
+			"id_str": "1095765060545335297",
+			"name": "rai ⌬ sara luvr",
+			"screen_name": "feitanszn",
+			"location": "BLM! they/them, cg",
+			"description": "i don't need a bio, bios are for losers",
+			"url": "https://t.co/ScNVY5d91C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ScNVY5d91C",
+							"expanded_url": "https://blacklivesmatters.carrd.co/",
+							"display_url": "blacklivesmatters.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 302,
+			"listed_count": 42,
+			"created_at": "Wed Feb 13 19:22:03 +0000 2019",
+			"favourites_count": 31093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267913811123752961/3ghOimMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267913811123752961/3ghOimMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1095765060545335297/1591129496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3058,
+		"favorite_count": 5207,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is so heartbreaking #JusticePourAdama https://t.co/jv6z7fn93t"
+	},
+	{
+		"created_at": "Tue Jun 02 16:32:42 +0000 2020",
+		"id": 1267805082025971700,
+		"id_str": "1267856679279955973",
+		"full_text": "Les visages de personnes mortes dans le cadre d'interventions de la police en France ces dernières années. https://t.co/hSJ9X7v55m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267804045093277700,
+					"id_str": "1267804045093277697",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EZglD9iWkAEyBl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZglD9iWkAEyBl2.jpg",
+					"url": "https://t.co/hSJ9X7v55m",
+					"display_url": "pic.twitter.com/hSJ9X7v55m",
+					"expanded_url": "https://twitter.com/WardaMD/status/1267805082025971712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 466,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267804045093277700,
+					"id_str": "1267804045093277697",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EZglD9iWkAEyBl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZglD9iWkAEyBl2.jpg",
+					"url": "https://t.co/hSJ9X7v55m",
+					"display_url": "pic.twitter.com/hSJ9X7v55m",
+					"expanded_url": "https://twitter.com/WardaMD/status/1267805082025971712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 466,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122436999,
+			"id_str": "122436999",
+			"name": "Warda Mohamed",
+			"screen_name": "WardaMD",
+			"location": "France",
+			"description": "Journaliste & co-fondatrice @mediaehko.\nPréférence pour les sujets peu couverts. (\"Like\"=bookmark)",
+			"url": "https://t.co/6cikqQjnuC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6cikqQjnuC",
+							"expanded_url": "http://Ehko.info",
+							"display_url": "Ehko.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12911,
+			"friends_count": 440,
+			"listed_count": 284,
+			"created_at": "Fri Mar 12 18:12:15 +0000 2010",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781247530722099200/bVosWLu1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781247530722099200/bVosWLu1_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 927,
+		"favorite_count": 1113,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Les visages de personnes mortes dans le cadre d'interventions de la police en France ces dernières années. https://t.co/hSJ9X7v55m"
+	},
+	{
 		"created_at": "Mon Jun 01 23:00:29 +0000 2020",
 		"id": 1267365410845986800,
 		"id_str": "1267591880562348035",
@@ -740,7 +1446,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "JPB Gerald",
 			"screen_name": "JPBGerald",
 			"location": "NYC",
-			"description": "EdD student and adult educator. Language/race/whiteness scholar. I love my wife, my son, my dog, running, NYC, subways, and the Yankees. he/him. 🤛🏿👨🏿‍🎓",
+			"description": "EdD student and adult educator. Language/race/whiteness scholar. I love my wife, my son, my dog, running, NYC, subways, and the Yankees. he/him. 🤛🏿👨🏿🎓",
 			"url": "https://t.co/S1BWHTMWXg",
 			"entities": {
 				"url": {
