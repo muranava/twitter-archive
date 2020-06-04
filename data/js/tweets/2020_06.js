@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 20:59:34 +0000 2020",
+		"id": 1268257782051954700,
+		"id_str": "1268286226597019650",
+		"full_text": "One thing that pisses me off about this is that cops are first responders, with obligations of care to the public. I've trained many in professional CPR/1st Aid; unlike firefighters, teenage lifeguards, and others, they disproportionately treat that duty like a big fucking joke. https://t.co/M6LY8cUkHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6LY8cUkHt",
+					"expanded_url": "https://twitter.com/AngelaMWilhelm/status/1268056986102444033",
+					"display_url": "twitter.com/AngelaMWilhelm…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1480636800,
+			"id_str": "1480636800",
+			"name": "Michael Lukas",
+			"screen_name": "JoyfulSisyphean",
+			"location": "Lekwungen/WSÁNEĆ Territories",
+			"description": "PhD. Political theory, rhetoric/discourse analysis, environmental & animal studies, 19C Am lit & letters. Lecturer @uvic. Book project: The Rhetoric of Wolves.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 918,
+			"friends_count": 1699,
+			"listed_count": 8,
+			"created_at": "Mon Jun 03 21:22:21 +0000 2013",
+			"favourites_count": 23978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223111986738651143/46cDkKG7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223111986738651143/46cDkKG7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480636800/1563244978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268056986102444000,
+		"quoted_status_id_str": "1268056986102444033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M6LY8cUkHt",
+			"expanded": "https://twitter.com/AngelaMWilhelm/status/1268056986102444033",
+			"display": "twitter.com/AngelaMWilhelm…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 03 05:48:39 +0000 2020",
+			"id": 1268056986102444000,
+			"id_str": "1268056986102444033",
+			"full_text": "Asheville Police surround a medic station created by protesters as they stab water bottles with knives and tip over tables of medical supplies and food June 2, 2020. The medic team, made of EMTs and doctors, said the medical station was approved by the city. #avlnews https://t.co/cLDperemsZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "avlnews",
+						"indices": [
+							259,
+							267
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268056968247292000,
+						"id_str": "1268056968247291904",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EZkLGBtWsAAtZ9a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZkLGBtWsAAtZ9a.jpg",
+						"url": "https://t.co/cLDperemsZ",
+						"display_url": "pic.twitter.com/cLDperemsZ",
+						"expanded_url": "https://twitter.com/AngelaMWilhelm/status/1268056986102444033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1365,
+								"h": 1705,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268056968247292000,
+						"id_str": "1268056968247291904",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EZkLGBtWsAAtZ9a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZkLGBtWsAAtZ9a.jpg",
+						"url": "https://t.co/cLDperemsZ",
+						"display_url": "pic.twitter.com/cLDperemsZ",
+						"expanded_url": "https://twitter.com/AngelaMWilhelm/status/1268056986102444033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1365,
+								"h": 1705,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 961,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488683793,
+				"id_str": "488683793",
+				"name": "Angie Wilhelm",
+				"screen_name": "AngelaMWilhelm",
+				"location": "Asheville, NC",
+				"description": "Photojournalist @asheville Citizen Times @AvlPhotos Instagram: @angwilhelm",
+				"url": "https://t.co/NZeR36D8WM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NZeR36D8WM",
+								"expanded_url": "http://www.angelawilhelmphoto.com",
+								"display_url": "angelawilhelmphoto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1563,
+				"friends_count": 660,
+				"listed_count": 47,
+				"created_at": "Fri Feb 10 18:36:39 +0000 2012",
+				"favourites_count": 3064,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2444,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117796793755099142/1Wh6_7nO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117796793755099142/1Wh6_7nO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488683793/1555338498",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40622,
+			"favorite_count": 56905,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One thing that pisses me off about this is that cops are first responders, with obligations of care to the public. I've trained many in professional CPR/1st Aid; unlike firefighters, teenage lifeguards, and others, they disproportionately treat that duty like a big fucking joke. https://t.co/M6LY8cUkHt"
+	},
+	{
 		"created_at": "Tue Jun 02 21:16:40 +0000 2020",
 		"id": 1267783527246037000,
 		"id_str": "1267928142536151041",
