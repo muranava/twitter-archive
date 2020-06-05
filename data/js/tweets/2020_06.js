@@ -1,6 +1,1365 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 20:35:59 +0000 2020",
+		"id": 1268635695997911000,
+		"id_str": "1268642679291891715",
+		"full_text": "This got me y'all. This broke me more.\n\nhttps://t.co/roLrkId7pT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/roLrkId7pT",
+					"expanded_url": "https://youtu.be/i_FE78X-qdY",
+					"display_url": "youtu.be/i_FE78X-qdY",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773270840901267500,
+			"id_str": "773270840901267456",
+			"name": "Chris B",
+			"screen_name": "ChrisB95216897",
+			"location": "Virgo Supercluster, Laniakea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 1033,
+			"listed_count": 1,
+			"created_at": "Tue Sep 06 21:25:09 +0000 2016",
+			"favourites_count": 4651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883709936340959233/Lq5tEdOc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883709936340959233/Lq5tEdOc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This got me y'all. This broke me more.\n\nhttps://t.co/roLrkId7pT"
+	},
+	{
+		"created_at": "Thu Jun 04 18:41:07 +0000 2020",
+		"id": 1268423411350601700,
+		"id_str": "1268613770969927680",
+		"full_text": "Débattre de racisme et de violences policières quand on est la seule personne concernée, c’était mon challenge hier sur #RTL ... https://t.co/Nmwz48y1Sr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RTL",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268423300469923800,
+					"id_str": "1268423300469923840",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268423300469923840/pu/img/GkbkdG4ub0sDJPGn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268423300469923840/pu/img/GkbkdG4ub0sDJPGn.jpg",
+					"url": "https://t.co/Nmwz48y1Sr",
+					"display_url": "pic.twitter.com/Nmwz48y1Sr",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1268423411350601728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268423300469923800,
+					"id_str": "1268423300469923840",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268423300469923840/pu/img/GkbkdG4ub0sDJPGn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268423300469923840/pu/img/GkbkdG4ub0sDJPGn.jpg",
+					"url": "https://t.co/Nmwz48y1Sr",
+					"display_url": "pic.twitter.com/Nmwz48y1Sr",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1268423411350601728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 138733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268423300469923840/pu/pl/akJhfu9dZKro_k6C.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268423300469923840/pu/vid/480x270/l52QG_W1IBO4qPqK.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268423300469923840/pu/vid/854x480/JyHjL-8EuWOGhtIx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268423300469923840/pu/vid/640x360/HcCapedIB8QiY_nt.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46375782,
+			"id_str": "46375782",
+			"name": "Rokhaya Diallo",
+			"screen_name": "RokhayaDiallo",
+			"location": "Paris",
+			"description": "Writer & journalist @RTLFrance @LCI | | Filmmaker | Podcaster @kiffetarace | TEDx Talk « Don’t try to fit in » https://t.co/4Orzt3Drrx |#NeRestePasATaPlace",
+			"url": "https://t.co/TAZaBFfZ0k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAZaBFfZ0k",
+							"expanded_url": "http://www.rokhayadiallo.com",
+							"display_url": "rokhayadiallo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Orzt3Drrx",
+							"expanded_url": "https://youtu.be/YgpH7ycdnQk",
+							"display_url": "youtu.be/YgpH7ycdnQk",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 127509,
+			"friends_count": 5681,
+			"listed_count": 810,
+			"created_at": "Thu Jun 11 12:29:34 +0000 2009",
+			"favourites_count": 44364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111279147928768515/2g8hi0qF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111279147928768515/2g8hi0qF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46375782/1539281156",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15038,
+		"favorite_count": 30976,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Débattre de racisme et de violences policières quand on est la seule personne concernée, c’était mon challenge hier sur #RTL ... https://t.co/Nmwz48y1Sr"
+	},
+	{
+		"created_at": "Thu Jun 04 18:40:40 +0000 2020",
+		"id": 1268474167118172200,
+		"id_str": "1268613658654867461",
+		"full_text": "Je pose quand même cet extrait là, parce que c’est une illustration parfaite de la manière dont on criminalise et déshumanise les victimes de violences policières. Je suis restée sans voix. #AdamaTraore #JusticePourAdama https://t.co/z6e9eTDPUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdamaTraore",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "JusticePourAdama",
+					"indices": [
+						203,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268474125351346200,
+					"id_str": "1268474125351346178",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268474125351346178/pu/img/Auz7xj8zDNVLE79V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268474125351346178/pu/img/Auz7xj8zDNVLE79V.jpg",
+					"url": "https://t.co/z6e9eTDPUM",
+					"display_url": "pic.twitter.com/z6e9eTDPUM",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1268474167118172161/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268474125351346200,
+					"id_str": "1268474125351346178",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268474125351346178/pu/img/Auz7xj8zDNVLE79V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268474125351346178/pu/img/Auz7xj8zDNVLE79V.jpg",
+					"url": "https://t.co/z6e9eTDPUM",
+					"display_url": "pic.twitter.com/z6e9eTDPUM",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1268474167118172161/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 886,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 502,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							443,
+							251
+						],
+						"duration_millis": 26352,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268474125351346178/pu/vid/476x270/RxVVLiN7ROAP_FNg.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268474125351346178/pu/vid/634x360/x1zzWYtW28Dlu6GF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268474125351346178/pu/vid/886x502/ndScvwyAnNsMJPR_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268474125351346178/pu/pl/6CmFiVItlpG9T0KK.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268423411350601700,
+		"in_reply_to_status_id_str": "1268423411350601728",
+		"in_reply_to_user_id": 46375782,
+		"in_reply_to_user_id_str": "46375782",
+		"in_reply_to_screen_name": "RokhayaDiallo",
+		"user": {
+			"id": 46375782,
+			"id_str": "46375782",
+			"name": "Rokhaya Diallo",
+			"screen_name": "RokhayaDiallo",
+			"location": "Paris",
+			"description": "Writer & journalist @RTLFrance @LCI | | Filmmaker | Podcaster @kiffetarace | TEDx Talk « Don’t try to fit in » https://t.co/4Orzt3Drrx |#NeRestePasATaPlace",
+			"url": "https://t.co/TAZaBFfZ0k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TAZaBFfZ0k",
+							"expanded_url": "http://www.rokhayadiallo.com",
+							"display_url": "rokhayadiallo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Orzt3Drrx",
+							"expanded_url": "https://youtu.be/YgpH7ycdnQk",
+							"display_url": "youtu.be/YgpH7ycdnQk",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 127509,
+			"friends_count": 5681,
+			"listed_count": 810,
+			"created_at": "Thu Jun 11 12:29:34 +0000 2009",
+			"favourites_count": 44364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111279147928768515/2g8hi0qF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111279147928768515/2g8hi0qF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46375782/1539281156",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5091,
+		"favorite_count": 7959,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Je pose quand même cet extrait là, parce que c’est une illustration parfaite de la manière dont on criminalise et déshumanise les victimes de violences policières. Je suis restée sans voix. #AdamaTraore #JusticePourAdama https://t.co/z6e9eTDPUM"
+	},
+	{
+		"created_at": "Thu Jun 04 18:34:57 +0000 2020",
+		"id": 1268552573776167000,
+		"id_str": "1268612217974464512",
+		"full_text": "This photo speaks so many volumes😔 https://t.co/irLbervzc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268552568164298800,
+					"id_str": "1268552568164298752",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EZrN1vRXsAA2i7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZrN1vRXsAA2i7m.jpg",
+					"url": "https://t.co/irLbervzc1",
+					"display_url": "pic.twitter.com/irLbervzc1",
+					"expanded_url": "https://twitter.com/lilbangula_/status/1268552573776166917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268552568164298800,
+					"id_str": "1268552568164298752",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EZrN1vRXsAA2i7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZrN1vRXsAA2i7m.jpg",
+					"url": "https://t.co/irLbervzc1",
+					"display_url": "pic.twitter.com/irLbervzc1",
+					"expanded_url": "https://twitter.com/lilbangula_/status/1268552573776166917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912948912,
+			"id_str": "912948912",
+			"name": "L🤎",
+			"screen_name": "lilbangula_",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/o3WFV2hkBh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o3WFV2hkBh",
+							"expanded_url": "https://www.youtube.com/channel/UC1YNaFChMDB0rERXFRPS5HA",
+							"display_url": "youtube.com/channel/UC1YNa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2570,
+			"friends_count": 1237,
+			"listed_count": 5,
+			"created_at": "Mon Oct 29 18:14:27 +0000 2012",
+			"favourites_count": 13709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265480382033559552/PBFSo6vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265480382033559552/PBFSo6vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912948912/1590761831",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20945,
+		"favorite_count": 60928,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This photo speaks so many volumes😔 https://t.co/irLbervzc1"
+	},
+	{
+		"created_at": "Thu Jun 04 18:17:05 +0000 2020",
+		"id": 1268607721990951000,
+		"id_str": "1268607721990950914",
+		"full_text": "@RKDasgupta @angelaeagle do u think Rees Mogg was bricking it?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RKDasgupta",
+					"name": "Rohit K Dasgupta",
+					"id": 103620582,
+					"id_str": "103620582",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "angelaeagle",
+					"name": "Angela Eagle",
+					"id": 124270074,
+					"id_str": "124270074",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268607007394877400,
+		"in_reply_to_status_id_str": "1268607007394877441",
+		"in_reply_to_user_id": 103620582,
+		"in_reply_to_user_id_str": "103620582",
+		"in_reply_to_screen_name": "RKDasgupta",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1934,
+			"friends_count": 1341,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RKDasgupta @angelaeagle do u think Rees Mogg was bricking it?"
+	},
+	{
+		"created_at": "Thu Jun 04 18:02:18 +0000 2020",
+		"id": 1268425777441312800,
+		"id_str": "1268604003270758400",
+		"full_text": "It should go without saying that racism is an abomination and has no place in #ELT or anywhere.\n\nUnfortunately it does not go without saying, and not saying it helps perpetuate racism. Large parts of the ELT industry depend on this uncomfortable fact.\n\n#BlackLivesMatter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						253,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2365399801,
+			"id_str": "2365399801",
+			"name": "Serveis Lingüístics de Barcelona",
+			"screen_name": "SLBCoop",
+			"location": "Barcelona, Catalunya, Espanya",
+			"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+			"url": "https://t.co/HVoXtXYxKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HVoXtXYxKW",
+							"expanded_url": "https://www.slb.coop",
+							"display_url": "slb.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366,
+			"friends_count": 983,
+			"listed_count": 43,
+			"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+			"favourites_count": 2140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It should go without saying that racism is an abomination and has no place in #ELT or anywhere.\n\nUnfortunately it does not go without saying, and not saying it helps perpetuate racism. Large parts of the ELT industry depend on this uncomfortable fact.\n\n#BlackLivesMatter"
+	},
+	{
+		"created_at": "Thu Jun 04 18:01:59 +0000 2020",
+		"id": 1268457217138835500,
+		"id_str": "1268603924778532865",
+		"full_text": "@acolladogray We suggest following @WOCinELT @ParisaMehran @UnstandardizedE @JPBGerald  @Vijay_Ramjattan @nelsonlflores for a start, lots to follow up on there, including recent paper by @JPBGerald https://t.co/biZETDKUmw",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acolladogray",
+					"name": "Alberto Collado Gray",
+					"id": 986818021778952200,
+					"id_str": "986818021778952192",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "WOCinELT",
+					"name": "Women of Color in ELT",
+					"id": 1123152376381075500,
+					"id_str": "1123152376381075457",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"screen_name": "ParisaMehran",
+					"name": "Parisa Mehran, PhD",
+					"id": 1115272279,
+					"id_str": "1115272279",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "UnstandardizedE",
+					"name": "Unstandardized English",
+					"id": 1193318090127360000,
+					"id_str": "1193318090127360000",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"screen_name": "nelsonlflores",
+					"name": "Nelson Flores",
+					"id": 248343882,
+					"id_str": "248343882",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/biZETDKUmw",
+					"expanded_url": "https://ojs-o.library.ubc.ca/index.php/BCTJ/article/view/345",
+					"display_url": "ojs-o.library.ubc.ca/index.php/BCTJ…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268454653181771800,
+		"in_reply_to_status_id_str": "1268454653181771777",
+		"in_reply_to_user_id": 986818021778952200,
+		"in_reply_to_user_id_str": "986818021778952192",
+		"in_reply_to_screen_name": "acolladogray",
+		"user": {
+			"id": 2365399801,
+			"id_str": "2365399801",
+			"name": "Serveis Lingüístics de Barcelona",
+			"screen_name": "SLBCoop",
+			"location": "Barcelona, Catalunya, Espanya",
+			"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+			"url": "https://t.co/HVoXtXYxKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HVoXtXYxKW",
+							"expanded_url": "https://www.slb.coop",
+							"display_url": "slb.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1366,
+			"friends_count": 983,
+			"listed_count": 43,
+			"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+			"favourites_count": 2140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@acolladogray We suggest following @WOCinELT @ParisaMehran @UnstandardizedE @JPBGerald  @Vijay_Ramjattan @nelsonlflores for a start, lots to follow up on there, including recent paper by @JPBGerald https://t.co/biZETDKUmw"
+	},
+	{
+		"created_at": "Thu Jun 04 17:54:42 +0000 2020",
+		"id": 1268600004140314600,
+		"id_str": "1268602090684854274",
+		"full_text": "Racism is the riskiest pre-existing condition. BAME people UP TO 50% MORE LIKELY TO DIE FROM COVID-19 #BODIESDONTLIE https://t.co/DzNHFy7xz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BODIESDONTLIE",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268599970283782100,
+					"id_str": "1268599970283782145",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268599970283782145/pu/img/Z8VR0pER3iJ7HCcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268599970283782145/pu/img/Z8VR0pER3iJ7HCcQ.jpg",
+					"url": "https://t.co/DzNHFy7xz2",
+					"display_url": "pic.twitter.com/DzNHFy7xz2",
+					"expanded_url": "https://twitter.com/CovidAidUK/status/1268600004140314625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268599970283782100,
+					"id_str": "1268599970283782145",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268599970283782145/pu/img/Z8VR0pER3iJ7HCcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268599970283782145/pu/img/Z8VR0pER3iJ7HCcQ.jpg",
+					"url": "https://t.co/DzNHFy7xz2",
+					"display_url": "pic.twitter.com/DzNHFy7xz2",
+					"expanded_url": "https://twitter.com/CovidAidUK/status/1268600004140314625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 13782,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268599970283782145/pu/vid/490x270/RMQT1QfpTkHCzbSJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268599970283782145/pu/vid/640x352/teCPYBDq7dQGVOKt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268599970283782145/pu/pl/Z6laVo737GUwJ1XR.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268598233707827200,
+		"in_reply_to_status_id_str": "1268598233707827202",
+		"in_reply_to_user_id": 1238580018038616000,
+		"in_reply_to_user_id_str": "1238580018038616064",
+		"in_reply_to_screen_name": "CovidAidUK",
+		"user": {
+			"id": 1238580018038616000,
+			"id_str": "1238580018038616064",
+			"name": "covidaiduk",
+			"screen_name": "CovidAidUK",
+			"location": "UK",
+			"description": "Resources and support for network of independent community groups supporting vulnerable people through covid-19. For medical advice please visit the NHS website",
+			"url": "https://t.co/vBqjOtbPOY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBqjOtbPOY",
+							"expanded_url": "https://covidmutualaid.org/",
+							"display_url": "covidmutualaid.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17825,
+			"friends_count": 62,
+			"listed_count": 78,
+			"created_at": "Fri Mar 13 21:37:52 +0000 2020",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247190485141204993/3-fuCIO__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247190485141204993/3-fuCIO__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1238580018038616064/1586188359",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Racism is the riskiest pre-existing condition. BAME people UP TO 50% MORE LIKELY TO DIE FROM COVID-19 #BODIESDONTLIE https://t.co/DzNHFy7xz2"
+	},
+	{
 		"created_at": "Wed Jun 03 20:59:34 +0000 2020",
 		"id": 1268257782051954700,
 		"id_str": "1268286226597019650",
