@@ -1,6 +1,2160 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 21:47:22 +0000 2020",
+		"id": 1269023032137351200,
+		"id_str": "1269023032137351168",
+		"full_text": "comment dire erasure en francais #TrayvonMartin #BlackLivesMattters https://t.co/5Ov5qo62pl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrayvonMartin",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"text": "BlackLivesMattters",
+					"indices": [
+						48,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269022762640736300,
+					"id_str": "1269022762640736263",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EZx5eqMWAAc31dx.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZx5eqMWAAc31dx.png",
+					"url": "https://t.co/5Ov5qo62pl",
+					"display_url": "pic.twitter.com/5Ov5qo62pl",
+					"expanded_url": "https://twitter.com/muranava/status/1269023032137351168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 824,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 824,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269022762640736300,
+					"id_str": "1269022762640736263",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EZx5eqMWAAc31dx.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZx5eqMWAAc31dx.png",
+					"url": "https://t.co/5Ov5qo62pl",
+					"display_url": "pic.twitter.com/5Ov5qo62pl",
+					"expanded_url": "https://twitter.com/muranava/status/1269023032137351168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 824,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 824,
+							"h": 436,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 1343,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "comment dire erasure en francais #TrayvonMartin #BlackLivesMattters https://t.co/5Ov5qo62pl"
+	},
+	{
+		"created_at": "Fri Jun 05 15:40:13 +0000 2020",
+		"id": 1268929751529521200,
+		"id_str": "1268930632362725377",
+		"full_text": "Écoutez Almamy Kanouté sur BFM pour réagir à l'annonce des juges qui décident enfin de mener une une vraie enquête. La mobilisation populaire est la clé pour obtenir vérité et justice pour Adama. \n@barbpanther \n#JusticePourAdama https://t.co/q2KLTnNS99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JusticePourAdama",
+					"indices": [
+						211,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "barbpanther",
+					"name": "Almamy Mam KANOUTÉ",
+					"id": 281818973,
+					"id_str": "281818973",
+					"indices": [
+						197,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q2KLTnNS99",
+					"expanded_url": "https://twitter.com/BFMTV/status/1268925154295455745",
+					"display_url": "twitter.com/BFMTV/status/1…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783710695716159500,
+			"id_str": "783710695716159489",
+			"name": "La Vérité Pour Adama",
+			"screen_name": "laveritepradama",
+			"location": "Beaumont-sur-Oise, France",
+			"description": "Soutenir la famille Traoré👉https://t.co/09LuUpUBxs #JusticePourAdama #JeSuisAdama #AdamaTraore #JeSoutiensLaFamilleTraoré https://t.co/VxEvoy2pmI",
+			"url": "https://t.co/wKzIEmpPCt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wKzIEmpPCt",
+							"expanded_url": "https://m.facebook.com/La-vérité-pour-Adama-160752057668634/",
+							"display_url": "m.facebook.com/La-vérité-pour…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/09LuUpUBxs",
+							"expanded_url": "http://okpal.com/adama-traore/#/",
+							"display_url": "okpal.com/adama-traore/#/",
+							"indices": [
+								27,
+								50
+							]
+						},
+						{
+							"url": "https://t.co/VxEvoy2pmI",
+							"expanded_url": "https://youtu.be/Ec69MnqYJog",
+							"display_url": "youtu.be/Ec69MnqYJog",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40905,
+			"friends_count": 4421,
+			"listed_count": 92,
+			"created_at": "Wed Oct 05 16:49:25 +0000 2016",
+			"favourites_count": 13469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783710695716159489/1479885525",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268925154295455700,
+		"quoted_status_id_str": "1268925154295455745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q2KLTnNS99",
+			"expanded": "https://twitter.com/BFMTV/status/1268925154295455745",
+			"display": "twitter.com/BFMTV/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 15:18:26 +0000 2020",
+			"id": 1268925154295455700,
+			"id_str": "1268925154295455745",
+			"full_text": "Almamy Kanouté sur l'affaire Traoré: \"Nous continuerons à bousculer le système pour que vérité et justice soient rétablies\" https://t.co/LJrQGgQDDL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268925073177686000,
+						"id_str": "1268925073177686018",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EZwgsvQXkAEZcdq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZwgsvQXkAEZcdq.jpg",
+						"url": "https://t.co/LJrQGgQDDL",
+						"display_url": "pic.twitter.com/LJrQGgQDDL",
+						"expanded_url": "https://twitter.com/BFMTV/status/1268925154295455745/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268925073177686000,
+						"id_str": "1268925073177686018",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/EZwgsvQXkAEZcdq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZwgsvQXkAEZcdq.jpg",
+						"url": "https://t.co/LJrQGgQDDL",
+						"display_url": "pic.twitter.com/LJrQGgQDDL",
+						"expanded_url": "https://twitter.com/BFMTV/status/1268925154295455745/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 77120,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268925073177686018/vid/640x360/yQuwsKJpU5rGpENm.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268925073177686018/vid/480x270/Tekk-K83qGLCwPvK.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1268925073177686018/pl/tgopXpz2HvPVoj8h.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268925073177686018/vid/1280x720/dCRNg8ocQ1D84t5Y.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133663801,
+				"id_str": "133663801",
+				"name": "BFMTV",
+				"screen_name": "BFMTV",
+				"location": "France",
+				"description": "Première sur l'info. Retrouvez-nous sur Snapchat/Instagram ➡ bfmtv",
+				"url": "https://t.co/Mjm8y6dGAC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mjm8y6dGAC",
+								"expanded_url": "http://www.bfmtv.com",
+								"display_url": "bfmtv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2807505,
+				"friends_count": 578,
+				"listed_count": 8877,
+				"created_at": "Fri Apr 16 09:55:26 +0000 2010",
+				"favourites_count": 560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 459040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1277C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133663801/1579608118",
+				"profile_link_color": "1277C9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 321,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 137,
+		"favorite_count": 262,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Écoutez Almamy Kanouté sur BFM pour réagir à l'annonce des juges qui décident enfin de mener une une vraie enquête. La mobilisation populaire est la clé pour obtenir vérité et justice pour Adama. \n@barbpanther \n#JusticePourAdama https://t.co/q2KLTnNS99"
+	},
+	{
+		"created_at": "Fri Jun 05 15:30:57 +0000 2020",
+		"id": 1268911093474345000,
+		"id_str": "1268928304037482496",
+		"full_text": "This is my Aunty Aji, her son Seni, 23, was killed by Met Police Officers in 2010 after 11 of them used excessive &amp; unreasonable force to pin down &amp; restrain him for more than 30 minutes until his brain was starved of oxygen. He couldn’t breathe. #JusticeForSeni #BlackLivesMatter https://t.co/alKuvLD3sN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JusticeForSeni",
+					"indices": [
+						255,
+						270
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						271,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268910831942676500,
+					"id_str": "1268910831942676482",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268910831942676482/pu/img/KNukAlqfksvyOwxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268910831942676482/pu/img/KNukAlqfksvyOwxh.jpg",
+					"url": "https://t.co/alKuvLD3sN",
+					"display_url": "pic.twitter.com/alKuvLD3sN",
+					"expanded_url": "https://twitter.com/AdamPugh/status/1268911093474344961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268910831942676500,
+					"id_str": "1268910831942676482",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268910831942676482/pu/img/KNukAlqfksvyOwxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268910831942676482/pu/img/KNukAlqfksvyOwxh.jpg",
+					"url": "https://t.co/alKuvLD3sN",
+					"display_url": "pic.twitter.com/alKuvLD3sN",
+					"expanded_url": "https://twitter.com/AdamPugh/status/1268911093474344961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							181
+						],
+						"duration_millis": 140333,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268910831942676482/pu/vid/636x360/P0Cn46HxaecedGRc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268910831942676482/pu/vid/1272x720/AXwRL7LLdHiI8ZWm.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268910831942676482/pu/vid/476x270/QpuuLsZvWganv9-3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268910831942676482/pu/pl/ORmXLLwcHdAsWuYD.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25244946,
+			"id_str": "25244946",
+			"name": "Adam Pugh",
+			"screen_name": "AdamPugh",
+			"location": "AT HOME IN ISOLATION #STAYHOME",
+			"description": "[He/Him] Father | Ex-Met Police | Anti-Racist | Mental Health | Abolitionist | Agitator | Reimagining Justice | #BlackLivesMatter I said what I said.",
+			"url": "https://t.co/BIaXkvjO6T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIaXkvjO6T",
+							"expanded_url": "http://about.me/AdamPugh",
+							"display_url": "about.me/AdamPugh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7589,
+			"friends_count": 2798,
+			"listed_count": 35,
+			"created_at": "Thu Mar 19 05:32:28 +0000 2009",
+			"favourites_count": 55005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9E9E9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252717112168198145/izmaodsq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252717112168198145/izmaodsq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25244946/1554304696",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "6C2022",
+			"profile_sidebar_fill_color": "BBBBBB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2174,
+		"favorite_count": 2682,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my Aunty Aji, her son Seni, 23, was killed by Met Police Officers in 2010 after 11 of them used excessive &amp; unreasonable force to pin down &amp; restrain him for more than 30 minutes until his brain was starved of oxygen. He couldn’t breathe. #JusticeForSeni #BlackLivesMatter https://t.co/alKuvLD3sN"
+	},
+	{
+		"created_at": "Fri Jun 05 15:15:13 +0000 2020",
+		"id": 1268760680569532400,
+		"id_str": "1268924343918006272",
+		"full_text": "Here's why you don't kneel with cops.\nYesterday.                                 Today. https://t.co/BQMqD3aAYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268760503691567000,
+					"id_str": "1268760503691567104",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuK9LeU4AATFuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuK9LeU4AATFuL.jpg",
+					"url": "https://t.co/BQMqD3aAYb",
+					"display_url": "pic.twitter.com/BQMqD3aAYb",
+					"expanded_url": "https://twitter.com/chadloder/status/1268760680569532419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1046,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1786,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268760503691567000,
+					"id_str": "1268760503691567104",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuK9LeU4AATFuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuK9LeU4AATFuL.jpg",
+					"url": "https://t.co/BQMqD3aAYb",
+					"display_url": "pic.twitter.com/BQMqD3aAYb",
+					"expanded_url": "https://twitter.com/chadloder/status/1268760680569532419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1046,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1786,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1268760655395344400,
+					"id_str": "1268760655395344391",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EZuLGAnU0AcUHKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZuLGAnU0AcUHKv.jpg",
+					"url": "https://t.co/BQMqD3aAYb",
+					"display_url": "pic.twitter.com/BQMqD3aAYb",
+					"expanded_url": "https://twitter.com/chadloder/status/1268760680569532419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1197,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 1197,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98575337,
+			"id_str": "98575337",
+			"name": "Chad Loder",
+			"screen_name": "chadloder",
+			"location": "Los Angeles, CA",
+			"description": "#JusticeForGeorgeFloyd #JusticeForBreonnaTaylor #JusticeForAhmaud #JusticeForTonyMcDade #JusticeForAtatianaJefferson #JusticeForNinaPop #JusticeForDavidMcatee",
+			"url": "https://t.co/j2ABO3HoJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2ABO3HoJN",
+							"expanded_url": "https://www.habitu8.io/",
+							"display_url": "habitu8.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69551,
+			"friends_count": 4888,
+			"listed_count": 515,
+			"created_at": "Tue Dec 22 07:11:56 +0000 2009",
+			"favourites_count": 57333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268382450188599296/ogjxSmds_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268382450188599296/ogjxSmds_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98575337/1591132442",
+			"profile_link_color": "F0CBCA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171092,
+		"favorite_count": 444526,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's why you don't kneel with cops.\nYesterday.                                 Today. https://t.co/BQMqD3aAYb"
+	},
+	{
+		"created_at": "Fri Jun 05 15:07:20 +0000 2020",
+		"id": 1268881955266850800,
+		"id_str": "1268922358515093504",
+		"full_text": "George Floyd was not a POC. \nHe was a Black man.\nThere’s a distinction btw Black &amp; POC &amp;I believe this should’ve been acknowledged in this statement\nAnti-Blackness can be committed by other POC\n2 of the other officers charged w aiding&amp;abetting the killing of George Floyd were POC https://t.co/UcLr3RwcgU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UcLr3RwcgU",
+					"expanded_url": "https://twitter.com/tesol_assn/status/1267525194303909889",
+					"display_url": "twitter.com/tesol_assn/sta…",
+					"indices": [
+						293,
+						316
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2936,
+			"friends_count": 4899,
+			"listed_count": 33,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 72018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1590497123",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "89149480bc9bd59b",
+			"url": "https://api.twitter.com/1.1/geo/id/89149480bc9bd59b.json",
+			"place_type": "city",
+			"name": "Minoo-shi",
+			"full_name": "Minoo-shi, Osaka",
+			"country_code": "JP",
+			"country": "Japan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							135.436875,
+							34.80709
+						],
+						[
+							135.526403,
+							34.80709
+						],
+						[
+							135.526403,
+							34.910488
+						],
+						[
+							135.436875,
+							34.910488
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1267525194303910000,
+		"quoted_status_id_str": "1267525194303909889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UcLr3RwcgU",
+			"expanded": "https://twitter.com/tesol_assn/status/1267525194303909889",
+			"display": "twitter.com/tesol_assn/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 01 18:35:30 +0000 2020",
+			"id": 1267525194303910000,
+			"id_str": "1267525194303909889",
+			"full_text": "TESOL International Association has issued a statement on the recent incidents of  racial injustice and inequality. Please find our statement here: https://t.co/fG21jWeD4l #TESOL #TESOLadvocacy #SocialJustice https://t.co/RWFnVDwxUL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TESOL",
+						"indices": [
+							172,
+							178
+						]
+					},
+					{
+						"text": "TESOLadvocacy",
+						"indices": [
+							179,
+							193
+						]
+					},
+					{
+						"text": "SocialJustice",
+						"indices": [
+							194,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fG21jWeD4l",
+						"expanded_url": "https://buff.ly/2XIWaiw",
+						"display_url": "buff.ly/2XIWaiw",
+						"indices": [
+							148,
+							171
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1267525192835793000,
+						"id_str": "1267525192835792896",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EZcncn7WAAAJTN0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZcncn7WAAAJTN0.jpg",
+						"url": "https://t.co/RWFnVDwxUL",
+						"display_url": "pic.twitter.com/RWFnVDwxUL",
+						"expanded_url": "https://twitter.com/TESOL_Assn/status/1267525194303909889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1267525192835793000,
+						"id_str": "1267525192835792896",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EZcncn7WAAAJTN0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZcncn7WAAAJTN0.jpg",
+						"url": "https://t.co/RWFnVDwxUL",
+						"display_url": "pic.twitter.com/RWFnVDwxUL",
+						"expanded_url": "https://twitter.com/TESOL_Assn/status/1267525194303909889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21091012,
+				"id_str": "21091012",
+				"name": "TESOL Intl Assn",
+				"screen_name": "TESOL_Assn",
+				"location": "Alexandria, VA",
+				"description": "The trusted global authority for knowledge & expertise in English language teaching.",
+				"url": "http://t.co/foTXHcCENm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/foTXHcCENm",
+								"expanded_url": "http://www.tesol.org",
+								"display_url": "tesol.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36836,
+				"friends_count": 16702,
+				"listed_count": 694,
+				"created_at": "Tue Feb 17 14:09:50 +0000 2009",
+				"favourites_count": 499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20738,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F1012",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918126048566489088/uzPb7f3I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918126048566489088/uzPb7f3I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21091012/1591029580",
+				"profile_link_color": "0035D4",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "George Floyd was not a POC. \nHe was a Black man.\nThere’s a distinction btw Black &amp; POC &amp;I believe this should’ve been acknowledged in this statement\nAnti-Blackness can be committed by other POC\n2 of the other officers charged w aiding&amp;abetting the killing of George Floyd were POC https://t.co/UcLr3RwcgU"
+	},
+	{
+		"created_at": "Fri Jun 05 14:31:11 +0000 2020",
+		"id": 1268574761388515300,
+		"id_str": "1268913259882729473",
+		"full_text": "While we're talking about #BlackLivesMatter &amp; everyone is outraged that Boris Johnson doesn't know about #NoRecoursetoPublicFunds. Can we remember that a black woman with NRPF &amp; her baby *literally* starved to death in the UK &amp; nothing happened. The baby's name was Lynne Mutumba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						26,
+						43
+					]
+				},
+				{
+					"text": "NoRecoursetoPublicFunds",
+					"indices": [
+						109,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 481600403,
+			"id_str": "481600403",
+			"name": "Andy Jolly",
+			"screen_name": "andy_jolly",
+			"location": "Birmingham, England",
+			"description": "Social Research @ICRDwlv | Doctoral Research @unibirmingham | Trustee @birchnetwork | Politics & attempts at humour my own",
+			"url": "https://t.co/0xgmTNZwDq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0xgmTNZwDq",
+							"expanded_url": "https://www.researchgate.net/profile/Andy_Jolly?ev=hdr_xprf",
+							"display_url": "researchgate.net/profile/Andy_J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979,
+			"friends_count": 3103,
+			"listed_count": 3,
+			"created_at": "Thu Feb 02 23:44:03 +0000 2012",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206521254976598016/G-PFu33F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206521254976598016/G-PFu33F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/481600403/1496104065",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 123,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "While we're talking about #BlackLivesMatter &amp; everyone is outraged that Boris Johnson doesn't know about #NoRecoursetoPublicFunds. Can we remember that a black woman with NRPF &amp; her baby *literally* starved to death in the UK &amp; nothing happened. The baby's name was Lynne Mutumba"
+	},
+	{
+		"created_at": "Fri Jun 05 14:09:13 +0000 2020",
+		"id": 1268848925508763600,
+		"id_str": "1268907733757165571",
+		"full_text": "“Man comes out of a single parent home, educates himself and rises up and becomes the President of the United States, and you ask him for his birth certificate, because you can’t take your knee off our neck.”\n\nAl Sharpton delivers the eulogy at the memorial for George Floyd. https://t.co/khjyIqBMkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268846243742134300,
+					"id_str": "1268846243742134273",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1268846243742134273/img/cYV2riGageF3oL7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268846243742134273/img/cYV2riGageF3oL7z.jpg",
+					"url": "https://t.co/khjyIqBMkQ",
+					"display_url": "pic.twitter.com/khjyIqBMkQ",
+					"expanded_url": "https://twitter.com/Channel4News/status/1268848925508763650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268846243742134300,
+					"id_str": "1268846243742134273",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1268846243742134273/img/cYV2riGageF3oL7z.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268846243742134273/img/cYV2riGageF3oL7z.jpg",
+					"url": "https://t.co/khjyIqBMkQ",
+					"display_url": "pic.twitter.com/khjyIqBMkQ",
+					"expanded_url": "https://twitter.com/Channel4News/status/1268848925508763650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 136280,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268846243742134273/vid/720x720/BfR0t3uDB3W8ZsPG.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268846243742134273/vid/320x320/eGIs1JGoTM1X2Q0p.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1268846243742134273/vid/480x480/l7ILwNY5Dpp3OPO7.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1268846243742134273/pl/4y8L0hFxNIcnmtmi.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14569869,
+			"id_str": "14569869",
+			"name": "Channel 4 News",
+			"screen_name": "Channel4News",
+			"location": "United Kingdom",
+			"description": "Stories that reveal and inspire, challenging expectations. \n\nWeekdays 7-8pm on Channel 4.",
+			"url": "https://t.co/LBhZvqcoKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LBhZvqcoKL",
+							"expanded_url": "http://www.channel4.com/news",
+							"display_url": "channel4.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351429,
+			"friends_count": 4522,
+			"listed_count": 9585,
+			"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 102727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C1C36",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_link_color": "421174",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAF0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7854,
+		"favorite_count": 20864,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Man comes out of a single parent home, educates himself and rises up and becomes the President of the United States, and you ask him for his birth certificate, because you can’t take your knee off our neck.”\n\nAl Sharpton delivers the eulogy at the memorial for George Floyd. https://t.co/khjyIqBMkQ"
+	},
+	{
+		"created_at": "Fri Jun 05 14:05:25 +0000 2020",
+		"id": 1268906775308316700,
+		"id_str": "1268906775308316673",
+		"full_text": "8. Nature Rising https://t.co/YIGoOr9rTN via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						45,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YIGoOr9rTN",
+					"expanded_url": "https://fluencyfirstelt.blog/2020/06/02/8-nature-rising/",
+					"display_url": "fluencyfirstelt.blog/2020/06/02/8-n…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 1343,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "8. Nature Rising https://t.co/YIGoOr9rTN via @wordpressdotcom"
+	},
+	{
+		"created_at": "Fri Jun 05 13:54:18 +0000 2020",
+		"id": 1268521344112775200,
+		"id_str": "1268903977896345601",
+		"full_text": "In difficult conversations about racism and white violence, shift the focus and energy away from massaging white feelings (fear, guilt, discomfort, indignation) and center the topic at hand: injustice. Black lives matter more than white feelings. https://t.co/I0DxmaTSXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268521249166295000,
+					"id_str": "1268521249166295042",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268521249166295042/pu/img/9c-gR6aDZUNOy_ae.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268521249166295042/pu/img/9c-gR6aDZUNOy_ae.jpg",
+					"url": "https://t.co/I0DxmaTSXR",
+					"display_url": "pic.twitter.com/I0DxmaTSXR",
+					"expanded_url": "https://twitter.com/UjuAnya/status/1268521344112775168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268521249166295000,
+					"id_str": "1268521249166295042",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268521249166295042/pu/img/9c-gR6aDZUNOy_ae.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268521249166295042/pu/img/9c-gR6aDZUNOy_ae.jpg",
+					"url": "https://t.co/I0DxmaTSXR",
+					"display_url": "pic.twitter.com/I0DxmaTSXR",
+					"expanded_url": "https://twitter.com/UjuAnya/status/1268521344112775168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							353,
+							200
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268521249166295042/pu/pl/47IUVTLtE5IFvy9x.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268521249166295042/pu/vid/476x270/U9oxWJGDIR2c-_nM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268521249166295042/pu/vid/706x400/DbdaL0dse9T9VveV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2284718570,
+			"id_str": "2284718570",
+			"name": "Uju Anya",
+			"screen_name": "UjuAnya",
+			"location": "State College, PA",
+			"description": "University professor. Critical applied linguist, equity-minded, anti-racist, feminist pedagogy. 🏳️‍🌈⚢🏳️‍🌈 Inquiry: Blackness in multilingualism. Views=mine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25195,
+			"friends_count": 1828,
+			"listed_count": 53,
+			"created_at": "Fri Jan 10 07:48:57 +0000 2014",
+			"favourites_count": 15149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215538724282474496/tN9Up1Yl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215538724282474496/tN9Up1Yl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284718570/1588041073",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 385,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In difficult conversations about racism and white violence, shift the focus and energy away from massaging white feelings (fear, guilt, discomfort, indignation) and center the topic at hand: injustice. Black lives matter more than white feelings. https://t.co/I0DxmaTSXR"
+	},
+	{
+		"created_at": "Fri Jun 05 12:24:01 +0000 2020",
+		"id": 1268839615701692400,
+		"id_str": "1268881259079577601",
+		"full_text": "“As a nurse, I encounter structural racism every day\" Donna Kinnair on #bbcqt. \n\nHer full title is Professor Dame Donna Kinnair, but this was missed out of her name tag. \n\nHugh Pennington’s title - Professor - was not missed out. https://t.co/mWt3SzBzyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bbcqt",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268839609523482600,
+					"id_str": "1268839609523482628",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvS5vqXsAQxWru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvS5vqXsAQxWru.jpg",
+					"url": "https://t.co/mWt3SzBzyJ",
+					"display_url": "pic.twitter.com/mWt3SzBzyJ",
+					"expanded_url": "https://twitter.com/darshnasoni/status/1268839615701692421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268839609523482600,
+					"id_str": "1268839609523482628",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvS5vqXsAQxWru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvS5vqXsAQxWru.jpg",
+					"url": "https://t.co/mWt3SzBzyJ",
+					"display_url": "pic.twitter.com/mWt3SzBzyJ",
+					"expanded_url": "https://twitter.com/darshnasoni/status/1268839615701692421/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130134724,
+			"id_str": "130134724",
+			"name": "Darshna Soni",
+			"screen_name": "darshnasoni",
+			"location": "The Midlands...& beyond.",
+			"description": "Journalist. Channel 4 News Home Affairs Correspondent.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10788,
+			"friends_count": 1619,
+			"listed_count": 285,
+			"created_at": "Tue Apr 06 12:15:49 +0000 2010",
+			"favourites_count": 10694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/722819277468868612/H6vURJsd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/722819277468868612/H6vURJsd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130134724/1417211170",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8935,
+		"favorite_count": 20830,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“As a nurse, I encounter structural racism every day\" Donna Kinnair on #bbcqt. \n\nHer full title is Professor Dame Donna Kinnair, but this was missed out of her name tag. \n\nHugh Pennington’s title - Professor - was not missed out. https://t.co/mWt3SzBzyJ"
+	},
+	{
 		"created_at": "Thu Jun 04 20:35:59 +0000 2020",
 		"id": 1268635695997911000,
 		"id_str": "1268642679291891715",
