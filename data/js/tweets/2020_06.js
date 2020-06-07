@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 19:50:02 +0000 2020",
+		"id": 1269355889384972300,
+		"id_str": "1269355889384972289",
+		"full_text": "Roy, Ali, Corbyn - https://t.co/3vOKb3EtMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3vOKb3EtMb",
+					"expanded_url": "https://video-cdt1-1.xx.fbcdn.net/v/t42.26565-2/10000000_597931461080449_4881680982242989030_n.mp4?_nc_cat=1&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=uN5kgtUc4xsAX9FBXEC&_nc_ht=video-cdt1-1.xx&oh=6d07d14cd78cf9dedd950b0b6e698edc&oe=5EDC132D",
+					"display_url": "video-cdt1-1.xx.fbcdn.net/v/t42.26565-2/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1346,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cy",
+		"text": "Roy, Ali, Corbyn - https://t.co/3vOKb3EtMb"
+	},
+	{
+		"created_at": "Sat Jun 06 18:37:02 +0000 2020",
+		"id": 1269321104767811600,
+		"id_str": "1269337520120180736",
+		"full_text": "These 'rubber bullets' now maiming protestors in US cities were pioneered by the British army in Northern Ireland.\n\nThey killed 17 civilians. 8 of them were children.\n\nThat's the history they don't teach in schools. https://t.co/5Ae21N3XmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269318851696775200,
+					"id_str": "1269318851696775168",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ2GxT4X0AAq_I2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ2GxT4X0AAq_I2.jpg",
+					"url": "https://t.co/5Ae21N3XmX",
+					"display_url": "pic.twitter.com/5Ae21N3XmX",
+					"expanded_url": "https://twitter.com/ronanburtenshaw/status/1269321104767811585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269318851696775200,
+					"id_str": "1269318851696775168",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ2GxT4X0AAq_I2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ2GxT4X0AAq_I2.jpg",
+					"url": "https://t.co/5Ae21N3XmX",
+					"display_url": "pic.twitter.com/5Ae21N3XmX",
+					"expanded_url": "https://twitter.com/ronanburtenshaw/status/1269321104767811585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3256475848,
+			"id_str": "3256475848",
+			"name": "Ronan Burtenshaw",
+			"screen_name": "ronanburtenshaw",
+			"location": "London",
+			"description": "Editor of @TribuneMagazine. Socialist of the Tribunite Left.",
+			"url": "https://t.co/y4BJgRiQ8C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y4BJgRiQ8C",
+							"expanded_url": "http://tribunemag.co.uk",
+							"display_url": "tribunemag.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31786,
+			"friends_count": 3871,
+			"listed_count": 341,
+			"created_at": "Fri May 15 12:28:42 +0000 2015",
+			"favourites_count": 22548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206717260448055300/CutUimGR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206717260448055300/CutUimGR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3256475848/1554244985",
+			"profile_link_color": "8B0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5037,
+		"favorite_count": 10213,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These 'rubber bullets' now maiming protestors in US cities were pioneered by the British army in Northern Ireland.\n\nThey killed 17 civilians. 8 of them were children.\n\nThat's the history they don't teach in schools. https://t.co/5Ae21N3XmX"
+	},
+	{
+		"created_at": "Sat Jun 06 16:10:37 +0000 2020",
+		"id": 1269059124744073200,
+		"id_str": "1269300673931366403",
+		"full_text": "If you have sensitive material to share with the world, you can do so securely by following the directions at https://t.co/Kttpw58InC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kttpw58InC",
+					"expanded_url": "https://www.2600.com/securedrop/",
+					"display_url": "2600.com/securedrop/",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40283581,
+			"id_str": "40283581",
+			"name": "2600 Magazine",
+			"screen_name": "2600",
+			"location": "We Are Everywhere",
+			"description": "The Hacker Quarterly",
+			"url": "http://t.co/YQS2NQlklJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YQS2NQlklJ",
+							"expanded_url": "http://www.2600.com",
+							"display_url": "2600.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48865,
+			"friends_count": 4,
+			"listed_count": 1640,
+			"created_at": "Fri May 15 17:08:58 +0000 2009",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/213376813/masthead_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/213376813/masthead_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40283581/1508972072",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you have sensitive material to share with the world, you can do so securely by following the directions at https://t.co/Kttpw58InC"
+	},
+	{
+		"created_at": "Sat Jun 06 16:06:22 +0000 2020",
+		"id": 1269191330502193200,
+		"id_str": "1269299602886459392",
+		"full_text": "Disgrace \n\nWe now know the government did bury a BAME report section that listed recommendations to help fix structural racism and health inequalities for Black and ethnic minorities https://t.co/QKlHUjzzuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269173656615338000,
+					"id_str": "1269173656615337986",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269173656615337986/pu/img/G7vLUp5-L6oX32uj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269173656615337986/pu/img/G7vLUp5-L6oX32uj.jpg",
+					"url": "https://t.co/QKlHUjzzuR",
+					"display_url": "pic.twitter.com/QKlHUjzzuR",
+					"expanded_url": "https://twitter.com/jsbamrah/status/1269173733161234433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269173733161234400,
+					"source_status_id_str": "1269173733161234433",
+					"source_user_id": 300348095,
+					"source_user_id_str": "300348095"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269173656615338000,
+					"id_str": "1269173656615337986",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269173656615337986/pu/img/G7vLUp5-L6oX32uj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269173656615337986/pu/img/G7vLUp5-L6oX32uj.jpg",
+					"url": "https://t.co/QKlHUjzzuR",
+					"display_url": "pic.twitter.com/QKlHUjzzuR",
+					"expanded_url": "https://twitter.com/jsbamrah/status/1269173733161234433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269173733161234400,
+					"source_status_id_str": "1269173733161234433",
+					"source_user_id": 300348095,
+					"source_user_id_str": "300348095",
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269173656615337986/pu/vid/848x480/8IGetAkm8qHxvAce.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269173656615337986/pu/vid/636x360/2I0BUHeg98V5al7J.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269173656615337986/pu/vid/476x270/oPCU0Livx7EOARsX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269173656615337986/pu/pl/96geCSYUMrRgZWWH.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 300348095,
+							"id_str": "300348095",
+							"name": "Dr JS Bamrah CBE FRCPsych",
+							"screen_name": "jsbamrah",
+							"location": "United Kingdom",
+							"description": "COVID-19 is near you. So stay safe, self isolate. https://t.co/62lscfKc4v",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/62lscfKc4v",
+											"expanded_url": "http://linkedin.com/in/prof-js-bamrah-cbe-6319b814b",
+											"display_url": "linkedin.com/in/prof-js-bam…",
+											"indices": [
+												50,
+												73
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 4568,
+							"friends_count": 1543,
+							"listed_count": 102,
+							"created_at": "Tue May 17 16:25:12 +0000 2011",
+							"favourites_count": 18831,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 19563,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "709397",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1080934833939988480/s220z25L_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080934833939988480/s220z25L_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/300348095/1545490335",
+							"profile_link_color": "FF3300",
+							"profile_sidebar_border_color": "86A4A6",
+							"profile_sidebar_fill_color": "A0C5C7",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168090600,
+			"id_str": "168090600",
+			"name": "Tory Fibs",
+			"screen_name": "ToryFibs",
+			"location": "Ireland",
+			"description": "Irish. Socialist. Working Class. Catholic. NHS. Homelessness. Hunger. Low Pay. Loneliness. Renters’ Rights. Care for elderly. Poverty. Peace. Eoin. PhD History",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134810,
+			"friends_count": 20079,
+			"listed_count": 964,
+			"created_at": "Sun Jul 18 10:32:37 +0000 2010",
+			"favourites_count": 62030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "93F0A1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244073673683873794/a9lYh7sl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244073673683873794/a9lYh7sl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168090600/1496186488",
+			"profile_link_color": "F51B1B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "6EC259",
+			"profile_text_color": "054009",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 567,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Disgrace \n\nWe now know the government did bury a BAME report section that listed recommendations to help fix structural racism and health inequalities for Black and ethnic minorities https://t.co/QKlHUjzzuR"
+	},
+	{
+		"created_at": "Sat Jun 06 16:01:16 +0000 2020",
+		"id": 1269298318640898000,
+		"id_str": "1269298318640898048",
+		"full_text": "@janetbyronander @mayalbarzilai Mary Louise Pratt (Linuistic Utopias) noted it is more than a shorthand for linguists? - because most linguists want a stable concept of language?",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janetbyronander",
+					"name": "Janet Byron Anderson",
+					"id": 44929229,
+					"id_str": "44929229",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mayalbarzilai",
+					"name": "Maya Barzilai",
+					"id": 1010854862270197800,
+					"id_str": "1010854862270197760",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1268607114177581000,
+		"in_reply_to_status_id_str": "1268607114177581056",
+		"in_reply_to_user_id": 44929229,
+		"in_reply_to_user_id_str": "44929229",
+		"in_reply_to_screen_name": "janetbyronander",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1346,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@janetbyronander @mayalbarzilai Mary Louise Pratt (Linuistic Utopias) noted it is more than a shorthand for linguists? - because most linguists want a stable concept of language?"
+	},
+	{
+		"created_at": "Sat Jun 06 12:10:31 +0000 2020",
+		"id": 1269200792478716000,
+		"id_str": "1269240250511097858",
+		"full_text": "The police in light blue tabards are \"liaison officers\". They use seemingly casual chit chat with protesters to gather information and to influence the tone of the event. The best advice is don't give them the time of day. https://t.co/NJmtItmDV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269200782475382800,
+					"id_str": "1269200782475382785",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0bYxwX0AEQR9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0bYxwX0AEQR9b.jpg",
+					"url": "https://t.co/NJmtItmDV6",
+					"display_url": "pic.twitter.com/NJmtItmDV6",
+					"expanded_url": "https://twitter.com/MediocreDave/status/1269200792478715907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269200782475382800,
+					"id_str": "1269200782475382785",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ0bYxwX0AEQR9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ0bYxwX0AEQR9b.jpg",
+					"url": "https://t.co/NJmtItmDV6",
+					"display_url": "pic.twitter.com/NJmtItmDV6",
+					"expanded_url": "https://twitter.com/MediocreDave/status/1269200792478715907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141188735,
+			"id_str": "141188735",
+			"name": "Still not loving police",
+			"screen_name": "MediocreDave",
+			"location": "",
+			"description": "Theatre dwelling communist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11709,
+			"friends_count": 1977,
+			"listed_count": 203,
+			"created_at": "Fri May 07 11:51:23 +0000 2010",
+			"favourites_count": 52404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141188735/1478886150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 741,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The police in light blue tabards are \"liaison officers\". They use seemingly casual chit chat with protesters to gather information and to influence the tone of the event. The best advice is don't give them the time of day. https://t.co/NJmtItmDV6"
+	},
+	{
+		"created_at": "Sat Jun 06 10:10:20 +0000 2020",
+		"id": 1269041256404926500,
+		"id_str": "1269210003266662402",
+		"full_text": "“It's no use for orgs to issue empty statements about...how they are against racial discrimination\nOver the past week so many ppl&amp;orgs have issued these in response to the protests in the US but have they actually looked at what the reality is w/in their org or w/in themselves”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2943,
+			"friends_count": 4908,
+			"listed_count": 33,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 72173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1590497123",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“It's no use for orgs to issue empty statements about...how they are against racial discrimination\nOver the past week so many ppl&amp;orgs have issued these in response to the protests in the US but have they actually looked at what the reality is w/in their org or w/in themselves”"
+	},
+	{
 		"created_at": "Fri Jun 05 21:47:22 +0000 2020",
 		"id": 1269023032137351200,
 		"id_str": "1269023032137351168",
@@ -1032,7 +2086,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
@@ -1930,7 +2984,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Uju Anya",
 			"screen_name": "UjuAnya",
 			"location": "State College, PA",
-			"description": "University professor. Critical applied linguist, equity-minded, anti-racist, feminist pedagogy. 🏳️‍🌈⚢🏳️‍🌈 Inquiry: Blackness in multilingualism. Views=mine.",
+			"description": "University professor. Critical applied linguist, equity-minded, anti-racist, feminist pedagogy. 🏳️🌈⚢🏳️🌈 Inquiry: Blackness in multilingualism. Views=mine.",
 			"url": null,
 			"entities": {
 				"description": {
