@@ -1,6 +1,1606 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 23:43:43 +0000 2020",
+		"id": 1269777085628846000,
+		"id_str": "1269777085628846081",
+		"full_text": "@PamelaSnow2 @EminaMcLean @australian @latrobe @JBarbousas @tserry2504 @DrSimonEvans \"biologically unnatural\" is that a direct quote?",
+		"truncated": false,
+		"display_text_range": [
+			85,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PamelaSnow2",
+					"name": "Pamela Snow",
+					"id": 406638033,
+					"id_str": "406638033",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "EminaMcLean",
+					"name": "Emina McLean",
+					"id": 1379277182,
+					"id_str": "1379277182",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "australian",
+					"name": "The Australian",
+					"id": 9609632,
+					"id_str": "9609632",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "latrobe",
+					"name": "La Trobe University",
+					"id": 17053944,
+					"id_str": "17053944",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "JBarbousas",
+					"name": "Joanna Barbousas",
+					"id": 1241641758213042200,
+					"id_str": "1241641758213042176",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "tserry2504",
+					"name": "Tanya Anne Serry",
+					"id": 335898727,
+					"id_str": "335898727",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "DrSimonEvans",
+					"name": "Professor Simon Evans #StayHome #StopTheSpread",
+					"id": 8548122,
+					"id_str": "8548122",
+					"indices": [
+						71,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269758668213350400,
+		"in_reply_to_status_id_str": "1269758668213350400",
+		"in_reply_to_user_id": 406638033,
+		"in_reply_to_user_id_str": "406638033",
+		"in_reply_to_screen_name": "PamelaSnow2",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1939,
+			"friends_count": 1348,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PamelaSnow2 @EminaMcLean @australian @latrobe @JBarbousas @tserry2504 @DrSimonEvans \"biologically unnatural\" is that a direct quote?"
+	},
+	{
+		"created_at": "Sun Jun 07 22:07:36 +0000 2020",
+		"id": 1269752899749458000,
+		"id_str": "1269752899749457927",
+		"full_text": "@janetbyronander @mayalbarzilai yes but lay use is not trying to construct a theory, initial question was about 'research &amp; teaching\"?",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janetbyronander",
+					"name": "Janet Byron Anderson",
+					"id": 44929229,
+					"id_str": "44929229",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mayalbarzilai",
+					"name": "Maya Barzilai",
+					"id": 1010854862270197800,
+					"id_str": "1010854862270197760",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269463718259298300,
+		"in_reply_to_status_id_str": "1269463718259298304",
+		"in_reply_to_user_id": 44929229,
+		"in_reply_to_user_id_str": "44929229",
+		"in_reply_to_screen_name": "janetbyronander",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1939,
+			"friends_count": 1348,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@janetbyronander @mayalbarzilai yes but lay use is not trying to construct a theory, initial question was about 'research &amp; teaching\"?"
+	},
+	{
+		"created_at": "Sun Jun 07 21:11:20 +0000 2020",
+		"id": 1269730657103540200,
+		"id_str": "1269738739414302720",
+		"full_text": "HELLO, SOME NEWS: Minneapolis is going to disband its police department. This is not a drill. https://t.co/VsxTp1JYVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VsxTp1JYVI",
+					"expanded_url": "https://theappeal.org/minneapolis-city-council-members-announce-intent-to-disband-the-police-department-invest-in-proven-community-led-public-safety/",
+					"display_url": "theappeal.org/minneapolis-ci…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 403058230,
+			"id_str": "403058230",
+			"name": "Jay Willis",
+			"screen_name": "jaywillis",
+			"location": "Seattle, WA",
+			"description": "probably shouting about courts. senior contributor @theappeal, formerly @GQmagazine, occasional bylines elsewhere, perpetually-aspiring lawyer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6712,
+			"friends_count": 606,
+			"listed_count": 125,
+			"created_at": "Tue Nov 01 23:35:37 +0000 2011",
+			"favourites_count": 7160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262965259238690816/QxBJ3PKO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262965259238690816/QxBJ3PKO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403058230/1589949000",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10246,
+		"favorite_count": 25149,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HELLO, SOME NEWS: Minneapolis is going to disband its police department. This is not a drill. https://t.co/VsxTp1JYVI"
+	},
+	{
+		"created_at": "Sun Jun 07 19:38:29 +0000 2020",
+		"id": 1269715373487788000,
+		"id_str": "1269715373487788034",
+		"full_text": "@LizJWalter i can imagine 'get in the sea' spreading activation to 'get in the harbour' : )",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizJWalter",
+					"name": "Elizabeth Walter",
+					"id": 1237770151212310500,
+					"id_str": "1237770151212310531",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269715078582079500,
+		"in_reply_to_status_id_str": "1269715078582079493",
+		"in_reply_to_user_id": 1237770151212310500,
+		"in_reply_to_user_id_str": "1237770151212310531",
+		"in_reply_to_screen_name": "LizJWalter",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1939,
+			"friends_count": 1348,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LizJWalter i can imagine 'get in the sea' spreading activation to 'get in the harbour' : )"
+	},
+	{
+		"created_at": "Sun Jun 07 19:32:46 +0000 2020",
+		"id": 1269712944750878700,
+		"id_str": "1269713934682075141",
+		"full_text": "Policing for the people with the consent of the people.  https://t.co/L70nAlLg1h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269692445996003300,
+					"id_str": "1269692445996003329",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269692445996003329/pu/img/fjW6AcAymlhdnRE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269692445996003329/pu/img/fjW6AcAymlhdnRE9.jpg",
+					"url": "https://t.co/L70nAlLg1h",
+					"display_url": "pic.twitter.com/L70nAlLg1h",
+					"expanded_url": "https://twitter.com/colinsutton/status/1269692573943291906/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269692573943292000,
+					"source_status_id_str": "1269692573943291906",
+					"source_user_id": 19438039,
+					"source_user_id_str": "19438039"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269692445996003300,
+					"id_str": "1269692445996003329",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269692445996003329/pu/img/fjW6AcAymlhdnRE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269692445996003329/pu/img/fjW6AcAymlhdnRE9.jpg",
+					"url": "https://t.co/L70nAlLg1h",
+					"display_url": "pic.twitter.com/L70nAlLg1h",
+					"expanded_url": "https://twitter.com/colinsutton/status/1269692573943291906/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269692573943292000,
+					"source_status_id_str": "1269692573943291906",
+					"source_user_id": 19438039,
+					"source_user_id_str": "19438039",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 76613,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269692445996003329/pu/vid/320x568/U0m28D-2DTY9IacB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269692445996003329/pu/vid/360x640/Hpf5g8n3JfwgHZ2v.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269692445996003329/pu/pl/PgOLhwSzjHlpqTxV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269692445996003329/pu/vid/720x1280/abMc0Q96sQFMepvd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 19438039,
+							"id_str": "19438039",
+							"name": "Colin Sutton",
+							"screen_name": "colinsutton",
+							"location": "Norfolk UK",
+							"description": "Retired Met murder SIO. Best Selling author of 'Manhunt'. Retired again, this time from engaging with news media, 25-5-2020 https://t.co/LGevoOsGWH",
+							"url": "https://t.co/rbmjZELEo4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/rbmjZELEo4",
+											"expanded_url": "http://www.cs-i.co.uk",
+											"display_url": "cs-i.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/LGevoOsGWH",
+											"expanded_url": "https://www.imdb.com/name/nm8293584/",
+											"display_url": "imdb.com/name/nm8293584/",
+											"indices": [
+												124,
+												147
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 6481,
+							"friends_count": 1696,
+							"listed_count": 25,
+							"created_at": "Sat Jan 24 09:07:12 +0000 2009",
+							"favourites_count": 4129,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 7060,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "660066",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1258666935287517190/g2cWmJTm_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258666935287517190/g2cWmJTm_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/19438039/1548499571",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14138494,
+			"id_str": "14138494",
+			"name": "Mike Cameron 🖋",
+			"screen_name": "mikercameron",
+			"location": "England",
+			"description": "Accountant, maths teacher, developer, director, school governor, dad, husband, maths teacher and citizen of Europe.",
+			"url": "https://t.co/EbiM3KnyUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EbiM3KnyUV",
+							"expanded_url": "http://cogitateit.wordpress.com",
+							"display_url": "cogitateit.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4669,
+			"friends_count": 1738,
+			"listed_count": 120,
+			"created_at": "Thu Mar 13 09:56:55 +0000 2008",
+			"favourites_count": 13380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261986050727014401/cf_dffx8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261986050727014401/cf_dffx8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14138494/1585502745",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Policing for the people with the consent of the people.  https://t.co/L70nAlLg1h"
+	},
+	{
+		"created_at": "Sun Jun 07 19:29:15 +0000 2020",
+		"id": 1269694740833939500,
+		"id_str": "1269713048148852738",
+		"full_text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽‍♂️ https://t.co/yHQqmkDcnk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269693651522896000,
+					"id_str": "1269693651522895873",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269693651522895873/pu/img/5N3s24GLjSWmLHTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269693651522895873/pu/img/5N3s24GLjSWmLHTF.jpg",
+					"url": "https://t.co/yHQqmkDcnk",
+					"display_url": "pic.twitter.com/yHQqmkDcnk",
+					"expanded_url": "https://twitter.com/munyachawawa/status/1269694740833939457/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269693651522896000,
+					"id_str": "1269693651522895873",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269693651522895873/pu/img/5N3s24GLjSWmLHTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269693651522895873/pu/img/5N3s24GLjSWmLHTF.jpg",
+					"url": "https://t.co/yHQqmkDcnk",
+					"display_url": "pic.twitter.com/yHQqmkDcnk",
+					"expanded_url": "https://twitter.com/munyachawawa/status/1269694740833939457/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60500,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269693651522895873/pu/pl/y1XRayMyt4wUMm9V.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269693651522895873/pu/vid/720x900/YvqH0H710nwuuw2_.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269693651522895873/pu/vid/320x400/WXYNQV6O4h07RhxE.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269693651522895873/pu/vid/360x450/oNnQqV0iM-pfADCZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838941253,
+			"id_str": "838941253",
+			"name": "Munya Chawawa",
+			"screen_name": "munyachawawa",
+			"location": "London, England",
+			"description": "Comedy sketches & presenting 💃🏽 Eyebrows are real, characters are not 🤓 MGMT: munya@storyofmoxie.com",
+			"url": "https://t.co/EP5yF0V05y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EP5yF0V05y",
+							"expanded_url": "http://munyachawawa.com",
+							"display_url": "munyachawawa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12529,
+			"friends_count": 375,
+			"listed_count": 27,
+			"created_at": "Sat Sep 22 02:29:49 +0000 2012",
+			"favourites_count": 8455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169289815092879361/uJj5FtKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169289815092879361/uJj5FtKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838941253/1569792329",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14250,
+		"favorite_count": 31610,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽‍♂️ https://t.co/yHQqmkDcnk"
+	},
+	{
+		"created_at": "Sun Jun 07 19:24:05 +0000 2020",
+		"id": 1269711750133354500,
+		"id_str": "1269711750133354506",
+		"full_text": "@buffsoldier_96 wonder who is laughing? seems like it was qwhite an interesting MoS issue https://t.co/ho2C3YXCot",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "buffsoldier_96",
+					"name": "Ralph Leonard",
+					"id": 960936882,
+					"id_str": "960936882",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269711721524060200,
+					"id_str": "1269711721524060161",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7sFWCXYAEzVBa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7sFWCXYAEzVBa.png",
+					"url": "https://t.co/ho2C3YXCot",
+					"display_url": "pic.twitter.com/ho2C3YXCot",
+					"expanded_url": "https://twitter.com/muranava/status/1269711750133354506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 566,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 566,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269711721524060200,
+					"id_str": "1269711721524060161",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ7sFWCXYAEzVBa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZ7sFWCXYAEzVBa.png",
+					"url": "https://t.co/ho2C3YXCot",
+					"display_url": "pic.twitter.com/ho2C3YXCot",
+					"expanded_url": "https://twitter.com/muranava/status/1269711750133354506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 566,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 566,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1269581924768665600,
+		"in_reply_to_status_id_str": "1269581924768665601",
+		"in_reply_to_user_id": 960936882,
+		"in_reply_to_user_id_str": "960936882",
+		"in_reply_to_screen_name": "buffsoldier_96",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1939,
+			"friends_count": 1348,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@buffsoldier_96 wonder who is laughing? seems like it was qwhite an interesting MoS issue https://t.co/ho2C3YXCot"
+	},
+	{
+		"created_at": "Sun Jun 07 17:02:04 +0000 2020",
+		"id": 1269621762498556000,
+		"id_str": "1269676008418009089",
+		"full_text": "If today I can continue &amp; rise many times,it’s b/c of Black feminism.I owe my healing to the anti-racist work of Black feminists like Angela Davis,bell hooks,Audre Lorde,Roxana Gay,Rachel Cargle,Layla Saad,&amp; many more.I learned from them that solidarity is the key to liberation🖤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269621094966648800,
+		"in_reply_to_status_id_str": "1269621094966648833",
+		"in_reply_to_user_id": 1115272279,
+		"in_reply_to_user_id_str": "1115272279",
+		"in_reply_to_screen_name": "ParisaMehran",
+		"user": {
+			"id": 1115272279,
+			"id_str": "1115272279",
+			"name": "Parisa Mehran, PhD",
+			"screen_name": "ParisaMehran",
+			"location": "Osaka-fu, Japan",
+			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"url": "https://t.co/n5GLjpenSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5GLjpenSJ",
+							"expanded_url": "https://sites.google.com/view/parisamehran",
+							"display_url": "sites.google.com/view/parisameh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 4916,
+			"listed_count": 33,
+			"created_at": "Wed Jan 23 20:45:40 +0000 2013",
+			"favourites_count": 72234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265259132447162372/Io-hYtZR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115272279/1590497123",
+			"profile_link_color": "59200D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If today I can continue &amp; rise many times,it’s b/c of Black feminism.I owe my healing to the anti-racist work of Black feminists like Angela Davis,bell hooks,Audre Lorde,Roxana Gay,Rachel Cargle,Layla Saad,&amp; many more.I learned from them that solidarity is the key to liberation🖤"
+	},
+	{
+		"created_at": "Sun Jun 07 16:55:03 +0000 2020",
+		"id": 1269642325376086000,
+		"id_str": "1269674241915486211",
+		"full_text": "THEY ARE TAKING THE STATUE TO THE RIVER WHERE HE DESERVES TO BE DUMPED https://t.co/cKturaJOEs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269641528361848800,
+					"id_str": "1269641528361848832",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269641528361848832/pu/img/McvvkTNsmB1IBL15.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269641528361848832/pu/img/McvvkTNsmB1IBL15.jpg",
+					"url": "https://t.co/cKturaJOEs",
+					"display_url": "pic.twitter.com/cKturaJOEs",
+					"expanded_url": "https://twitter.com/MomentumBristol/status/1269641601615302659/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269641601615302700,
+					"source_status_id_str": "1269641601615302659",
+					"source_user_id": 4097635690,
+					"source_user_id_str": "4097635690"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269641528361848800,
+					"id_str": "1269641528361848832",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269641528361848832/pu/img/McvvkTNsmB1IBL15.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269641528361848832/pu/img/McvvkTNsmB1IBL15.jpg",
+					"url": "https://t.co/cKturaJOEs",
+					"display_url": "pic.twitter.com/cKturaJOEs",
+					"expanded_url": "https://twitter.com/MomentumBristol/status/1269641601615302659/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269641601615302700,
+					"source_status_id_str": "1269641601615302659",
+					"source_user_id": 4097635690,
+					"source_user_id_str": "4097635690",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 3600,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1269641528361848832/pu/pl/fn02dXk1KjZVd8py.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641528361848832/pu/vid/320x568/J9Aewv-gmI8TPmt9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641528361848832/pu/vid/360x640/1GHwPvorj3SIvVzF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1269641528361848832/pu/vid/720x1280/UkOIFALWB7vgG4ua.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 4097635690,
+							"id_str": "4097635690",
+							"name": "Momentum Bristol",
+							"screen_name": "MomentumBristol",
+							"location": "Bristol & the West",
+							"description": "Momentum in Bristol and the West. We are part of Jeremy Corbyn's social movement to revitalise left wing politics. RT or Follow does not equal endorsement.",
+							"url": "https://t.co/XwS8hbgPBa",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/XwS8hbgPBa",
+											"expanded_url": "https://www.facebook.com/momentumbristol/info/?tab=page_info",
+											"display_url": "facebook.com/momentumbristo…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3134,
+							"friends_count": 1674,
+							"listed_count": 36,
+							"created_at": "Mon Nov 02 13:44:36 +0000 2015",
+							"favourites_count": 4444,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 16367,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1151925985442500608/G3o_aF69_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151925985442500608/G3o_aF69_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/4097635690/1499805496",
+							"profile_link_color": "DD2E44",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937330903717765100,
+			"id_str": "937330903717765120",
+			"name": "Hasan Patel 🌹",
+			"screen_name": "CorbynistaTeen",
+			"location": "",
+			"description": "17 • the young people will win",
+			"url": "https://t.co/1FXYTjEZTi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1FXYTjEZTi",
+							"expanded_url": "http://www.instagram.com/h_asanp/",
+							"display_url": "instagram.com/h_asanp/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55491,
+			"friends_count": 1584,
+			"listed_count": 187,
+			"created_at": "Sun Dec 03 14:41:17 +0000 2017",
+			"favourites_count": 28514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189488487160000517/9eMAk3cF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189488487160000517/9eMAk3cF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937330903717765120/1590771039",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5550,
+		"favorite_count": 33848,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THEY ARE TAKING THE STATUE TO THE RIVER WHERE HE DESERVES TO BE DUMPED https://t.co/cKturaJOEs"
+	},
+	{
 		"created_at": "Sat Jun 06 19:50:02 +0000 2020",
 		"id": 1269355889384972300,
 		"id_str": "1269355889384972289",
@@ -987,7 +2587,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
