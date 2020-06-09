@@ -1,6 +1,1195 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 22:28:47 +0000 2020",
+		"id": 1270120615853383700,
+		"id_str": "1270120615853383680",
+		"full_text": "@PriyamvadaGopal @KimAtiWagner I think the retired prof was thinking of answers to a pub quiz (the largest slave trading state in the world in 18C) rather than public understanding of that fact",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PriyamvadaGopal",
+					"name": "Priyamvada Gopal Justice For George Floyd NOW",
+					"id": 108691306,
+					"id_str": "108691306",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "KimAtiWagner",
+					"name": "Kim A. Wagner",
+					"id": 735106370740060200,
+					"id_str": "735106370740060160",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270116297096024000,
+		"in_reply_to_status_id_str": "1270116297096024064",
+		"in_reply_to_user_id": 108691306,
+		"in_reply_to_user_id_str": "108691306",
+		"in_reply_to_screen_name": "PriyamvadaGopal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1352,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PriyamvadaGopal @KimAtiWagner I think the retired prof was thinking of answers to a pub quiz (the largest slave trading state in the world in 18C) rather than public understanding of that fact"
+	},
+	{
+		"created_at": "Mon Jun 08 21:52:21 +0000 2020",
+		"id": 1270111446572163000,
+		"id_str": "1270111446572163086",
+		"full_text": "@PriyamvadaGopal that was most a cringeworthy suggestion from one academic to another about a research topic :0",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PriyamvadaGopal",
+					"name": "Priyamvada Gopal Justice For George Floyd NOW",
+					"id": 108691306,
+					"id_str": "108691306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270108169897902000,
+		"in_reply_to_status_id_str": "1270108169897902086",
+		"in_reply_to_user_id": 108691306,
+		"in_reply_to_user_id_str": "108691306",
+		"in_reply_to_screen_name": "PriyamvadaGopal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1352,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PriyamvadaGopal that was most a cringeworthy suggestion from one academic to another about a research topic :0"
+	},
+	{
+		"created_at": "Mon Jun 08 21:23:41 +0000 2020",
+		"id": 1270053469508993000,
+		"id_str": "1270104234017673217",
+		"full_text": "This openly anti-black, Islamophobic, Zionist bigot is a completely mainstream and well-known establishment figure in the UK - she has her own column in its oldest paper and is frequently on national TV and radio. But yes, this country isn't racist. https://t.co/dfzo9LKt9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270053362352996400,
+					"id_str": "1270053362352996352",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EaAizdTXQAAtiwL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaAizdTXQAAtiwL.png",
+					"url": "https://t.co/dfzo9LKt9v",
+					"display_url": "pic.twitter.com/dfzo9LKt9v",
+					"expanded_url": "https://twitter.com/Louis_Allday/status/1270053469508993024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270053362352996400,
+					"id_str": "1270053362352996352",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EaAizdTXQAAtiwL.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaAizdTXQAAtiwL.png",
+					"url": "https://t.co/dfzo9LKt9v",
+					"display_url": "pic.twitter.com/dfzo9LKt9v",
+					"expanded_url": "https://twitter.com/Louis_Allday/status/1270053469508993024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 521,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270052684314423300,
+		"in_reply_to_status_id_str": "1270052684314423296",
+		"in_reply_to_user_id": 240631273,
+		"in_reply_to_user_id_str": "240631273",
+		"in_reply_to_screen_name": "Louis_Allday",
+		"user": {
+			"id": 240631273,
+			"id_str": "240631273",
+			"name": "Louis",
+			"screen_name": "Louis_Allday",
+			"location": "",
+			"description": "It's a silent S لوي مش لويس",
+			"url": "https://t.co/Li3r7WzVkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Li3r7WzVkf",
+							"expanded_url": "https://louisallday.wordpress.com",
+							"display_url": "louisallday.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13532,
+			"friends_count": 1087,
+			"listed_count": 178,
+			"created_at": "Thu Jan 20 11:04:43 +0000 2011",
+			"favourites_count": 17782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220461616065646596/p-3kqMnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220461616065646596/p-3kqMnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240631273/1542612608",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 127,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This openly anti-black, Islamophobic, Zionist bigot is a completely mainstream and well-known establishment figure in the UK - she has her own column in its oldest paper and is frequently on national TV and radio. But yes, this country isn't racist. https://t.co/dfzo9LKt9v"
+	},
+	{
+		"created_at": "Mon Jun 08 20:32:36 +0000 2020",
+		"id": 1270083279673327600,
+		"id_str": "1270091380405293063",
+		"full_text": "The Windrush scandal isn't over. Many of the 'Windrush generation' still haven't received compensation. Some didn't live to see justice.\n\nAnd the Hostile Environment is still in place: people are unable to access basic services in the middle of a pandemic #SittingInLimbo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SittingInLimbo",
+					"indices": [
+						256,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270081383872987100,
+		"in_reply_to_status_id_str": "1270081383872987142",
+		"in_reply_to_user_id": 71318028,
+		"in_reply_to_user_id_str": "71318028",
+		"in_reply_to_screen_name": "MayaGoodfellow",
+		"user": {
+			"id": 71318028,
+			"id_str": "71318028",
+			"name": "Maya Goodfellow",
+			"screen_name": "MayaGoodfellow",
+			"location": "Newcastle/London",
+			"description": "Author: ‘Hostile Environment: How Immigrants Became Scapegoats' -  https://t.co/XlXHsKM0mT. Writer. PhD in race, racism and whiteness. Instragram: mayagoodfellow",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XlXHsKM0mT",
+							"expanded_url": "http://bit.ly/31QDSw5",
+							"display_url": "bit.ly/31QDSw5",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46024,
+			"friends_count": 1574,
+			"listed_count": 319,
+			"created_at": "Thu Sep 03 18:08:35 +0000 2009",
+			"favourites_count": 6343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874343000272506886/OVA6Mp84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874343000272506886/OVA6Mp84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71318028/1571731427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 271,
+		"favorite_count": 559,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Windrush scandal isn't over. Many of the 'Windrush generation' still haven't received compensation. Some didn't live to see justice.\n\nAnd the Hostile Environment is still in place: people are unable to access basic services in the middle of a pandemic #SittingInLimbo"
+	},
+	{
+		"created_at": "Mon Jun 08 18:19:17 +0000 2020",
+		"id": 1269961494722236400,
+		"id_str": "1270057829412605953",
+		"full_text": "\"One rule for young black boys born in the Caribbean, and another for white boys born in the United States?\"\n\nJeremy Corbyn calls out Boris Johnson’s racist hypocrisy \n https://t.co/KaKVc1po5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227582916395511800,
+					"id_str": "1227582916395511808",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQlASSTWkAMqiPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQlASSTWkAMqiPw.jpg",
+					"url": "https://t.co/KaKVc1po5E",
+					"display_url": "pic.twitter.com/KaKVc1po5E",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1227583108800819206/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1227583108800819200,
+					"source_status_id_str": "1227583108800819206",
+					"source_user_id": 117777690,
+					"source_user_id_str": "117777690"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227582916395511800,
+					"id_str": "1227582916395511808",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EQlASSTWkAMqiPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQlASSTWkAMqiPw.jpg",
+					"url": "https://t.co/KaKVc1po5E",
+					"display_url": "pic.twitter.com/KaKVc1po5E",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1227583108800819206/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1227583108800819200,
+					"source_status_id_str": "1227583108800819206",
+					"source_user_id": 117777690,
+					"source_user_id_str": "117777690",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51183,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227582916395511808/vid/720x720/QUamsdMvG36tzoSE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227582916395511808/vid/480x480/VzeetyxMhAVXOYs6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1227582916395511808/pl/MOyhNjFd7E86hnHM.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1227582916395511808/vid/320x320/BDJOZvNtLI-odZa6.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 117777690,
+							"id_str": "117777690",
+							"name": "Jeremy Corbyn",
+							"screen_name": "jeremycorbyn",
+							"location": "UK",
+							"description": "Labour MP for Islington North 🌹",
+							"url": "https://t.co/C2js91ZsYc",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/C2js91ZsYc",
+											"expanded_url": "https://join.labour.org.uk/",
+											"display_url": "join.labour.org.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2430308,
+							"friends_count": 2797,
+							"listed_count": 6923,
+							"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+							"favourites_count": 595,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 14436,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168090600,
+			"id_str": "168090600",
+			"name": "Tory Fibs",
+			"screen_name": "ToryFibs",
+			"location": "Ireland",
+			"description": "Irish. Socialist. Working Class. Catholic. NHS. Homelessness. Hunger. Low Pay. Loneliness. Renters’ Rights. Care for elderly. Poverty. Peace. Eoin. PhD History",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134924,
+			"friends_count": 20095,
+			"listed_count": 964,
+			"created_at": "Sun Jul 18 10:32:37 +0000 2010",
+			"favourites_count": 62089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "93F0A1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244073673683873794/a9lYh7sl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244073673683873794/a9lYh7sl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168090600/1496186488",
+			"profile_link_color": "F51B1B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "6EC259",
+			"profile_text_color": "054009",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1130,
+		"favorite_count": 2148,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"One rule for young black boys born in the Caribbean, and another for white boys born in the United States?\"\n\nJeremy Corbyn calls out Boris Johnson’s racist hypocrisy \n https://t.co/KaKVc1po5E"
+	},
+	{
+		"created_at": "Mon Jun 08 15:58:04 +0000 2020",
+		"id": 1270021764249268200,
+		"id_str": "1270022290290458626",
+		"full_text": "I’m sorry if you feel black lives matter, but I’ve got seventeenty-twelve police with sprained ankles, a traumatised statue and a traffic light with a taste for human blood, so it’s counter-death penalties all round for you scumbags",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270019780221730800,
+		"in_reply_to_status_id_str": "1270019780221730825",
+		"in_reply_to_user_id": 3291321552,
+		"in_reply_to_user_id_str": "3291321552",
+		"in_reply_to_screen_name": "TheIDSmiths",
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8369,
+			"friends_count": 976,
+			"listed_count": 31,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 5534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’m sorry if you feel black lives matter, but I’ve got seventeenty-twelve police with sprained ankles, a traumatised statue and a traffic light with a taste for human blood, so it’s counter-death penalties all round for you scumbags"
+	},
+	{
+		"created_at": "Mon Jun 08 11:01:17 +0000 2020",
+		"id": 1269944597368770600,
+		"id_str": "1269947603506135040",
+		"full_text": "“We had a statue up to someone who made his money buying and selling people. That statue is now under water, which is a piece of historical irony.”\n\n#Bristol Mayor @MarvinJRees says he will try to “bring this city together” after statue was torn down. \n https://t.co/qqSbnKHK9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bristol",
+					"indices": [
+						149,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarvinJRees",
+					"name": "Marvin Rees",
+					"id": 217992827,
+					"id_str": "217992827",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269902136629854200,
+					"id_str": "1269902136629854208",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269902136629854208/img/N2LJbbwaFon3r4CH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269902136629854208/img/N2LJbbwaFon3r4CH.jpg",
+					"url": "https://t.co/qqSbnKHK9q",
+					"display_url": "pic.twitter.com/qqSbnKHK9q",
+					"expanded_url": "https://twitter.com/BBCPolitics/status/1269902794225582080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269902794225582000,
+					"source_status_id_str": "1269902794225582080",
+					"source_user_id": 612473,
+					"source_user_id_str": "612473"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269902136629854200,
+					"id_str": "1269902136629854208",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1269902136629854208/img/N2LJbbwaFon3r4CH.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1269902136629854208/img/N2LJbbwaFon3r4CH.jpg",
+					"url": "https://t.co/qqSbnKHK9q",
+					"display_url": "pic.twitter.com/qqSbnKHK9q",
+					"expanded_url": "https://twitter.com/BBCPolitics/status/1269902794225582080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1269902794225582000,
+					"source_status_id_str": "1269902794225582080",
+					"source_user_id": 612473,
+					"source_user_id_str": "612473",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74009,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269902136629854208/vid/640x360/ZN2renakilBTmXIe.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1269902136629854208/pl/S_CxLcvRlOKsjCJY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269902136629854208/vid/1280x720/3BKOYVWuk31Ecytz.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1269902136629854208/vid/480x270/osGWR8jJsY34nuW3.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 612473,
+							"id_str": "612473",
+							"name": "BBC News (UK)",
+							"screen_name": "BBCNews",
+							"location": "London",
+							"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+							"url": "https://t.co/vBzl7LNCCQ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/vBzl7LNCCQ",
+											"expanded_url": "http://www.bbc.co.uk/news",
+											"display_url": "bbc.co.uk/news",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11068135,
+							"friends_count": 101,
+							"listed_count": 42082,
+							"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+							"favourites_count": 45,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 418674,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1584532383",
+							"profile_link_color": "1F527B",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "5A5A5A",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395452660,
+			"id_str": "395452660",
+			"name": "Bath Labour Party #BlackLivesMatter",
+			"screen_name": "BathLabourParty",
+			"location": "Bath, Somerset, UK",
+			"description": "This is the Twitter account for Bath Constituency Labour Party. Promoted by Bath CLP on behalf of Bath Labour Party at 136a Walcot Street, Bath, BA1 7DE",
+			"url": "https://t.co/x7PnXXPI7b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x7PnXXPI7b",
+							"expanded_url": "http://www.bathlabour.org.uk",
+							"display_url": "bathlabour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6498,
+			"friends_count": 2643,
+			"listed_count": 59,
+			"created_at": "Fri Oct 21 17:44:58 +0000 2011",
+			"favourites_count": 35107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE3224",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049345369367302145/mqxHA4tR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049345369367302145/mqxHA4tR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395452660/1579471148",
+			"profile_link_color": "E60049",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "B80710",
+			"profile_text_color": "E6BB10",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 81,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We had a statue up to someone who made his money buying and selling people. That statue is now under water, which is a piece of historical irony.”\n\n#Bristol Mayor @MarvinJRees says he will try to “bring this city together” after statue was torn down. \n https://t.co/qqSbnKHK9q"
+	},
+	{
 		"created_at": "Sun Jun 07 23:43:43 +0000 2020",
 		"id": 1269777085628846000,
 		"id_str": "1269777085628846081",
@@ -826,7 +2015,7 @@ Grailbird.data.tweets_2020_06 =
 		"created_at": "Sun Jun 07 19:29:15 +0000 2020",
 		"id": 1269694740833939500,
 		"id_str": "1269713048148852738",
-		"full_text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽‍♂️ https://t.co/yHQqmkDcnk",
+		"full_text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽♂️ https://t.co/yHQqmkDcnk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1025,7 +2214,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽‍♂️ https://t.co/yHQqmkDcnk"
+		"text": "British media reporting on the Black Lives Matter protests tomorrow. 🗞🤦🏽♂️ https://t.co/yHQqmkDcnk"
 	},
 	{
 		"created_at": "Sun Jun 07 19:24:05 +0000 2020",
@@ -1259,7 +2448,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Parisa Mehran, PhD",
 			"screen_name": "ParisaMehran",
 			"location": "Osaka-fu, Japan",
-			"description": "Iranian #EFL 👩🏽‍🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
+			"description": "Iranian #EFL 👩🏽🏫| Racial #Equity Advocate| Leading @WOCinELT w/ #WOCinELT| @SietarKansaiJP Coord| Blogger @BydStereotypes| RT/Follows≠endorsement | she/her",
 			"url": "https://t.co/n5GLjpenSJ",
 			"entities": {
 				"url": {
