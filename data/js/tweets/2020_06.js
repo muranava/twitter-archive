@@ -1,6 +1,1763 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 22:43:06 +0000 2020",
+		"id": 1270413142825341000,
+		"id_str": "1270486605900460035",
+		"full_text": "One of these men understands the value of protest in achieving political means what empty gestures and triangulation can't. https://t.co/HAqxZy0wTW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270412842869698600,
+					"id_str": "1270412842869698560",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFpv-lXsAAXofo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaFpv-lXsAAXofo.png",
+					"url": "https://t.co/HAqxZy0wTW",
+					"display_url": "pic.twitter.com/HAqxZy0wTW",
+					"expanded_url": "https://twitter.com/BareLeft/status/1270413142825340928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270412842869698600,
+					"id_str": "1270412842869698560",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFpv-lXsAAXofo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EaFpv-lXsAAXofo.png",
+					"url": "https://t.co/HAqxZy0wTW",
+					"display_url": "pic.twitter.com/HAqxZy0wTW",
+					"expanded_url": "https://twitter.com/BareLeft/status/1270413142825340928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 572,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1270412894996516900,
+					"id_str": "1270412894996516864",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFpzAxX0AA8y2c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFpzAxX0AA8y2c.jpg",
+					"url": "https://t.co/HAqxZy0wTW",
+					"display_url": "pic.twitter.com/HAqxZy0wTW",
+					"expanded_url": "https://twitter.com/BareLeft/status/1270413142825340928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 919,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 919,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199084163900555300,
+			"id_str": "1199084163900555264",
+			"name": "Marl Karx",
+			"screen_name": "BareLeft",
+			"location": "",
+			"description": "My parents told me I could be anything, so I became a Twitter Left shitpost account. \n\nMP for Mantits East. Shadow Minister for Pyramids.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1558,
+			"friends_count": 559,
+			"listed_count": 2,
+			"created_at": "Mon Nov 25 21:55:27 +0000 2019",
+			"favourites_count": 86172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246108652123164675/ga3PXh6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246108652123164675/ga3PXh6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199084163900555264/1578666655",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 1261,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of these men understands the value of protest in achieving political means what empty gestures and triangulation can't. https://t.co/HAqxZy0wTW"
+	},
+	{
+		"created_at": "Tue Jun 09 21:55:58 +0000 2020",
+		"id": 1270472817927172000,
+		"id_str": "1270474746623406080",
+		"full_text": "there's a lot of resitance to doing the reading that I think comes from the idea that anti-racist knowledge isn't real knowledge, like a chemistry major would have. That's part of the broader attack on feminism and cultural studies coming from the right, but that's spread.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270472254988726300,
+		"in_reply_to_status_id_str": "1270472254988726274",
+		"in_reply_to_user_id": 2343972634,
+		"in_reply_to_user_id_str": "2343972634",
+		"in_reply_to_screen_name": "doxtdatorb",
+		"user": {
+			"id": 2343972634,
+			"id_str": "2343972634",
+			"name": "Benjamin Doxtdator",
+			"screen_name": "doxtdatorb",
+			"location": "Brussels, Belgium",
+			"description": "Haudenosaunee/ Oneida Nation / teacher/ views own / human companion to two rescue pups / I'm w @learn_thru_it / he, him, his",
+			"url": "https://t.co/kBAv3IwTVg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kBAv3IwTVg",
+							"expanded_url": "https://www.longviewoneducation.org",
+							"display_url": "longviewoneducation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8825,
+			"friends_count": 4931,
+			"listed_count": 161,
+			"created_at": "Fri Feb 14 23:12:42 +0000 2014",
+			"favourites_count": 41011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159519621109694469/e_mbtSMk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343972634/1565286388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "there's a lot of resitance to doing the reading that I think comes from the idea that anti-racist knowledge isn't real knowledge, like a chemistry major would have. That's part of the broader attack on feminism and cultural studies coming from the right, but that's spread."
+	},
+	{
+		"created_at": "Tue Jun 09 21:44:21 +0000 2020",
+		"id": 1270117445567643600,
+		"id_str": "1270471822191058945",
+		"full_text": "Having heard many of these experiences from families that we have assisted over the past 2 years, this sent a chill down my spine, to actually see the dramatization of the governmental destruction of Anthony Bryan's life. https://t.co/XN2Oifvn7k https://t.co/cnmcGS3tVu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XN2Oifvn7k",
+					"expanded_url": "http://www.desjaddoo.org.uk/blog/sitting-in-limbo-my-initial-thoughts",
+					"display_url": "desjaddoo.org.uk/blog/sitting-i…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270117443374112800,
+					"id_str": "1270117443374112769",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBdFdtXYAEzKsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBdFdtXYAEzKsQ.jpg",
+					"url": "https://t.co/cnmcGS3tVu",
+					"display_url": "pic.twitter.com/cnmcGS3tVu",
+					"expanded_url": "https://twitter.com/DefendWindrush/status/1270117445567643648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270117443374112800,
+					"id_str": "1270117443374112769",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EaBdFdtXYAEzKsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaBdFdtXYAEzKsQ.jpg",
+					"url": "https://t.co/cnmcGS3tVu",
+					"display_url": "pic.twitter.com/cnmcGS3tVu",
+					"expanded_url": "https://twitter.com/DefendWindrush/status/1270117445567643648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985698765150605300,
+			"id_str": "985698765150605312",
+			"name": "The Windrush Movement UK & WNOG",
+			"screen_name": "DefendWindrush",
+			"location": "United Kingdom",
+			"description": "To seek justice and defend our Windrush generation against the Hostile Environment policy.thewmuk@yahoo.com\n- Windrush National Organising Group-WNOG",
+			"url": "https://t.co/pqZZ0UAdl0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pqZZ0UAdl0",
+							"expanded_url": "https://www.facebook.com/windrushmovement/",
+							"display_url": "facebook.com/windrushmoveme…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4483,
+			"friends_count": 680,
+			"listed_count": 25,
+			"created_at": "Mon Apr 16 01:57:53 +0000 2018",
+			"favourites_count": 3035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067957305801678848/SoXYz4tE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067957305801678848/SoXYz4tE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985698765150605312/1591592166",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Having heard many of these experiences from families that we have assisted over the past 2 years, this sent a chill down my spine, to actually see the dramatization of the governmental destruction of Anthony Bryan's life. https://t.co/XN2Oifvn7k https://t.co/cnmcGS3tVu"
+	},
+	{
+		"created_at": "Tue Jun 09 21:37:19 +0000 2020",
+		"id": 1270470053381705700,
+		"id_str": "1270470053381705730",
+		"full_text": "WTF @Twitter here's a message from Prince Far I to BranstonPickleMan https://t.co/SrERg8f5wW https://t.co/WY5CseLsLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SrERg8f5wW",
+					"expanded_url": "https://www.youtube.com/watch?v=itCKXWS8SEU",
+					"display_url": "youtube.com/watch?v=itCKXW…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270469932640342000,
+					"id_str": "1270469932640342016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EaGdrCjXkAAPVH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaGdrCjXkAAPVH0.jpg",
+					"url": "https://t.co/WY5CseLsLA",
+					"display_url": "pic.twitter.com/WY5CseLsLA",
+					"expanded_url": "https://twitter.com/muranava/status/1270470053381705730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270469932640342000,
+					"id_str": "1270469932640342016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EaGdrCjXkAAPVH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaGdrCjXkAAPVH0.jpg",
+					"url": "https://t.co/WY5CseLsLA",
+					"display_url": "pic.twitter.com/WY5CseLsLA",
+					"expanded_url": "https://twitter.com/muranava/status/1270470053381705730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 602,
+							"h": 339,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1936,
+			"friends_count": 1353,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WTF @Twitter here's a message from Prince Far I to BranstonPickleMan https://t.co/SrERg8f5wW https://t.co/WY5CseLsLA"
+	},
+	{
+		"created_at": "Tue Jun 09 20:30:34 +0000 2020",
+		"id": 1270426173890351000,
+		"id_str": "1270453254959312900",
+		"full_text": "Tommy Robinson’s plans for a race war ruined by train inspector 🚂😂 https://t.co/a7pOVXvh2k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270425870621180000,
+					"id_str": "1270425870621179904",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270425870621179904/pu/img/75cQJLFWh7PDe2MH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270425870621179904/pu/img/75cQJLFWh7PDe2MH.jpg",
+					"url": "https://t.co/a7pOVXvh2k",
+					"display_url": "pic.twitter.com/a7pOVXvh2k",
+					"expanded_url": "https://twitter.com/munyachawawa/status/1270426173890351105/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270425870621180000,
+					"id_str": "1270425870621179904",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270425870621179904/pu/img/75cQJLFWh7PDe2MH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270425870621179904/pu/img/75cQJLFWh7PDe2MH.jpg",
+					"url": "https://t.co/a7pOVXvh2k",
+					"display_url": "pic.twitter.com/a7pOVXvh2k",
+					"expanded_url": "https://twitter.com/munyachawawa/status/1270426173890351105/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270425870621179904/pu/pl/X21if22lK5WEF4PQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270425870621179904/pu/vid/320x400/E3ShPx1aRBBacXJu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270425870621179904/pu/vid/360x450/yilmaKsU1B53yx3q.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270425870621179904/pu/vid/720x900/V95Fs5ROaJLh-YCb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 838941253,
+			"id_str": "838941253",
+			"name": "Munya Chawawa",
+			"screen_name": "munyachawawa",
+			"location": "London, England",
+			"description": "Comedy sketches & presenting 💃🏽 Eyebrows are real, characters are not 🤓 MGMT: munya@storyofmoxie.com",
+			"url": "https://t.co/kPptArdv4N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kPptArdv4N",
+							"expanded_url": "https://www.storyofmoxie.com/munya-chawawa",
+							"display_url": "storyofmoxie.com/munya-chawawa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25860,
+			"friends_count": 376,
+			"listed_count": 40,
+			"created_at": "Sat Sep 22 02:29:49 +0000 2012",
+			"favourites_count": 8721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169289815092879361/uJj5FtKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169289815092879361/uJj5FtKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/838941253/1569792329",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11635,
+		"favorite_count": 38678,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tommy Robinson’s plans for a race war ruined by train inspector 🚂😂 https://t.co/a7pOVXvh2k"
+	},
+	{
+		"created_at": "Tue Jun 09 18:13:27 +0000 2020",
+		"id": 1270313208537141200,
+		"id_str": "1270418749536063488",
+		"full_text": "John Bunn was a 14 year old child when he was wrongfully convicted of murdering a NYC corrections officer\n\nHe spent 17 years of his life in prison for a crime he did not commit. It took 10 years after that for him to be exonerated\n\nThis man fought 27 YEARS for his innocence! 💔😭 https://t.co/j6wRhTA7Ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270307250217894000,
+					"id_str": "1270307250217893888",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270307250217893888/pu/img/m3sB6Lk0LyvLqiZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270307250217893888/pu/img/m3sB6Lk0LyvLqiZY.jpg",
+					"url": "https://t.co/j6wRhTA7Ut",
+					"display_url": "pic.twitter.com/j6wRhTA7Ut",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1270313208537141250/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270307250217894000,
+					"id_str": "1270307250217893888",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270307250217893888/pu/img/m3sB6Lk0LyvLqiZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270307250217893888/pu/img/m3sB6Lk0LyvLqiZY.jpg",
+					"url": "https://t.co/j6wRhTA7Ut",
+					"display_url": "pic.twitter.com/j6wRhTA7Ut",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1270313208537141250/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139373,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270307250217893888/pu/vid/640x360/J-x0AgdQV-pERID8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270307250217893888/pu/vid/1280x720/0BOcRDMM4FLXUZku.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270307250217893888/pu/vid/480x270/9K5SZkgl-q6gZhzb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270307250217893888/pu/pl/N_nKAsiyNiQJ-d64.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716432228,
+			"id_str": "716432228",
+			"name": "StanceGrounded",
+			"screen_name": "_SJPeace_",
+			"location": "Detroit, MI",
+			"description": "Human/Civil Rights Activist- Muslim, American by birth, Pakistani. Educated man of color - changing the world one friend at a time. ✊🏽✊🏾✊🏿 #Resist #BLM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372542,
+			"friends_count": 43099,
+			"listed_count": 887,
+			"created_at": "Wed Jul 25 17:22:39 +0000 2012",
+			"favourites_count": 24238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196129597802369024/JEutnbaI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196129597802369024/JEutnbaI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716432228/1548989721",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15461,
+		"favorite_count": 31966,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "John Bunn was a 14 year old child when he was wrongfully convicted of murdering a NYC corrections officer\n\nHe spent 17 years of his life in prison for a crime he did not commit. It took 10 years after that for him to be exonerated\n\nThis man fought 27 YEARS for his innocence! 💔😭 https://t.co/j6wRhTA7Ut"
+	},
+	{
+		"created_at": "Tue Jun 09 16:28:03 +0000 2020",
+		"id": 1270367511381450800,
+		"id_str": "1270392222521982976",
+		"full_text": "It's a real shame that a new term (\"anti-racism critics\") has to be concocted to avoid saying \"racists\" https://t.co/6GqocXO9ua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6GqocXO9ua",
+					"expanded_url": "https://twitter.com/BBCNews/status/1270345875911573504",
+					"display_url": "twitter.com/BBCNews/status…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16559786,
+			"id_str": "16559786",
+			"name": "Miqdaad Versi",
+			"screen_name": "miqdaad",
+			"location": "London, England",
+			"description": "Management Consultant, Media Spokesperson for @MuslimCouncil, Board member of @rightssecurity, Grassroots activist. Views my own. RTs not endorsements",
+			"url": "https://t.co/EyTGGCvHvk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EyTGGCvHvk",
+							"expanded_url": "http://about.me/miqdaad.versi",
+							"display_url": "about.me/miqdaad.versi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20954,
+			"friends_count": 3019,
+			"listed_count": 195,
+			"created_at": "Thu Oct 02 14:31:41 +0000 2008",
+			"favourites_count": 18059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827084890646704130/oMsbc3kG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827084890646704130/oMsbc3kG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16559786/1517092735",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270345875911573500,
+		"quoted_status_id_str": "1270345875911573504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6GqocXO9ua",
+			"expanded": "https://twitter.com/BBCNews/status/1270345875911573504",
+			"display": "twitter.com/BBCNews/status…"
+		},
+		"retweet_count": 268,
+		"favorite_count": 698,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's a real shame that a new term (\"anti-racism critics\") has to be concocted to avoid saying \"racists\" https://t.co/6GqocXO9ua"
+	},
+	{
+		"created_at": "Tue Jun 09 16:23:56 +0000 2020",
+		"id": 1270356045966250000,
+		"id_str": "1270391189389414401",
+		"full_text": "Despite a £2.6 billion profit last year, @British_Airway plans to sack more than 42,000 workers &amp; rehire only 30,000 on draconian contracts. \n\nThe epitome of corporate greed!\n\nBA must work with @unitetheunion @GMB_union, @Bassa_2000 to find a better solution. #BAStopThinkAgain https://t.co/G07H7K7nqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BAStopThinkAgain",
+					"indices": [
+						264,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "British_Airway",
+					"name": "British Airway",
+					"id": 2277797563,
+					"id_str": "2277797563",
+					"indices": [
+						41,
+						56
+					]
+				},
+				{
+					"screen_name": "unitetheunion",
+					"name": "Unite the union: join a union",
+					"id": 20593641,
+					"id_str": "20593641",
+					"indices": [
+						198,
+						212
+					]
+				},
+				{
+					"screen_name": "GMB_union",
+					"name": "GMB_Union",
+					"id": 330387008,
+					"id_str": "330387008",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"screen_name": "BASSA_2000",
+					"name": "BASSA",
+					"id": 1068710010,
+					"id_str": "1068710010",
+					"indices": [
+						225,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270355959295160300,
+					"id_str": "1270355959295160321",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270355959295160321/pu/img/qzM8KAnTHF416ZTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270355959295160321/pu/img/qzM8KAnTHF416ZTT.jpg",
+					"url": "https://t.co/G07H7K7nqs",
+					"display_url": "pic.twitter.com/G07H7K7nqs",
+					"expanded_url": "https://twitter.com/SamTarry/status/1270356045966249984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270355959295160300,
+					"id_str": "1270355959295160321",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270355959295160321/pu/img/qzM8KAnTHF416ZTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270355959295160321/pu/img/qzM8KAnTHF416ZTT.jpg",
+					"url": "https://t.co/G07H7K7nqs",
+					"display_url": "pic.twitter.com/G07H7K7nqs",
+					"expanded_url": "https://twitter.com/SamTarry/status/1270356045966249984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 139140,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270355959295160321/pu/pl/SfUjbh7gGtYUpmcZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270355959295160321/pu/vid/480x270/mVK3EEr6cBuRQNkU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270355959295160321/pu/vid/720x404/8GNER5ISiA4hDCx0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25718389,
+			"id_str": "25718389",
+			"name": "Sam Tarry MP",
+			"screen_name": "SamTarry",
+			"location": "East East East London",
+			"description": "@UKLabour MP for Ilford South | Former Offical @TssaUnion | President @CLASSThinkTank | Constituency Casework Email: sam.tarry.mp@parliament.uk",
+			"url": "https://t.co/uC3yNLKkyj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC3yNLKkyj",
+							"expanded_url": "http://www.samtarry.org",
+							"display_url": "samtarry.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19201,
+			"friends_count": 5043,
+			"listed_count": 270,
+			"created_at": "Sat Mar 21 19:49:44 +0000 2009",
+			"favourites_count": 25193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 38282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D1D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259932519664889858/leR6C9B-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259932519664889858/leR6C9B-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25718389/1565958054",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "910000",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "A8A5A5",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 638,
+		"favorite_count": 1046,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite a £2.6 billion profit last year, @British_Airway plans to sack more than 42,000 workers &amp; rehire only 30,000 on draconian contracts. \n\nThe epitome of corporate greed!\n\nBA must work with @unitetheunion @GMB_union, @Bassa_2000 to find a better solution. #BAStopThinkAgain https://t.co/G07H7K7nqs"
+	},
+	{
+		"created_at": "Tue Jun 09 16:22:22 +0000 2020",
+		"id": 1270331795557486600,
+		"id_str": "1270390792377556993",
+		"full_text": "In a former life, when I thought you cd politely persuade people not to be racist\n\nTheir response? \"If you don't like it here, LEAVE\". Which I'm yet to hear said to a white British person\n\nRacism is telling black people who have a critique of their own country, they should leave https://t.co/Dhx4G0yloP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270331630671089700,
+					"id_str": "1270331630671089664",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270331630671089664/pu/img/f9JSv_6zbgItTRsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270331630671089664/pu/img/f9JSv_6zbgItTRsK.jpg",
+					"url": "https://t.co/Dhx4G0yloP",
+					"display_url": "pic.twitter.com/Dhx4G0yloP",
+					"expanded_url": "https://twitter.com/afuahirsch/status/1270331795557486592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270331630671089700,
+					"id_str": "1270331630671089664",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270331630671089664/pu/img/f9JSv_6zbgItTRsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270331630671089664/pu/img/f9JSv_6zbgItTRsK.jpg",
+					"url": "https://t.co/Dhx4G0yloP",
+					"display_url": "pic.twitter.com/Dhx4G0yloP",
+					"expanded_url": "https://twitter.com/afuahirsch/status/1270331795557486592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 127061,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270331630671089664/pu/vid/640x360/KXuyvcOVkjGepp47.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270331630671089664/pu/vid/1280x720/EUOHTv5USUXYnw_8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270331630671089664/pu/vid/480x270/3VkH24_EEXRBAit9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270331630671089664/pu/pl/wmlmko3g3YSnMsjv.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20137622,
+			"id_str": "20137622",
+			"name": "Afua Hirsch",
+			"screen_name": "afuahirsch",
+			"location": "London / Los Angeles",
+			"description": "Wallis Annenberg Chair @USC. Columnist @guardian, Creative @sikadesigns, Author Brit(ish), Broadcaster, @AudibleUK series \"About the British Empire\" out now!",
+			"url": "https://t.co/v2YerpGOwU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v2YerpGOwU",
+							"expanded_url": "http://afuahirsch.com",
+							"display_url": "afuahirsch.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147937,
+			"friends_count": 9907,
+			"listed_count": 1281,
+			"created_at": "Thu Feb 05 10:57:43 +0000 2009",
+			"favourites_count": 2559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6DC1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20137622/1536959717",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "0A0B0B",
+			"profile_sidebar_fill_color": "F42A2C",
+			"profile_text_color": "131010",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15454,
+		"favorite_count": 44429,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In a former life, when I thought you cd politely persuade people not to be racist\n\nTheir response? \"If you don't like it here, LEAVE\". Which I'm yet to hear said to a white British person\n\nRacism is telling black people who have a critique of their own country, they should leave https://t.co/Dhx4G0yloP"
+	},
+	{
+		"created_at": "Tue Jun 09 16:20:08 +0000 2020",
+		"id": 1270362976965492700,
+		"id_str": "1270390231980748800",
+		"full_text": "So @NickFerrariLBC had made the RACIST, full-bloodedly RACIST-claim that @afuahirsch should leave the country if she makes any critical observations.\n\nWhy does he still have a job? Racist.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NickFerrariLBC",
+					"name": "Nick Ferrari",
+					"id": 492014042,
+					"id_str": "492014042",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "afuahirsch",
+					"name": "Afua Hirsch",
+					"id": 20137622,
+					"id_str": "20137622",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108691306,
+			"id_str": "108691306",
+			"name": "Priyamvada Gopal Justice For George Floyd NOW",
+			"screen_name": "PriyamvadaGopal",
+			"location": "Cambridge, UK",
+			"description": "Author,Insurgent Empire: Anticolonial Resistance & British Dissent\n'An obscure Cambridge lecturer.' -Niall Ferguson.\n'Torquemada of the Woke Inquisition'-Times",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47925,
+			"friends_count": 1325,
+			"listed_count": 318,
+			"created_at": "Tue Jan 26 19:18:48 +0000 2010",
+			"favourites_count": 52973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188779893032665089/w79bde2-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188779893032665089/w79bde2-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108691306/1574621798",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 214,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So @NickFerrariLBC had made the RACIST, full-bloodedly RACIST-claim that @afuahirsch should leave the country if she makes any critical observations.\n\nWhy does he still have a job? Racist."
+	},
+	{
 		"created_at": "Mon Jun 08 22:28:47 +0000 2020",
 		"id": 1270120615853383700,
 		"id_str": "1270120615853383680",
