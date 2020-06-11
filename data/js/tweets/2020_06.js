@@ -1,6 +1,1965 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 20:39:20 +0000 2020",
+		"id": 1270673034865709000,
+		"id_str": "1270817850274578433",
+		"full_text": "This is unacceptable. I now know the names of three Black linguists in the *whole* of the UK, only ONE (1) of whom is currently in academia. This means UKHE is so unwelcoming (=racist) that our Black students can't (or WON'T) stay. This needs to change. Now. #ShutDownAcademia https://t.co/M2IyPwdh9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutDownAcademia",
+					"indices": [
+						259,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M2IyPwdh9U",
+					"expanded_url": "https://twitter.com/ShivGates/status/1270595498425139200",
+					"display_url": "twitter.com/ShivGates/stat…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69663817,
+			"id_str": "69663817",
+			"name": "Lauren Ackerman is shouting: BLACK LIVES MATTER",
+			"screen_name": "VerbingNouns",
+			"location": "NJ 🇺🇸 immigrant in NCL 🇬🇧",
+			"description": "PsychLX/CogSci academic—¯\\_(ツ)_/¯—art—generative flexible syntax + phonetics—opinions=mine—RT≠endorse—personal account—#Rstats—singular they—(they/them|she/her)",
+			"url": "https://t.co/KHekHxKq5k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KHekHxKq5k",
+							"expanded_url": "http://lmackerman.com",
+							"display_url": "lmackerman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5211,
+			"friends_count": 393,
+			"listed_count": 196,
+			"created_at": "Fri Aug 28 18:52:06 +0000 2009",
+			"favourites_count": 81219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A8A8A8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919652229438738432/K12mPVsL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919652229438738432/K12mPVsL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69663817/1543073735",
+			"profile_link_color": "00FFCC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FF8400",
+			"profile_text_color": "33312E",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270595498425139200,
+		"quoted_status_id_str": "1270595498425139200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M2IyPwdh9U",
+			"expanded": "https://twitter.com/ShivGates/status/1270595498425139200",
+			"display": "twitter.com/ShivGates/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 05:55:48 +0000 2020",
+			"id": 1270595498425139200,
+			"id_str": "1270595498425139200",
+			"full_text": "@AdamCSchembri Michelle Straw was the only black British linguist that I met. When I was on the job market, I made it clear that I was a black linguist. With a similar cv to my peers I didn’t get a single interview. Of the jobs I applied for, ~75% went to white men, the rest to white women.",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				291
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdamCSchembri",
+						"name": "Adam Schembri 🏳️‍🌈🇦🇺🇲🇹🇪🇺",
+						"id": 374373684,
+						"id_str": "374373684",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1269945925658652700,
+			"in_reply_to_status_id_str": "1269945925658652674",
+			"in_reply_to_user_id": 374373684,
+			"in_reply_to_user_id_str": "374373684",
+			"in_reply_to_screen_name": "AdamCSchembri",
+			"user": {
+				"id": 919187376,
+				"id_str": "919187376",
+				"name": "Dr Shivonne Gates",
+				"screen_name": "ShivGates",
+				"location": "London",
+				"description": "Senior Researcher @natcen in the Children and Families team. Researching race and ethnicity, linguistics, and education.",
+				"url": "https://t.co/sbqVY76bFc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sbqVY76bFc",
+								"expanded_url": "https://sites.google.com/view/smgates/",
+								"display_url": "sites.google.com/view/smgates/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 805,
+				"friends_count": 894,
+				"listed_count": 13,
+				"created_at": "Thu Nov 01 15:04:21 +0000 2012",
+				"favourites_count": 2825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 776,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826481044685717506/CefrRFcq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826481044685717506/CefrRFcq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919187376/1394904548",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is unacceptable. I now know the names of three Black linguists in the *whole* of the UK, only ONE (1) of whom is currently in academia. This means UKHE is so unwelcoming (=racist) that our Black students can't (or WON'T) stay. This needs to change. Now. #ShutDownAcademia https://t.co/M2IyPwdh9U"
+	},
+	{
+		"created_at": "Wed Jun 10 18:32:56 +0000 2020",
+		"id": 1270782470049366000,
+		"id_str": "1270786039897042945",
+		"full_text": "A reminder that Jeremy Corbyn called for the govt's scientific advice to be published 2 weeks before lockdown was introduced. If published, that advice would have contradicted the govt's strategy. \n\nCorbyn was our Jacinda Ardern. The establishment chose our Donald Trump. https://t.co/eL6567r8ne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eL6567r8ne",
+					"expanded_url": "https://twitter.com/Laura_K_Hughes/status/1270734907015409667",
+					"display_url": "twitter.com/Laura_K_Hughes…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4203239195,
+			"id_str": "4203239195",
+			"name": "Frank Owen's Legendary Paintbrush",
+			"screen_name": "WarmongerHodges",
+			"location": "",
+			"description": "\"Frank became frustrated with his colleagues... who seemed to be at once contented and dissatisfied with their role in the world.\" ~ Tony Benn",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30565,
+			"friends_count": 3071,
+			"listed_count": 134,
+			"created_at": "Mon Nov 16 17:03:41 +0000 2015",
+			"favourites_count": 55214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246942357473447941/MeBheUia_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246942357473447941/MeBheUia_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4203239195/1586129208",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270734907015409700,
+		"quoted_status_id_str": "1270734907015409667",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eL6567r8ne",
+			"expanded": "https://twitter.com/Laura_K_Hughes/status/1270734907015409667",
+			"display": "twitter.com/Laura_K_Hughes…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 15:09:45 +0000 2020",
+			"id": 1270734907015409700,
+			"id_str": "1270734907015409667",
+			"full_text": "This is a real moment. Professor Neil Ferguson: \n\n\"The epidemic was doubling every three to four days before lockdown interventions were introduced. So had we introduced lockdown measures a week earlier, we would have then reduced the final death toll by at least a half.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1181771305,
+				"id_str": "1181771305",
+				"name": "Laura Hughes",
+				"screen_name": "Laura_K_Hughes",
+				"location": "Westminster, London ",
+				"description": "Political & Diplomatic Correspondent, Financial Times. Stern Fellow, Washington Post, 2019. laura.hughes@ft.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20751,
+				"friends_count": 2968,
+				"listed_count": 485,
+				"created_at": "Fri Feb 15 09:36:47 +0000 2013",
+				"favourites_count": 4485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6560,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1222925972510576640/wuG87wuR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222925972510576640/wuG87wuR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1181771305/1529097830",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9279,
+			"favorite_count": 23294,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 447,
+		"favorite_count": 861,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A reminder that Jeremy Corbyn called for the govt's scientific advice to be published 2 weeks before lockdown was introduced. If published, that advice would have contradicted the govt's strategy. \n\nCorbyn was our Jacinda Ardern. The establishment chose our Donald Trump. https://t.co/eL6567r8ne"
+	},
+	{
+		"created_at": "Wed Jun 10 12:03:07 +0000 2020",
+		"id": 1270687940855967700,
+		"id_str": "1270687940855967747",
+		"full_text": "@JennyLewinJones @RichardSmithELT there is an interesting positive mirror to \"i can't breathe\" - \"you about to lose your job\"",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "RichardSmithELT",
+					"name": "Richard Smith",
+					"id": 2381084346,
+					"id_str": "2381084346",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270635493206737000,
+		"in_reply_to_status_id_str": "1270635493206736897",
+		"in_reply_to_user_id": 1484808264,
+		"in_reply_to_user_id_str": "1484808264",
+		"in_reply_to_screen_name": "JennyLewinJones",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1361,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JennyLewinJones @RichardSmithELT there is an interesting positive mirror to \"i can't breathe\" - \"you about to lose your job\""
+	},
+	{
+		"created_at": "Wed Jun 10 11:11:25 +0000 2020",
+		"id": 1270448283937378300,
+		"id_str": "1270674927692263424",
+		"full_text": "Mouloud Achour se rêve journaliste mais un sous-Michel Drucker, ni plus ni moins.\nComment il peut laisser ces larmes de crocodile se déverser sur le plateau sans objecter qu'elle était au cabinet de Nicolas Sarkozy QUI A MENTI en disant que Zyed et Bouna étaient des délinquants ? https://t.co/D6qb160eJr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D6qb160eJr",
+					"expanded_url": "https://twitter.com/cliquetv/status/1270425992386011144",
+					"display_url": "twitter.com/cliquetv/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788159682,
+			"id_str": "788159682",
+			"name": "Le Carthaginois",
+			"screen_name": "Le_Carthaginois",
+			"location": "De l'autre côté d'Internet",
+			"description": "« Le mytho raconte des choses qu’il invente. Moi, je raconte des choses qui ont failli m’arriver ! » - Pierre Bénichou\n¯\\_(ツ)_/¯",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 720,
+			"friends_count": 86,
+			"listed_count": 17,
+			"created_at": "Wed Aug 29 00:23:24 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3754017185/17d37a0853c9f76f183c34a56e5747fd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3754017185/17d37a0853c9f76f183c34a56e5747fd_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788159682/1377694464",
+			"profile_link_color": "046380",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270425992386011100,
+		"quoted_status_id_str": "1270425992386011144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D6qb160eJr",
+			"expanded": "https://twitter.com/cliquetv/status/1270425992386011144",
+			"display": "twitter.com/cliquetv/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 18:42:14 +0000 2020",
+			"id": 1270425992386011100,
+			"id_str": "1270425992386011144",
+			"full_text": "\"Quand j’ai vu les parents de Zyed Benna et Bouna Traoré, j’ai vu les miens. J’ai vécu tellement de choses. Je ne suis pas une victime.\"\n\nL'ancienne Garde des Sceaux @datirachida émue aux larmes sur le plateau de #CLIQUE. https://t.co/tItkk5NgU6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CLIQUE",
+						"indices": [
+							213,
+							220
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "datirachida",
+						"name": "Rachida Dati ن",
+						"id": 272401679,
+						"id_str": "272401679",
+						"indices": [
+							166,
+							178
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270425436632363000,
+						"id_str": "1270425436632363017",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/EaF1tBWWkAAt9JW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaF1tBWWkAAt9JW.jpg",
+						"url": "https://t.co/tItkk5NgU6",
+						"display_url": "pic.twitter.com/tItkk5NgU6",
+						"expanded_url": "https://twitter.com/cliquetv/status/1270425992386011144/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270425436632363000,
+						"id_str": "1270425436632363017",
+						"indices": [
+							222,
+							245
+						],
+						"media_url": "http://pbs.twimg.com/media/EaF1tBWWkAAt9JW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaF1tBWWkAAt9JW.jpg",
+						"url": "https://t.co/tItkk5NgU6",
+						"display_url": "pic.twitter.com/tItkk5NgU6",
+						"expanded_url": "https://twitter.com/cliquetv/status/1270425992386011144/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 328920,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1270425436632363017/vid/480x270/wPiHr_PcvvHw-Wkj.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1270425436632363017/vid/640x360/79oTqLKNi7bU2aQ0.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1270425436632363017/pl/QHyIEg4iMbT0I98h.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1270425436632363017/vid/1280x720/E7xZXIRhZIS1xzon.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://www.mycanal.fr/live/?channel=601"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26214858,
+				"id_str": "26214858",
+				"name": "CLIQUE, 20h25 en clair sur C+",
+				"screen_name": "cliquetv",
+				"location": "France",
+				"description": "#CLIQUE tous les soirs à 20h25 en clair sur @canalplus avec Mouloud Achour & toutes les équipes de @cliquetv",
+				"url": "https://t.co/13C82hgbth",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/13C82hgbth",
+								"expanded_url": "http://can.al/clique",
+								"display_url": "can.al/clique",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 944234,
+				"friends_count": 2,
+				"listed_count": 1893,
+				"created_at": "Tue Mar 24 11:02:01 +0000 2009",
+				"favourites_count": 15731,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57635,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1251494279501021184/zZi5PwqS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251494279501021184/zZi5PwqS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26214858/1587239606",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "375B69",
+				"profile_text_color": "6E7DFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1165,
+			"favorite_count": 2495,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 751,
+		"favorite_count": 1250,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Mouloud Achour se rêve journaliste mais un sous-Michel Drucker, ni plus ni moins.\nComment il peut laisser ces larmes de crocodile se déverser sur le plateau sans objecter qu'elle était au cabinet de Nicolas Sarkozy QUI A MENTI en disant que Zyed et Bouna étaient des délinquants ? https://t.co/D6qb160eJr"
+	},
+	{
+		"created_at": "Wed Jun 10 10:54:00 +0000 2020",
+		"id": 1270623055325298700,
+		"id_str": "1270670544925609984",
+		"full_text": "In 2011 Keir Starmer ran all night courts as Director of Public Prosecutions to maximise the number of people prosecuted after the London riots. https://t.co/Koms7x7uIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Koms7x7uIQ",
+					"expanded_url": "https://twitter.com/Keir_Starmer/status/1270374388488167428",
+					"display_url": "twitter.com/Keir_Starmer/s…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "Petrograd",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/xiOWJ610Vk",
+			"url": "https://t.co/NisDMEzbCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NisDMEzbCY",
+							"expanded_url": "http://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xiOWJ610Vk",
+							"expanded_url": "https://www.patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 49834,
+			"friends_count": 2680,
+			"listed_count": 698,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 16719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1587570116",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270374388488167400,
+		"quoted_status_id_str": "1270374388488167428",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Koms7x7uIQ",
+			"expanded": "https://twitter.com/Keir_Starmer/status/1270374388488167428",
+			"display": "twitter.com/Keir_Starmer/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 15:17:11 +0000 2020",
+			"id": 1270374388488167400,
+			"id_str": "1270374388488167428",
+			"full_text": "We kneel with all those opposing anti-Black racism. #BlackLivesMatter https://t.co/ZvjBndwqKk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackLivesMatter",
+						"indices": [
+							52,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270374336113885200,
+						"id_str": "1270374336113885189",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EaFGulvXQAU3ICd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaFGulvXQAU3ICd.jpg",
+						"url": "https://t.co/ZvjBndwqKk",
+						"display_url": "pic.twitter.com/ZvjBndwqKk",
+						"expanded_url": "https://twitter.com/Keir_Starmer/status/1270374388488167428/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1066,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270374336113885200,
+						"id_str": "1270374336113885189",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/EaFGulvXQAU3ICd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaFGulvXQAU3ICd.jpg",
+						"url": "https://t.co/ZvjBndwqKk",
+						"display_url": "pic.twitter.com/ZvjBndwqKk",
+						"expanded_url": "https://twitter.com/Keir_Starmer/status/1270374388488167428/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1066,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2425571623,
+				"id_str": "2425571623",
+				"name": "Keir Starmer",
+				"screen_name": "Keir_Starmer",
+				"location": "London",
+				"description": "Leader of the Labour Party. Member of Parliament for Holborn and St Pancras. Former Director of Public Prosecutions.",
+				"url": "https://t.co/C4VpU6xihW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C4VpU6xihW",
+								"expanded_url": "http://www.keirstarmer.com",
+								"display_url": "keirstarmer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 863142,
+				"friends_count": 413,
+				"listed_count": 2133,
+				"created_at": "Thu Apr 03 12:37:30 +0000 2014",
+				"favourites_count": 136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203059005645578240/V_FbjqL1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203059005645578240/V_FbjqL1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425571623/1572905494",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4146,
+			"favorite_count": 43538,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4469,
+		"favorite_count": 16625,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2011 Keir Starmer ran all night courts as Director of Public Prosecutions to maximise the number of people prosecuted after the London riots. https://t.co/Koms7x7uIQ"
+	},
+	{
+		"created_at": "Wed Jun 10 10:53:25 +0000 2020",
+		"id": 1270668221008482300,
+		"id_str": "1270670397307060225",
+		"full_text": "Assa Traoré vous donne RDV samedi 13 juin 14h30 pour une marche nationale au départ de République. VERITE &amp; JUSTICE \nNous sommes au début du combat, ne lâchons rien! \nÉvénement FB à partager:https://t.co/GwVH14SejO https://t.co/lrevUN9v8H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GwVH14SejO",
+					"expanded_url": "https://facebook.com/events/s/mobilisation-nationale-verite-/265954444710791/?ti=as",
+					"display_url": "facebook.com/events/s/mobil…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270668016326520800,
+					"id_str": "1270668016326520833",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270668016326520833/pu/img/q5IPQpj8zI1DeRWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270668016326520833/pu/img/q5IPQpj8zI1DeRWn.jpg",
+					"url": "https://t.co/lrevUN9v8H",
+					"display_url": "pic.twitter.com/lrevUN9v8H",
+					"expanded_url": "https://twitter.com/laveritepradama/status/1270668221008482307/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 432,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270668016326520800,
+					"id_str": "1270668016326520833",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270668016326520833/pu/img/q5IPQpj8zI1DeRWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270668016326520833/pu/img/q5IPQpj8zI1DeRWn.jpg",
+					"url": "https://t.co/lrevUN9v8H",
+					"display_url": "pic.twitter.com/lrevUN9v8H",
+					"expanded_url": "https://twitter.com/laveritepradama/status/1270668221008482307/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 432,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 432,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							27,
+							53
+						],
+						"duration_millis": 47070,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270668016326520833/pu/vid/432x848/izu4HGlAwvlMSsp6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1270668016326520833/pu/pl/yK1qFaynzkXthaoO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1270668016326520833/pu/vid/320x628/DkZ9MjH44zX9hUX2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783710695716159500,
+			"id_str": "783710695716159489",
+			"name": "La Vérité Pour Adama",
+			"screen_name": "laveritepradama",
+			"location": "Beaumont-sur-Oise, France",
+			"description": "Soutenir la famille Traoré👉https://t.co/09LuUpUBxs #JusticePourAdama #JeSuisAdama #AdamaTraore #JeSoutiensLaFamilleTraoré https://t.co/VxEvoy2pmI",
+			"url": "https://t.co/wKzIEmpPCt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wKzIEmpPCt",
+							"expanded_url": "https://m.facebook.com/La-vérité-pour-Adama-160752057668634/",
+							"display_url": "m.facebook.com/La-vérité-pour…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/09LuUpUBxs",
+							"expanded_url": "http://okpal.com/adama-traore/#/",
+							"display_url": "okpal.com/adama-traore/#/",
+							"indices": [
+								27,
+								50
+							]
+						},
+						{
+							"url": "https://t.co/VxEvoy2pmI",
+							"expanded_url": "https://youtu.be/Ec69MnqYJog",
+							"display_url": "youtu.be/Ec69MnqYJog",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44562,
+			"friends_count": 4419,
+			"listed_count": 98,
+			"created_at": "Wed Oct 05 16:49:25 +0000 2016",
+			"favourites_count": 13615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810122770470342657/_wKoTYuB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783710695716159489/1479885525",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4083,
+		"favorite_count": 4581,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Assa Traoré vous donne RDV samedi 13 juin 14h30 pour une marche nationale au départ de République. VERITE &amp; JUSTICE \nNous sommes au début du combat, ne lâchons rien! \nÉvénement FB à partager:https://t.co/GwVH14SejO https://t.co/lrevUN9v8H"
+	},
+	{
+		"created_at": "Wed Jun 10 10:51:04 +0000 2020",
+		"id": 1269097259259449300,
+		"id_str": "1270669808535830528",
+		"full_text": "The purpose for calling the police on Black people for non-crimes — for being Black — is to remind us that the consequence for making white people uncomfortable — the consequence for existing near them — is death. \n\nThis is terrorism. https://t.co/uYQ7Wr6MlD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uYQ7Wr6MlD",
+					"expanded_url": "https://twitter.com/inthenow/status/1268599677525639168",
+					"display_url": "twitter.com/inthenow/statu…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1196873512797048800,
+			"id_str": "1196873512797048832",
+			"name": "risgüey",
+			"screen_name": "risguey",
+			"location": "",
+			"description": "they/she • afro-indigenous-jew • working on dual power • writing (Cultural) Terrorist •\n\nit’s pronounced ree-gwei",
+			"url": "https://t.co/HXLHyIxGdu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HXLHyIxGdu",
+							"expanded_url": "http://projectarcadia.org",
+							"display_url": "projectarcadia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1683,
+			"friends_count": 628,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 19:31:07 +0000 2019",
+			"favourites_count": 7433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270431554368499712/G2-Cbro2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270431554368499712/G2-Cbro2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196873512797048832/1590254272",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268599677525639200,
+		"quoted_status_id_str": "1268599677525639168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uYQ7Wr6MlD",
+			"expanded": "https://twitter.com/inthenow/status/1268599677525639168",
+			"display": "twitter.com/inthenow/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 04 17:45:07 +0000 2020",
+			"id": 1268599677525639200,
+			"id_str": "1268599677525639168",
+			"full_text": "She claimed she was being 'attacked' when a black woman decided to sit and relax on a public park bench near her. https://t.co/qrTCChdWuq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1268599048128401400,
+						"id_str": "1268599048128401409",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EZr4pcRX0AAnO_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZr4pcRX0AAnO_T.jpg",
+						"url": "https://t.co/qrTCChdWuq",
+						"display_url": "pic.twitter.com/qrTCChdWuq",
+						"expanded_url": "https://twitter.com/inthenow/status/1268599677525639168/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268599048128401400,
+						"id_str": "1268599048128401409",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EZr4pcRX0AAnO_T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZr4pcRX0AAnO_T.jpg",
+						"url": "https://t.co/qrTCChdWuq",
+						"display_url": "pic.twitter.com/qrTCChdWuq",
+						"expanded_url": "https://twitter.com/inthenow/status/1268599677525639168/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 182040,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268599048128401409/vid/320x400/YtlV__erZZsOsCvB.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268599048128401409/vid/720x900/A1-sexWIF6Q72tlH.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1268599048128401409/pl/psrPzLAVeExueHyq.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1268599048128401409/vid/360x450/_FeaXd6tqlmQD_fP.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2313894266,
+				"id_str": "2313894266",
+				"name": "In the NOW",
+				"screen_name": "inthenow",
+				"location": "",
+				"description": "In your feeds 🎥 @digiday Best Media Agency 2019",
+				"url": "https://t.co/k3gV4wFP6R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k3gV4wFP6R",
+								"expanded_url": "https://www.facebook.com/inthenow/",
+								"display_url": "facebook.com/inthenow/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88917,
+				"friends_count": 147,
+				"listed_count": 916,
+				"created_at": "Mon Jan 27 16:06:27 +0000 2014",
+				"favourites_count": 156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5103,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090947026735558661/UopchgNg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090947026735558661/UopchgNg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2313894266/1548936753",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8271,
+			"favorite_count": 17140,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19760,
+		"favorite_count": 33481,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The purpose for calling the police on Black people for non-crimes — for being Black — is to remind us that the consequence for making white people uncomfortable — the consequence for existing near them — is death. \n\nThis is terrorism. https://t.co/uYQ7Wr6MlD"
+	},
+	{
+		"created_at": "Wed Jun 10 10:36:04 +0000 2020",
+		"id": 1270663050455060500,
+		"id_str": "1270666033058263041",
+		"full_text": "Nature, the world's most cited journal, has joined #ShutDownSTEM strike against anti-black racism in academia\n\nThe journal admitted it is \"one of the white institutions that is responsible for bias in research and scholarship\" #BlackLivesMatter https://t.co/rUcMrBwwec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutDownSTEM",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						227,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rUcMrBwwec",
+					"expanded_url": "https://news.yahoo.com/nature-joins-global-academic-strike-against-anti-black-101712125.html",
+					"display_url": "news.yahoo.com/nature-joins-g…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17006804,
+			"id_str": "17006804",
+			"name": "Patrick Galey #BlackLivesMatter",
+			"screen_name": "patrickgaley",
+			"location": "Paris, France",
+			"description": "Anthroposcenster. Global science and environment correspondent @AFP 🌎🌍🌏 @lcfc fan 🦊 wear an alarming amount of Lycra 🚴🏼‍♂️ Views my own",
+			"url": "https://t.co/EQw7umfq3H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EQw7umfq3H",
+							"expanded_url": "http://www.afp.com/en/home/",
+							"display_url": "afp.com/en/home/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20042,
+			"friends_count": 1489,
+			"listed_count": 830,
+			"created_at": "Mon Oct 27 20:47:23 +0000 2008",
+			"favourites_count": 4831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "404040",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254311372323766272/8H3ExBhi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254311372323766272/8H3ExBhi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17006804/1591780884",
+			"profile_link_color": "2F6D8F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nature, the world's most cited journal, has joined #ShutDownSTEM strike against anti-black racism in academia\n\nThe journal admitted it is \"one of the white institutions that is responsible for bias in research and scholarship\" #BlackLivesMatter https://t.co/rUcMrBwwec"
+	},
+	{
+		"created_at": "Wed Jun 10 08:54:58 +0000 2020",
+		"id": 1270540430451433500,
+		"id_str": "1270640588086534150",
+		"full_text": "@lauraahaha It's rubbish, isn't it? All small businesses I worked for paid early/on time. Anywhere bigger that I invoiced was a pain to get money from on time. Thankfully I had other waged jobs. #FreelanceIsntFree",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreelanceIsntFree",
+					"indices": [
+						195,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauraahaha",
+					"name": "Laura Patsko",
+					"id": 97957137,
+					"id_str": "97957137",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1270455267826827300,
+		"in_reply_to_status_id_str": "1270455267826827268",
+		"in_reply_to_user_id": 97957137,
+		"in_reply_to_user_id_str": "97957137",
+		"in_reply_to_screen_name": "lauraahaha",
+		"user": {
+			"id": 903200845671440400,
+			"id_str": "903200845671440384",
+			"name": "Exclamation Marc",
+			"screen_name": "11thhourspecial",
+			"location": "Kawasaki, Japan",
+			"description": "English Teacher @ unis in Tokyo. ❤️ listening/pronunciation/phonology/TBLT. #ADHD, misanthropy, leftist, ate the last biscuit.",
+			"url": "https://t.co/fzYN3IGXMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fzYN3IGXMR",
+							"expanded_url": "http://getgreatenglish.com/ftsd/",
+							"display_url": "getgreatenglish.com/ftsd/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1634,
+			"friends_count": 1112,
+			"listed_count": 15,
+			"created_at": "Thu Aug 31 10:20:37 +0000 2017",
+			"favourites_count": 9055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/903200845671440384/1533999204",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@lauraahaha It's rubbish, isn't it? All small businesses I worked for paid early/on time. Anywhere bigger that I invoiced was a pain to get money from on time. Thankfully I had other waged jobs. #FreelanceIsntFree"
+	},
+	{
 		"created_at": "Tue Jun 09 22:43:06 +0000 2020",
 		"id": 1270413142825341000,
 		"id_str": "1270486605900460035",
