@@ -1,6 +1,1666 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 19:33:01 +0000 2020",
+		"id": 1271480035485024300,
+		"id_str": "1271525936471642115",
+		"full_text": "Just stop what you're doing and check out Black Boris\n\nhttps://t.co/lTXfBsLaoz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271432785232834600,
+					"id_str": "1271432785232834561",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271432785232834561/pu/img/deVl3oUr2em0YIhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271432785232834561/pu/img/deVl3oUr2em0YIhO.jpg",
+					"url": "https://t.co/lTXfBsLaoz",
+					"display_url": "pic.twitter.com/lTXfBsLaoz",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1271432921891647488/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 856,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 856,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1271432921891647500,
+					"source_status_id_str": "1271432921891647488",
+					"source_user_id": 289377954,
+					"source_user_id_str": "289377954"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271432785232834600,
+					"id_str": "1271432785232834561",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271432785232834561/pu/img/deVl3oUr2em0YIhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271432785232834561/pu/img/deVl3oUr2em0YIhO.jpg",
+					"url": "https://t.co/lTXfBsLaoz",
+					"display_url": "pic.twitter.com/lTXfBsLaoz",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1271432921891647488/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 856,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 856,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 381,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1271432921891647500,
+					"source_status_id_str": "1271432921891647488",
+					"source_user_id": 289377954,
+					"source_user_id_str": "289377954",
+					"video_info": {
+						"aspect_ratio": [
+							60,
+							107
+						],
+						"duration_millis": 139847,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1271432785232834561/pu/pl/hdNt1qn5HhGnli1w.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271432785232834561/pu/vid/320x570/htd7hP106Lczt1nT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271432785232834561/pu/vid/480x856/ooNnrw_0-Z9XRdax.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271432785232834561/pu/vid/360x642/WR3o_EDPmQ4wAl0E.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 289377954,
+							"id_str": "289377954",
+							"name": "Black Boris",
+							"screen_name": "Angelo3000k",
+							"location": "A man without a country",
+							"description": "Black Guy in a Box \nBlack Unicorn (on hiatus) \nWriter\nTheatre Critic @ hotpotatohull\nCoach\nResearcher\nCurator",
+							"url": "https://t.co/didJsU5cXX",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/didJsU5cXX",
+											"expanded_url": "https://m.soundcloud.com/blackguysinabox",
+											"display_url": "m.soundcloud.com/blackguysinabox",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5385,
+							"friends_count": 475,
+							"listed_count": 14,
+							"created_at": "Thu Apr 28 14:57:24 +0000 2011",
+							"favourites_count": 3096,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 4887,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/289377954/1590340275",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254706272,
+			"id_str": "254706272",
+			"name": "Another Angry Voice",
+			"screen_name": "Angry_Voice",
+			"location": "UK",
+			"description": "Independent left-wing writer since 2010. \nDMs open for commissions.",
+			"url": "http://t.co/InGd1J6I6k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/InGd1J6I6k",
+							"expanded_url": "http://anotherangryvoice.blogspot.com/",
+							"display_url": "anotherangryvoice.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33706,
+			"friends_count": 3227,
+			"listed_count": 260,
+			"created_at": "Sat Feb 19 20:52:22 +0000 2011",
+			"favourites_count": 4576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042766785408380928/b2NTSK4h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042766785408380928/b2NTSK4h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254706272/1588018770",
+			"profile_link_color": "C35817",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 256,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just stop what you're doing and check out Black Boris\n\nhttps://t.co/lTXfBsLaoz"
+	},
+	{
+		"created_at": "Fri Jun 12 18:16:21 +0000 2020",
+		"id": 1271499914967728000,
+		"id_str": "1271506642115465221",
+		"full_text": "Have a guess which box Johnson &amp; the right wing wind bags are most concerned about......? \n#GrenfellTower \n#BlackLivesMatterUK https://t.co/PDkcVFikat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GrenfellTower",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"text": "BlackLivesMatterUK",
+					"indices": [
+						111,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271499898148569000,
+					"id_str": "1271499898148569089",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EaVGa7EXQAECfFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaVGa7EXQAECfFS.jpg",
+					"url": "https://t.co/PDkcVFikat",
+					"display_url": "pic.twitter.com/PDkcVFikat",
+					"expanded_url": "https://twitter.com/mac123_m/status/1271499914967728128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271499898148569000,
+					"id_str": "1271499898148569089",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EaVGa7EXQAECfFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaVGa7EXQAECfFS.jpg",
+					"url": "https://t.co/PDkcVFikat",
+					"display_url": "pic.twitter.com/PDkcVFikat",
+					"expanded_url": "https://twitter.com/mac123_m/status/1271499914967728128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271499905081716700,
+					"id_str": "1271499905081716738",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EaVGbU5WsAIEEo7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaVGbU5WsAIEEo7.jpg",
+					"url": "https://t.co/PDkcVFikat",
+					"display_url": "pic.twitter.com/PDkcVFikat",
+					"expanded_url": "https://twitter.com/mac123_m/status/1271499914967728128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1180,
+							"h": 663,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2288515068,
+			"id_str": "2288515068",
+			"name": "Bevan Boy🌹",
+			"screen_name": "mac123_m",
+			"location": "City Ground",
+			"description": "Nottingham Forest fan. Want to see the back of the Tories & put LAB into government.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31437,
+			"friends_count": 12832,
+			"listed_count": 87,
+			"created_at": "Sun Jan 12 18:28:08 +0000 2014",
+			"favourites_count": 107237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954525260795338752/W2wEuwZ-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954525260795338752/W2wEuwZ-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2288515068/1516411734",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 421,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have a guess which box Johnson &amp; the right wing wind bags are most concerned about......? \n#GrenfellTower \n#BlackLivesMatterUK https://t.co/PDkcVFikat"
+	},
+	{
+		"created_at": "Fri Jun 12 16:21:12 +0000 2020",
+		"id": 1271095337667747800,
+		"id_str": "1271477662666686464",
+		"full_text": "It’s so heartbreaking to know that Breonna Taylors’ mother was told by the police that her baby was at the hospital when she was actually still in her room dead.  Her mother said she was waiting at the hospital for two hours!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1025082542553215000,
+			"id_str": "1025082542553214978",
+			"name": "ALICIA",
+			"screen_name": "AliciaDrayton_",
+			"location": "Brooklyn, NY",
+			"description": "Use to go by Mudi.. Singer/Songwriter IG:aliciadrayton_ MGMT @localhunni aliciad.bookings@gmail.com",
+			"url": "https://t.co/CnyTsBDB7k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CnyTsBDB7k",
+							"expanded_url": "https://distrokid.com/hyperfollow/aliciadrayton/til-dawn",
+							"display_url": "distrokid.com/hyperfollow/al…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2425,
+			"friends_count": 970,
+			"listed_count": 3,
+			"created_at": "Thu Aug 02 18:14:58 +0000 2018",
+			"favourites_count": 25744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271212362805231619/D14v_GXs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271212362805231619/D14v_GXs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1025082542553214978/1591915790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74511,
+		"favorite_count": 231855,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It’s so heartbreaking to know that Breonna Taylors’ mother was told by the police that her baby was at the hospital when she was actually still in her room dead.  Her mother said she was waiting at the hospital for two hours!"
+	},
+	{
+		"created_at": "Fri Jun 12 16:17:14 +0000 2020",
+		"id": 1271475527853969400,
+		"id_str": "1271476663969292288",
+		"full_text": "\"In a democracy, the right to counter-demonstrate cannot extend to inhibiting the exercise of the right to demonstrate... It is thus the duty of Contracting States to take reasonable and appropriate measures to enable\nlawful demonstrations to proceed peacefully\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271475526310547500,
+		"in_reply_to_status_id_str": "1271475526310547459",
+		"in_reply_to_user_id": 127226173,
+		"in_reply_to_user_id_str": "127226173",
+		"in_reply_to_screen_name": "netpol",
+		"user": {
+			"id": 127226173,
+			"id_str": "127226173",
+			"name": "Netpol",
+			"screen_name": "netpol",
+			"location": "United Kingdom",
+			"description": "The Network for Police Monitoring is a coalition monitoring and resisting excessive, intimidating or violent policing.  PGP Public Key: B5DF02067D4F07A9",
+			"url": "https://t.co/2iv0TXq7zW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2iv0TXq7zW",
+							"expanded_url": "http://www.netpol.org",
+							"display_url": "netpol.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19377,
+			"friends_count": 1069,
+			"listed_count": 266,
+			"created_at": "Sun Mar 28 14:06:47 +0000 2010",
+			"favourites_count": 1140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2D668C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466157534877716480/gIifv3_c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466157534877716480/gIifv3_c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127226173/1591356722",
+			"profile_link_color": "2D668C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"In a democracy, the right to counter-demonstrate cannot extend to inhibiting the exercise of the right to demonstrate... It is thus the duty of Contracting States to take reasonable and appropriate measures to enable\nlawful demonstrations to proceed peacefully\""
+	},
+	{
+		"created_at": "Fri Jun 12 15:06:42 +0000 2020",
+		"id": 1271380726160797700,
+		"id_str": "1271458915331563522",
+		"full_text": "How to cause division and distract from an argument: A step by step guide (THREAD)\n1) An idiot makes a mistake- UKTV take an episode of Fawlty Towers down as a knee jerk reaction rather than actually thinking. Colonial past, slavery, racism in policing- not Basil Fawlty https://t.co/QyVKv2U0wP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271380722037686300,
+					"id_str": "1271380722037686272",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTaB9dWAAAIVUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTaB9dWAAAIVUh.jpg",
+					"url": "https://t.co/QyVKv2U0wP",
+					"display_url": "pic.twitter.com/QyVKv2U0wP",
+					"expanded_url": "https://twitter.com/PaulDuncanMcG/status/1271380726160797697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271380722037686300,
+					"id_str": "1271380722037686272",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EaTaB9dWAAAIVUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaTaB9dWAAAIVUh.jpg",
+					"url": "https://t.co/QyVKv2U0wP",
+					"display_url": "pic.twitter.com/QyVKv2U0wP",
+					"expanded_url": "https://twitter.com/PaulDuncanMcG/status/1271380726160797697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64483408,
+			"id_str": "64483408",
+			"name": "Paul D McGarrity",
+			"screen_name": "PaulDuncanMcG",
+			"location": "London",
+			"description": "Archaeology is rubbish. press@paulduncanmcgarrity.co.uk Ask an Archaeologist podcast @Askanarch. https://t.co/wMAdxwKbKW",
+			"url": "https://t.co/uMTQM44hG3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uMTQM44hG3",
+							"expanded_url": "http://www.paulduncanmcgarrity.co.uk",
+							"display_url": "paulduncanmcgarrity.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wMAdxwKbKW",
+							"expanded_url": "https://ko-fi.com/paulduncanmcgarrity",
+							"display_url": "ko-fi.com/paulduncanmcga…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2294,
+			"friends_count": 1003,
+			"listed_count": 35,
+			"created_at": "Mon Aug 10 19:03:11 +0000 2009",
+			"favourites_count": 3615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268076490710749185/NfXSi7B7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268076490710749185/NfXSi7B7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64483408/1573731008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2230,
+		"favorite_count": 4047,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "How to cause division and distract from an argument: A step by step guide (THREAD)\n1) An idiot makes a mistake- UKTV take an episode of Fawlty Towers down as a knee jerk reaction rather than actually thinking. Colonial past, slavery, racism in policing- not Basil Fawlty https://t.co/QyVKv2U0wP"
+	},
+	{
+		"created_at": "Fri Jun 12 15:00:54 +0000 2020",
+		"id": 1271457455831122000,
+		"id_str": "1271457455831121921",
+		"full_text": "@logologue @tonythorne007 @MisterSlang @KateTranslate articles also doing some work here - smoke the ham, smoke a ham, smoke ham : )",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "logologue",
+					"name": "Simon Hamilton",
+					"id": 993040273428148200,
+					"id_str": "993040273428148224",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "MisterSlang",
+					"name": "Jonathon Green",
+					"id": 149184618,
+					"id_str": "149184618",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "KateTranslate",
+					"name": "Kate LeBlanc",
+					"id": 3908210435,
+					"id_str": "3908210435",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271450860120420400,
+		"in_reply_to_status_id_str": "1271450860120420352",
+		"in_reply_to_user_id": 993040273428148200,
+		"in_reply_to_user_id_str": "993040273428148224",
+		"in_reply_to_screen_name": "logologue",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@logologue @tonythorne007 @MisterSlang @KateTranslate articles also doing some work here - smoke the ham, smoke a ham, smoke ham : )"
+	},
+	{
+		"created_at": "Fri Jun 12 11:57:40 +0000 2020",
+		"id": 1271411341681725400,
+		"id_str": "1271411341681725440",
+		"full_text": "@tonythorne007 urban dictionary has HAM as an acronym, and would make sense for \"KD smoke hard as a mothef**ker, till he stuck in the sky\"",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271409677620912000,
+		"in_reply_to_status_id_str": "1271409677620912128",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tonythorne007 urban dictionary has HAM as an acronym, and would make sense for \"KD smoke hard as a mothef**ker, till he stuck in the sky\""
+	},
+	{
+		"created_at": "Fri Jun 12 11:51:03 +0000 2020",
+		"id": 1271409677620912000,
+		"id_str": "1271409677620912128",
+		"full_text": "@tonythorne007 \"smoke the ham\" or \"smoke ham\"?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271405758907920400,
+		"in_reply_to_status_id_str": "1271405758907920384",
+		"in_reply_to_user_id": 762192800,
+		"in_reply_to_user_id_str": "762192800",
+		"in_reply_to_screen_name": "tonythorne007",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tonythorne007 \"smoke the ham\" or \"smoke ham\"?"
+	},
+	{
+		"created_at": "Fri Jun 12 11:33:17 +0000 2020",
+		"id": 1271405205888868400,
+		"id_str": "1271405205888868353",
+		"full_text": "@tonythorne007 @KateTranslate ham - pig - police?",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tonythorne007",
+					"name": "Tony Thorne",
+					"id": 762192800,
+					"id_str": "762192800",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KateTranslate",
+					"name": "Kate LeBlanc",
+					"id": 3908210435,
+					"id_str": "3908210435",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271404381162942500,
+		"in_reply_to_status_id_str": "1271404381162942464",
+		"in_reply_to_user_id": 762192800,
+		"in_reply_to_user_id_str": "762192800",
+		"in_reply_to_screen_name": "tonythorne007",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tonythorne007 @KateTranslate ham - pig - police?"
+	},
+	{
+		"created_at": "Fri Jun 12 11:05:33 +0000 2020",
+		"id": 1271398227733098500,
+		"id_str": "1271398227733098496",
+		"full_text": "@marcjonestyo @Shan__Mason mm citation gecko looks neat, thx",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcjonestyo",
+					"name": "marcjonestyo",
+					"id": 1014494170839306200,
+					"id_str": "1014494170839306240",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Shan__Mason",
+					"name": "Shannon Mason (Shan)",
+					"id": 1554499862,
+					"id_str": "1554499862",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271395683707183000,
+		"in_reply_to_status_id_str": "1271395683707183105",
+		"in_reply_to_user_id": 1014494170839306200,
+		"in_reply_to_user_id_str": "1014494170839306240",
+		"in_reply_to_screen_name": "marcjonestyo",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marcjonestyo @Shan__Mason mm citation gecko looks neat, thx"
+	},
+	{
+		"created_at": "Fri Jun 12 10:47:22 +0000 2020",
+		"id": 1271393650061258800,
+		"id_str": "1271393650061258754",
+		"full_text": "@DocDre hi my pleasure : )",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DocDre",
+					"name": "thot leedurr",
+					"id": 14118112,
+					"id_str": "14118112",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271337545486536700,
+		"in_reply_to_status_id_str": "1271337545486536710",
+		"in_reply_to_user_id": 14118112,
+		"in_reply_to_user_id_str": "14118112",
+		"in_reply_to_screen_name": "DocDre",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1938,
+			"friends_count": 1375,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DocDre hi my pleasure : )"
+	},
+	{
 		"created_at": "Thu Jun 11 19:42:18 +0000 2020",
 		"id": 1271095045224050700,
 		"id_str": "1271165884137119744",
@@ -1730,7 +3390,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "JPB Gerald",
 			"screen_name": "JPBGerald",
 			"location": "NYC",
-			"description": "EdD student and adult educator. Language/race/whiteness scholar. Podcaster (@UnstandardizedE). Husband, dad, dog owner, runner. he/him. 🤛🏿👨🏿‍🎓",
+			"description": "EdD student and adult educator. Language/race/whiteness scholar. Podcaster (@UnstandardizedE). Husband, dad, dog owner, runner. he/him. 🤛🏿👨🏿🎓",
 			"url": "https://t.co/S1BWHTMWXg",
 			"entities": {
 				"url": {
