@@ -1,6 +1,1264 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 19:47:55 +0000 2020",
+		"id": 1271891040073470000,
+		"id_str": "1271892071679475712",
+		"full_text": "Like, I didn’t know I needed this\n\n https://t.co/J1blQKPtMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271886097014898700,
+					"id_str": "1271886097014898688",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271886097014898688/pu/img/L5XYQ4kCGo_Lz0uT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271886097014898688/pu/img/L5XYQ4kCGo_Lz0uT.jpg",
+					"url": "https://t.co/J1blQKPtMB",
+					"display_url": "pic.twitter.com/J1blQKPtMB",
+					"expanded_url": "https://twitter.com/GNCordova/status/1271886221443133440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1271886221443133400,
+					"source_status_id_str": "1271886221443133440",
+					"source_user_id": 316930595,
+					"source_user_id_str": "316930595"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271886097014898700,
+					"id_str": "1271886097014898688",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271886097014898688/pu/img/L5XYQ4kCGo_Lz0uT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271886097014898688/pu/img/L5XYQ4kCGo_Lz0uT.jpg",
+					"url": "https://t.co/J1blQKPtMB",
+					"display_url": "pic.twitter.com/J1blQKPtMB",
+					"expanded_url": "https://twitter.com/GNCordova/status/1271886221443133440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1271886221443133400,
+					"source_status_id_str": "1271886221443133440",
+					"source_user_id": 316930595,
+					"source_user_id_str": "316930595",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271886097014898688/pu/vid/480x480/te3cNGlcxz9R-xJ7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1271886097014898688/pu/pl/gIz6xsvRsoZjHHsf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271886097014898688/pu/vid/720x720/IqAReNyOuOV2Kxe5.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271886097014898688/pu/vid/320x320/yh1h1-Y4Oz4yriWS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 316930595,
+							"id_str": "316930595",
+							"name": "Gennette Cordova",
+							"screen_name": "GNCordova",
+							"location": "Between SEA & BK",
+							"description": "Probably tweeting when I owe you an email. Social justice team @revolttv. Grant writer @lorrainehouseny.",
+							"url": "https://t.co/gPVB3pauTC",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/gPVB3pauTC",
+											"expanded_url": "https://www.revolt.tv/2020/6/2/21278508/white-rioters-looters-protests-review",
+											"display_url": "revolt.tv/2020/6/2/21278…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 10606,
+							"friends_count": 1042,
+							"listed_count": 93,
+							"created_at": "Tue Jun 14 05:21:33 +0000 2011",
+							"favourites_count": 35942,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 33308,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1266237044482732034/GFaQIvI9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266237044482732034/GFaQIvI9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/316930595/1522261383",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1271889581160292400,
+		"in_reply_to_status_id_str": "1271889581160292354",
+		"in_reply_to_user_id": 2968635633,
+		"in_reply_to_user_id_str": "2968635633",
+		"in_reply_to_screen_name": "ztsamudzi",
+		"user": {
+			"id": 2968635633,
+			"id_str": "2968635633",
+			"name": "Zoé",
+			"screen_name": "ztsamudzi",
+			"location": "",
+			"description": "she/her, mwana wevhu, fallist | writer, medical sociology PhD at @UCSF, research fellow at @PRAEyesRight",
+			"url": "https://t.co/1urMbkJ5Bi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1urMbkJ5Bi",
+							"expanded_url": "http://zoesamudzi.com",
+							"display_url": "zoesamudzi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99118,
+			"friends_count": 5453,
+			"listed_count": 678,
+			"created_at": "Thu Jan 08 22:04:09 +0000 2015",
+			"favourites_count": 57433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 131599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267504043095724035/ESDolbLK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267504043095724035/ESDolbLK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2968635633/1591031492",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 1098,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like, I didn’t know I needed this\n\n https://t.co/J1blQKPtMB"
+	},
+	{
+		"created_at": "Sat Jun 13 15:49:42 +0000 2020",
+		"id": 1271581194602180600,
+		"id_str": "1271832124354674688",
+		"full_text": "Gil Scott-Heron explaining what he meant when he said “The revolution will not be televised” https://t.co/t9xTwXqnYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271581104219123700,
+					"id_str": "1271581104219123712",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271581104219123712/pu/img/A8MLew7DnniqChtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271581104219123712/pu/img/A8MLew7DnniqChtT.jpg",
+					"url": "https://t.co/t9xTwXqnYL",
+					"display_url": "pic.twitter.com/t9xTwXqnYL",
+					"expanded_url": "https://twitter.com/ToriNicksWho/status/1271581194602180608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271581104219123700,
+					"id_str": "1271581104219123712",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1271581104219123712/pu/img/A8MLew7DnniqChtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1271581104219123712/pu/img/A8MLew7DnniqChtT.jpg",
+					"url": "https://t.co/t9xTwXqnYL",
+					"display_url": "pic.twitter.com/t9xTwXqnYL",
+					"expanded_url": "https://twitter.com/ToriNicksWho/status/1271581194602180608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 734,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							367,
+							360
+						],
+						"duration_millis": 30197,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271581104219123712/pu/vid/274x270/Cb2N7lkY6mhZAV0J.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271581104219123712/pu/vid/366x360/2NfMKBByJSe6Tz-_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1271581104219123712/pu/vid/734x720/1CkGuOuF5ljh55Qz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1271581104219123712/pu/pl/QWYBoEpHNApEAb0l.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11920922,
+			"id_str": "11920922",
+			"name": "Majesty Ria",
+			"screen_name": "ToriNicksWho",
+			"location": "Bay Area x Brooklyn",
+			"description": "Adding Perspective & Sparkin Light • GENERAL #BoycottAmerikkka :: https://t.co/1FFRD4CuAq",
+			"url": "https://t.co/OGLCy47mms",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OGLCy47mms",
+							"expanded_url": "http://MindOverFlesh.com",
+							"display_url": "MindOverFlesh.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1FFRD4CuAq",
+							"expanded_url": "http://BoycottAmerikkka.com",
+							"display_url": "BoycottAmerikkka.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41166,
+			"friends_count": 920,
+			"listed_count": 219,
+			"created_at": "Sun Jan 06 23:05:19 +0000 2008",
+			"favourites_count": 90224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 224044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141019439141281792/vchMRIe0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141019439141281792/vchMRIe0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11920922/1556660393",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "050505",
+			"profile_text_color": "916969",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21390,
+		"favorite_count": 39640,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gil Scott-Heron explaining what he meant when he said “The revolution will not be televised” https://t.co/t9xTwXqnYL"
+	},
+	{
+		"created_at": "Sat Jun 13 12:35:53 +0000 2020",
+		"id": 1271783348789264400,
+		"id_str": "1271783348789264384",
+		"full_text": "Exclusive: Black bank manager to sue Metropolitan Police for racial discrimination after 26-month nightmare https://t.co/Qu19Yn6sRU via @jackielongc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackieLongc4",
+					"name": "Jackie Long",
+					"id": 507842904,
+					"id_str": "507842904",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qu19Yn6sRU",
+					"expanded_url": "https://www.channel4.com/news/exclusive-black-bank-manager-to-sue-metropolitan-police-for-racial-discrimination-after-26-month-nightmare",
+					"display_url": "channel4.com/news/exclusive…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 1377,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exclusive: Black bank manager to sue Metropolitan Police for racial discrimination after 26-month nightmare https://t.co/Qu19Yn6sRU via @jackielongc4"
+	},
+	{
+		"created_at": "Sat Jun 13 10:19:05 +0000 2020",
+		"id": 1271748921782648800,
+		"id_str": "1271748921782648832",
+		"full_text": "@abrahamjoseph @AsaWinstanley lol https://t.co/dhL3Fp54hp",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abrahamjoseph",
+					"name": "Abraham Riesman אברהם ריסמאַן",
+					"id": 14329764,
+					"id_str": "14329764",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AsaWinstanley",
+					"name": "Asa Winstanley",
+					"id": 75033178,
+					"id_str": "75033178",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dhL3Fp54hp",
+					"expanded_url": "https://time.com/4512595/president-obama-colin-kaepernick-town-hall/",
+					"display_url": "time.com/4512595/presid…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271747764028874800,
+		"in_reply_to_status_id_str": "1271747764028874753",
+		"in_reply_to_user_id": 14329764,
+		"in_reply_to_user_id_str": "14329764",
+		"in_reply_to_screen_name": "abrahamjoseph",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 1377,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@abrahamjoseph @AsaWinstanley lol https://t.co/dhL3Fp54hp"
+	},
+	{
+		"created_at": "Sat Jun 13 10:15:36 +0000 2020",
+		"id": 1271747794710212600,
+		"id_str": "1271748046632693761",
+		"full_text": "These days, if you ventriloquise Churchill’s statue to sing Elton John with the lyrics altered to list documented atrocities, you precipitate a great disturbance in the force, as if millions of Brendan heads were butting a steel case like gammonious Pachycephalosauridae https://t.co/Kq9056UoMn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kq9056UoMn",
+					"expanded_url": "https://twitter.com/theidsmiths/status/1271388241971871745",
+					"display_url": "twitter.com/theidsmiths/st…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8542,
+			"friends_count": 991,
+			"listed_count": 33,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 5713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271388241971871700,
+		"quoted_status_id_str": "1271388241971871745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kq9056UoMn",
+			"expanded": "https://twitter.com/theidsmiths/status/1271388241971871745",
+			"display": "twitter.com/theidsmiths/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 12 10:25:52 +0000 2020",
+			"id": 1271388241971871700,
+			"id_str": "1271388241971871745",
+			"full_text": "@BorisJohnson https://t.co/7XdUinv1qX",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BorisJohnson",
+						"name": "Boris Johnson #StayAlert",
+						"id": 3131144855,
+						"id_str": "3131144855",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1270744554329837600,
+						"id_str": "1270744554329837568",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270744554329837568/pu/img/kL9GV_tixHbuEZ5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270744554329837568/pu/img/kL9GV_tixHbuEZ5W.jpg",
+						"url": "https://t.co/7XdUinv1qX",
+						"display_url": "pic.twitter.com/7XdUinv1qX",
+						"expanded_url": "https://twitter.com/TheIDSmiths/status/1270744588987371520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1270744588987371500,
+						"source_status_id_str": "1270744588987371520",
+						"source_user_id": 3291321552,
+						"source_user_id_str": "3291321552"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270744554329837600,
+						"id_str": "1270744554329837568",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270744554329837568/pu/img/kL9GV_tixHbuEZ5W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270744554329837568/pu/img/kL9GV_tixHbuEZ5W.jpg",
+						"url": "https://t.co/7XdUinv1qX",
+						"display_url": "pic.twitter.com/7XdUinv1qX",
+						"expanded_url": "https://twitter.com/TheIDSmiths/status/1270744588987371520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 478,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1270744588987371500,
+						"source_status_id_str": "1270744588987371520",
+						"source_user_id": 3291321552,
+						"source_user_id_str": "3291321552",
+						"video_info": {
+							"aspect_ratio": [
+								425,
+								239
+							],
+							"duration_millis": 68469,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270744554329837568/pu/vid/850x478/X0Vuiy1ii6jrCJXs.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1270744554329837568/pu/vid/480x270/In7d-HHgHkl0iSRM.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1270744554329837568/pu/pl/tFadkwJFB8Ku2zrf.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3291321552,
+								"id_str": "3291321552",
+								"name": "TheIainDuncanSmiths",
+								"screen_name": "TheIDSmiths",
+								"location": "DWP",
+								"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+								"url": "https://t.co/LpP9z6apMW",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/LpP9z6apMW",
+												"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+												"display_url": "youtube.com/TheIainDuncanS…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 8542,
+								"friends_count": 991,
+								"listed_count": 33,
+								"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+								"favourites_count": 5713,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 10485,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": true,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1271388180193915000,
+			"in_reply_to_status_id_str": "1271388180193914880",
+			"in_reply_to_user_id": 3131144855,
+			"in_reply_to_user_id_str": "3131144855",
+			"in_reply_to_screen_name": "BorisJohnson",
+			"user": {
+				"id": 3291321552,
+				"id_str": "3291321552",
+				"name": "TheIainDuncanSmiths",
+				"screen_name": "TheIDSmiths",
+				"location": "DWP",
+				"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly. Bad photoshops in-house, good ones by @j1mmymcnulty",
+				"url": "https://t.co/LpP9z6apMW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LpP9z6apMW",
+								"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+								"display_url": "youtube.com/TheIainDuncanS…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8542,
+				"friends_count": 991,
+				"listed_count": 33,
+				"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+				"favourites_count": 5713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1575275207",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1053,
+			"favorite_count": 3822,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 18,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These days, if you ventriloquise Churchill’s statue to sing Elton John with the lyrics altered to list documented atrocities, you precipitate a great disturbance in the force, as if millions of Brendan heads were butting a steel case like gammonious Pachycephalosauridae https://t.co/Kq9056UoMn"
+	},
+	{
+		"created_at": "Sat Jun 13 10:06:29 +0000 2020",
+		"id": 1271742663524573200,
+		"id_str": "1271745750108684288",
+		"full_text": "Development economists believe that the success of high-income nations has to do with \"good governance\" and strong institutions and stable markets... it's all a fairy tale. In most cases the development of high-income nations was enabled, in large part, by plunder.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271736084016386000,
+		"in_reply_to_status_id_str": "1271736084016386048",
+		"in_reply_to_user_id": 380956211,
+		"in_reply_to_user_id_str": "380956211",
+		"in_reply_to_screen_name": "jasonhickel",
+		"user": {
+			"id": 380956211,
+			"id_str": "380956211",
+			"name": "Jason Hickel",
+			"screen_name": "jasonhickel",
+			"location": "London / Eswatini",
+			"description": "Economic anthropologist • Author of THE DIVIDE • Writing in the Guardian, Foreign Policy, AJE • Global inequality, political ecology & climate breakdown",
+			"url": "https://t.co/G7ukWoUBzB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G7ukWoUBzB",
+							"expanded_url": "http://www.jasonhickel.org",
+							"display_url": "jasonhickel.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67177,
+			"friends_count": 989,
+			"listed_count": 957,
+			"created_at": "Tue Sep 27 14:22:38 +0000 2011",
+			"favourites_count": 3569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877794625876086784/9_C2UNYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877794625876086784/9_C2UNYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380956211/1522938503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 726,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Development economists believe that the success of high-income nations has to do with \"good governance\" and strong institutions and stable markets... it's all a fairy tale. In most cases the development of high-income nations was enabled, in large part, by plunder."
+	},
+	{
 		"created_at": "Fri Jun 12 19:33:01 +0000 2020",
 		"id": 1271480035485024300,
 		"id_str": "1271525936471642115",
