@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 22:26:43 +0000 2020",
+		"id": 1271126824093958100,
+		"id_str": "1272656810873421831",
+		"full_text": "A. Sivanandan, 1982:\n\n\"I don't care about whether the police officer or the immigration officer is racist. \n\nI want the policeman punished for his racism. I want the immigration officer's laws changed. \n\nBut don't ask me to give you Racism Awareness Training.\" https://t.co/Nl5umIY0Tz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271121172890091500,
+					"id_str": "1271121172890091520",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1271121172890091520/img/55JAtGzVl6okl_1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1271121172890091520/img/55JAtGzVl6okl_1r.jpg",
+					"url": "https://t.co/Nl5umIY0Tz",
+					"display_url": "pic.twitter.com/Nl5umIY0Tz",
+					"expanded_url": "https://twitter.com/IRR_News/status/1271126824093958150/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271121172890091500,
+					"id_str": "1271121172890091520",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1271121172890091520/img/55JAtGzVl6okl_1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1271121172890091520/img/55JAtGzVl6okl_1r.jpg",
+					"url": "https://t.co/Nl5umIY0Tz",
+					"display_url": "pic.twitter.com/Nl5umIY0Tz",
+					"expanded_url": "https://twitter.com/IRR_News/status/1271126824093958150/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73417,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271121172890091520/vid/1280x720/LoP_V_9sA-HzUpaE.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1271121172890091520/pl/W1w3aQITAith7gHQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271121172890091520/vid/640x360/Ux5es20boug_4Pof.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1271121172890091520/vid/480x270/sJA3fLiT0KviRkf9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Racism Awareness Training: Don't break my legs!",
+						"description": "A. Sivandandan on Racism Awareness Training, speaking in Manchester, 1982",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.irr.org.uk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28081157,
+			"id_str": "28081157",
+			"name": "Institute of Race Relations",
+			"screen_name": "IRR_News",
+			"location": "London, England",
+			"description": "The IRR's online news service on anti-racism & social justice issues in UK & Europe. Not affiliated with SA Institute of Race Relations. Our journal @Race_Class",
+			"url": "https://t.co/HY2nDjRvah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HY2nDjRvah",
+							"expanded_url": "http://www.irr.org.uk/news/",
+							"display_url": "irr.org.uk/news/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7309,
+			"friends_count": 1936,
+			"listed_count": 112,
+			"created_at": "Wed Apr 01 10:07:15 +0000 2009",
+			"favourites_count": 1171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257350703242186758/jHG2LZ6H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257350703242186758/jHG2LZ6H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28081157/1551191631",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 912,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A. Sivanandan, 1982:\n\n\"I don't care about whether the police officer or the immigration officer is racist. \n\nI want the policeman punished for his racism. I want the immigration officer's laws changed. \n\nBut don't ask me to give you Racism Awareness Training.\" https://t.co/Nl5umIY0Tz"
+	},
+	{
 		"created_at": "Sun Jun 14 21:20:56 +0000 2020",
 		"id": 1272277871256535000,
 		"id_str": "1272277871256535040",
