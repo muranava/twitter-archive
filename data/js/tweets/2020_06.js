@@ -1,6 +1,1520 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 19:25:57 +0000 2020",
+		"id": 1272937267607322600,
+		"id_str": "1272973707380756481",
+		"full_text": "🚨18h20 : Assa Traoré : \n\n« Patrick Pelloux affirme que des tshirts Adama ont brûlé des voitures »\n\nO.Truchot : « Non Non il a pas dit ça »\n\n🚨18h22 :\n\n« Effectivement on vérifie, il a bien dis ça » https://t.co/ORrdwFCEZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272937185889652700,
+					"id_str": "1272937185889652736",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272937185889652736/pu/img/Fd4H27Dpf33WzYCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272937185889652736/pu/img/Fd4H27Dpf33WzYCS.jpg",
+					"url": "https://t.co/ORrdwFCEZ1",
+					"display_url": "pic.twitter.com/ORrdwFCEZ1",
+					"expanded_url": "https://twitter.com/BalanceTonMedia/status/1272937267607322625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272937185889652700,
+					"id_str": "1272937185889652736",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272937185889652736/pu/img/Fd4H27Dpf33WzYCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272937185889652736/pu/img/Fd4H27Dpf33WzYCS.jpg",
+					"url": "https://t.co/ORrdwFCEZ1",
+					"display_url": "pic.twitter.com/ORrdwFCEZ1",
+					"expanded_url": "https://twitter.com/BalanceTonMedia/status/1272937267607322625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1272937185889652736/pu/pl/gQ-7hBJGd3QBD84e.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272937185889652736/pu/vid/480x270/DSRS66XUqot_Ziy7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272937185889652736/pu/vid/1280x720/5KSbT7I-e-haZzYT.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1272937185889652736/pu/vid/640x360/GyW-rkvmHSRNJpuS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124968514643746800,
+			"id_str": "1124968514643746816",
+			"name": "BalanceTonMedia",
+			"screen_name": "BalanceTonMedia",
+			"location": "",
+			"description": "Parce que la liberté de la presse est en net recul en France, je poste tout ce qui me dérange (ou pas). Si vous voyez quelque chose, contactez moi en DM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30908,
+			"friends_count": 0,
+			"listed_count": 104,
+			"created_at": "Sun May 05 09:26:09 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221896789718196224/pzkW3tO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221896789718196224/pzkW3tO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124968514643746816/1557050092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 701,
+		"favorite_count": 913,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "🚨18h20 : Assa Traoré : \n\n« Patrick Pelloux affirme que des tshirts Adama ont brûlé des voitures »\n\nO.Truchot : « Non Non il a pas dit ça »\n\n🚨18h22 :\n\n« Effectivement on vérifie, il a bien dis ça » https://t.co/ORrdwFCEZ1"
+	},
+	{
+		"created_at": "Tue Jun 16 19:23:41 +0000 2020",
+		"id": 1272969702256623600,
+		"id_str": "1272973139526537222",
+		"full_text": "Pour moi ce sera celle là.\nElle est moins hypocrite. https://t.co/xC8PPpMge4 https://t.co/VSTQuVzKqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xC8PPpMge4",
+					"expanded_url": "https://twitter.com/le___doc/status/1272930236565540864",
+					"display_url": "twitter.com/le___doc/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272969695960973300,
+					"id_str": "1272969695960973319",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Eap_MamXQAcrFlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eap_MamXQAcrFlL.jpg",
+					"url": "https://t.co/VSTQuVzKqy",
+					"display_url": "pic.twitter.com/VSTQuVzKqy",
+					"expanded_url": "https://twitter.com/T_Bouhafs/status/1272969702256623622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272969695960973300,
+					"id_str": "1272969695960973319",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Eap_MamXQAcrFlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eap_MamXQAcrFlL.jpg",
+					"url": "https://t.co/VSTQuVzKqy",
+					"display_url": "pic.twitter.com/VSTQuVzKqy",
+					"expanded_url": "https://twitter.com/T_Bouhafs/status/1272969702256623622/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835174698623336400,
+			"id_str": "835174698623336448",
+			"name": "Taha Bouhafs 🔻",
+			"screen_name": "T_Bouhafs",
+			"location": "Paris, France",
+			"description": "Journaliste, plus souvent dans la rue qu’à la rédac’ Mes DM sont ouverts 📩 #GénérationAdama 💪🏽",
+			"url": "https://t.co/SWl2dGZesM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SWl2dGZesM",
+							"expanded_url": "http://instagram.com/taha.bouhafs",
+							"display_url": "instagram.com/taha.bouhafs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76339,
+			"friends_count": 2979,
+			"listed_count": 221,
+			"created_at": "Fri Feb 24 17:08:59 +0000 2017",
+			"favourites_count": 27691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233286278243856384/370Ef8UZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233286278243856384/370Ef8UZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835174698623336448/1586696318",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272930236565540900,
+		"quoted_status_id_str": "1272930236565540864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xC8PPpMge4",
+			"expanded": "https://twitter.com/le___doc/status/1272930236565540864",
+			"display": "twitter.com/le___doc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 16 16:33:12 +0000 2020",
+			"id": 1272930236565540900,
+			"id_str": "1272930236565540864",
+			"full_text": "L’image à conserver de cette journée #16juin https://t.co/EwRWPJ5gOI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "16juin",
+						"indices": [
+							37,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1272925208727470000,
+						"id_str": "1272925208727470080",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272925208727470080/pu/img/BwSWmLKj76aT4R5m.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272925208727470080/pu/img/BwSWmLKj76aT4R5m.jpg",
+						"url": "https://t.co/EwRWPJ5gOI",
+						"display_url": "pic.twitter.com/EwRWPJ5gOI",
+						"expanded_url": "https://twitter.com/Nicopatch42/status/1272925324381224960/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1272925324381225000,
+						"source_status_id_str": "1272925324381224960",
+						"source_user_id": 291809037,
+						"source_user_id_str": "291809037"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272925208727470000,
+						"id_str": "1272925208727470080",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272925208727470080/pu/img/BwSWmLKj76aT4R5m.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272925208727470080/pu/img/BwSWmLKj76aT4R5m.jpg",
+						"url": "https://t.co/EwRWPJ5gOI",
+						"display_url": "pic.twitter.com/EwRWPJ5gOI",
+						"expanded_url": "https://twitter.com/Nicopatch42/status/1272925324381224960/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 352,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1272925324381225000,
+						"source_status_id_str": "1272925324381224960",
+						"source_user_id": 291809037,
+						"source_user_id_str": "291809037",
+						"video_info": {
+							"aspect_ratio": [
+								20,
+								11
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1272925208727470080/pu/vid/490x270/-ZoonJZffXL1Z_91.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1272925208727470080/pu/pl/ihHLzkWqE0-HTJmW.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1272925208727470080/pu/vid/640x352/lcNfXYrp_lpUV3yH.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 291809037,
+								"id_str": "291809037",
+								"name": "Eric",
+								"screen_name": "Nicopatch42",
+								"location": "France",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 83,
+								"friends_count": 184,
+								"listed_count": 0,
+								"created_at": "Mon May 02 17:05:10 +0000 2011",
+								"favourites_count": 1251,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1827,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1110233750749806599/xpVY2uNz_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110233750749806599/xpVY2uNz_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/291809037/1574035130",
+								"profile_link_color": "009999",
+								"profile_sidebar_border_color": "EEEEEE",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804663900293709800,
+				"id_str": "804663900293709826",
+				"name": "Le Doc",
+				"screen_name": "Le___Doc",
+				"location": "En Riposte ... ou pas. ",
+				"description": "Lecteur des entrailles humaines. Rarement blanc ou noir. Souvent en nuances de gris. Bannière @MaitreEtTalons",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42452,
+				"friends_count": 720,
+				"listed_count": 181,
+				"created_at": "Fri Dec 02 12:29:58 +0000 2016",
+				"favourites_count": 114974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80546,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247587427310538755/LYF_SVoj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247587427310538755/LYF_SVoj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804663900293709826/1589545634",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2110,
+			"favorite_count": 5756,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 714,
+		"favorite_count": 2253,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Pour moi ce sera celle là.\nElle est moins hypocrite. https://t.co/xC8PPpMge4 https://t.co/VSTQuVzKqy"
+	},
+	{
+		"created_at": "Tue Jun 16 17:56:58 +0000 2020",
+		"id": 1272897234783404000,
+		"id_str": "1272951314100748290",
+		"full_text": "🗣 to all MPs https://t.co/Dc4weMvTHN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272897227946700800,
+					"id_str": "1272897227946700809",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Eao9SONXsAkCNzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eao9SONXsAkCNzo.jpg",
+					"url": "https://t.co/Dc4weMvTHN",
+					"display_url": "pic.twitter.com/Dc4weMvTHN",
+					"expanded_url": "https://twitter.com/MarcusRashford/status/1272897234783404033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272897227946700800,
+					"id_str": "1272897227946700809",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Eao9SONXsAkCNzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eao9SONXsAkCNzo.jpg",
+					"url": "https://t.co/Dc4weMvTHN",
+					"display_url": "pic.twitter.com/Dc4weMvTHN",
+					"expanded_url": "https://twitter.com/MarcusRashford/status/1272897234783404033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 734492654755577900,
+			"id_str": "734492654755577858",
+			"name": "Marcus Rashford",
+			"screen_name": "MarcusRashford",
+			"location": "",
+			"description": "Manchester United & England ⚽️ Info@dnmaysportsmgt.com 📩",
+			"url": "https://t.co/wNd0OUBSoS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wNd0OUBSoS",
+							"expanded_url": "http://www.fareshare.org.uk/help-us",
+							"display_url": "fareshare.org.uk/help-us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2920224,
+			"friends_count": 83,
+			"listed_count": 2135,
+			"created_at": "Sun May 22 21:14:29 +0000 2016",
+			"favourites_count": 1672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257623233995714560/Sbbpku2f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257623233995714560/Sbbpku2f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/734492654755577858/1576055283",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42108,
+		"favorite_count": 283831,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗣 to all MPs https://t.co/Dc4weMvTHN"
+	},
+	{
+		"created_at": "Tue Jun 16 17:35:43 +0000 2020",
+		"id": 1272929930611953700,
+		"id_str": "1272945966275067904",
+		"full_text": "Cette femme, c'est ma mère. 50 ans, infirmière, elle a bossé pendant 3 mois entre 12 et 14 heures par jour. A eu le covid. Aujourd'hui, elle manifestait pour qu'on revalorise son salaire, qu'on reconnaisse son travail. Elle est asthmatique. Elle avait sa blouse. Elle fait 1m55. https://t.co/kinCQYJTAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kinCQYJTAn",
+					"expanded_url": "https://twitter.com/vidooshan/status/1272906479910215680",
+					"display_url": "twitter.com/vidooshan/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 799977393364594700,
+			"id_str": "799977393364594688",
+			"name": "Imen Mellaz",
+			"screen_name": "Mellazimen",
+			"location": "",
+			"description": "Journaliste. Programmatrice @france24, ex @bfmtv. Formée @CELSA_Officiel. Ex @lachance_media, @lindependant, le @Grain_a_moudre et @franceinfo (📺)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2947,
+			"friends_count": 654,
+			"listed_count": 10,
+			"created_at": "Sat Nov 19 14:07:28 +0000 2016",
+			"favourites_count": 349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976130330313789440/1brUGIO__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976130330313789440/1brUGIO__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/799977393364594688/1511219306",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1272906479910215700,
+		"quoted_status_id_str": "1272906479910215680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kinCQYJTAn",
+			"expanded": "https://twitter.com/vidooshan/status/1272906479910215680",
+			"display": "twitter.com/vidooshan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 16 14:58:48 +0000 2020",
+			"id": 1272906479910215700,
+			"id_str": "1272906479910215680",
+			"full_text": "Une infirmière vient de se faire interpellé violemment. Elle crie: \"je veux ma ventoline\" et reçois le poids des policiers sur son corps. \n\n#16juin #16Juin2020 #soignant #manifestation #invalides https://t.co/fXeo3i1dxD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "16juin",
+						"indices": [
+							140,
+							147
+						]
+					},
+					{
+						"text": "16Juin2020",
+						"indices": [
+							148,
+							159
+						]
+					},
+					{
+						"text": "soignant",
+						"indices": [
+							160,
+							169
+						]
+					},
+					{
+						"text": "manifestation",
+						"indices": [
+							170,
+							184
+						]
+					},
+					{
+						"text": "invalides",
+						"indices": [
+							185,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1272906067878514700,
+						"id_str": "1272906067878514691",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272906067878514691/pu/img/ghVICJFNk0UOwPmH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272906067878514691/pu/img/ghVICJFNk0UOwPmH.jpg",
+						"url": "https://t.co/fXeo3i1dxD",
+						"display_url": "pic.twitter.com/fXeo3i1dxD",
+						"expanded_url": "https://twitter.com/vidooshan/status/1272906479910215680/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1272906067878514700,
+						"id_str": "1272906067878514691",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1272906067878514691/pu/img/ghVICJFNk0UOwPmH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1272906067878514691/pu/img/ghVICJFNk0UOwPmH.jpg",
+						"url": "https://t.co/fXeo3i1dxD",
+						"display_url": "pic.twitter.com/fXeo3i1dxD",
+						"expanded_url": "https://twitter.com/vidooshan/status/1272906479910215680/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 44987,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1272906067878514691/pu/vid/480x270/9cqR_9iV8McE-ts0.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1272906067878514691/pu/vid/640x360/1P5eFFzflEGaIvaQ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1272906067878514691/pu/pl/12_2iXem2w3I-PcJ.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1272906067878514691/pu/vid/1280x720/axEe0jAE1TCGqIpA.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 115905014,
+				"id_str": "115905014",
+				"name": "Vidooshan",
+				"screen_name": "vidooshan",
+				"location": "Paris",
+				"description": "Photographe par passion, informaticien de formation.",
+				"url": "https://t.co/EBdNLYvbFR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EBdNLYvbFR",
+								"expanded_url": "http://instagram.com/vidooshan",
+								"display_url": "instagram.com/vidooshan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 933,
+				"friends_count": 318,
+				"listed_count": 8,
+				"created_at": "Sat Feb 20 11:26:18 +0000 2010",
+				"favourites_count": 10509,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2624,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FA0808",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1236911053554024448/mTL8NRMH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236911053554024448/mTL8NRMH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/115905014/1589625801",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5550,
+			"favorite_count": 8297,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 67103,
+		"favorite_count": 94015,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Cette femme, c'est ma mère. 50 ans, infirmière, elle a bossé pendant 3 mois entre 12 et 14 heures par jour. A eu le covid. Aujourd'hui, elle manifestait pour qu'on revalorise son salaire, qu'on reconnaisse son travail. Elle est asthmatique. Elle avait sa blouse. Elle fait 1m55. https://t.co/kinCQYJTAn"
+	},
+	{
+		"created_at": "Tue Jun 16 17:20:12 +0000 2020",
+		"id": 1272942064406278100,
+		"id_str": "1272942064406278145",
+		"full_text": "@nelsonlflores linguistics is the donald trump of science",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nelsonlflores",
+					"name": "Nelson Flores",
+					"id": 248343882,
+					"id_str": "248343882",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272866939094868000,
+		"in_reply_to_status_id_str": "1272866939094867969",
+		"in_reply_to_user_id": 248343882,
+		"in_reply_to_user_id_str": "248343882",
+		"in_reply_to_screen_name": "nelsonlflores",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1940,
+			"friends_count": 1387,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nelsonlflores linguistics is the donald trump of science"
+	},
+	{
+		"created_at": "Tue Jun 16 16:28:30 +0000 2020",
+		"id": 1272929053893419000,
+		"id_str": "1272929053893419010",
+		"full_text": "@tom_flaherty recent paper on \"corpus literacy\" if that is in the same area? https://t.co/lM8cZf61Kv",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tom_flaherty",
+					"name": "Tom Flaherty 🇪🇺",
+					"id": 20362849,
+					"id_str": "20362849",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lM8cZf61Kv",
+					"expanded_url": "https://njes-journal.com/articles/abstract/500/",
+					"display_url": "njes-journal.com/articles/abstr…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272628042871996400,
+		"in_reply_to_status_id_str": "1272628042871996421",
+		"in_reply_to_user_id": 20362849,
+		"in_reply_to_user_id_str": "20362849",
+		"in_reply_to_screen_name": "tom_flaherty",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1940,
+			"friends_count": 1387,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tom_flaherty recent paper on \"corpus literacy\" if that is in the same area? https://t.co/lM8cZf61Kv"
+	},
+	{
+		"created_at": "Tue Jun 16 11:36:16 +0000 2020",
+		"id": 1272854275157307400,
+		"id_str": "1272855508228231169",
+		"full_text": "“We have urged them on the consequences of tired, fatigued, depressed crew – to trade, to the environment. But enough is enough [..From] June 16, seafarers are going to start enforcing their right to stop working and to return home.\" https://t.co/K1TyO55mDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1TyO55mDN",
+					"expanded_url": "https://gcaptain.com/itf-tells-seafarers-to-stop-work-as-crew-change-deadline-passes",
+					"display_url": "gcaptain.com/itf-tells-seaf…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47740807,
+			"id_str": "47740807",
+			"name": "Laleh Khalili",
+			"screen_name": "LalehKhalili",
+			"location": "Queen Mary Univ of London",
+			"description": "Ports. Politics. Poetry....  Professor of International Politics. Potty-mouth!  She/her.",
+			"url": "http://t.co/OrtvT4ZaLk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OrtvT4ZaLk",
+							"expanded_url": "http://thegamming.org",
+							"display_url": "thegamming.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15949,
+			"friends_count": 415,
+			"listed_count": 121,
+			"created_at": "Tue Jun 16 20:42:42 +0000 2009",
+			"favourites_count": 71830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744198136147623936/puGTfy6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744198136147623936/puGTfy6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47740807/1570376075",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We have urged them on the consequences of tired, fatigued, depressed crew – to trade, to the environment. But enough is enough [..From] June 16, seafarers are going to start enforcing their right to stop working and to return home.\" https://t.co/K1TyO55mDN"
+	},
+	{
 		"created_at": "Mon Jun 15 22:26:43 +0000 2020",
 		"id": 1271126824093958100,
 		"id_str": "1272656810873421831",
