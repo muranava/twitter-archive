@@ -1,6 +1,2296 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 00:37:31 +0000 2020",
+		"id": 1274138700604043300,
+		"id_str": "1274139281204928512",
+		"full_text": "LA County Sheriff deputies murdered Andres Guardado yesterday while he was at work as a security guard.\n\nDeputies shot him in the back as he ran away. \n\nHe ran because he was scared.\n\nHe was only 18 years old. \n#SayHisName #DefundPolice https://t.co/MP5ZWK8bdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayHisName",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"text": "DefundPolice",
+					"indices": [
+						223,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MP5ZWK8bdA",
+					"expanded_url": "https://twitter.com/ABC7/status/1273995872334827520",
+					"display_url": "twitter.com/ABC7/status/12…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15822295,
+			"id_str": "15822295",
+			"name": "CODEPINK",
+			"screen_name": "codepink",
+			"location": "Everywhere",
+			"description": "Women-led grassroots organization working to support peace & human rights & end U.S. wars & militarism.\n\n*Retweets & links are not endorsements.\n\nJoin us! ⤵️",
+			"url": "https://t.co/0sPZhskHu4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0sPZhskHu4",
+							"expanded_url": "http://codepink.org",
+							"display_url": "codepink.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94990,
+			"friends_count": 29184,
+			"listed_count": 2049,
+			"created_at": "Tue Aug 12 13:44:56 +0000 2008",
+			"favourites_count": 30457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F752AD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176698755950743553/N2Ag45Bs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176698755950743553/N2Ag45Bs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15822295/1575661992",
+			"profile_link_color": "DC0693",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7E4EA",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273995872334827500,
+		"quoted_status_id_str": "1273995872334827520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MP5ZWK8bdA",
+			"expanded": "https://twitter.com/ABC7/status/1273995872334827520",
+			"display": "twitter.com/ABC7/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 15:07:40 +0000 2020",
+			"id": 1273995872334827500,
+			"id_str": "1273995872334827520",
+			"full_text": "A sheriff's deputy fatally shot a man authorities say was armed and who ran away from deputies in Gardena. Family identified the man killed as 18-year-old Andres Guardado, and witnesses say he was armed because he worked as a security guard. Details: https://t.co/pdrWCE4C4t https://t.co/oGDbnmCpV5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pdrWCE4C4t",
+						"expanded_url": "https://abc7.la/3hKOiXh",
+						"display_url": "abc7.la/3hKOiXh",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1273995780555026400,
+						"id_str": "1273995780555026432",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea4kaZlUMAAt5UP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea4kaZlUMAAt5UP.jpg",
+						"url": "https://t.co/oGDbnmCpV5",
+						"display_url": "pic.twitter.com/oGDbnmCpV5",
+						"expanded_url": "https://twitter.com/ABC7/status/1273995872334827520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1273995780555026400,
+						"id_str": "1273995780555026432",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea4kaZlUMAAt5UP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea4kaZlUMAAt5UP.jpg",
+						"url": "https://t.co/oGDbnmCpV5",
+						"display_url": "pic.twitter.com/oGDbnmCpV5",
+						"expanded_url": "https://twitter.com/ABC7/status/1273995872334827520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16374678,
+				"id_str": "16374678",
+				"name": "ABC7 Eyewitness News",
+				"screen_name": "ABC7",
+				"location": "",
+				"description": "Your #1 breaking news source in Southern California. When you witness news, share it with #abc7eyewitness.",
+				"url": "https://t.co/wA2krgJd0y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wA2krgJd0y",
+								"expanded_url": "http://abc7.com",
+								"display_url": "abc7.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1135048,
+				"friends_count": 465,
+				"listed_count": 6153,
+				"created_at": "Sat Sep 20 04:22:30 +0000 2008",
+				"favourites_count": 3924,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 220085,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "044CC1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869214714143809536/Fy8fI_7m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16374678/1502745997",
+				"profile_link_color": "044CC1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DEDEDE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 549,
+			"favorite_count": 740,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 32,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LA County Sheriff deputies murdered Andres Guardado yesterday while he was at work as a security guard.\n\nDeputies shot him in the back as he ran away. \n\nHe ran because he was scared.\n\nHe was only 18 years old. \n#SayHisName #DefundPolice https://t.co/MP5ZWK8bdA"
+	},
+	{
+		"created_at": "Fri Jun 19 22:04:57 +0000 2020",
+		"id": 1274056739034464300,
+		"id_str": "1274100887045189632",
+		"full_text": "Soignants, blouses blanches, bravo à nos héros ! Ça, c’était hier. Aujourd’hui, voilà une infirmière par terre, blessée, menottée, en garde à vue. \n\nNous avons rencontré Farida ce matin. Son témoignage au micro de @T_Bouhafs à voir en libre accès : https://t.co/QHcmVK6M61 https://t.co/BhaCshkRtZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "T_Bouhafs",
+					"name": "Taha Bouhafs 🔻",
+					"id": 835174698623336400,
+					"id_str": "835174698623336448",
+					"indices": [
+						214,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QHcmVK6M61",
+					"expanded_url": "https://la-bas.org/la-bas-magazine/reportages/farida-infirmiere-terroriste-1m55",
+					"display_url": "la-bas.org/la-bas-magazin…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273983622073245700,
+					"id_str": "1273983622073245697",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273983622073245697/pu/img/SxWZr-7dRpJJXPlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273983622073245697/pu/img/SxWZr-7dRpJJXPlw.jpg",
+					"url": "https://t.co/BhaCshkRtZ",
+					"display_url": "pic.twitter.com/BhaCshkRtZ",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1274056739034464256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273983622073245700,
+					"id_str": "1273983622073245697",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273983622073245697/pu/img/SxWZr-7dRpJJXPlw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273983622073245697/pu/img/SxWZr-7dRpJJXPlw.jpg",
+					"url": "https://t.co/BhaCshkRtZ",
+					"display_url": "pic.twitter.com/BhaCshkRtZ",
+					"expanded_url": "https://twitter.com/LabasOfficiel/status/1274056739034464256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 87860,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273983622073245697/pu/vid/640x360/PVThSz_9hKuO40BB.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273983622073245697/pu/vid/480x270/JUn3IFsnuF6FiSSm.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273983622073245697/pu/vid/1280x720/q1v9Upwo78lwnaZc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273983622073245697/pu/pl/u3OpvwAsApQMDVf3.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2773565144,
+			"id_str": "2773565144",
+			"name": "Là-bas si j'y suis",
+			"screen_name": "LabasOfficiel",
+			"location": "",
+			"description": "Le site d’information « plus près des jetables que des notables », issu de l'émission de @MermetDaniel sur France Inter — https://t.co/vpssD6frvF",
+			"url": "https://t.co/lUp9Mdgr4D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lUp9Mdgr4D",
+							"expanded_url": "http://la-bas.org",
+							"display_url": "la-bas.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vpssD6frvF",
+							"expanded_url": "http://abonnement.la-bas.org/membres-soutenir",
+							"display_url": "abonnement.la-bas.org/membres-souten…",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58812,
+			"friends_count": 1602,
+			"listed_count": 373,
+			"created_at": "Wed Aug 27 15:22:29 +0000 2014",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5D840",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/505764357842538496/PQyGNlIY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2773565144/1481732454",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 468,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Soignants, blouses blanches, bravo à nos héros ! Ça, c’était hier. Aujourd’hui, voilà une infirmière par terre, blessée, menottée, en garde à vue. \n\nNous avons rencontré Farida ce matin. Son témoignage au micro de @T_Bouhafs à voir en libre accès : https://t.co/QHcmVK6M61 https://t.co/BhaCshkRtZ"
+	},
+	{
+		"created_at": "Fri Jun 19 21:14:01 +0000 2020",
+		"id": 1274088066467139600,
+		"id_str": "1274088066467139587",
+		"full_text": "@MediocreDave awesome tune! thx!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MediocreDave",
+					"name": "Dave",
+					"id": 141188735,
+					"id_str": "141188735",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1274086378876407800,
+		"in_reply_to_status_id_str": "1274086378876407808",
+		"in_reply_to_user_id": 141188735,
+		"in_reply_to_user_id_str": "141188735",
+		"in_reply_to_screen_name": "MediocreDave",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MediocreDave awesome tune! thx!"
+	},
+	{
+		"created_at": "Fri Jun 19 21:13:38 +0000 2020",
+		"id": 1274086378876407800,
+		"id_str": "1274087972640567296",
+		"full_text": "\"I ain't even tripping if you're with it then we're looting / Help me put this Louis in the back of Suzuki\"\nhttps://t.co/NZOc7pkluf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NZOc7pkluf",
+					"expanded_url": "https://www.youtube.com/watch?v=TgItkJCm09c",
+					"display_url": "youtube.com/watch?v=TgItkJ…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141188735,
+			"id_str": "141188735",
+			"name": "Dave",
+			"screen_name": "MediocreDave",
+			"location": "London",
+			"description": "Theatre dwelling communist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11929,
+			"friends_count": 1993,
+			"listed_count": 203,
+			"created_at": "Fri May 07 11:51:23 +0000 2010",
+			"favourites_count": 52842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141188735/1478886150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I ain't even tripping if you're with it then we're looting / Help me put this Louis in the back of Suzuki\"\nhttps://t.co/NZOc7pkluf"
+	},
+	{
+		"created_at": "Fri Jun 19 19:25:53 +0000 2020",
+		"id": 1274060857044086800,
+		"id_str": "1274060857044086785",
+		"full_text": "@pawel_szudarski yes and the paper tweeted above takes \"lexical selection\" as literal not metaphorical?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pawel_szudarski",
+					"name": "Paweł Szudarski",
+					"id": 914604793464750100,
+					"id_str": "914604793464750081",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1274047786510581800,
+		"in_reply_to_status_id_str": "1274047786510581760",
+		"in_reply_to_user_id": 914604793464750100,
+		"in_reply_to_user_id_str": "914604793464750081",
+		"in_reply_to_screen_name": "pawel_szudarski",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pawel_szudarski yes and the paper tweeted above takes \"lexical selection\" as literal not metaphorical?"
+	},
+	{
+		"created_at": "Fri Jun 19 18:04:40 +0000 2020",
+		"id": 1274008117890736000,
+		"id_str": "1274040416300646400",
+		"full_text": "Here's what happens when the US &amp; allies strong-arm @UN_HRC members, arguing \"racism is everywhere,\" \"we shouldn't single out one country,\" \"US has strong democratic institutions so we shouldn't subject it to international scrutiny.\" Resolution as passed today, without a vote: https://t.co/qWDZdWgq2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UN_HRC",
+					"name": "HRC SECRETARIAT",
+					"id": 70985635,
+					"id_str": "70985635",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274007398294982700,
+					"id_str": "1274007398294982658",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4u-pCXkAIR5nJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4u-pCXkAIR5nJ.png",
+					"url": "https://t.co/qWDZdWgq2w",
+					"display_url": "pic.twitter.com/qWDZdWgq2w",
+					"expanded_url": "https://twitter.com/alb68/status/1274008117890736134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274007398294982700,
+					"id_str": "1274007398294982658",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea4u-pCXkAIR5nJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea4u-pCXkAIR5nJ.png",
+					"url": "https://t.co/qWDZdWgq2w",
+					"display_url": "pic.twitter.com/qWDZdWgq2w",
+					"expanded_url": "https://twitter.com/alb68/status/1274008117890736134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 509,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17146906,
+			"id_str": "17146906",
+			"name": "(((Amy Bergquist)))",
+			"screen_name": "alb68",
+			"location": "Minneapolis",
+			"description": "International Human Rights Attorney @The_Advocates for Human Rights. Tweets, except some livetweets, are my own views. Follows, RTs are not endorsements.",
+			"url": "http://t.co/bvC3tWvFTs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bvC3tWvFTs",
+							"expanded_url": "http://www.theadvocatesforhumanrights.org/amy_bergquist.html",
+							"display_url": "theadvocatesforhumanrights.org/amy_bergquist.…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 1645,
+			"listed_count": 41,
+			"created_at": "Tue Nov 04 02:31:46 +0000 2008",
+			"favourites_count": 400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3592213190/0a4d2029bdaedb83a25778cc2cfa1929_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3592213190/0a4d2029bdaedb83a25778cc2cfa1929_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17146906/1367260031",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's what happens when the US &amp; allies strong-arm @UN_HRC members, arguing \"racism is everywhere,\" \"we shouldn't single out one country,\" \"US has strong democratic institutions so we shouldn't subject it to international scrutiny.\" Resolution as passed today, without a vote: https://t.co/qWDZdWgq2w"
+	},
+	{
+		"created_at": "Fri Jun 19 17:51:02 +0000 2020",
+		"id": 1274036985577996300,
+		"id_str": "1274036985577996288",
+		"full_text": "Stephen Hsu and Guilt by Association https://t.co/bXbVfxH55W via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						65,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bXbVfxH55W",
+					"expanded_url": "https://altrightorigins.com/2020/06/18/hsu-guilt-by-association/",
+					"display_url": "altrightorigins.com/2020/06/18/hsu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stephen Hsu and Guilt by Association https://t.co/bXbVfxH55W via @wordpressdotcom"
+	},
+	{
+		"created_at": "Fri Jun 19 17:48:43 +0000 2020",
+		"id": 1274036401340911600,
+		"id_str": "1274036401340911627",
+		"full_text": "@pawel_szudarski i think the critique of no mental lexicon includes the idea that such notions do not really explain and at best re-describes a linguistic ability?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pawel_szudarski",
+					"name": "Paweł Szudarski",
+					"id": 914604793464750100,
+					"id_str": "914604793464750081",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273907426572546000,
+		"in_reply_to_status_id_str": "1273907426572546048",
+		"in_reply_to_user_id": 914604793464750100,
+		"in_reply_to_user_id_str": "914604793464750081",
+		"in_reply_to_screen_name": "pawel_szudarski",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pawel_szudarski i think the critique of no mental lexicon includes the idea that such notions do not really explain and at best re-describes a linguistic ability?"
+	},
+	{
+		"created_at": "Fri Jun 19 17:46:20 +0000 2020",
+		"id": 1274035804889899000,
+		"id_str": "1274035804889899009",
+		"full_text": "@DiLeed @ian_cushing @EAL_Journal maybe, provided notion of \"becoming\" avoids implication that language is defined by goals or ends? e.g. common to hear that language is for communication rather than language presupposes communication",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DiLeed",
+					"name": "Diane Leedham",
+					"id": 2335217159,
+					"id_str": "2335217159",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ian_cushing",
+					"name": "Ian Cushing",
+					"id": 4135124181,
+					"id_str": "4135124181",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "EAL_Journal",
+					"name": "EAL Journal",
+					"id": 725403907514585100,
+					"id_str": "725403907514585090",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1274014300978413600,
+		"in_reply_to_status_id_str": "1274014300978413568",
+		"in_reply_to_user_id": 2335217159,
+		"in_reply_to_user_id_str": "2335217159",
+		"in_reply_to_screen_name": "DiLeed",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DiLeed @ian_cushing @EAL_Journal maybe, provided notion of \"becoming\" avoids implication that language is defined by goals or ends? e.g. common to hear that language is for communication rather than language presupposes communication"
+	},
+	{
+		"created_at": "Fri Jun 19 17:34:09 +0000 2020",
+		"id": 1273587098071728000,
+		"id_str": "1274032737377300480",
+		"full_text": "36 years ago today 123 miners were seriously injured at #Orgreave.\n\nNobody has ever been held accountable. The campaign continues for a full public enquiry to establish the truth about what happened that day.\n\nRT to demand #orgreavejustice - and follow @orgreavejustice https://t.co/iDsh66Bh4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orgreave",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "orgreavejustice",
+					"indices": [
+						223,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "orgreavejustice",
+					"name": "Orgreave Justice",
+					"id": 974729623,
+					"id_str": "974729623",
+					"indices": [
+						253,
+						269
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273586779879346200,
+					"id_str": "1273586779879346176",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273586779879346176/pu/img/Je5SZtuOdh3EPX_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273586779879346176/pu/img/Je5SZtuOdh3EPX_9.jpg",
+					"url": "https://t.co/iDsh66Bh4w",
+					"display_url": "pic.twitter.com/iDsh66Bh4w",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1273587098071728131/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273586779879346200,
+					"id_str": "1273586779879346176",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1273586779879346176/pu/img/Je5SZtuOdh3EPX_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1273586779879346176/pu/img/Je5SZtuOdh3EPX_9.jpg",
+					"url": "https://t.co/iDsh66Bh4w",
+					"display_url": "pic.twitter.com/iDsh66Bh4w",
+					"expanded_url": "https://twitter.com/jeremycorbyn/status/1273587098071728131/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57140,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273586779879346176/pu/vid/480x270/-hYbuIDKg6zxXXjI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1273586779879346176/pu/pl/nNWk_f3VODQui35w.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273586779879346176/pu/vid/1280x720/SfwBWW9jpKPSyseq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1273586779879346176/pu/vid/640x360/IOXT-a3bhjeqBp0G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117777690,
+			"id_str": "117777690",
+			"name": "Jeremy Corbyn",
+			"screen_name": "jeremycorbyn",
+			"location": "UK",
+			"description": "Labour MP for Islington North 🌹",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2435537,
+			"friends_count": 2809,
+			"listed_count": 6914,
+			"created_at": "Fri Feb 26 15:45:23 +0000 2010",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197846676578426880/EiaPjwTi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117777690/1506521898",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4042,
+		"favorite_count": 8400,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "36 years ago today 123 miners were seriously injured at #Orgreave.\n\nNobody has ever been held accountable. The campaign continues for a full public enquiry to establish the truth about what happened that day.\n\nRT to demand #orgreavejustice - and follow @orgreavejustice https://t.co/iDsh66Bh4w"
+	},
+	{
+		"created_at": "Fri Jun 19 17:25:06 +0000 2020",
+		"id": 1273948806988673000,
+		"id_str": "1274030459501137922",
+		"full_text": "Get invoved in our 'labour Engllish' project. \n\nMost #EFL students are working class. So-called 'business English' doesn't speak to their everyday experience.\n\ntefl@iww.org.uk to share any #TEFL lessons on workers/migrant rights or generally from a working class perspective. https://t.co/vhVJsTkSiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EFL",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273948805940068400,
+					"id_str": "1273948805940068352",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea35sHgXQAA0Ujg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea35sHgXQAA0Ujg.jpg",
+					"url": "https://t.co/vhVJsTkSiM",
+					"display_url": "pic.twitter.com/vhVJsTkSiM",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1273948806988673024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273948805940068400,
+					"id_str": "1273948805940068352",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea35sHgXQAA0Ujg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea35sHgXQAA0Ujg.jpg",
+					"url": "https://t.co/vhVJsTkSiM",
+					"display_url": "pic.twitter.com/vhVJsTkSiM",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1273948806988673024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 225,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 959,
+			"friends_count": 98,
+			"listed_count": 9,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get invoved in our 'labour Engllish' project. \n\nMost #EFL students are working class. So-called 'business English' doesn't speak to their everyday experience.\n\ntefl@iww.org.uk to share any #TEFL lessons on workers/migrant rights or generally from a working class perspective. https://t.co/vhVJsTkSiM"
+	},
+	{
+		"created_at": "Fri Jun 19 17:17:03 +0000 2020",
+		"id": 1273994928083869700,
+		"id_str": "1274028433249624064",
+		"full_text": "This comment about #BlackInTheIvory was a chilling realisation, and it's even worse in Linguistics\n\nAs a tiny beginning to the long task of offsetting that, here are 20 #BlackLinguists and language scholars you should be following on Twitter https://t.co/LNFP9RHJ6e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackInTheIvory",
+					"indices": [
+						19,
+						35
+					]
+				},
+				{
+					"text": "BlackLinguists",
+					"indices": [
+						169,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LNFP9RHJ6e",
+					"expanded_url": "https://twitter.com/seefryar/status/1269945488465420288",
+					"display_url": "twitter.com/seefryar/statu…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117351786,
+			"id_str": "117351786",
+			"name": "Alon Lischinsky",
+			"screen_name": "alischinsky",
+			"location": "Not sure, but it increasingly feels like R’lyeh",
+			"description": "Corpus linguist, Bordeaux Bolshie (the older the redder), godless unpatriotic neurotic liberal pervert. Edits @JCaDS_journal, teaches @cmc_brookes. They/them.",
+			"url": "http://t.co/If82w4aUMY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/If82w4aUMY",
+							"expanded_url": "http://alon.lischinsky.net",
+							"display_url": "alon.lischinsky.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 730,
+			"listed_count": 14,
+			"created_at": "Thu Feb 25 08:56:57 +0000 2010",
+			"favourites_count": 13294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137307916258684928/GtQnZF2L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137307916258684928/GtQnZF2L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117351786/1510848258",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269945488465420300,
+		"quoted_status_id_str": "1269945488465420288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LNFP9RHJ6e",
+			"expanded": "https://twitter.com/seefryar/status/1269945488465420288",
+			"display": "twitter.com/seefryar/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 08 10:52:53 +0000 2020",
+			"id": 1269945488465420300,
+			"id_str": "1269945488465420288",
+			"full_text": "There are far more Black historian academics in the US currently tweeting #BlackintheIvory than there are working in university history departments in the entire United Kingdom.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackintheIvory",
+						"indices": [
+							74,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35468249,
+				"id_str": "35468249",
+				"name": "cfryar",
+				"screen_name": "seefryar",
+				"location": "the UK",
+				"description": "Immigrant. Historian of Britain/Caribbean. Sports/tv/culture junkie. 2020 AHRC/BBC New Generation Thinker. American in Liverpool. Virginian/Blue Devil. She/her.",
+				"url": "https://t.co/7SJ1ayAMuV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7SJ1ayAMuV",
+								"expanded_url": "http://cdfryar.com",
+								"display_url": "cdfryar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5943,
+				"friends_count": 788,
+				"listed_count": 85,
+				"created_at": "Sun Apr 26 13:53:46 +0000 2009",
+				"favourites_count": 11187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/184391287/photo1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/184391287/photo1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35468249/1471491220",
+				"profile_link_color": "83A5B3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 1723,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 94,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This comment about #BlackInTheIvory was a chilling realisation, and it's even worse in Linguistics\n\nAs a tiny beginning to the long task of offsetting that, here are 20 #BlackLinguists and language scholars you should be following on Twitter https://t.co/LNFP9RHJ6e"
+	},
+	{
+		"created_at": "Fri Jun 19 14:18:55 +0000 2020",
+		"id": 1273983604687847400,
+		"id_str": "1273983604687847424",
+		"full_text": "@ian_cushing @DiLeed @EAL_Journal would language education benefit from dropping the idea of pre-existing fixed form-meaning connections? https://t.co/48smkaxruh",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ian_cushing",
+					"name": "Ian Cushing",
+					"id": 4135124181,
+					"id_str": "4135124181",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "DiLeed",
+					"name": "Diane Leedham",
+					"id": 2335217159,
+					"id_str": "2335217159",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "EAL_Journal",
+					"name": "EAL Journal",
+					"id": 725403907514585100,
+					"id_str": "725403907514585090",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/48smkaxruh",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/translanguaging",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1273923420569419800,
+		"in_reply_to_status_id_str": "1273923420569419781",
+		"in_reply_to_user_id": 4135124181,
+		"in_reply_to_user_id_str": "4135124181",
+		"in_reply_to_screen_name": "ian_cushing",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1945,
+			"friends_count": 1413,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ian_cushing @DiLeed @EAL_Journal would language education benefit from dropping the idea of pre-existing fixed form-meaning connections? https://t.co/48smkaxruh"
+	},
+	{
 		"created_at": "Thu Jun 18 18:56:13 +0000 2020",
 		"id": 1273691001350246400,
 		"id_str": "1273691001350246401",
