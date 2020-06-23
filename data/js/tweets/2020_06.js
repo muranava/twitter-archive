@@ -1,6 +1,975 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 21:48:04 +0000 2020",
+		"id": 1275183802365677600,
+		"id_str": "1275183802365677571",
+		"full_text": "@Ricky_Jeffrey yes the paradox of learning! or another phrasing have seen - horns of an ancient dilemma!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ricky_Jeffrey",
+					"name": "Ricky Jeffrey",
+					"id": 237250367,
+					"id_str": "237250367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275180445106352000,
+		"in_reply_to_status_id_str": "1275180445106352129",
+		"in_reply_to_user_id": 237250367,
+		"in_reply_to_user_id_str": "237250367",
+		"in_reply_to_screen_name": "Ricky_Jeffrey",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1946,
+			"friends_count": 1426,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ricky_Jeffrey yes the paradox of learning! or another phrasing have seen - horns of an ancient dilemma!"
+	},
+	{
+		"created_at": "Mon Jun 22 21:27:55 +0000 2020",
+		"id": 1275177825134313500,
+		"id_str": "1275178728214192128",
+		"full_text": "@sarahcpr Still holding out hope that we will work together soon https://t.co/PZqGkg1gZx",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahcpr",
+					"name": "Sarah Cooper",
+					"id": 14642495,
+					"id_str": "14642495",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275177701092069400,
+					"id_str": "1275177701092069378",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1275177701092069378/pu/img/sJbQFXlXkAUKfprC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1275177701092069378/pu/img/sJbQFXlXkAUKfprC.jpg",
+					"url": "https://t.co/PZqGkg1gZx",
+					"display_url": "pic.twitter.com/PZqGkg1gZx",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1275177825134313472/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275177701092069400,
+					"id_str": "1275177701092069378",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1275177701092069378/pu/img/sJbQFXlXkAUKfprC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1275177701092069378/pu/img/sJbQFXlXkAUKfprC.jpg",
+					"url": "https://t.co/PZqGkg1gZx",
+					"display_url": "pic.twitter.com/PZqGkg1gZx",
+					"expanded_url": "https://twitter.com/Angelo3000k/status/1275177825134313472/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59729,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1275177701092069378/pu/vid/320x400/bgmiEFT0iaqLEu5S.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1275177701092069378/pu/vid/720x900/P3fTr8E7n_ybglKY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1275177701092069378/pu/pl/MyvrLEqc55FRZG7C.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1275177701092069378/pu/vid/360x450/D5JNK0Jqd7Asq7XZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275160183598186500,
+		"in_reply_to_status_id_str": "1275160183598186496",
+		"in_reply_to_user_id": 14642495,
+		"in_reply_to_user_id_str": "14642495",
+		"in_reply_to_screen_name": "sarahcpr",
+		"user": {
+			"id": 289377954,
+			"id_str": "289377954",
+			"name": "Black Boris",
+			"screen_name": "Angelo3000k",
+			"location": "A man without a country",
+			"description": "Black Guy in a Box \nhttps://t.co/oKSzDHChuO \nBlack Unicorn (on hiatus) \nWriter\nTheatre Critic @ hotpotatohull\nCoach\nResearcher\nCurator",
+			"url": "https://t.co/didJsU5cXX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/didJsU5cXX",
+							"expanded_url": "https://m.soundcloud.com/blackguysinabox",
+							"display_url": "m.soundcloud.com/blackguysinabox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oKSzDHChuO",
+							"expanded_url": "http://Paypal.me/theblackunicorn",
+							"display_url": "Paypal.me/theblackunicorn",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6843,
+			"friends_count": 506,
+			"listed_count": 18,
+			"created_at": "Thu Apr 28 14:57:24 +0000 2011",
+			"favourites_count": 3282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261938361394245633/zR9Q_pUz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289377954/1590340275",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 90,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sarahcpr Still holding out hope that we will work together soon https://t.co/PZqGkg1gZx"
+	},
+	{
+		"created_at": "Mon Jun 22 21:24:36 +0000 2020",
+		"id": 1275163655768887300,
+		"id_str": "1275177893035937793",
+		"full_text": "Garment workers are protesting outside Euro factory in Bangalore \n\nH&amp;M cancelled orders and is REFUSING TO PAY FOR WORK DONE\n\n@hm made $1.8 BILLION in profit last year\nYet factory workers (85% women)\nare paid $2.3 per hour, in appalling abusive conditions\n https://t.co/rZ71Mw60KF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hm",
+					"name": "H&M",
+					"id": 14399483,
+					"id_str": "14399483",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274889583931658200,
+					"id_str": "1274889583931658242",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274889583931658242/pu/img/j2Teea1yZx6USZSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274889583931658242/pu/img/j2Teea1yZx6USZSZ.jpg",
+					"url": "https://t.co/rZ71Mw60KF",
+					"display_url": "pic.twitter.com/rZ71Mw60KF",
+					"expanded_url": "https://twitter.com/jeffhermanson/status/1274889975348289536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274889975348289500,
+					"source_status_id_str": "1274889975348289536",
+					"source_user_id": 14319373,
+					"source_user_id_str": "14319373"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274889583931658200,
+					"id_str": "1274889583931658242",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274889583931658242/pu/img/j2Teea1yZx6USZSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274889583931658242/pu/img/j2Teea1yZx6USZSZ.jpg",
+					"url": "https://t.co/rZ71Mw60KF",
+					"display_url": "pic.twitter.com/rZ71Mw60KF",
+					"expanded_url": "https://twitter.com/jeffhermanson/status/1274889975348289536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274889975348289500,
+					"source_status_id_str": "1274889975348289536",
+					"source_user_id": 14319373,
+					"source_user_id_str": "14319373",
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 63029,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274889583931658242/pu/vid/490x270/Ejfzl40-hfRNpM43.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274889583931658242/pu/vid/640x352/HiYOuQzEnUE72uC8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274889583931658242/pu/pl/P_5ksTuEcudLM090.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 14319373,
+							"id_str": "14319373",
+							"name": "jeffhermanson",
+							"screen_name": "jeffhermanson",
+							"location": "New York, NY",
+							"description": "Union Organizer",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 707,
+							"friends_count": 952,
+							"listed_count": 7,
+							"created_at": "Mon Apr 07 02:06:28 +0000 2008",
+							"favourites_count": 10430,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 10998,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/670593760053579776/NAjewk9Y_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/670593760053579776/NAjewk9Y_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 731922931333369900,
+			"id_str": "731922931333369856",
+			"name": "Dr Sonia Adesara - #Racism is a health crisis #BLM",
+			"screen_name": "SoniaAdesara",
+			"location": "London, England",
+			"description": "NHS Doctor 👩🏽‍⚕️| National Medical Director’s Clinical Fellow 18/19 | Communications Officer @DRsforChoice_uk | Former Director @5050parliament #AskHerToStand",
+			"url": "https://t.co/2D2hYK9ha1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2D2hYK9ha1",
+							"expanded_url": "https://soniaadesara.com",
+							"display_url": "soniaadesara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12551,
+			"friends_count": 3488,
+			"listed_count": 72,
+			"created_at": "Sun May 15 19:03:20 +0000 2016",
+			"favourites_count": 11320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239964296127246336/gT3tCTWy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239964296127246336/gT3tCTWy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/731922931333369856/1572540285",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 624,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Garment workers are protesting outside Euro factory in Bangalore \n\nH&amp;M cancelled orders and is REFUSING TO PAY FOR WORK DONE\n\n@hm made $1.8 BILLION in profit last year\nYet factory workers (85% women)\nare paid $2.3 per hour, in appalling abusive conditions\n https://t.co/rZ71Mw60KF"
+	},
+	{
+		"created_at": "Mon Jun 22 21:15:13 +0000 2020",
+		"id": 1275139535878439000,
+		"id_str": "1275175533530296323",
+		"full_text": "Teacher Survey – Precarity and the Lockdown! https://t.co/oimWLLeOUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oimWLLeOUq",
+					"expanded_url": "http://www.teachersasworkers.org/teacher-survey-precarity-and-the-lockdown/",
+					"display_url": "teachersasworkers.org/teacher-survey…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3152637711,
+			"id_str": "3152637711",
+			"name": "teachers_as_workers",
+			"screen_name": "taw_sig",
+			"location": "everywhere",
+			"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+			"url": "https://t.co/m5fCLqrXgN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m5fCLqrXgN",
+							"expanded_url": "http://www.teachersasworkers.org",
+							"display_url": "teachersasworkers.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1661,
+			"friends_count": 1109,
+			"listed_count": 22,
+			"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teacher Survey – Precarity and the Lockdown! https://t.co/oimWLLeOUq"
+	},
+	{
+		"created_at": "Mon Jun 22 21:13:59 +0000 2020",
+		"id": 1275142453696348200,
+		"id_str": "1275175222170304513",
+		"full_text": "If any #ELT/ #TEFL teachers out there have a few minutes to fill in Keith Copley's survey on precarity during lockdown that'd be great. https://t.co/BfvjrePBwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BfvjrePBwn",
+					"expanded_url": "https://www.surveymonkey.com/r/R6JSN5D",
+					"display_url": "surveymonkey.com/r/R6JSN5D",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 4982,
+			"listed_count": 52,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 4968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If any #ELT/ #TEFL teachers out there have a few minutes to fill in Keith Copley's survey on precarity during lockdown that'd be great. https://t.co/BfvjrePBwn"
+	},
+	{
+		"created_at": "Mon Jun 22 21:05:30 +0000 2020",
+		"id": 1275173087667990500,
+		"id_str": "1275173087667990530",
+		"full_text": "@Ricky_Jeffrey how about - learning is how to get something out of nothing : )",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ricky_Jeffrey",
+					"name": "Ricky Jeffrey",
+					"id": 237250367,
+					"id_str": "237250367",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275165979643981800,
+		"in_reply_to_status_id_str": "1275165979643981825",
+		"in_reply_to_user_id": 237250367,
+		"in_reply_to_user_id_str": "237250367",
+		"in_reply_to_screen_name": "Ricky_Jeffrey",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1946,
+			"friends_count": 1426,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ricky_Jeffrey how about - learning is how to get something out of nothing : )"
+	},
+	{
 		"created_at": "Sun Jun 21 22:43:56 +0000 2020",
 		"id": 1274835471827378200,
 		"id_str": "1274835471827378178",
