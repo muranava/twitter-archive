@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 22:51:39 +0000 2020",
+		"id": 1276103422094213000,
+		"id_str": "1276286963621003267",
+		"full_text": "Brilliant to speak to a man who gets exactly what @SFoodbanks @MerseyPPEHub are built on.\nSolidarity, collectivism and community.\nThanks to all the team at @LFC for letting us chat to the boss about the the efforts of football supporters across the country\n#SolidarityNotCharity https://t.co/ya6gJjdi6g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SolidarityNotCharity",
+					"indices": [
+						257,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SFoodbanks",
+					"name": "Fans Supporting Foodbanks",
+					"id": 4228802872,
+					"id_str": "4228802872",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "MerseyPPEHub",
+					"name": "Merseyside PPE Hub",
+					"id": 1246378326014529500,
+					"id_str": "1246378326014529537",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"screen_name": "LFC",
+					"name": "Liverpool FC (at 🏠)",
+					"id": 19583545,
+					"id_str": "19583545",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ya6gJjdi6g",
+					"expanded_url": "https://twitter.com/lfc/status/1276092774689968128",
+					"display_url": "twitter.com/lfc/status/127…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570352145,
+			"id_str": "570352145",
+			"name": "lan Byrne MP",
+			"screen_name": "IanByrneMP",
+			"location": "West Derby, Liverpool",
+			"description": "Labour Member of Parliament for Liverpool West Derby.🌹 Co-founder @SFoodbanks. Pls note I can't reply to casework via Twitter. Email ian.byrne.mp@parliament.uk",
+			"url": "https://t.co/Kpu0d2ufBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kpu0d2ufBt",
+							"expanded_url": "https://www.facebook.com/IanByrneMP/",
+							"display_url": "facebook.com/IanByrneMP/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18650,
+			"friends_count": 2962,
+			"listed_count": 125,
+			"created_at": "Thu May 03 22:58:31 +0000 2012",
+			"favourites_count": 10908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194577386278404097/s0T4S62k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194577386278404097/s0T4S62k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/570352145/1571590895",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276092774689968000,
+		"quoted_status_id_str": "1276092774689968128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ya6gJjdi6g",
+			"expanded": "https://twitter.com/lfc/status/1276092774689968128",
+			"display": "twitter.com/lfc/status/127…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 10:00:00 +0000 2020",
+			"id": 1276092774689968000,
+			"id_str": "1276092774689968128",
+			"full_text": "“In times of adversity, we do come together.”\n\n@MerseyPPEHub, with the help of @sfoodbanks and many volunteers have been providing vital PPE for the Liverpool region and beyond 👏 \n\nThe boss joined Reds and Blues on a call to learn more and thank them for their brilliant work ❤️ https://t.co/5Mlzu5AhMN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MerseyPPEHub",
+						"name": "Merseyside PPE Hub",
+						"id": 1246378326014529500,
+						"id_str": "1246378326014529537",
+						"indices": [
+							47,
+							60
+						]
+					},
+					{
+						"screen_name": "SFoodbanks",
+						"name": "Fans Supporting Foodbanks",
+						"id": 4228802872,
+						"id_str": "4228802872",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1275828278100664300,
+						"id_str": "1275828278100664324",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EbWS7DTWkAI4tJ1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbWS7DTWkAI4tJ1.jpg",
+						"url": "https://t.co/5Mlzu5AhMN",
+						"display_url": "pic.twitter.com/5Mlzu5AhMN",
+						"expanded_url": "https://twitter.com/LFC/status/1276092774689968128/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1275828278100664300,
+						"id_str": "1275828278100664324",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EbWS7DTWkAI4tJ1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbWS7DTWkAI4tJ1.jpg",
+						"url": "https://t.co/5Mlzu5AhMN",
+						"display_url": "pic.twitter.com/5Mlzu5AhMN",
+						"expanded_url": "https://twitter.com/LFC/status/1276092774689968128/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 304080,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1275828278100664324/vid/640x360/_CWET1FLS2cV7Gfj.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1275828278100664324/pl/qPE74AfLDeOggqnd.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1275828278100664324/vid/480x270/MNrDR54cjt9lBl6c.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1275828278100664324/vid/1280x720/9Hr-kekXjojMolK3.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19583545,
+				"id_str": "19583545",
+				"name": "Liverpool FC (Premier League Champions 🏆)",
+				"screen_name": "LFC",
+				"location": "Merseyside",
+				"description": "Official global account of Liverpool Football Club, Premier League champions. For LFC Fan Services, contact our team at @LFCHelp.",
+				"url": "https://t.co/kAhgHzcxG9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kAhgHzcxG9",
+								"expanded_url": "https://bit.ly/EPL_Champions1920",
+								"display_url": "bit.ly/EPL_Champions1…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14813284,
+				"friends_count": 370630,
+				"listed_count": 23648,
+				"created_at": "Tue Jan 27 09:05:21 +0000 2009",
+				"favourites_count": 12021,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 88597,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FAF5F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276261598408192006/XKSDnz1S_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276261598408192006/XKSDnz1S_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19583545/1593119453",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "CC0000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 448,
+			"favorite_count": 2863,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 150,
+		"favorite_count": 389,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant to speak to a man who gets exactly what @SFoodbanks @MerseyPPEHub are built on.\nSolidarity, collectivism and community.\nThanks to all the team at @LFC for letting us chat to the boss about the the efforts of football supporters across the country\n#SolidarityNotCharity https://t.co/ya6gJjdi6g"
+	},
+	{
+		"created_at": "Thu Jun 25 10:29:03 +0000 2020",
+		"id": 1276100086083260400,
+		"id_str": "1276100086083260416",
+		"full_text": "@seburnt Not sure if u aware.of this but many older Macs can run latest osx  https://t.co/CRJ2nRoc8b",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seburnt",
+					"name": "Tyson Seburn",
+					"id": 20650366,
+					"id_str": "20650366",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CRJ2nRoc8b",
+					"expanded_url": "http://dosdude1.com/catalina/",
+					"display_url": "dosdude1.com/catalina/",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1275994025229783000,
+		"in_reply_to_status_id_str": "1275994025229783042",
+		"in_reply_to_user_id": 20650366,
+		"in_reply_to_user_id_str": "20650366",
+		"in_reply_to_screen_name": "seburnt",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 1442,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 11989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@seburnt Not sure if u aware.of this but many older Macs can run latest osx  https://t.co/CRJ2nRoc8b"
+	},
+	{
 		"created_at": "Wed Jun 24 20:27:46 +0000 2020",
 		"id": 1275888368681877500,
 		"id_str": "1275888368681877505",
