@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 20:26:23 +0000 2020",
+		"id": 1277337572545618000,
+		"id_str": "1277337572545617922",
+		"full_text": "@jasonelt @corvidresearch @Corvid_Isle recall reading one skeptical point - animals see their \"self\" in reflections/mirrors as much as they do when they see a part of their body",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonelt",
+					"name": "Jason Anderson",
+					"id": 898784550939242500,
+					"id_str": "898784550939242496",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "corvidresearch",
+					"name": "Kaeli Swift, Ph.D.",
+					"id": 2967402199,
+					"id_str": "2967402199",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "Corvid_Isle",
+					"name": "Corvid Isle",
+					"id": 890323775849418800,
+					"id_str": "890323775849418752",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1277334701741613000,
+		"in_reply_to_status_id_str": "1277334701741613063",
+		"in_reply_to_user_id": 898784550939242500,
+		"in_reply_to_user_id_str": "898784550939242496",
+		"in_reply_to_screen_name": "jasonelt",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1954,
+			"friends_count": 1459,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jasonelt @corvidresearch @Corvid_Isle recall reading one skeptical point - animals see their \"self\" in reflections/mirrors as much as they do when they see a part of their body"
+	},
+	{
+		"created_at": "Sun Jun 28 18:35:32 +0000 2020",
+		"id": 1277243797244506000,
+		"id_str": "1277309673151115266",
+		"full_text": "I'm sharing my Rapid Reading course materials I made as an #OER.  #ELT #TEFL #reading https://t.co/hv1gR6VB3S\n\nLet me know if you use them and feel free to adapt as required.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "reading",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hv1gR6VB3S",
+					"expanded_url": "http://getgreatenglish.com/ftsd/2020/06/28/resource-rapid-reading-student-resource/",
+					"display_url": "getgreatenglish.com/ftsd/2020/06/2…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 903200845671440400,
+			"id_str": "903200845671440384",
+			"name": "Exclamation Marc",
+			"screen_name": "11thhourspecial",
+			"location": "Kawasaki, Japan",
+			"description": "English Teacher @ unis in Tokyo. ❤️ listening/pronunciation/phonology/TBLT. #ADHD, misanthropy, leftist, ate the last biscuit.",
+			"url": "https://t.co/fzYN3IGXMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fzYN3IGXMR",
+							"expanded_url": "http://getgreatenglish.com/ftsd/",
+							"display_url": "getgreatenglish.com/ftsd/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1651,
+			"friends_count": 1130,
+			"listed_count": 16,
+			"created_at": "Thu Aug 31 10:20:37 +0000 2017",
+			"favourites_count": 9181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220860756570193920/75qUQzsD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/903200845671440384/1533999204",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm sharing my Rapid Reading course materials I made as an #OER.  #ELT #TEFL #reading https://t.co/hv1gR6VB3S\n\nLet me know if you use them and feel free to adapt as required."
+	},
+	{
 		"created_at": "Sat Jun 27 12:54:47 +0000 2020",
 		"id": 1276861534254358500,
 		"id_str": "1276861534254358530",
