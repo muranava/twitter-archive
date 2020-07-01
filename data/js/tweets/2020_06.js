@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 14:51:22 +0000 2020",
+		"id": 1277978037414269000,
+		"id_str": "1277978037414268935",
+		"full_text": "Why the term “BIPOC” is so complicated, explained by linguists https://t.co/gKqCAEPeZz via @voxdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "voxdotcom",
+					"name": "Vox",
+					"id": 2347049341,
+					"id_str": "2347049341",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gKqCAEPeZz",
+					"expanded_url": "https://www.vox.com/2020/6/30/21300294/bipoc-what-does-it-mean-critical-race-linguistics-jonathan-rosa-deandra-miles-hercules?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter",
+					"display_url": "vox.com/2020/6/30/2130…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1960,
+			"friends_count": 1472,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why the term “BIPOC” is so complicated, explained by linguists https://t.co/gKqCAEPeZz via @voxdotcom"
+	},
+	{
+		"created_at": "Tue Jun 30 13:56:37 +0000 2020",
+		"id": 1277950014682280000,
+		"id_str": "1277964258630701057",
+		"full_text": "The call to defund the police is about the re-allocation of resources.\nIn the UK we need more funding for social work, mental healthcare and education, which can prevent crime and take power away from the police. @AyoCaesar discusses on #TyskySour. https://t.co/M4Wu0DLM52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TyskySour",
+					"indices": [
+						237,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AyoCaesar",
+					"name": "Ash Sarkar",
+					"id": 619050616,
+					"id_str": "619050616",
+					"indices": [
+						213,
+						223
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277913244389253000,
+					"id_str": "1277913244389253121",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EbwfwSBXYAEthGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbwfwSBXYAEthGp.jpg",
+					"url": "https://t.co/M4Wu0DLM52",
+					"display_url": "pic.twitter.com/M4Wu0DLM52",
+					"expanded_url": "https://twitter.com/novaramedia/status/1277950014682279936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277913244389253000,
+					"id_str": "1277913244389253121",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EbwfwSBXYAEthGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbwfwSBXYAEthGp.jpg",
+					"url": "https://t.co/M4Wu0DLM52",
+					"display_url": "pic.twitter.com/M4Wu0DLM52",
+					"expanded_url": "https://twitter.com/novaramedia/status/1277950014682279936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 144811,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277913244389253121/vid/1280x720/IENxFFJRbPSVgmWK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1277913244389253121/pl/yGjsHJVr2w311nB8.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277913244389253121/vid/480x270/Nbv_ICmn3zTc7fbI.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277913244389253121/vid/640x360/26DzHMFOw569BD8D.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Should We Defund The Police In Britain?",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://novara.media/culturewarscancelled"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 601148365,
+			"id_str": "601148365",
+			"name": "Novara Media",
+			"screen_name": "novaramedia",
+			"location": "London",
+			"description": "📺 📰🎙🚩 New media for a different politics.",
+			"url": "https://t.co/jdXE3MEsFR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jdXE3MEsFR",
+							"expanded_url": "http://novaramedia.com/support",
+							"display_url": "novaramedia.com/support",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121977,
+			"friends_count": 1050,
+			"listed_count": 870,
+			"created_at": "Wed Jun 06 17:33:33 +0000 2012",
+			"favourites_count": 2987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601148365/1583449838",
+			"profile_link_color": "A3A3A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 253,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The call to defund the police is about the re-allocation of resources.\nIn the UK we need more funding for social work, mental healthcare and education, which can prevent crime and take power away from the police. @AyoCaesar discusses on #TyskySour. https://t.co/M4Wu0DLM52"
+	},
+	{
+		"created_at": "Tue Jun 30 10:17:46 +0000 2020",
+		"id": 1277908527265218600,
+		"id_str": "1277909184659492865",
+		"full_text": "Why is EF language school making redundancies while hiring online teachers at only pennies above the minimum wage? What's it like as an online teacher at EF?\n\nhttps://t.co/zGaKE58HDF\n\nIf you work at EF, The #union has got your back!\n\ntefl@iww.org.uk for advice &amp; support.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "union",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zGaKE58HDF",
+					"expanded_url": "https://iww.org.uk/news/i-think-we-can-safely-call-this-a-minimum-wage-job-an-account-of-an-ef-online-teacher/",
+					"display_url": "iww.org.uk/news/i-think-w…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 990,
+			"friends_count": 98,
+			"listed_count": 9,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is EF language school making redundancies while hiring online teachers at only pennies above the minimum wage? What's it like as an online teacher at EF?\n\nhttps://t.co/zGaKE58HDF\n\nIf you work at EF, The #union has got your back!\n\ntefl@iww.org.uk for advice &amp; support."
+	},
+	{
+		"created_at": "Tue Jun 30 10:01:52 +0000 2020",
+		"id": 1277905180651139000,
+		"id_str": "1277905180651139136",
+		"full_text": "@ziahaiderrahman @profdanhicks it's complicated dontchaknow",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ziahaiderrahman",
+					"name": "Zia Haider Rahman",
+					"id": 196226765,
+					"id_str": "196226765",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "profdanhicks",
+					"name": "Dan Hicks",
+					"id": 247476364,
+					"id_str": "247476364",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1277903844433899500,
+		"in_reply_to_status_id_str": "1277903844433899520",
+		"in_reply_to_user_id": 196226765,
+		"in_reply_to_user_id_str": "196226765",
+		"in_reply_to_screen_name": "ziahaiderrahman",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1960,
+			"friends_count": 1472,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ziahaiderrahman @profdanhicks it's complicated dontchaknow"
+	},
+	{
+		"created_at": "Tue Jun 30 09:57:06 +0000 2020",
+		"id": 1277895948694442000,
+		"id_str": "1277903983630323712",
+		"full_text": "« ...dans la France périphérique, celle des petites communes et des villes moyennes, la \"vague verte\" est tout bonnement inexistante » https://t.co/0lmdBK2E64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0lmdBK2E64",
+					"expanded_url": "https://www.marianne.net/politique/municipales-derriere-la-vague-verte-des-metropoles-gare-l-embourgeoisement-de-la-gauche",
+					"display_url": "marianne.net/politique/muni…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 509564171,
+			"id_str": "509564171",
+			"name": "Cole Stangler",
+			"screen_name": "ColeStangler",
+			"location": "Paris, France",
+			"description": "Paris journalist covering labor & politics / cstang57 at gmail",
+			"url": "https://t.co/q91bMqycbj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q91bMqycbj",
+							"expanded_url": "http://colestangler.com",
+							"display_url": "colestangler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5423,
+			"friends_count": 989,
+			"listed_count": 165,
+			"created_at": "Thu Mar 01 01:44:41 +0000 2012",
+			"favourites_count": 9348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945772112089792512/zaZM54Nt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945772112089792512/zaZM54Nt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/509564171/1488120721",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "« ...dans la France périphérique, celle des petites communes et des villes moyennes, la \"vague verte\" est tout bonnement inexistante » https://t.co/0lmdBK2E64"
+	},
+	{
 		"created_at": "Mon Jun 29 23:47:20 +0000 2020",
 		"id": 1277750531394605000,
 		"id_str": "1277750531394605061",
