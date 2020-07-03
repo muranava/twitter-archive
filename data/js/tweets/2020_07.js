@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 18:28:09 +0000 2020",
+		"id": 1278757367912562700,
+		"id_str": "1278757367912562691",
+		"full_text": "ClubClass Strike in Malta: Solidarity from Ireland https://t.co/OA6IjlmaTz via @wordpressdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OA6IjlmaTz",
+					"expanded_url": "https://eltadvocacy.wordpress.com/2020/07/02/clubclass-strike-in-malta-solidarity-from-ireland/",
+					"display_url": "eltadvocacy.wordpress.com/2020/07/02/clu…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 1478,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ClubClass Strike in Malta: Solidarity from Ireland https://t.co/OA6IjlmaTz via @wordpressdotcom"
+	},
+	{
+		"created_at": "Thu Jul 02 18:21:58 +0000 2020",
+		"id": 1278564231949029400,
+		"id_str": "1278755813377609729",
+		"full_text": "s/o to @eveewing for changing my mind on this like a year ago but the sci-fi force field connection here really sealed it (jk, not jk)—This is an important convo to have in/about your local news org btw https://t.co/57APTCjVqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eveewing",
+					"name": "wikipedia brown is behind the fireworks. surprise",
+					"id": 19166519,
+					"id_str": "19166519",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/57APTCjVqZ",
+					"expanded_url": "https://link.medium.com/iSt4vNqJM7",
+					"display_url": "link.medium.com/iSt4vNqJM7",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255616143,
+			"id_str": "255616143",
+			"name": "Darryl Holliday",
+			"screen_name": "d_holli",
+			"location": "Chicago, IL",
+			"description": "@city_bureau co-founder, lab director | @ChiDocumenters MC | formerly @invinst | 143 @the_illus_press  | ✶ ✶ ✶ ✶",
+			"url": "https://t.co/Gl4EhRA3VL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gl4EhRA3VL",
+							"expanded_url": "http://darrylholliday.com",
+							"display_url": "darrylholliday.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6172,
+			"friends_count": 3093,
+			"listed_count": 218,
+			"created_at": "Mon Feb 21 18:40:20 +0000 2011",
+			"favourites_count": 9825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8BB381",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/746451947016753152/5d6of0H__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/746451947016753152/5d6of0H__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255616143/1438707825",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1d9a5370a355ab0c",
+			"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+			"place_type": "city",
+			"name": "Chicago",
+			"full_name": "Chicago, IL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.940033,
+							41.644102
+						],
+						[
+							-87.523993,
+							41.644102
+						],
+						[
+							-87.523993,
+							42.0230669
+						],
+						[
+							-87.940033,
+							42.0230669
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 66,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "s/o to @eveewing for changing my mind on this like a year ago but the sci-fi force field connection here really sealed it (jk, not jk)—This is an important convo to have in/about your local news org btw https://t.co/57APTCjVqZ"
+	},
+	{
+		"created_at": "Thu Jul 02 18:00:09 +0000 2020",
+		"id": 1278691600818770000,
+		"id_str": "1278750322710777857",
+		"full_text": "Reminder about this great talk that will be held on Saturday! https://t.co/8TC3RuE37R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TC3RuE37R",
+					"expanded_url": "https://twitter.com/WOCinELT/status/1276425225538691072",
+					"display_url": "twitter.com/WOCinELT/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840002164919418900,
+			"id_str": "840002164919418881",
+			"name": "Michael Hollenback",
+			"screen_name": "mdhollenback",
+			"location": "",
+			"description": "神戸市外国語大学国際関係学科准教授/ PhD Student @ Lancaster U: Education & Social Justice / All opinions my own / he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350,
+			"friends_count": 374,
+			"listed_count": 3,
+			"created_at": "Fri Mar 10 00:51:37 +0000 2017",
+			"favourites_count": 3553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212234838113079296/7Ox0FlUF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212234838113079296/7Ox0FlUF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840002164919418881/1577854283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276425225538691000,
+		"quoted_status_id_str": "1276425225538691072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8TC3RuE37R",
+			"expanded": "https://twitter.com/WOCinELT/status/1276425225538691072",
+			"display": "twitter.com/WOCinELT/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 26 08:01:03 +0000 2020",
+			"id": 1276425225538691000,
+			"id_str": "1276425225538691072",
+			"full_text": "Together with @ELT4SJ, we’re hosting a Reading Circle\nWe‘ll be discussing the ideas of \"diversity\" &amp; \"inclusion\" &amp; problematizing how they reinforce the centering of whiteness.\nWe‘re happy to announce that we‘ll be joined by Dr. @Bali_Maha. \nPlease DM us 4 more info. \n#WOCinELT https://t.co/yhfl5GsP0h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				286
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WOCinELT",
+						"indices": [
+							277,
+							286
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ELT4SJ",
+						"name": "ELT for Social Justice",
+						"id": 1266912265741103000,
+						"id_str": "1266912265741103105",
+						"indices": [
+							14,
+							21
+						]
+					},
+					{
+						"screen_name": "Bali_Maha",
+						"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+						"id": 1535273520,
+						"id_str": "1535273520",
+						"indices": [
+							237,
+							247
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1276425219658313700,
+						"id_str": "1276425219658313728",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/EbbF-XgVcAAeLhT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbbF-XgVcAAeLhT.jpg",
+						"url": "https://t.co/yhfl5GsP0h",
+						"display_url": "pic.twitter.com/yhfl5GsP0h",
+						"expanded_url": "https://twitter.com/WOCinELT/status/1276425225538691072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 642,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276425219658313700,
+						"id_str": "1276425219658313728",
+						"indices": [
+							287,
+							310
+						],
+						"media_url": "http://pbs.twimg.com/media/EbbF-XgVcAAeLhT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbbF-XgVcAAeLhT.jpg",
+						"url": "https://t.co/yhfl5GsP0h",
+						"display_url": "pic.twitter.com/yhfl5GsP0h",
+						"expanded_url": "https://twitter.com/WOCinELT/status/1276425225538691072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 642,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 582,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1123152376381075500,
+				"id_str": "1123152376381075457",
+				"name": "Women of Color in ELT",
+				"screen_name": "WOCinELT",
+				"location": "everywhere ",
+				"description": "We are Women of Color in #ELT (English Language Teaching) standing together #WOCinELT ✊🏿✊🏼✊🏽✊🏻✊🏾 RT & Follows ≠ endorsement",
+				"url": "https://t.co/e2oxJaDisR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e2oxJaDisR",
+								"expanded_url": "https://womenofcolorinelt.wordpress.com/",
+								"display_url": "womenofcolorinelt.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1047,
+				"friends_count": 1958,
+				"listed_count": 8,
+				"created_at": "Tue Apr 30 09:09:28 +0000 2019",
+				"favourites_count": 9734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6164,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130475375564185600/A5jbhDq4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130475375564185600/A5jbhDq4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123152376381075457/1558758262",
+				"profile_link_color": "59200D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reminder about this great talk that will be held on Saturday! https://t.co/8TC3RuE37R"
+	},
+	{
+		"created_at": "Thu Jul 02 12:36:18 +0000 2020",
+		"id": 1278668822803894300,
+		"id_str": "1278668822803894275",
+		"full_text": "@garyyounge @momokabbani The Guardian published police call for suspects no?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "garyyounge",
+					"name": "Gary Younge",
+					"id": 149272318,
+					"id_str": "149272318",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "momokabbani",
+					"name": "Momo",
+					"id": 596697403,
+					"id_str": "596697403",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278639158102306800,
+		"in_reply_to_status_id_str": "1278639158102306817",
+		"in_reply_to_user_id": 149272318,
+		"in_reply_to_user_id_str": "149272318",
+		"in_reply_to_screen_name": "garyyounge",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 1478,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@garyyounge @momokabbani The Guardian published police call for suspects no?"
+	},
+	{
+		"created_at": "Thu Jul 02 09:33:25 +0000 2020",
+		"id": 1278622798076874800,
+		"id_str": "1278622798076874752",
+		"full_text": "@nazkebab77 @ChardineTaylor @UKLabour ah seems Scum just branded vid, typical",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nazkebab77",
+					"name": "manifesting the unseen",
+					"id": 256910790,
+					"id_str": "256910790",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ChardineTaylor",
+					"name": "Chardine Taylor Stone 🌹",
+					"id": 273021371,
+					"id_str": "273021371",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "UKLabour",
+					"name": "The Labour Party",
+					"id": 14291684,
+					"id_str": "14291684",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1278619030241390600,
+		"in_reply_to_status_id_str": "1278619030241390593",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 1478,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nazkebab77 @ChardineTaylor @UKLabour ah seems Scum just branded vid, typical"
+	},
+	{
 		"created_at": "Wed Jul 01 18:36:58 +0000 2020",
 		"id": 1278397200620490800,
 		"id_str": "1278397200620490759",
