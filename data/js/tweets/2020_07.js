@@ -1,6 +1,807 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 21:22:17 +0000 2020",
+		"id": 1279881532287717400,
+		"id_str": "1279888356189577216",
+		"full_text": "There's an #ELT school in Malta going on strike on their first day back.\n\nShow some solidarity.\n\nhttps://t.co/n0uOqlgzJ4\n\n@UniteunionROI @IWW_Europe @TeflUnion @IWUDublin @forsa_union_ie @fsuireland @MandateTU @ELTuniondublin @GraftonSupport @generalunion https://t.co/khFLmzE2F4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniteunionROI",
+					"name": "UNITE union Ireland",
+					"id": 197063670,
+					"id_str": "197063670",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "IWW_Europe",
+					"name": "IWW Europe",
+					"id": 870007994,
+					"id_str": "870007994",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "IWUDublin",
+					"name": "I. W. U. Dublin",
+					"id": 517954823,
+					"id_str": "517954823",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"screen_name": "forsa_union_ie",
+					"name": "Fórsa trade union",
+					"id": 79178462,
+					"id_str": "79178462",
+					"indices": [
+						171,
+						186
+					]
+				},
+				{
+					"screen_name": "fsuireland",
+					"name": "Financial Services Union",
+					"id": 702215941673848800,
+					"id_str": "702215941673848835",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"screen_name": "MandateTU",
+					"name": "Mandate Trade Union",
+					"id": 115367612,
+					"id_str": "115367612",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "ELTuniondublin",
+					"name": "ELTdublin",
+					"id": 1183334945713983500,
+					"id_str": "1183334945713983490",
+					"indices": [
+						210,
+						225
+					]
+				},
+				{
+					"screen_name": "GraftonSupport",
+					"name": "SupportGraftonTeachers",
+					"id": 1069630683692322800,
+					"id_str": "1069630683692322817",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"screen_name": "generalunion",
+					"name": "General Union Japan",
+					"id": 15333155,
+					"id_str": "15333155",
+					"indices": [
+						242,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n0uOqlgzJ4",
+					"expanded_url": "https://lovinmalta.com/news/struggling-swieqi-english-language-teachers-to-hold-historic-strike-on-first-day-of-schools-reopening/",
+					"display_url": "lovinmalta.com/news/strugglin…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1279880859525488600,
+					"id_str": "1279880859525488647",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMM3FLWoAcrKql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMM3FLWoAcrKql.jpg",
+					"url": "https://t.co/khFLmzE2F4",
+					"display_url": "pic.twitter.com/khFLmzE2F4",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1279881532287717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279880859525488600,
+					"id_str": "1279880859525488647",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EcMM3FLWoAcrKql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcMM3FLWoAcrKql.jpg",
+					"url": "https://t.co/khFLmzE2F4",
+					"display_url": "pic.twitter.com/khFLmzE2F4",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1279881532287717376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1338,
+			"friends_count": 1123,
+			"listed_count": 23,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 6507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There's an #ELT school in Malta going on strike on their first day back.\n\nShow some solidarity.\n\nhttps://t.co/n0uOqlgzJ4\n\n@UniteunionROI @IWW_Europe @TeflUnion @IWUDublin @forsa_union_ie @fsuireland @MandateTU @ELTuniondublin @GraftonSupport @generalunion https://t.co/khFLmzE2F4"
+	},
+	{
+		"created_at": "Sun Jul 05 21:22:00 +0000 2020",
+		"id": 1279882565424427000,
+		"id_str": "1279888281149288453",
+		"full_text": "Struggling Swieqi English Language Teachers To Hold Historic Strike On First Day Of School’s Reopening: https://t.co/ZnZY1qtNLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZnZY1qtNLQ",
+					"expanded_url": "https://lovinmalta.com/news/struggling-swieqi-english-language-teachers-to-hold-historic-strike-on-first-day-of-schools-reopening/",
+					"display_url": "lovinmalta.com/news/strugglin…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20932918,
+			"id_str": "20932918",
+			"name": "blairteacher",
+			"screen_name": "blairteacher",
+			"location": "East Neuk of Fife",
+			"description": "Teaching Fellow, University of St Andrews. MSc TESOL, EAP and Technology for Teaching.",
+			"url": "https://t.co/aGZQxUbdaz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aGZQxUbdaz",
+							"expanded_url": "https://blairteacher.github.io/blairteacher/",
+							"display_url": "blairteacher.github.io/blairteacher/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 763,
+			"friends_count": 457,
+			"listed_count": 25,
+			"created_at": "Sun Feb 15 20:04:22 +0000 2009",
+			"favourites_count": 17738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BEB9A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247951573247856642/PLwUmQLt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247951573247856642/PLwUmQLt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20932918/1593764790",
+			"profile_link_color": "B01C2E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Struggling Swieqi English Language Teachers To Hold Historic Strike On First Day Of School’s Reopening: https://t.co/ZnZY1qtNLQ"
+	},
+	{
+		"created_at": "Sun Jul 05 20:31:24 +0000 2020",
+		"id": 1279875550362980400,
+		"id_str": "1279875550362980352",
+		"full_text": "another interesting podcast which prompted me to ask about the Assumption of progress in language teaching https://t.co/YDVsonp4zu https://t.co/WVqsco2oGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDVsonp4zu",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/progress",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/WVqsco2oGP",
+					"expanded_url": "https://twitter.com/SLBCoop/status/1279093056323620865",
+					"display_url": "twitter.com/SLBCoop/status…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 1491,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279093056323620900,
+		"quoted_status_id_str": "1279093056323620865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WVqsco2oGP",
+			"expanded": "https://twitter.com/SLBCoop/status/1279093056323620865",
+			"display": "twitter.com/SLBCoop/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 03 16:42:03 +0000 2020",
+			"id": 1279093056323620900,
+			"id_str": "1279093056323620865",
+			"full_text": "New SLB podcast just out - \"We need to talk about coursebooks\" pt. 1 with @GeoffJordan17, Nick White, @MatthewEllman and @neil_mcm, talking about, er, coursebooks. https://t.co/tdDC3wVI74",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GeoffJordan17",
+						"name": "Geoff Jordan",
+						"id": 1202653711052480500,
+						"id_str": "1202653711052480512",
+						"indices": [
+							74,
+							88
+						]
+					},
+					{
+						"screen_name": "MatthewEllman",
+						"name": "Matthew Ellman",
+						"id": 394987109,
+						"id_str": "394987109",
+						"indices": [
+							102,
+							116
+						]
+					},
+					{
+						"screen_name": "neil_mcm",
+						"name": "Neil McMillan",
+						"id": 60425505,
+						"id_str": "60425505",
+						"indices": [
+							121,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tdDC3wVI74",
+						"expanded_url": "https://www.slb.coop/the-slb-podcast/",
+						"display_url": "slb.coop/the-slb-podcas…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365399801,
+				"id_str": "2365399801",
+				"name": "Serveis Lingüístics de Barcelona",
+				"screen_name": "SLBCoop",
+				"location": "Barcelona, Catalunya, Espanya",
+				"description": "We are a cooperative of language professionals based in Barcelona, Catalonia. Som una cooperativa de professionals d'idiomes treballant a Barcelona, Catalunya.",
+				"url": "https://t.co/HVoXtXYxKW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HVoXtXYxKW",
+								"expanded_url": "https://www.slb.coop",
+								"display_url": "slb.coop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1379,
+				"friends_count": 988,
+				"listed_count": 43,
+				"created_at": "Fri Feb 28 10:14:54 +0000 2014",
+				"favourites_count": 2163,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705151471386546176/ECVLcba-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365399801/1457008364",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "another interesting podcast which prompted me to ask about the Assumption of progress in language teaching https://t.co/YDVsonp4zu https://t.co/WVqsco2oGP"
+	},
+	{
+		"created_at": "Sun Jul 05 10:23:02 +0000 2020",
+		"id": 1279722449739952000,
+		"id_str": "1279722449739952128",
+		"full_text": "@AdamRutherford for a physical scientist like Krauss to overlook feedback effects is telling",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamRutherford",
+					"name": "Dr Adam Rutherford",
+					"id": 22419487,
+					"id_str": "22419487",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1279704664955596800,
+		"in_reply_to_status_id_str": "1279704664955596801",
+		"in_reply_to_user_id": 22419487,
+		"in_reply_to_user_id_str": "22419487",
+		"in_reply_to_screen_name": "AdamRutherford",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 1491,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdamRutherford for a physical scientist like Krauss to overlook feedback effects is telling"
+	},
+	{
 		"created_at": "Sat Jul 04 12:02:14 +0000 2020",
 		"id": 1279385026925416400,
 		"id_str": "1279385026925416448",
