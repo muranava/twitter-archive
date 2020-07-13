@@ -1,6 +1,1084 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 12 15:31:15 +0000 2020",
+		"id": 1282336729786130400,
+		"id_str": "1282336729786130432",
+		"full_text": "@Julian__West @MediocreDave @perdricof @chick_in_kiev Yes agency is clear, this is an interesting take on such discussions https://t.co/FtNB4B9Cf0",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Julian__West",
+					"name": "10 Perfectly Good Peas Moved To The Edge",
+					"id": 33575719,
+					"id_str": "33575719",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MediocreDave",
+					"name": "Nobility of Shirk",
+					"id": 141188735,
+					"id_str": "141188735",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "perdricof",
+					"name": "Dr. Samantha Hancox-Li",
+					"id": 789536590565511200,
+					"id_str": "789536590565511168",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "chick_in_kiev",
+					"name": "Talia Lavin",
+					"id": 595245502,
+					"id_str": "595245502",
+					"indices": [
+						39,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FtNB4B9Cf0",
+					"expanded_url": "https://mobile.twitter.com/Futurealisreal/status/1282194838469906432",
+					"display_url": "mobile.twitter.com/Futurealisreal…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282328410245738500,
+		"in_reply_to_status_id_str": "1282328410245738496",
+		"in_reply_to_user_id": 33575719,
+		"in_reply_to_user_id_str": "33575719",
+		"in_reply_to_screen_name": "Julian__West",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1521,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282194838469906400,
+		"quoted_status_id_str": "1282194838469906432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FtNB4B9Cf0",
+			"expanded": "https://mobile.twitter.com/Futurealisreal/status/1282194838469906432",
+			"display": "mobile.twitter.com/Futurealisreal…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 12 06:07:26 +0000 2020",
+			"id": 1282194838469906400,
+			"id_str": "1282194838469906432",
+			"full_text": "Grammar as metaphor https://t.co/kdR1kkIAn4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kdR1kkIAn4",
+						"expanded_url": "https://futurealisreal.wordpress.com/2020/07/11/grammar-as-metaphor/",
+						"display_url": "futurealisreal.wordpress.com/2020/07/11/gra…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1740448560,
+				"id_str": "1740448560",
+				"name": "Mark Makino",
+				"screen_name": "Futurealisreal",
+				"location": "Orange County→富士宮市→オレンジ郡→???",
+				"description": "I teach English as just another language.",
+				"url": "https://t.co/kO7OQYxXxj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kO7OQYxXxj",
+								"expanded_url": "https://futurealisreal.wordpress.com/",
+								"display_url": "futurealisreal.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 538,
+				"friends_count": 376,
+				"listed_count": 16,
+				"created_at": "Sat Sep 07 04:27:11 +0000 2013",
+				"favourites_count": 6296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2947,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880841615966846976/ty35-1I2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880841615966846976/ty35-1I2_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Julian__West @MediocreDave @perdricof @chick_in_kiev Yes agency is clear, this is an interesting take on such discussions https://t.co/FtNB4B9Cf0"
+	},
+	{
+		"created_at": "Sun Jul 12 14:44:33 +0000 2020",
+		"id": 1282324977207914500,
+		"id_str": "1282324977207914498",
+		"full_text": "@MediocreDave @perdricof @chick_in_kiev Yes and what is most obvious or natural way in news reports? Usually \"passive hall of fame\" discussions centre on headlines, this one is buried in article",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MediocreDave",
+					"name": "Nobility of Shirk",
+					"id": 141188735,
+					"id_str": "141188735",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "perdricof",
+					"name": "Dr. Samantha Hancox-Li",
+					"id": 789536590565511200,
+					"id_str": "789536590565511168",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "chick_in_kiev",
+					"name": "Talia Lavin",
+					"id": 595245502,
+					"id_str": "595245502",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282307087821873200,
+		"in_reply_to_status_id_str": "1282307087821873157",
+		"in_reply_to_user_id": 141188735,
+		"in_reply_to_user_id_str": "141188735",
+		"in_reply_to_screen_name": "MediocreDave",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1521,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MediocreDave @perdricof @chick_in_kiev Yes and what is most obvious or natural way in news reports? Usually \"passive hall of fame\" discussions centre on headlines, this one is buried in article"
+	},
+	{
+		"created_at": "Sun Jul 12 12:53:24 +0000 2020",
+		"id": 1282297004366925800,
+		"id_str": "1282297004366925826",
+		"full_text": "@perdricof @MediocreDave @chick_in_kiev Though later in article victim's son asks why other things like a taser or tear gas not used, so bullets in subject position could be seen to be evoking this aspect? As well as being less common use in UK?",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perdricof",
+					"name": "Dr. Samantha Hancox-Li",
+					"id": 789536590565511200,
+					"id_str": "789536590565511168",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MediocreDave",
+					"name": "Nobility of Shirk",
+					"id": 141188735,
+					"id_str": "141188735",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "chick_in_kiev",
+					"name": "Talia Lavin",
+					"id": 595245502,
+					"id_str": "595245502",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282283215827460000,
+		"in_reply_to_status_id_str": "1282283215827460096",
+		"in_reply_to_user_id": 789536590565511200,
+		"in_reply_to_user_id_str": "789536590565511168",
+		"in_reply_to_screen_name": "perdricof",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1521,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@perdricof @MediocreDave @chick_in_kiev Though later in article victim's son asks why other things like a taser or tear gas not used, so bullets in subject position could be seen to be evoking this aspect? As well as being less common use in UK?"
+	},
+	{
+		"created_at": "Sun Jul 12 12:31:15 +0000 2020",
+		"id": 1282291430107558000,
+		"id_str": "1282291430107557890",
+		"full_text": "@RemivanTrijp Are u saying languages are the ants and not people in your analogy?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemivanTrijp",
+					"name": "Remi van Trijp",
+					"id": 2707625906,
+					"id_str": "2707625906",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1282288718733348900,
+		"in_reply_to_status_id_str": "1282288718733348867",
+		"in_reply_to_user_id": 2707625906,
+		"in_reply_to_user_id_str": "2707625906",
+		"in_reply_to_screen_name": "RemivanTrijp",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1521,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RemivanTrijp Are u saying languages are the ants and not people in your analogy?"
+	},
+	{
+		"created_at": "Sun Jul 12 12:23:55 +0000 2020",
+		"id": 1281985487088091100,
+		"id_str": "1282289586782306307",
+		"full_text": "Thank you, Toby, for providing us a classic example of how to misinterpret seroprevalence data.\n\nThe stated 68% positive antibody test appears to be from CityMD, an urgent care facility in the NYC area that offers COVID-19 testing.t https://t.co/4ROjAjoW8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ROjAjoW8h",
+					"expanded_url": "https://twitter.com/toadmeister/status/1281970751290122245",
+					"display_url": "twitter.com/toadmeister/st…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2524538106,
+			"id_str": "2524538106",
+			"name": "Dr Philip Lee",
+			"screen_name": "drphiliplee1",
+			"location": "London",
+			"description": "FY17 Doctor. Consultant Physician in Acute Medicine and Medicine for the Elderly. Still not a Member of Parliament. All expressed views are personal.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43535,
+			"friends_count": 1733,
+			"listed_count": 129,
+			"created_at": "Mon May 26 08:58:22 +0000 2014",
+			"favourites_count": 85396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263559970257276934/47g9Yi-l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263559970257276934/47g9Yi-l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2524538106/1590165535",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281970751290122200,
+		"quoted_status_id_str": "1281970751290122245",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4ROjAjoW8h",
+			"expanded": "https://twitter.com/toadmeister/status/1281970751290122245",
+			"display": "twitter.com/toadmeister/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 11 15:16:59 +0000 2020",
+			"id": 1281970751290122200,
+			"id_str": "1281970751290122245",
+			"full_text": "“As it becomes clearer that the British population will soon achieve herd immunity and the lockdown has done nothing to mitigate the impact of the virus, people will begin to ask tough questions of the Government.” https://t.co/bMeFCmfyDV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bMeFCmfyDV",
+						"expanded_url": "https://www.telegraph.co.uk/news/2020/07/11/have-herd-immunity-boris-will-face-reckoning-pointless-damaging/",
+						"display_url": "telegraph.co.uk/news/2020/07/1…",
+						"indices": [
+							215,
+							238
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18809812,
+				"id_str": "18809812",
+				"name": "Toby Young",
+				"screen_name": "toadmeister",
+				"location": "London",
+				"description": "General Secretary of the Free Speech Union (https://t.co/63ZEuAz34i)",
+				"url": "https://t.co/ZghV7mQTAx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZghV7mQTAx",
+								"expanded_url": "http://www.nosacredcows.co.uk",
+								"display_url": "nosacredcows.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/63ZEuAz34i",
+								"expanded_url": "http://freespeechunion.org",
+								"display_url": "freespeechunion.org",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 125201,
+				"friends_count": 1080,
+				"listed_count": 1753,
+				"created_at": "Fri Jan 09 18:31:18 +0000 2009",
+				"favourites_count": 5144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24588,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190273975580057600/HV--aNHy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190273975580057600/HV--aNHy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18809812/1468430559",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 503,
+			"favorite_count": 1300,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 758,
+		"favorite_count": 1782,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, Toby, for providing us a classic example of how to misinterpret seroprevalence data.\n\nThe stated 68% positive antibody test appears to be from CityMD, an urgent care facility in the NYC area that offers COVID-19 testing.t https://t.co/4ROjAjoW8h"
+	},
+	{
+		"created_at": "Sun Jul 12 11:12:07 +0000 2020",
+		"id": 1282262070910754800,
+		"id_str": "1282271513975103489",
+		"full_text": "1) Since Priti Patel has been given front page space for her evidence-free theory about how \"fear of racism\" is to blame for Leicester's sweatshops, I thought I'd do a factful thread about some other, more obvious, candidates. Beginning with central govt... https://t.co/QfE3j4x9XS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1282262057996484600,
+					"id_str": "1282262057996484608",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuCjEvXgAAkVwZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcuCjEvXgAAkVwZ.png",
+					"url": "https://t.co/QfE3j4x9XS",
+					"display_url": "pic.twitter.com/QfE3j4x9XS",
+					"expanded_url": "https://twitter.com/sarahoconnor_/status/1282262070910754817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282262057996484600,
+					"id_str": "1282262057996484608",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EcuCjEvXgAAkVwZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcuCjEvXgAAkVwZ.png",
+					"url": "https://t.co/QfE3j4x9XS",
+					"display_url": "pic.twitter.com/QfE3j4x9XS",
+					"expanded_url": "https://twitter.com/sarahoconnor_/status/1282262070910754817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 472,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 316348903,
+			"id_str": "316348903",
+			"name": "Sarah O'Connor",
+			"screen_name": "sarahoconnor_",
+			"location": "United Kingdom",
+			"description": "*Currently on maternity leave* FT reporter & columnist, with an interest in the world of work. Opinions mine, not the FT's https://t.co/2DqkcZjZc2",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2DqkcZjZc2",
+							"expanded_url": "https://www.ft.com/sarah-o-connor",
+							"display_url": "ft.com/sarah-o-connor",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41589,
+			"friends_count": 2367,
+			"listed_count": 753,
+			"created_at": "Mon Jun 13 09:42:27 +0000 2011",
+			"favourites_count": 7927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/469511111813787648/BH2r3HjD_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/469511111813787648/BH2r3HjD_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/316348903/1495790302",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2120,
+		"favorite_count": 3524,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1) Since Priti Patel has been given front page space for her evidence-free theory about how \"fear of racism\" is to blame for Leicester's sweatshops, I thought I'd do a factful thread about some other, more obvious, candidates. Beginning with central govt... https://t.co/QfE3j4x9XS"
+	},
+	{
 		"created_at": "Sat Jul 11 20:36:21 +0000 2020",
 		"id": 1282051123059265500,
 		"id_str": "1282051123059265538",
