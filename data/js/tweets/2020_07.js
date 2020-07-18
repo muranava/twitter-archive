@@ -1,6 +1,1114 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 18:23:14 +0000 2020",
+		"id": 1284191164997009400,
+		"id_str": "1284191949256364034",
+		"full_text": "Incroyable. Aucun rapport. #InspirationPorn vous ne pouvez pas vous en empêcher.\n\nLes personnes handicapées ne sont pas là pour vous apprendre à mettre un masque, la vie ou quoi que ce soit d'autre.\n\nQue les valides prennent leurs responsabilités dans cette épidémie. POINT. https://t.co/MjdQo4WVhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InspirationPorn",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MjdQo4WVhq",
+					"expanded_url": "https://twitter.com/Le___Doc/status/1284097681548365825",
+					"display_url": "twitter.com/Le___Doc/statu…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2469607028,
+			"id_str": "2469607028",
+			"name": "Elisa ROJAS",
+			"screen_name": "elisarojasm",
+			"location": "Paris",
+			"description": "Avocate de base. Binationale. Militante Activiste, Handicap, Egalité des droits, Féminisme, Intersectionnalité… La lutte c'est classe. Compte perso.",
+			"url": "http://t.co/6boafXf2oj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6boafXf2oj",
+							"expanded_url": "http://auxmarchesdupalais.wordpress.com",
+							"display_url": "auxmarchesdupalais.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14635,
+			"friends_count": 2786,
+			"listed_count": 93,
+			"created_at": "Tue Apr 29 16:51:06 +0000 2014",
+			"favourites_count": 18915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134541893214396416/5IBUNceM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134541893214396416/5IBUNceM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2469607028/1445858803",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284097681548365800,
+		"quoted_status_id_str": "1284097681548365825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MjdQo4WVhq",
+			"expanded": "https://twitter.com/Le___Doc/status/1284097681548365825",
+			"display": "twitter.com/Le___Doc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 12:08:39 +0000 2020",
+			"id": 1284097681548365800,
+			"id_str": "1284097681548365825",
+			"full_text": "Pas d'excuse. C'est faisable, il faut juste y penser ou le vouloir. #masques  https://t.co/iH7uBJUof5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "masques",
+						"indices": [
+							68,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1277399616053547000,
+						"id_str": "1277399616053547008",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277399616053547008/pu/img/jmsV2JZSmw870qrT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277399616053547008/pu/img/jmsV2JZSmw870qrT.jpg",
+						"url": "https://t.co/iH7uBJUof5",
+						"display_url": "pic.twitter.com/iH7uBJUof5",
+						"expanded_url": "https://twitter.com/somendra31/status/1277399734009958406/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1277399734009958400,
+						"source_status_id_str": "1277399734009958406",
+						"source_user_id": 2902608553,
+						"source_user_id_str": "2902608553"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1277399616053547000,
+						"id_str": "1277399616053547008",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277399616053547008/pu/img/jmsV2JZSmw870qrT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277399616053547008/pu/img/jmsV2JZSmw870qrT.jpg",
+						"url": "https://t.co/iH7uBJUof5",
+						"display_url": "pic.twitter.com/iH7uBJUof5",
+						"expanded_url": "https://twitter.com/somendra31/status/1277399734009958406/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1277399734009958400,
+						"source_status_id_str": "1277399734009958406",
+						"source_user_id": 2902608553,
+						"source_user_id_str": "2902608553",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 36120,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1277399616053547008/pu/pl/wL8yW4EceuK9qYtB.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1277399616053547008/pu/vid/320x320/nTjccylKNDiHeEpt.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2902608553,
+								"id_str": "2902608553",
+								"name": "somendra",
+								"screen_name": "somendra31",
+								"location": "",
+								"description": "https://t.co/GgVSsQZMLN",
+								"url": "https://t.co/TNU5vz7WwY",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/TNU5vz7WwY",
+												"expanded_url": "https://www.youtube.com/channel/UCYilPLGEjhz_psQq3O4mP8g",
+												"display_url": "youtube.com/channel/UCYilP…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/GgVSsQZMLN",
+												"expanded_url": "https://www.google.com/search?q=%40somendra31+twitter+video&safe=active&client=ms-android-samsung&prmd=vni&sxsrf=ALeKk03-Wr2kGJ20XgJJcHuUWYPS2xpkaQ:159021643696",
+												"display_url": "google.com/search?q=%40so…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 218,
+								"friends_count": 13,
+								"listed_count": 2,
+								"created_at": "Mon Nov 17 09:25:17 +0000 2014",
+								"favourites_count": 109,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1568,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1199704556063444992/O5UJxWFA_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199704556063444992/O5UJxWFA_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2902608553/1524133463",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804663900293709800,
+				"id_str": "804663900293709826",
+				"name": "Le Doc",
+				"screen_name": "Le___Doc",
+				"location": "En Riposte ... ou pas. ",
+				"description": "Lecteur des entrailles humaines. Rarement blanc ou noir. Souvent en nuances de gris. MD PhD. Bannière @MaitreEtTalons",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44721,
+				"friends_count": 747,
+				"listed_count": 193,
+				"created_at": "Fri Dec 02 12:29:58 +0000 2016",
+				"favourites_count": 117577,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82554,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247587427310538755/LYF_SVoj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247587427310538755/LYF_SVoj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804663900293709826/1589545634",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 742,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 151,
+		"favorite_count": 540,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Incroyable. Aucun rapport. #InspirationPorn vous ne pouvez pas vous en empêcher.\n\nLes personnes handicapées ne sont pas là pour vous apprendre à mettre un masque, la vie ou quoi que ce soit d'autre.\n\nQue les valides prennent leurs responsabilités dans cette épidémie. POINT. https://t.co/MjdQo4WVhq"
+	},
+	{
+		"created_at": "Fri Jul 17 18:22:17 +0000 2020",
+		"id": 1282012833681756200,
+		"id_str": "1284191708859768832",
+		"full_text": "I started a podcast @BlackLangPod dedicated to Black people and our languages. \n\nCheck out episode #1: “Defund the Grammar Police, The Revolution Will be Multilingual”\n\nLink below and link in bio\nhttps://t.co/DBBS7VvydB https://t.co/aLGAMibV8B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlackLangPod",
+					"name": "The Black Language Podcast",
+					"id": 1255219219706372000,
+					"id_str": "1255219219706372096",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DBBS7VvydB",
+					"expanded_url": "http://blacklangpod.buzzsprout.com/",
+					"display_url": "blacklangpod.buzzsprout.com",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282012829810413600,
+					"id_str": "1282012829810413568",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecqf4FZX0AAKE2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecqf4FZX0AAKE2i.jpg",
+					"url": "https://t.co/aLGAMibV8B",
+					"display_url": "pic.twitter.com/aLGAMibV8B",
+					"expanded_url": "https://twitter.com/BlackLangPod/status/1282012833681756160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282012829810413600,
+					"id_str": "1282012829810413568",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/Ecqf4FZX0AAKE2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ecqf4FZX0AAKE2i.jpg",
+					"url": "https://t.co/aLGAMibV8B",
+					"display_url": "pic.twitter.com/aLGAMibV8B",
+					"expanded_url": "https://twitter.com/BlackLangPod/status/1282012833681756160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1255219219706372000,
+			"id_str": "1255219219706372096",
+			"name": "The Black Language Podcast",
+			"screen_name": "BlackLangPod",
+			"location": "New York",
+			"description": "A podcast dedicated to talking about Black people and our languages.",
+			"url": "https://t.co/gEZOZKmWqY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gEZOZKmWqY",
+							"expanded_url": "https://blacklangpod.buzzsprout.com/",
+							"display_url": "blacklangpod.buzzsprout.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 146,
+			"friends_count": 19,
+			"listed_count": 4,
+			"created_at": "Tue Apr 28 19:36:28 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280610787430731776/30To_iBC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280610787430731776/30To_iBC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255219219706372096/1594486158",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I started a podcast @BlackLangPod dedicated to Black people and our languages. \n\nCheck out episode #1: “Defund the Grammar Police, The Revolution Will be Multilingual”\n\nLink below and link in bio\nhttps://t.co/DBBS7VvydB https://t.co/aLGAMibV8B"
+	},
+	{
+		"created_at": "Fri Jul 17 18:00:23 +0000 2020",
+		"id": 1284186197984718800,
+		"id_str": "1284186197984718853",
+		"full_text": "a colleague told me use of read throughs of short plays worked well for her low proficiency classes https://t.co/vZq7CkGsOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZq7CkGsOt",
+					"expanded_url": "https://twitter.com/11thhourspecial/status/1284111479562592256",
+					"display_url": "twitter.com/11thhourspecia…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1994,
+			"friends_count": 1548,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284111479562592300,
+		"quoted_status_id_str": "1284111479562592256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vZq7CkGsOt",
+			"expanded": "https://twitter.com/11thhourspecial/status/1284111479562592256",
+			"display": "twitter.com/11thhourspecia…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 13:03:29 +0000 2020",
+			"id": 1284111479562592300,
+			"id_str": "1284111479562592256",
+			"full_text": "New on my blog: Assessment Proxies. https://t.co/UkYdE8v4ia What do you use as a proxy for assessment of conversation with shy groups of students?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UkYdE8v4ia",
+						"expanded_url": "http://getgreatenglish.com/ftsd/2020/07/17/assessment-proxies/",
+						"display_url": "getgreatenglish.com/ftsd/2020/07/1…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903200845671440400,
+				"id_str": "903200845671440384",
+				"name": "Exclamation Marc",
+				"screen_name": "11thhourspecial",
+				"location": "Kawasaki, Japan",
+				"description": "English Teacher @ unis in Tokyo. ❤️ listening/pronunciation/phonology/TBLT. #ADHD, misanthropy, leftist, ate the last biscuit.",
+				"url": "https://t.co/fzYN3IGXMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fzYN3IGXMR",
+								"expanded_url": "http://getgreatenglish.com/ftsd/",
+								"display_url": "getgreatenglish.com/ftsd/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1693,
+				"friends_count": 1147,
+				"listed_count": 17,
+				"created_at": "Thu Aug 31 10:20:37 +0000 2017",
+				"favourites_count": 9319,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1280736191193550848/1kOXWTia_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280736191193550848/1kOXWTia_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903200845671440384/1533999204",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a colleague told me use of read throughs of short plays worked well for her low proficiency classes https://t.co/vZq7CkGsOt"
+	},
+	{
+		"created_at": "Fri Jul 17 17:55:20 +0000 2020",
+		"id": 1284161181545050000,
+		"id_str": "1284184928624742402",
+		"full_text": "L'actrice Annabelle Lengronne accuse la chaîne Canal+ Afrique de censure. Invitée de l'émission Ciné mag, elle n'a pas eu le droit d'évoquer Assa Traoré. Suite à cet incident, 5 journalistes de l’émission ont présenté leur démission à la direction de Canal https://t.co/yCJggnb4FI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284159953125675000,
+					"id_str": "1284159953125675014",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1284159953125675014/img/OFU78IqvKuwZjAVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1284159953125675014/img/OFU78IqvKuwZjAVW.jpg",
+					"url": "https://t.co/yCJggnb4FI",
+					"display_url": "pic.twitter.com/yCJggnb4FI",
+					"expanded_url": "https://twitter.com/Loopsidernews/status/1284160286820270080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1284160286820270000,
+					"source_status_id_str": "1284160286820270080",
+					"source_user_id": 920582396793278500,
+					"source_user_id_str": "920582396793278465"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284159953125675000,
+					"id_str": "1284159953125675014",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1284159953125675014/img/OFU78IqvKuwZjAVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1284159953125675014/img/OFU78IqvKuwZjAVW.jpg",
+					"url": "https://t.co/yCJggnb4FI",
+					"display_url": "pic.twitter.com/yCJggnb4FI",
+					"expanded_url": "https://twitter.com/Loopsidernews/status/1284160286820270080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1284160286820270000,
+					"source_status_id_str": "1284160286820270080",
+					"source_user_id": 920582396793278500,
+					"source_user_id_str": "920582396793278465",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 211640,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284159953125675014/vid/320x320/-7htG2amiKLRHgf2.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284159953125675014/vid/720x720/aOQNvzUvx6vQXth9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1284159953125675014/pl/XpjQ2Pc9V4JSEgF0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284159953125675014/vid/480x480/XDysnt1GF6OABSce.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 920582396793278500,
+							"id_str": "920582396793278465",
+							"name": "Loopsider",
+							"screen_name": "Loopsidernews",
+							"location": "",
+							"description": "Regarder, comprendre, partager.",
+							"url": "https://t.co/095tCmKVeM",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/095tCmKVeM",
+											"expanded_url": "http://www.loopsider.com",
+											"display_url": "loopsider.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 49650,
+							"friends_count": 252,
+							"listed_count": 321,
+							"created_at": "Wed Oct 18 09:28:41 +0000 2017",
+							"favourites_count": 774,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 5204,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1146037065508933633/3lnCbYYb_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146037065508933633/3lnCbYYb_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/920582396793278465/1512666889",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233532563,
+			"id_str": "233532563",
+			"name": "David Perrotin",
+			"screen_name": "davidperrotin",
+			"location": "Paris",
+			"description": "Journaliste chez @Loopsidernews et parfois ailleurs (passé par le JDD, BuzzFeed et Rue89) davidperrotin@gmail(.)com  site : https://t.co/NcwK51zLIX",
+			"url": "https://t.co/19K1OkYL0n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/19K1OkYL0n",
+							"expanded_url": "http://www.buzzfeed.com/davidperrotin",
+							"display_url": "buzzfeed.com/davidperrotin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NcwK51zLIX",
+							"expanded_url": "http://loopsider.com/society/fr",
+							"display_url": "loopsider.com/society/fr",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 53643,
+			"friends_count": 2983,
+			"listed_count": 528,
+			"created_at": "Mon Jan 03 13:44:13 +0000 2011",
+			"favourites_count": 10865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055481473837551619/KuoH6aLJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055481473837551619/KuoH6aLJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233532563/1462987034",
+			"profile_link_color": "090C0D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "250996",
+			"profile_text_color": "F5EDEF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3440,
+		"favorite_count": 3949,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "L'actrice Annabelle Lengronne accuse la chaîne Canal+ Afrique de censure. Invitée de l'émission Ciné mag, elle n'a pas eu le droit d'évoquer Assa Traoré. Suite à cet incident, 5 journalistes de l’émission ont présenté leur démission à la direction de Canal https://t.co/yCJggnb4FI"
+	},
+	{
 		"created_at": "Thu Jul 16 16:28:53 +0000 2020",
 		"id": 1283800784677810200,
 		"id_str": "1283800784677810176",
@@ -1725,7 +2833,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Elen Le Foll 🇫🇷 🇬🇧 🇩🇪",
 			"screen_name": "ElenLeFoll",
 			"location": "Köln/Osnabrück, Germany",
-			"description": "Conference Interpreter MA • English Education Lecturer & PhD Candidate @UniOsnabrueck #CorpusLinguistics #Rstats #EFL #ELTmaterials #SLA • 🎷 🎼 📚 🍰 🚄 🚴‍♀️",
+			"description": "Conference Interpreter MA • English Education Lecturer & PhD Candidate @UniOsnabrueck #CorpusLinguistics #Rstats #EFL #ELTmaterials #SLA • 🎷 🎼 📚 🍰 🚄 🚴♀️",
 			"url": "https://t.co/Up6jM7vnLx",
 			"entities": {
 				"url": {
