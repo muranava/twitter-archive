@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 21:14:30 +0000 2020",
+		"id": 1284597439249481700,
+		"id_str": "1284597439249481731",
+		"full_text": "@GeoffJordan17 yeah nah https://t.co/lLfnNvM1Sh",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan17",
+					"name": "Geoff Jordan",
+					"id": 1202653711052480500,
+					"id_str": "1202653711052480512",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lLfnNvM1Sh",
+					"expanded_url": "https://twitter.com/Millar_Colin/status/1201581456767770628",
+					"display_url": "twitter.com/Millar_Colin/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1284582371824631800,
+		"in_reply_to_status_id_str": "1284582371824631814",
+		"in_reply_to_user_id": 1202653711052480500,
+		"in_reply_to_user_id_str": "1202653711052480512",
+		"in_reply_to_screen_name": "GeoffJordan17",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 1550,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201581456767770600,
+		"quoted_status_id_str": "1201581456767770628",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lLfnNvM1Sh",
+			"expanded": "https://twitter.com/Millar_Colin/status/1201581456767770628",
+			"display": "twitter.com/Millar_Colin/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 02 19:18:38 +0000 2019",
+			"id": 1201581456767770600,
+			"id_str": "1201581456767770628",
+			"full_text": "Jeremy Corbyn has no interest in power (Nick Cohen): https://t.co/Ph1D0ITJ83\n\nJeremy Corbyn is too interested in power (Nick Cohen): https://t.co/gTmejkwA3m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ph1D0ITJ83",
+						"expanded_url": "https://blogs.spectator.co.uk/2018/05/corbyns-cranks-arent-interested-in-power/",
+						"display_url": "blogs.spectator.co.uk/2018/05/corbyn…",
+						"indices": [
+							53,
+							76
+						]
+					},
+					{
+						"url": "https://t.co/gTmejkwA3m",
+						"expanded_url": "https://standpointmag.co.uk/features-september-2015-nick-cohen-jeremy-corbyn-hijacked-labour/",
+						"display_url": "standpointmag.co.uk/features-septe…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1201581454599348200,
+			"in_reply_to_status_id_str": "1201581454599348226",
+			"in_reply_to_user_id": 303498950,
+			"in_reply_to_user_id_str": "303498950",
+			"in_reply_to_screen_name": "Millar_Colin",
+			"user": {
+				"id": 303498950,
+				"id_str": "303498950",
+				"name": "Colin Millar",
+				"screen_name": "Millar_Colin",
+				"location": "Sevilla/Belfast",
+				"description": "Author of The Frying Pan of Spain: Sevilla v Real Betis - Spain's Hottest Football Rivalry, https://t.co/luTFc5F6Ps 🇪🇸 Football Espana editor",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/luTFc5F6Ps",
+								"expanded_url": "http://amzn.to/2UF0VKR",
+								"display_url": "amzn.to/2UF0VKR",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14417,
+				"friends_count": 1719,
+				"listed_count": 226,
+				"created_at": "Mon May 23 00:04:33 +0000 2011",
+				"favourites_count": 13014,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32846,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114123541086187520/Gox6E-bY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114123541086187520/Gox6E-bY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/303498950/1427415064",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 287,
+			"favorite_count": 1112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GeoffJordan17 yeah nah https://t.co/lLfnNvM1Sh"
+	},
+	{
+		"created_at": "Sat Jul 18 11:17:18 +0000 2020",
+		"id": 1284447145681129500,
+		"id_str": "1284447145681129473",
+		"full_text": "@PriyamvadaGopal Guess ratio of people offering help vs asking for help pretty low?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PriyamvadaGopal",
+					"name": "Priyamvada Gopal",
+					"id": 108691306,
+					"id_str": "108691306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1284442736389652500,
+		"in_reply_to_status_id_str": "1284442736389652480",
+		"in_reply_to_user_id": 108691306,
+		"in_reply_to_user_id_str": "108691306",
+		"in_reply_to_screen_name": "PriyamvadaGopal",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 1550,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PriyamvadaGopal Guess ratio of people offering help vs asking for help pretty low?"
+	},
+	{
+		"created_at": "Sat Jul 18 10:50:45 +0000 2020",
+		"id": 1284432803812143000,
+		"id_str": "1284440466658861056",
+		"full_text": "In the last few weeks since the first ⁦@DailyMailUK⁩ article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DailyMailUK",
+					"name": "Daily Mail U.K.",
+					"id": 111556423,
+					"id_str": "111556423",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284432796392579000,
+					"id_str": "1284432796392579072",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EdM40rbXYAAV6ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdM40rbXYAAV6ef.jpg",
+					"url": "https://t.co/6ibMwYtRFc",
+					"display_url": "pic.twitter.com/6ibMwYtRFc",
+					"expanded_url": "https://twitter.com/The_Crox/status/1284432803812143105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 743,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 743,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284432796392579000,
+					"id_str": "1284432796392579072",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EdM40rbXYAAV6ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdM40rbXYAAV6ef.jpg",
+					"url": "https://t.co/6ibMwYtRFc",
+					"display_url": "pic.twitter.com/6ibMwYtRFc",
+					"expanded_url": "https://twitter.com/The_Crox/status/1284432803812143105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 743,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 743,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 614459980,
+			"id_str": "614459980",
+			"name": "Rianna Croxford",
+			"screen_name": "The_Crox",
+			"location": "rianna.croxford@bbc.co.uk",
+			"description": "Award-winning @BBCNews Community Affairs Correspondent. Investigations 📩 Send me stories 📸 IG: rianna_croxford. DM for Signal/ProtonMail.",
+			"url": "https://t.co/874vEtPgXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/874vEtPgXO",
+							"expanded_url": "https://www.riannacroxford.com/",
+							"display_url": "riannacroxford.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22872,
+			"friends_count": 2525,
+			"listed_count": 133,
+			"created_at": "Thu Jun 21 17:43:29 +0000 2012",
+			"favourites_count": 11337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C4A273",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241861577403400194/9cTymZkG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241861577403400194/9cTymZkG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/614459980/1548427654",
+			"profile_link_color": "38ACEC",
+			"profile_sidebar_border_color": "3D260C",
+			"profile_sidebar_fill_color": "3D260C",
+			"profile_text_color": "696969",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1964,
+		"favorite_count": 9724,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the last few weeks since the first ⁦@DailyMailUK⁩ article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc"
+	},
+	{
 		"created_at": "Fri Jul 17 18:23:14 +0000 2020",
 		"id": 1284191164997009400,
 		"id_str": "1284191949256364034",
