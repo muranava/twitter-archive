@@ -1,6 +1,946 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 22:08:13 +0000 2020",
+		"id": 1285244066276442000,
+		"id_str": "1285698120052019205",
+		"full_text": "I stand with EF staff - the statutory minimum isn’t good enough!\n\nEF has millions in the bank, pays millions to shareholders, and has a billionaire owner. Staff facing redundancy deserve more than the minimum.\n\nRT #EF digital picket! \n\n#educationfirst #elt #tefl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EF",
+					"indices": [
+						214,
+						217
+					]
+				},
+				{
+					"text": "educationfirst",
+					"indices": [
+						236,
+						251
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						252,
+						256
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						257,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2107,
+			"friends_count": 4983,
+			"listed_count": 52,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 5067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I stand with EF staff - the statutory minimum isn’t good enough!\n\nEF has millions in the bank, pays millions to shareholders, and has a billionaire owner. Staff facing redundancy deserve more than the minimum.\n\nRT #EF digital picket! \n\n#educationfirst #elt #tefl"
+	},
+	{
+		"created_at": "Tue Jul 21 21:42:34 +0000 2020",
+		"id": 1285689795373662200,
+		"id_str": "1285691663118225408",
+		"full_text": ".@DawnButlerBrent pressed Matt Hancock today on the £3 million coronavirus contract awarded to Topham Guerin - a firm that specialises in right-wing propaganda campaigns.\n\nStory revealed by @BylineTimes last week https://t.co/pe5Qgmjgye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DawnButlerBrent",
+					"name": "Dawn Butler MP✊🏾",
+					"id": 114505454,
+					"id_str": "114505454",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"screen_name": "BylineTimes",
+					"name": "Byline Times",
+					"id": 1035418272764715000,
+					"id_str": "1035418272764715008",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285655363044487200,
+					"id_str": "1285655363044487170",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1285655363044487170/pu/img/bllBH_Ht60H3T-sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1285655363044487170/pu/img/bllBH_Ht60H3T-sL.jpg",
+					"url": "https://t.co/pe5Qgmjgye",
+					"display_url": "pic.twitter.com/pe5Qgmjgye",
+					"expanded_url": "https://twitter.com/DawnButlerBrent/status/1285655478069088257/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1285655478069088300,
+					"source_status_id_str": "1285655478069088257",
+					"source_user_id": 114505454,
+					"source_user_id_str": "114505454"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285655363044487200,
+					"id_str": "1285655363044487170",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1285655363044487170/pu/img/bllBH_Ht60H3T-sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1285655363044487170/pu/img/bllBH_Ht60H3T-sL.jpg",
+					"url": "https://t.co/pe5Qgmjgye",
+					"display_url": "pic.twitter.com/pe5Qgmjgye",
+					"expanded_url": "https://twitter.com/DawnButlerBrent/status/1285655478069088257/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1285655478069088300,
+					"source_status_id_str": "1285655478069088257",
+					"source_user_id": 114505454,
+					"source_user_id_str": "114505454",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 93720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1285655363044487170/pu/pl/s6uICd7tzxv0VSlL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1285655363044487170/pu/vid/320x320/ZArOOgDTTrTbO11n.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1285655363044487170/pu/vid/480x480/lUL5BJ8Bmfe6gC--.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1285655363044487170/pu/vid/720x720/n8qbowAwI67E1iSH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 114505454,
+							"id_str": "114505454",
+							"name": "Dawn Butler MP✊🏾",
+							"screen_name": "DawnButlerBrent",
+							"location": "Brent",
+							"description": "MP for Brent Central ✉ dawn.butler.mp@parliament.uk",
+							"url": "https://t.co/vFlHUDxubU",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/vFlHUDxubU",
+											"expanded_url": "http://www.dawnbutler.org.uk",
+											"display_url": "dawnbutler.org.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 130794,
+							"friends_count": 5347,
+							"listed_count": 766,
+							"created_at": "Mon Feb 15 16:59:03 +0000 2010",
+							"favourites_count": 9602,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 20442,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "EBEBEB",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1276998974197706756/5y9_RKuG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276998974197706756/5y9_RKuG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/114505454/1595147876",
+							"profile_link_color": "990000",
+							"profile_sidebar_border_color": "DFDFDF",
+							"profile_sidebar_fill_color": "F3F3F3",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2737003958,
+			"id_str": "2737003958",
+			"name": "Sam Bright",
+			"screen_name": "WritesBright",
+			"location": "💻",
+			"description": "Writer/editor. Chief news and politics reporter @BylineTimes. Ex-BBC. Founder @Backbench_UK. Northern.",
+			"url": "https://t.co/ZlEal5Ycbl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZlEal5Ycbl",
+							"expanded_url": "http://www.sambright.co.uk",
+							"display_url": "sambright.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5154,
+			"friends_count": 2009,
+			"listed_count": 50,
+			"created_at": "Sat Aug 16 11:01:34 +0000 2014",
+			"favourites_count": 3377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267087772319391745/2sCre0S2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267087772319391745/2sCre0S2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2737003958/1573420727",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 550,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@DawnButlerBrent pressed Matt Hancock today on the £3 million coronavirus contract awarded to Topham Guerin - a firm that specialises in right-wing propaganda campaigns.\n\nStory revealed by @BylineTimes last week https://t.co/pe5Qgmjgye"
+	},
+	{
+		"created_at": "Tue Jul 21 21:37:08 +0000 2020",
+		"id": 1285690297469608000,
+		"id_str": "1285690297469607937",
+		"full_text": "Mindfulness for Beginners https://t.co/TH2LqLBQai via @wordpressdotcom by @philipjohnkerr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "philipjohnkerr",
+					"name": "philipjkerr",
+					"id": 847708264666062800,
+					"id_str": "847708264666062848",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TH2LqLBQai",
+					"expanded_url": "https://adaptivelearninginelt.wordpress.com/2020/07/21/mindfulness-for-beginners/",
+					"display_url": "adaptivelearninginelt.wordpress.com/2020/07/21/min…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1999,
+			"friends_count": 1558,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mindfulness for Beginners https://t.co/TH2LqLBQai via @wordpressdotcom by @philipjohnkerr"
+	},
+	{
+		"created_at": "Tue Jul 21 21:28:41 +0000 2020",
+		"id": 1285688169531408400,
+		"id_str": "1285688169531408386",
+		"full_text": "@masatoshi_sato ok just struck me why such reasoning as u just gave was not included in paper? even if unlikely still possible? especially as you direct learners to pay attention to use of English by character in video in first task?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "masatoshi_sato",
+					"name": "Masatoshi Sato",
+					"id": 1092973229713571800,
+					"id_str": "1092973229713571840",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285686278151954400,
+		"in_reply_to_status_id_str": "1285686278151954432",
+		"in_reply_to_user_id": 1092973229713571800,
+		"in_reply_to_user_id_str": "1092973229713571840",
+		"in_reply_to_screen_name": "masatoshi_sato",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1999,
+			"friends_count": 1558,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@masatoshi_sato ok just struck me why such reasoning as u just gave was not included in paper? even if unlikely still possible? especially as you direct learners to pay attention to use of English by character in video in first task?"
+	},
+	{
+		"created_at": "Tue Jul 21 21:14:16 +0000 2020",
+		"id": 1285684542586708000,
+		"id_str": "1285684542586707968",
+		"full_text": "@masatoshi_sato yes i was referring to impact on the classroom behavior, as you noted that experimental groups used more English words and control used more Spanish words, so seems that using English video &amp; Spanish video would partly explain this?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "masatoshi_sato",
+					"name": "Masatoshi Sato",
+					"id": 1092973229713571800,
+					"id_str": "1092973229713571840",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285683820868636700,
+		"in_reply_to_status_id_str": "1285683820868636673",
+		"in_reply_to_user_id": 1092973229713571800,
+		"in_reply_to_user_id_str": "1092973229713571840",
+		"in_reply_to_screen_name": "masatoshi_sato",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1999,
+			"friends_count": 1558,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@masatoshi_sato yes i was referring to impact on the classroom behavior, as you noted that experimental groups used more English words and control used more Spanish words, so seems that using English video &amp; Spanish video would partly explain this?"
+	},
+	{
+		"created_at": "Tue Jul 21 21:12:05 +0000 2020",
+		"id": 1285683994756100000,
+		"id_str": "1285683994756100098",
+		"full_text": "@AdamRutherford could the screenshot from your book about mixed ancestors be taken as a \"race mixing\" view which in turn depends on assumption that race is biologically real? i.e. what i assume your book argues against?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamRutherford",
+					"name": "Dr Adam Rutherford",
+					"id": 22419487,
+					"id_str": "22419487",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285626216444309500,
+		"in_reply_to_status_id_str": "1285626216444309506",
+		"in_reply_to_user_id": 22419487,
+		"in_reply_to_user_id_str": "22419487",
+		"in_reply_to_screen_name": "AdamRutherford",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1999,
+			"friends_count": 1558,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdamRutherford could the screenshot from your book about mixed ancestors be taken as a \"race mixing\" view which in turn depends on assumption that race is biologically real? i.e. what i assume your book argues against?"
+	},
+	{
 		"created_at": "Mon Jul 20 20:08:13 +0000 2020",
 		"id": 1285305534070104000,
 		"id_str": "1285305534070104066",
@@ -732,7 +1672,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Sat Jul 18 10:50:45 +0000 2020",
 		"id": 1284432803812143000,
 		"id_str": "1284440466658861056",
-		"full_text": "In the last few weeks since the first ⁦@DailyMailUK⁩ article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc",
+		"full_text": "In the last few weeks since the first @DailyMailUK article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -911,7 +1851,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "In the last few weeks since the first ⁦@DailyMailUK⁩ article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc"
+		"text": "In the last few weeks since the first @DailyMailUK article about me, I’ve received lots of questions from young journalists about coping with abuse online. This is one of the worst. But all you can do is keep investigating and uncovering new stories. https://t.co/6ibMwYtRFc"
 	},
 	{
 		"created_at": "Fri Jul 17 18:23:14 +0000 2020",
