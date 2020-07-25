@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 10:18:50 +0000 2020",
+		"id": 1286392475582632000,
+		"id_str": "1286606762427265025",
+		"full_text": "Excited to announce our crowd anonymization AI 🦾 to fight police use of face recognition!\n\nProtect BLM protesters by shielding faces ✊🏾✊🏿https://t.co/j4s7Kc8yiJ\n\nHuge thanks @AureliaAugusta @adjiboussodieng @codyaustun @jvnixon @andrey_kurenkov et al for💡🧐! #BlackLivesMatter https://t.co/6kIrL0SMsd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						258,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AureliaAugusta",
+					"name": "Seven Rose",
+					"id": 2565920011,
+					"id_str": "2565920011",
+					"indices": [
+						174,
+						189
+					]
+				},
+				{
+					"screen_name": "adjiboussodieng",
+					"name": "Adji Bousso Dieng",
+					"id": 939946139029090300,
+					"id_str": "939946139029090304",
+					"indices": [
+						190,
+						206
+					]
+				},
+				{
+					"screen_name": "codyaustun",
+					"name": "Cody Coleman",
+					"id": 1000782914,
+					"id_str": "1000782914",
+					"indices": [
+						207,
+						218
+					]
+				},
+				{
+					"screen_name": "JvNixon",
+					"name": "Jeremy Nixon",
+					"id": 420700588,
+					"id_str": "420700588",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"screen_name": "andrey_kurenkov",
+					"name": "Andrey Kurenkov 🤖",
+					"id": 60801171,
+					"id_str": "60801171",
+					"indices": [
+						228,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j4s7Kc8yiJ",
+					"expanded_url": "http://blm.stanford.edu",
+					"display_url": "blm.stanford.edu",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286392325141340200,
+					"id_str": "1286392325141340160",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EdovAQ3WoAALgls.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdovAQ3WoAALgls.png",
+					"url": "https://t.co/6kIrL0SMsd",
+					"display_url": "pic.twitter.com/6kIrL0SMsd",
+					"expanded_url": "https://twitter.com/realSharonZhou/status/1286392475582631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286392325141340200,
+					"id_str": "1286392325141340160",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EdovAQ3WoAALgls.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdovAQ3WoAALgls.png",
+					"url": "https://t.co/6kIrL0SMsd",
+					"display_url": "pic.twitter.com/6kIrL0SMsd",
+					"expanded_url": "https://twitter.com/realSharonZhou/status/1286392475582631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1286392410759716900,
+					"id_str": "1286392410759716864",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EdovFP0XYAA2saj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdovFP0XYAA2saj.jpg",
+					"url": "https://t.co/6kIrL0SMsd",
+					"display_url": "pic.twitter.com/6kIrL0SMsd",
+					"expanded_url": "https://twitter.com/realSharonZhou/status/1286392475582631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1104,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1104,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286392451071123500,
+					"id_str": "1286392451071123457",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EdovHl_WoAEuQU2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdovHl_WoAEuQU2.jpg",
+					"url": "https://t.co/6kIrL0SMsd",
+					"display_url": "pic.twitter.com/6kIrL0SMsd",
+					"expanded_url": "https://twitter.com/realSharonZhou/status/1286392475582631936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 683,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 796109256000843800,
+			"id_str": "796109256000843776",
+			"name": "Sharon Zhou",
+			"screen_name": "realSharonZhou",
+			"location": "Stanford, CA",
+			"description": "#BlackLivesMatter @Stanford CS PhD student. Prev. @Google Machine Learning PM. @Harvard CS & Classics. Working on {#GAN evaluation, #AI for climate change ☀}",
+			"url": "https://t.co/Y6fPUqHpcZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fPUqHpcZ",
+							"expanded_url": "http://sharonzhou.me",
+							"display_url": "sharonzhou.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1524,
+			"friends_count": 97,
+			"listed_count": 19,
+			"created_at": "Tue Nov 08 21:56:52 +0000 2016",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191910836513599488/BVI0aq8D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191910836513599488/BVI0aq8D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/796109256000843776/1532680965",
+			"profile_link_color": "FF4D4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 675,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to announce our crowd anonymization AI 🦾 to fight police use of face recognition!\n\nProtect BLM protesters by shielding faces ✊🏾✊🏿https://t.co/j4s7Kc8yiJ\n\nHuge thanks @AureliaAugusta @adjiboussodieng @codyaustun @jvnixon @andrey_kurenkov et al for💡🧐! #BlackLivesMatter https://t.co/6kIrL0SMsd"
+	},
+	{
 		"created_at": "Thu Jul 23 22:04:36 +0000 2020",
 		"id": 1286421984528785400,
 		"id_str": "1286421984528785410",
