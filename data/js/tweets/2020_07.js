@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 16:23:04 +0000 2020",
+		"id": 1287785587932639200,
+		"id_str": "1287785587932639233",
+		"full_text": "@spsmith45 fyi - did a response to article here https://t.co/TiqVlkE37q",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TiqVlkE37q",
+					"expanded_url": "https://eflnotes.wordpress.com/2017/10/04/overloading-on-cognitive-load-theory-in-sla/",
+					"display_url": "eflnotes.wordpress.com/2017/10/04/ove…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1287778666139848700,
+		"in_reply_to_status_id_str": "1287778666139848709",
+		"in_reply_to_user_id": 303905601,
+		"in_reply_to_user_id_str": "303905601",
+		"in_reply_to_screen_name": "spsmith45",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2000,
+			"friends_count": 1573,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@spsmith45 fyi - did a response to article here https://t.co/TiqVlkE37q"
+	},
+	{
+		"created_at": "Mon Jul 27 10:58:01 +0000 2020",
+		"id": 1287703787252129800,
+		"id_str": "1287703787252129792",
+		"full_text": "@EngliciousUCL @CollegeFix Important to note the source for this report https://t.co/BTyxssJvqg",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EngliciousUCL",
+					"name": "Englicious: reliable English language resources",
+					"id": 3187104424,
+					"id_str": "3187104424",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CollegeFix",
+					"name": "The College Fix",
+					"id": 137245465,
+					"id_str": "137245465",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BTyxssJvqg",
+					"expanded_url": "https://mobile.twitter.com/aaronhuertas/status/1285972579551977472",
+					"display_url": "mobile.twitter.com/aaronhuertas/s…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1287691860832641000,
+		"in_reply_to_status_id_str": "1287691860832641024",
+		"in_reply_to_user_id": 3187104424,
+		"in_reply_to_user_id_str": "3187104424",
+		"in_reply_to_screen_name": "EngliciousUCL",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2000,
+			"friends_count": 1573,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285972579551977500,
+		"quoted_status_id_str": "1285972579551977472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BTyxssJvqg",
+			"expanded": "https://mobile.twitter.com/aaronhuertas/status/1285972579551977472",
+			"display": "mobile.twitter.com/aaronhuertas/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 22 16:18:49 +0000 2020",
+			"id": 1285972579551977500,
+			"id_str": "1285972579551977472",
+			"full_text": "The Harper's letter guy is credulously sharing right wing campus watch stuff from a website connected to the DeVos family. \n\nhttps://t.co/PGZituYnnF https://t.co/rd92Jlocr3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PGZituYnnF",
+						"expanded_url": "https://www.insidehighered.com/news/2017/02/07/betsy-devoss-connection-college-fix-conservative-higher-education-news-site",
+						"display_url": "insidehighered.com/news/2017/02/0…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1285971320241619000,
+						"id_str": "1285971320241618944",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EdiwGjZXgAAJju0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdiwGjZXgAAJju0.png",
+						"url": "https://t.co/rd92Jlocr3",
+						"display_url": "pic.twitter.com/rd92Jlocr3",
+						"expanded_url": "https://twitter.com/aaronhuertas/status/1285972579551977472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 589,
+								"h": 684,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 589,
+								"h": 684,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285971320241619000,
+						"id_str": "1285971320241618944",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/EdiwGjZXgAAJju0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EdiwGjZXgAAJju0.png",
+						"url": "https://t.co/rd92Jlocr3",
+						"display_url": "pic.twitter.com/rd92Jlocr3",
+						"expanded_url": "https://twitter.com/aaronhuertas/status/1285972579551977472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 589,
+								"h": 684,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 589,
+								"h": 684,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1285972189049753600,
+						"id_str": "1285972189049753604",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/Ediw5H9XkAQql_E.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ediw5H9XkAQql_E.png",
+						"url": "https://t.co/rd92Jlocr3",
+						"display_url": "pic.twitter.com/rd92Jlocr3",
+						"expanded_url": "https://twitter.com/aaronhuertas/status/1285972579551977472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 845,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 845,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 571,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1285972207886270500,
+						"id_str": "1285972207886270465",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/Ediw6OIWAAECTSF.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ediw6OIWAAECTSF.png",
+						"url": "https://t.co/rd92Jlocr3",
+						"display_url": "pic.twitter.com/rd92Jlocr3",
+						"expanded_url": "https://twitter.com/aaronhuertas/status/1285972579551977472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 614,
+								"h": 259,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 614,
+								"h": 259,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 614,
+								"h": 259,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1285972223279403000,
+						"id_str": "1285972223279403009",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/Ediw7HeWkAE41P6.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ediw7HeWkAE41P6.png",
+						"url": "https://t.co/rd92Jlocr3",
+						"display_url": "pic.twitter.com/rd92Jlocr3",
+						"expanded_url": "https://twitter.com/aaronhuertas/status/1285972579551977472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 628,
+								"h": 150,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 628,
+								"h": 150,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 628,
+								"h": 150,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19026735,
+				"id_str": "19026735",
+				"name": "Aaron Huertas",
+				"screen_name": "aaronhuertas",
+				"location": "Washington, DC",
+				"description": "Democracy is pretty cool. We should try it some time. Working on voting and public health. Close Read podcast 🎧. https://t.co/fRVvb7fIV5",
+				"url": "https://t.co/43nSS2qRQq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/43nSS2qRQq",
+								"expanded_url": "http://aaronhuertas.com",
+								"display_url": "aaronhuertas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fRVvb7fIV5",
+								"expanded_url": "http://patreon.com/closeread",
+								"display_url": "patreon.com/closeread",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7766,
+				"friends_count": 2789,
+				"listed_count": 192,
+				"created_at": "Thu Jan 15 16:08:43 +0000 2009",
+				"favourites_count": 15869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2058,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/658441982272925696/MGlBv3l4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/658441982272925696/MGlBv3l4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19026735/1595464953",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EngliciousUCL @CollegeFix Important to note the source for this report https://t.co/BTyxssJvqg"
+	},
+	{
 		"created_at": "Sun Jul 26 15:36:28 +0000 2020",
 		"id": 1287411473644494800,
 		"id_str": "1287411473644494848",
