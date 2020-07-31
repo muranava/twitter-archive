@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 12:38:36 +0000 2020",
+		"id": 1288816261070291000,
+		"id_str": "1288816261070290945",
+		"full_text": "@thatbloodyMikey @JamesEFoster @0Calamity one way to avoid giving then ad revenue is use internet archive like so https://t.co/rns3lVqTVm",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thatbloodyMikey",
+					"name": "Mikey Walsh",
+					"id": 125450387,
+					"id_str": "125450387",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "JamesEFoster",
+					"name": "James Foster",
+					"id": 29422823,
+					"id_str": "29422823",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "0Calamity",
+					"name": "Crém-LaCommunardeMasquée😷 ✋💚",
+					"id": 1699729616,
+					"id_str": "1699729616",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rns3lVqTVm",
+					"expanded_url": "https://web.archive.org/web/20200729194407/https://www.theguardian.com/politics/2020/jul/29/rachel-riley-and-tracy-ann-oberman-drop-libel-claim-over-retweet",
+					"display_url": "web.archive.org/web/2020072919…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288812871351185400,
+		"in_reply_to_status_id_str": "1288812871351185409",
+		"in_reply_to_user_id": 125450387,
+		"in_reply_to_user_id_str": "125450387",
+		"in_reply_to_screen_name": "thatbloodyMikey",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 1576,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@thatbloodyMikey @JamesEFoster @0Calamity one way to avoid giving then ad revenue is use internet archive like so https://t.co/rns3lVqTVm"
+	},
+	{
+		"created_at": "Thu Jul 30 12:35:22 +0000 2020",
+		"id": 1288813070580670500,
+		"id_str": "1288815448017047553",
+		"full_text": "@ELTAdvocacy @ELTIreland \n\nThis is not ok. It does not follow the requirements of the Return to Work Safely Protocol. \n\nFrom IH Dublin Instagram https://t.co/8RHiTwe5PT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288812950350958600,
+					"id_str": "1288812950350958593",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EeLIjMeXkAEtD3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeLIjMeXkAEtD3n.jpg",
+					"url": "https://t.co/8RHiTwe5PT",
+					"display_url": "pic.twitter.com/8RHiTwe5PT",
+					"expanded_url": "https://twitter.com/ChrisB95216897/status/1288813070580670465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 746,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 423,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 995,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288812950350958600,
+					"id_str": "1288812950350958593",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EeLIjMeXkAEtD3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeLIjMeXkAEtD3n.jpg",
+					"url": "https://t.co/8RHiTwe5PT",
+					"display_url": "pic.twitter.com/8RHiTwe5PT",
+					"expanded_url": "https://twitter.com/ChrisB95216897/status/1288813070580670465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 746,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 423,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 995,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 712775553821048800,
+		"in_reply_to_user_id_str": "712775553821048832",
+		"in_reply_to_screen_name": "ELTAdvocacy",
+		"user": {
+			"id": 773270840901267500,
+			"id_str": "773270840901267456",
+			"name": "Chris B",
+			"screen_name": "ChrisB95216897",
+			"location": "Virgo Supercluster, Laniakea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 1065,
+			"listed_count": 1,
+			"created_at": "Tue Sep 06 21:25:09 +0000 2016",
+			"favourites_count": 4814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883709936340959233/Lq5tEdOc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883709936340959233/Lq5tEdOc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ELTAdvocacy @ELTIreland \n\nThis is not ok. It does not follow the requirements of the Return to Work Safely Protocol. \n\nFrom IH Dublin Instagram https://t.co/8RHiTwe5PT"
+	},
+	{
+		"created_at": "Thu Jul 30 12:35:15 +0000 2020",
+		"id": 1288803830029836300,
+		"id_str": "1288815417209901057",
+		"full_text": "What about support for teachers? The word 'teacher' isn't mentioned in this link, why is that? https://t.co/nU2UDPMgqn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nU2UDPMgqn",
+					"expanded_url": "https://twitter.com/englishuk/status/1288466992941465600",
+					"display_url": "twitter.com/englishuk/stat…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 1138,
+			"listed_count": 23,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 6757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288466992941465600,
+		"quoted_status_id_str": "1288466992941465600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nU2UDPMgqn",
+			"expanded": "https://twitter.com/englishuk/status/1288466992941465600",
+			"display": "twitter.com/englishuk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 29 13:30:44 +0000 2020",
+			"id": 1288466992941465600,
+			"id_str": "1288466992941465600",
+			"full_text": "What help is UK ELT asking for?\n\n🔺 Short and medium-term business support for ELT centres\n🔺 Tailored visas and immigration\n🔺  Marketing on a national scale\n\nRead our policy position paper on how the Government can help kickstart #UKELT after Covid-19: https://t.co/JTLQfZ61hg https://t.co/D5cuWz51mZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UKELT",
+						"indices": [
+							229,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JTLQfZ61hg",
+						"expanded_url": "https://bit.ly/30GTFis",
+						"display_url": "bit.ly/30GTFis",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1288466986922643500,
+						"id_str": "1288466986922643458",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EeGN5eRXkAI76WD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeGN5eRXkAI76WD.jpg",
+						"url": "https://t.co/D5cuWz51mZ",
+						"display_url": "pic.twitter.com/D5cuWz51mZ",
+						"expanded_url": "https://twitter.com/englishuk/status/1288466992941465600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288466986922643500,
+						"id_str": "1288466986922643458",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EeGN5eRXkAI76WD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeGN5eRXkAI76WD.jpg",
+						"url": "https://t.co/D5cuWz51mZ",
+						"display_url": "pic.twitter.com/D5cuWz51mZ",
+						"expanded_url": "https://twitter.com/englishuk/status/1288466992941465600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27616120,
+				"id_str": "27616120",
+				"name": "English UK",
+				"screen_name": "englishuk",
+				"location": "United Kingdom",
+				"description": "Membership association for #UKELT. Representing, supporting and promoting 400+ accredited English language teaching centres #EnglishisGREAT info@englishuk.com",
+				"url": "https://t.co/oZrsyMhB8V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oZrsyMhB8V",
+								"expanded_url": "https://www.englishuk.com",
+								"display_url": "englishuk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7873,
+				"friends_count": 557,
+				"listed_count": 115,
+				"created_at": "Mon Mar 30 10:44:48 +0000 2009",
+				"favourites_count": 1982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7588,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090954922131156992/C9UUBWaL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090954922131156992/C9UUBWaL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27616120/1594628434",
+				"profile_link_color": "0578BE",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBE1FF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What about support for teachers? The word 'teacher' isn't mentioned in this link, why is that? https://t.co/nU2UDPMgqn"
+	},
+	{
+		"created_at": "Thu Jul 30 09:14:54 +0000 2020",
+		"id": 1288764997569577000,
+		"id_str": "1288764997569576961",
+		"full_text": "\"We find it irrational that the worker not profit from his work\" said 13C law doctors in Padua \"the master may accept the money of students, collecta, as the price of his work, of his trouble\" - note 3 from Capital as Power https://t.co/MbVMQXBifw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MbVMQXBifw",
+					"expanded_url": "http://bnarchives.yorku.ca/259/2/20090522_nb_casp_full_indexed.pdf#page=56",
+					"display_url": "bnarchives.yorku.ca/259/2/20090522…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1288763640158589000,
+		"in_reply_to_status_id_str": "1288763640158588929",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 1576,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We find it irrational that the worker not profit from his work\" said 13C law doctors in Padua \"the master may accept the money of students, collecta, as the price of his work, of his trouble\" - note 3 from Capital as Power https://t.co/MbVMQXBifw"
+	},
+	{
 		"created_at": "Tue Jul 28 20:58:08 +0000 2020",
 		"id": 1288217199283404800,
 		"id_str": "1288217199283404804",
