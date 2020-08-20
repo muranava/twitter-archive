@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 14:00:29 +0000 2020",
+		"id": 1295289615969063000,
+		"id_str": "1296084624289005568",
+		"full_text": "Is #COVID the #EndofELT as we know it?\n\n@taw_sig @TeflUnion @ELTIreland #ELT #TEFL #EAP @EAP_in_Ireland https://t.co/a1iHkqgbc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "EndofELT",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "EAP",
+					"indices": [
+						83,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "EAP_in_Ireland",
+					"name": "EAP in Ireland",
+					"id": 917352653671288800,
+					"id_str": "917352653671288834",
+					"indices": [
+						88,
+						103
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295284151646589000,
+					"id_str": "1295284151646588928",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EfnGEr4WkAANmSj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfnGEr4WkAANmSj.png",
+					"url": "https://t.co/a1iHkqgbc0",
+					"display_url": "pic.twitter.com/a1iHkqgbc0",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1295289615969062912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295284151646589000,
+					"id_str": "1295284151646588928",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EfnGEr4WkAANmSj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfnGEr4WkAANmSj.png",
+					"url": "https://t.co/a1iHkqgbc0",
+					"display_url": "pic.twitter.com/a1iHkqgbc0",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1295289615969062912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1367,
+			"friends_count": 1150,
+			"listed_count": 23,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 7010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is #COVID the #EndofELT as we know it?\n\n@taw_sig @TeflUnion @ELTIreland #ELT #TEFL #EAP @EAP_in_Ireland https://t.co/a1iHkqgbc0"
+	},
+	{
 		"created_at": "Fri Aug 14 12:10:31 +0000 2020",
 		"id": 1294243459625357300,
 		"id_str": "1294245014248226817",
