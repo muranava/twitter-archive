@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 12:54:42 +0000 2020",
+		"id": 1298561075424747500,
+		"id_str": "1298604784384126976",
+		"full_text": "What can W.E.B.Du Bois concept of Double Consciousness tell us about the phenomenon of #CodeSwitching? @LSEPhilosophy's @lastpositivist discusses with Lucrece Grehoua\n\n🔊 👂 👇  (19:10)\nhttps://t.co/fidqk95VP8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CodeSwitching",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LSEPhilosophy",
+					"name": "LSE Philosophy",
+					"id": 904251031,
+					"id_str": "904251031",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fidqk95VP8",
+					"expanded_url": "https://www.bbc.co.uk/sounds/play/m000ls8x",
+					"display_url": "bbc.co.uk/sounds/play/m0…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155924984,
+			"id_str": "155924984",
+			"name": "LSE (from 🏡🛋)",
+			"screen_name": "LSEnews",
+			"location": "London",
+			"description": "The London School of Economics & Political Science. What makes you feel #partofLSE?",
+			"url": "https://t.co/BBsMwHSdaj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BBsMwHSdaj",
+							"expanded_url": "http://www.lse.ac.uk/",
+							"display_url": "lse.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99717,
+			"friends_count": 1288,
+			"listed_count": 1202,
+			"created_at": "Tue Jun 15 14:36:51 +0000 2010",
+			"favourites_count": 5373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7C7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278300125497036800/KH2m7aBA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278300125497036800/KH2m7aBA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155924984/1585573694",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C8CCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What can W.E.B.Du Bois concept of Double Consciousness tell us about the phenomenon of #CodeSwitching? @LSEPhilosophy's @lastpositivist discusses with Lucrece Grehoua\n\n🔊 👂 👇  (19:10)\nhttps://t.co/fidqk95VP8"
+	},
+	{
 		"created_at": "Tue Aug 25 20:39:43 +0000 2020",
 		"id": 1298359422973104000,
 		"id_str": "1298359422973104128",
@@ -749,7 +884,7 @@ Grailbird.data.tweets_2020_08 =
 			"name": "Zing Tsjeng",
 			"screen_name": "misszing",
 			"location": "London, UK",
-			"description": "@VICEUK executive editor, @bbcsounds host and author of the Forgotten Women series. 🎨👩‍🎨The Artists https://t.co/pXnaLRvZPF ✍️📚The Writers https://t.co/4tt7gVu1lq",
+			"description": "@VICEUK executive editor, @bbcsounds host and author of the Forgotten Women series. 🎨👩🎨The Artists https://t.co/pXnaLRvZPF ✍️📚The Writers https://t.co/4tt7gVu1lq",
 			"url": "https://t.co/pHoNNv31jr",
 			"entities": {
 				"url": {
