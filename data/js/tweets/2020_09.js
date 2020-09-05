@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 21:17:29 +0000 2020",
+		"id": 1290678417684418600,
+		"id_str": "1301992805527678976",
+		"full_text": "It's been a while. But it's not been a typical year! First blog post of 2020. Three games for recycling &amp; practising vocabulary using tablets or (personal favourite) mini-whiteboards. Inspired by (aka shamelessly ripped off) Richard Osman's House of Games https://t.co/K2vkHrwOpy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2vkHrwOpy",
+					"expanded_url": "https://efltakeaways.home.blog/2020/08/04/richard-osmans-house-of-elt-games-part-1-tablets-or-mini-whiteboards/",
+					"display_url": "efltakeaways.home.blog/2020/08/04/ric…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21786136,
+			"id_str": "21786136",
+			"name": "Jessica Mackay",
+			"screen_name": "JessBCN",
+			"location": "Barcelona, Spain",
+			"description": "EFL teacher, head of CPD, Escola d'Idiomes Moderns, Universitat de Barcelona. RSA Dip, MA & PhD App. Linguistics. I generally tweet from conferences.",
+			"url": "https://t.co/SUNHXGz3Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUNHXGz3Jo",
+							"expanded_url": "http://eim-ub.blogspot.com/",
+							"display_url": "eim-ub.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 761,
+			"friends_count": 500,
+			"listed_count": 13,
+			"created_at": "Tue Feb 24 19:26:24 +0000 2009",
+			"favourites_count": 1040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572051039184891904/9tkfXGY6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572051039184891904/9tkfXGY6_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21786136/1554535012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been a while. But it's not been a typical year! First blog post of 2020. Three games for recycling &amp; practising vocabulary using tablets or (personal favourite) mini-whiteboards. Inspired by (aka shamelessly ripped off) Richard Osman's House of Games https://t.co/K2vkHrwOpy"
+	},
+	{
+		"created_at": "Fri Sep 04 21:16:19 +0000 2020",
+		"id": 1301821876482736000,
+		"id_str": "1301992511808757760",
+		"full_text": "Hi #ELT peeps, @ELTbyLina, @rachel_tsateri &amp; I will be hosting our first Lesson Jam via Zoom on Saturday, 12th Sept. &gt;https://t.co/UWE8yN5w2C \n\n👉🏽Bring along a quick lesson idea or activity\n🗣️Pitch it to 3-4 other teachers\n🤟🏽Get feedback\n👋🏽 Leave with handful of classroom ideas https://t.co/Nh7YiKvxzE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTbyLina",
+					"name": "Lina Gordyshevskaya",
+					"id": 947065761540931600,
+					"id_str": "947065761540931585",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "rachel_tsateri",
+					"name": "Rachel Tsateri",
+					"id": 794906206649413600,
+					"id_str": "794906206649413632",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UWE8yN5w2C",
+					"expanded_url": "http://bit.ly/Zoom31Tk6TL",
+					"display_url": "bit.ly/Zoom31Tk6TL",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301818366538199000,
+					"id_str": "1301818366538199040",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EhD86DOWsAAEILD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhD86DOWsAAEILD.png",
+					"url": "https://t.co/Nh7YiKvxzE",
+					"display_url": "pic.twitter.com/Nh7YiKvxzE",
+					"expanded_url": "https://twitter.com/myles_klynhout/status/1301821876482736128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301818366538199000,
+					"id_str": "1301818366538199040",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EhD86DOWsAAEILD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhD86DOWsAAEILD.png",
+					"url": "https://t.co/Nh7YiKvxzE",
+					"display_url": "pic.twitter.com/Nh7YiKvxzE",
+					"expanded_url": "https://twitter.com/myles_klynhout/status/1301821876482736128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2908069515,
+			"id_str": "2908069515",
+			"name": "Myles Klynhout",
+			"screen_name": "myles_klynhout",
+			"location": "Helsinki, Finland",
+			"description": "Community Specialist at @freeedcom • Writing my Thesis on Entrepreneurial Education @ArcadaUAS • English Teacher & Member of @slbcoop",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1123,
+			"friends_count": 1371,
+			"listed_count": 17,
+			"created_at": "Sat Dec 06 18:17:14 +0000 2014",
+			"favourites_count": 3420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168198286827827200/hGSp1eV4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168198286827827200/hGSp1eV4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2908069515/1578236040",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi #ELT peeps, @ELTbyLina, @rachel_tsateri &amp; I will be hosting our first Lesson Jam via Zoom on Saturday, 12th Sept. &gt;https://t.co/UWE8yN5w2C \n\n👉🏽Bring along a quick lesson idea or activity\n🗣️Pitch it to 3-4 other teachers\n🤟🏽Get feedback\n👋🏽 Leave with handful of classroom ideas https://t.co/Nh7YiKvxzE"
+	},
+	{
+		"created_at": "Fri Sep 04 20:36:39 +0000 2020",
+		"id": 1301897599432224800,
+		"id_str": "1301982530225221632",
+		"full_text": "The @metpoliceuk has threatened organisers of another protest (due to take place tomorrow) after previously accepting steps had been taken to assess and minimise risk. Facing arrest and huge fines, they've had to cancel. This is an attack on the right to freedom of assembly https://t.co/fvDd66xPSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metpoliceuk",
+					"name": "Metropolitan Police",
+					"id": 66967746,
+					"id_str": "66967746",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fvDd66xPSK",
+					"expanded_url": "https://twitter.com/ProtestTrans/status/1301878722383970307",
+					"display_url": "twitter.com/ProtestTrans/s…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127226173,
+			"id_str": "127226173",
+			"name": "Netpol",
+			"screen_name": "netpol",
+			"location": "Britain",
+			"description": "The Network for Police Monitoring is a coalition monitoring and resisting excessive, discriminatory and violent policing | Secure 📩: NetpolAdmin@protonmail.com",
+			"url": "https://t.co/2iv0TXq7zW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2iv0TXq7zW",
+							"expanded_url": "http://www.netpol.org",
+							"display_url": "netpol.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20343,
+			"friends_count": 1087,
+			"listed_count": 274,
+			"created_at": "Sun Mar 28 14:06:47 +0000 2010",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2D668C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466157534877716480/gIifv3_c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466157534877716480/gIifv3_c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127226173/1591356722",
+			"profile_link_color": "2D668C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301878722383970300,
+		"quoted_status_id_str": "1301878722383970307",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fvDd66xPSK",
+			"expanded": "https://twitter.com/ProtestTrans/status/1301878722383970307",
+			"display": "twitter.com/ProtestTrans/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 04 13:44:09 +0000 2020",
+			"id": 1301878722383970300,
+			"id_str": "1301878722383970307",
+			"full_text": "Trans Rights Protest – Cancelled\n\nIt is with an incredibly heavy heart that I must announce that the Trans Rights Protest on 5th September is cancelled.\n \nOn 3rd September we liaised with the MET police and they assured us, after the news of Piers Corbyn's arrest, that ... https://t.co/qBw1XstzG8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1301878199744442400,
+						"id_str": "1301878199744442369",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EhEzUzSXsAEUX0v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhEzUzSXsAEUX0v.jpg",
+						"url": "https://t.co/qBw1XstzG8",
+						"display_url": "pic.twitter.com/qBw1XstzG8",
+						"expanded_url": "https://twitter.com/ProtestTrans/status/1301878722383970307/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1301878199744442400,
+						"id_str": "1301878199744442369",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EhEzUzSXsAEUX0v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhEzUzSXsAEUX0v.jpg",
+						"url": "https://t.co/qBw1XstzG8",
+						"display_url": "pic.twitter.com/qBw1XstzG8",
+						"expanded_url": "https://twitter.com/ProtestTrans/status/1301878722383970307/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1301878199719202800,
+						"id_str": "1301878199719202817",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EhEzUzMWkAEOTYA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhEzUzMWkAEOTYA.jpg",
+						"url": "https://t.co/qBw1XstzG8",
+						"display_url": "pic.twitter.com/qBw1XstzG8",
+						"expanded_url": "https://twitter.com/ProtestTrans/status/1301878722383970307/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1274406327935172600,
+				"id_str": "1274406327935172609",
+				"name": "Trans Rights Protest Thaniel Dorian",
+				"screen_name": "ProtestTrans",
+				"location": "",
+				"description": "He/Him or They/Them. \n\nTrans Rights Protest - Parliament Square - 5th September",
+				"url": "https://t.co/CZpk8Nuke8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CZpk8Nuke8",
+								"expanded_url": "https://www.facebook.com/events/208826680463624/",
+								"display_url": "facebook.com/events/2088266…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1485,
+				"friends_count": 2113,
+				"listed_count": 7,
+				"created_at": "Sat Jun 20 18:18:47 +0000 2020",
+				"favourites_count": 5361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1503,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296487783293431808/7c72kp5a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296487783293431808/7c72kp5a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1274406327935172609/1597941767",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 323,
+			"favorite_count": 649,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 126,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @metpoliceuk has threatened organisers of another protest (due to take place tomorrow) after previously accepting steps had been taken to assess and minimise risk. Facing arrest and huge fines, they've had to cancel. This is an attack on the right to freedom of assembly https://t.co/fvDd66xPSK"
+	},
+	{
 		"created_at": "Wed Sep 02 23:10:42 +0000 2020",
 		"id": 1301296521699299300,
 		"id_str": "1301296521699299329",
