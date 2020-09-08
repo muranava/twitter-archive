@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 07 19:59:21 +0000 2020",
+		"id": 1303060306176995300,
+		"id_str": "1303060306176995329",
+		"full_text": "What is acquisition and how is it measured? https://t.co/B5XAbBrPey via @wordpressdotcom by @ebefl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "ebefl",
+					"name": "Russ Mayne",
+					"id": 2228367554,
+					"id_str": "2228367554",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B5XAbBrPey",
+					"expanded_url": "https://evidenceinformedelt.net/2020/09/05/what-is-acquisition-and-how-is-it-measured/",
+					"display_url": "evidenceinformedelt.net/2020/09/05/wha…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 1616,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What is acquisition and how is it measured? https://t.co/B5XAbBrPey via @wordpressdotcom by @ebefl"
+	},
+	{
+		"created_at": "Mon Sep 07 17:20:07 +0000 2020",
+		"id": 1302939939018023000,
+		"id_str": "1303020235008733184",
+		"full_text": ".@EF comes out with PR nonsense in the the wake of #GeorgeFloyd:\n\nhttps://t.co/KCmfHUevwH\n\nThe #TEFLWorkersUnion responds:\n\nhttps://t.co/mfSFHwwPZ7\n\n#TEFL #ESL @iww #BlackLivesMatter #BLM #BLMUK #EF #EFMoment @EFprocycling @ELTadvocacy https://t.co/r6uK6Q4s21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GeorgeFloyd",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						165,
+						182
+					]
+				},
+				{
+					"text": "BLM",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "BLMUK",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "EF",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "EFMoment",
+					"indices": [
+						199,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EF",
+					"name": "EF Education First",
+					"id": 117099889,
+					"id_str": "117099889",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"screen_name": "iww",
+					"name": "Industrial Workers of the World",
+					"id": 210619467,
+					"id_str": "210619467",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"screen_name": "EFprocycling",
+					"name": "EF Pro Cycling",
+					"id": 12513592,
+					"id_str": "12513592",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KCmfHUevwH",
+					"expanded_url": "https://www.ef.com/wwen/blog/we-are-ef/a-letter-from-our-ceo-of-north-america/",
+					"display_url": "ef.com/wwen/blog/we-a…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/mfSFHwwPZ7",
+					"expanded_url": "https://iww.org.uk/news/on-corporate-wokeness-in-elt/",
+					"display_url": "iww.org.uk/news/on-corpor…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302939937164218400,
+					"id_str": "1302939937164218369",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EhT4-DZX0AEAzGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhT4-DZX0AEAzGd.jpg",
+					"url": "https://t.co/r6uK6Q4s21",
+					"display_url": "pic.twitter.com/r6uK6Q4s21",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1302939939018022912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302939937164218400,
+					"id_str": "1302939937164218369",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EhT4-DZX0AEAzGd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhT4-DZX0AEAzGd.jpg",
+					"url": "https://t.co/r6uK6Q4s21",
+					"display_url": "pic.twitter.com/r6uK6Q4s21",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1302939939018022912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1213,
+			"friends_count": 102,
+			"listed_count": 10,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@EF comes out with PR nonsense in the the wake of #GeorgeFloyd:\n\nhttps://t.co/KCmfHUevwH\n\nThe #TEFLWorkersUnion responds:\n\nhttps://t.co/mfSFHwwPZ7\n\n#TEFL #ESL @iww #BlackLivesMatter #BLM #BLMUK #EF #EFMoment @EFprocycling @ELTadvocacy https://t.co/r6uK6Q4s21"
+	},
+	{
 		"created_at": "Sun Sep 06 18:18:50 +0000 2020",
 		"id": 1302672623579680800,
 		"id_str": "1302672623579680768",
