@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 20:44:18 +0000 2020",
+		"id": 1303406875929649200,
+		"id_str": "1303434006994845696",
+		"full_text": "🇵🇸#Palestine : COVID-19 in the besieged #Gaza strip.. the catastrophic situation\nNew episode of #Palestine Box https://t.co/oY3l1amBQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Palestine",
+					"indices": [
+						2,
+						12
+					]
+				},
+				{
+					"text": "Gaza",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "Palestine",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oY3l1amBQU",
+					"expanded_url": "https://twitter.com/i/broadcasts/1vAGRrEewEYGl",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890129457037680600,
+			"id_str": "890129457037680640",
+			"name": "Shehab News Agency",
+			"screen_name": "ShehabAgencyEn",
+			"location": "Gaza",
+			"description": "News Agency located in #Palestine #Gaza - \nOfficial page in English\nArabic Account: @ShehabAgency",
+			"url": "https://t.co/Ii5dINRSoY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ii5dINRSoY",
+							"expanded_url": "http://shehaben.com/",
+							"display_url": "shehaben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77326,
+			"friends_count": 14847,
+			"listed_count": 377,
+			"created_at": "Wed Jul 26 08:39:35 +0000 2017",
+			"favourites_count": 1329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214553237405065216/oQtbycrF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214553237405065216/oQtbycrF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890129457037680640/1598948180",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇵🇸#Palestine : COVID-19 in the besieged #Gaza strip.. the catastrophic situation\nNew episode of #Palestine Box https://t.co/oY3l1amBQU"
+	},
+	{
+		"created_at": "Tue Sep 08 08:52:48 +0000 2020",
+		"id": 1303240210755526700,
+		"id_str": "1303254952790437888",
+		"full_text": "SLB: Task-Based Language Teaching Course No. 3 https://t.co/OGgAP2Tzuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OGgAP2Tzuy",
+					"expanded_url": "https://applingtesol.wordpress.com/2020/09/08/slb-task-based-language-teaching-course-no-3/",
+					"display_url": "applingtesol.wordpress.com/2020/09/08/slb…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1202653711052480500,
+			"id_str": "1202653711052480512",
+			"name": "Geoff Jordan",
+			"screen_name": "GeoffJordan17",
+			"location": "Girona, Spain. ",
+			"description": "Ph.D. Tutor in MA TESOL, Leicester Uni., UK. Member of SLB Coop. Barcelona. Anarchist. Special interests: Instructed second language learning.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 753,
+			"friends_count": 486,
+			"listed_count": 5,
+			"created_at": "Thu Dec 05 18:19:39 +0000 2019",
+			"favourites_count": 1190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290399901562568714/FsJMwRCY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290399901562568714/FsJMwRCY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SLB: Task-Based Language Teaching Course No. 3 https://t.co/OGgAP2Tzuy"
+	},
+	{
 		"created_at": "Mon Sep 07 19:59:21 +0000 2020",
 		"id": 1303060306176995300,
 		"id_str": "1303060306176995329",
