@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 18:15:38 +0000 2020",
+		"id": 1303756364049723400,
+		"id_str": "1303758980666322944",
+		"full_text": "🏆 The @RatedAwards 2020 is streaming now! \n\n💻 Watch it here \n\n➡️ https://t.co/qeSXB4RxLV\n\n📱#RatedAwards https://t.co/QfmLzWqptz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RatedAwards",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RatedAwards",
+					"name": "Rated Awards",
+					"id": 751385745089294300,
+					"id_str": "751385745089294337",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qeSXB4RxLV",
+					"expanded_url": "http://bit.ly/2VoJUVr",
+					"display_url": "bit.ly/2VoJUVr",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303756358408433700,
+					"id_str": "1303756358408433664",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EhffgBiXcAAGpZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhffgBiXcAAGpZP.jpg",
+					"url": "https://t.co/QfmLzWqptz",
+					"display_url": "pic.twitter.com/QfmLzWqptz",
+					"expanded_url": "https://twitter.com/RatedAwards/status/1303756364049723393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303756358408433700,
+					"id_str": "1303756358408433664",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EhffgBiXcAAGpZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhffgBiXcAAGpZP.jpg",
+					"url": "https://t.co/QfmLzWqptz",
+					"display_url": "pic.twitter.com/QfmLzWqptz",
+					"expanded_url": "https://twitter.com/RatedAwards/status/1303756364049723393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 751385745089294300,
+			"id_str": "751385745089294337",
+			"name": "Rated Awards",
+			"screen_name": "RatedAwards",
+			"location": "London",
+			"description": "Rated Awards 2020. 09.09.20 In partnership with @youtubemusic 🏆 #RatedAwards",
+			"url": "https://t.co/eWObmY7iFK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eWObmY7iFK",
+							"expanded_url": "http://ratedawards.com",
+							"display_url": "ratedawards.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1729,
+			"friends_count": 2,
+			"listed_count": 10,
+			"created_at": "Fri Jul 08 12:01:36 +0000 2016",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276438514750586880/aosOezUt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276438514750586880/aosOezUt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/751385745089294337/1593594071",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆 The @RatedAwards 2020 is streaming now! \n\n💻 Watch it here \n\n➡️ https://t.co/qeSXB4RxLV\n\n📱#RatedAwards https://t.co/QfmLzWqptz"
+	},
+	{
+		"created_at": "Wed Sep 09 17:20:15 +0000 2020",
+		"id": 1303745044587970600,
+		"id_str": "1303745044587970567",
+		"full_text": "@IgorBrigadir shurely can't be worse than Lynch's version : )",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IgorBrigadir",
+					"name": "Igor Brigadir",
+					"id": 495430242,
+					"id_str": "495430242",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1303741135945371600,
+		"in_reply_to_status_id_str": "1303741135945371648",
+		"in_reply_to_user_id": 495430242,
+		"in_reply_to_user_id_str": "495430242",
+		"in_reply_to_screen_name": "IgorBrigadir",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 1620,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IgorBrigadir shurely can't be worse than Lynch's version : )"
+	},
+	{
 		"created_at": "Tue Sep 08 20:44:18 +0000 2020",
 		"id": 1303406875929649200,
 		"id_str": "1303434006994845696",
