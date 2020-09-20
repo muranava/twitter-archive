@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 17:59:19 +0000 2020",
+		"id": 1307271632071929900,
+		"id_str": "1307378752297598978",
+		"full_text": "Woman who thinks #BlackLivesMatter has gone too far now actually https://t.co/pOXJ9ncGBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						17,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307271475498549200,
+					"id_str": "1307271475498549256",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307271475498549256/pu/img/85neDL2hA49Zzq3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307271475498549256/pu/img/85neDL2hA49Zzq3i.jpg",
+					"url": "https://t.co/pOXJ9ncGBr",
+					"display_url": "pic.twitter.com/pOXJ9ncGBr",
+					"expanded_url": "https://twitter.com/RosieisaHolt/status/1307271632071929862/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1096,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1096,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307271475498549200,
+					"id_str": "1307271475498549256",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1307271475498549256/pu/img/85neDL2hA49Zzq3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1307271475498549256/pu/img/85neDL2hA49Zzq3i.jpg",
+					"url": "https://t.co/pOXJ9ncGBr",
+					"display_url": "pic.twitter.com/pOXJ9ncGBr",
+					"expanded_url": "https://twitter.com/RosieisaHolt/status/1307271632071929862/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1096,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1096,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							137,
+							90
+						],
+						"duration_millis": 78300,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307271475498549256/pu/vid/410x270/-TeTdz_G2DiKVQpt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1307271475498549256/pu/pl/XnXC6M5ddAgInmfb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307271475498549256/pu/vid/1096x720/cPA0Rx7CQC43NF4t.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1307271475498549256/pu/vid/548x360/I6TeKTcV13jzAPLH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 591932349,
+			"id_str": "591932349",
+			"name": "Rosie Holt",
+			"screen_name": "RosieisaHolt",
+			"location": "London",
+			"description": "That Woman • Rep’d by @hatch_talent • Buy me a coffee (peanut butter / rent) here 👉🏻 https://t.co/aS2HOlcA13 (if u want to that is shut up now Rosie)",
+			"url": "https://t.co/b9hJi67NmR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b9hJi67NmR",
+							"expanded_url": "http://instagram.com/rosieisaholt",
+							"display_url": "instagram.com/rosieisaholt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aS2HOlcA13",
+							"expanded_url": "http://ko-fi.com/rosieholt",
+							"display_url": "ko-fi.com/rosieholt",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47465,
+			"friends_count": 1156,
+			"listed_count": 109,
+			"created_at": "Sun May 27 14:04:02 +0000 2012",
+			"favourites_count": 36781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063911097428774912/p5WgLE61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063911097428774912/p5WgLE61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/591932349/1562676844",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 832,
+		"favorite_count": 4096,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woman who thinks #BlackLivesMatter has gone too far now actually https://t.co/pOXJ9ncGBr"
+	},
+	{
+		"created_at": "Sat Sep 19 16:35:10 +0000 2020",
+		"id": 1304292123567689700,
+		"id_str": "1307357577009823744",
+		"full_text": "With  @angburger27 starting the journey of promoting our book 100 Great Black Britons which is out 24th September. @100blackbritons @LittleBrownUK @Waterstones @pagesofhackney @amazon @RunnymedeTrust @britishfuture @colourfulradio @lorrainemking @WordsofColour @OpBlackVote https://t.co/mvMepaaq4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "angburger27",
+					"name": "Dr Angelina Osborne",
+					"id": 2262126988,
+					"id_str": "2262126988",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"screen_name": "100blackbritons",
+					"name": "100greatblackbritons",
+					"id": 1182572170616197000,
+					"id_str": "1182572170616197120",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "LittleBrownUK",
+					"name": "Little, Brown UK",
+					"id": 38141721,
+					"id_str": "38141721",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"screen_name": "Waterstones",
+					"name": "Waterstones",
+					"id": 17310934,
+					"id_str": "17310934",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"screen_name": "pagesofhackney",
+					"name": "Pages of Hackney",
+					"id": 93917519,
+					"id_str": "93917519",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"screen_name": "amazon",
+					"name": "Amazon",
+					"id": 20793816,
+					"id_str": "20793816",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"screen_name": "RunnymedeTrust",
+					"name": "Runnymede Trust",
+					"id": 89675708,
+					"id_str": "89675708",
+					"indices": [
+						184,
+						199
+					]
+				},
+				{
+					"screen_name": "britishfuture",
+					"name": "British Future",
+					"id": 324305186,
+					"id_str": "324305186",
+					"indices": [
+						200,
+						214
+					]
+				},
+				{
+					"screen_name": "colourfulradio",
+					"name": "Colourful Radio",
+					"id": 19704754,
+					"id_str": "19704754",
+					"indices": [
+						215,
+						230
+					]
+				},
+				{
+					"screen_name": "lorrainemking",
+					"name": "Lorraine King",
+					"id": 283025603,
+					"id_str": "283025603",
+					"indices": [
+						231,
+						245
+					]
+				},
+				{
+					"screen_name": "WordsofColour",
+					"name": "Joy Francis",
+					"id": 326036551,
+					"id_str": "326036551",
+					"indices": [
+						246,
+						260
+					]
+				},
+				{
+					"screen_name": "OpBlackVote",
+					"name": "Operation Black Vote",
+					"id": 102044458,
+					"id_str": "102044458",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304292043611607000,
+					"id_str": "1304292043611607040",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304292043611607040/pu/img/NXO4fVE3ubrLq8Fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304292043611607040/pu/img/NXO4fVE3ubrLq8Fx.jpg",
+					"url": "https://t.co/mvMepaaq4m",
+					"display_url": "pic.twitter.com/mvMepaaq4m",
+					"expanded_url": "https://twitter.com/ppvernon/status/1304292123567689728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304292043611607000,
+					"id_str": "1304292043611607040",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304292043611607040/pu/img/NXO4fVE3ubrLq8Fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304292043611607040/pu/img/NXO4fVE3ubrLq8Fx.jpg",
+					"url": "https://t.co/mvMepaaq4m",
+					"display_url": "pic.twitter.com/mvMepaaq4m",
+					"expanded_url": "https://twitter.com/ppvernon/status/1304292123567689728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45023,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1304292043611607040/pu/pl/b13cOifueF3LhT0Y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304292043611607040/pu/vid/480x270/QjNUz2Ht8imMBX0X.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304292043611607040/pu/vid/640x360/xYb97xwqqFMYvBGj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304292043611607040/pu/vid/1280x720/oLKsPzG57PzCXnU8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289980669,
+			"id_str": "289980669",
+			"name": "Patrick Vernon",
+			"screen_name": "ppvernon",
+			"location": "Hackney, London",
+			"description": "Social commentator & Windrush Campaigner. DJ Museum of Grooves @ReelRebelsRadio& inventor of Windrush board game @FocusGames",
+			"url": "http://t.co/Av9Pq4ZSZg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Av9Pq4ZSZg",
+							"expanded_url": "http://www.patrickvernon.org.uk",
+							"display_url": "patrickvernon.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12101,
+			"friends_count": 6726,
+			"listed_count": 122,
+			"created_at": "Fri Apr 29 15:05:08 +0000 2011",
+			"favourites_count": 8942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/476841887634968576/VoIjJ6wC_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/476841887634968576/VoIjJ6wC_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289980669/1402523778",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 331,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With  @angburger27 starting the journey of promoting our book 100 Great Black Britons which is out 24th September. @100blackbritons @LittleBrownUK @Waterstones @pagesofhackney @amazon @RunnymedeTrust @britishfuture @colourfulradio @lorrainemking @WordsofColour @OpBlackVote https://t.co/mvMepaaq4m"
+	},
+	{
+		"created_at": "Sat Sep 19 15:50:13 +0000 2020",
+		"id": 1307346266628788200,
+		"id_str": "1307346266628788227",
+		"full_text": "Language as a tool https://t.co/PKE64mOTaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKE64mOTaD",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/instrumentalism",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2008,
+			"friends_count": 1639,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 12984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Language as a tool https://t.co/PKE64mOTaD"
+	},
+	{
 		"created_at": "Fri Sep 18 22:49:42 +0000 2020",
 		"id": 1307089444521021400,
 		"id_str": "1307089444521021441",
