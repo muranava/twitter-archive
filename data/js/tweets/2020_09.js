@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 19:05:56 +0000 2020",
+		"id": 1306769651909755000,
+		"id_str": "1307757905588957190",
+		"full_text": "@apignataro @kate_manne The Space Traders is the first 35 minute story...\n\nhttps://t.co/Tiix5gDAV7",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apignataro",
+					"name": "Anthony Pignataro",
+					"id": 11275542,
+					"id_str": "11275542",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "kate_manne",
+					"name": "Kate Manne",
+					"id": 2549031829,
+					"id_str": "2549031829",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tiix5gDAV7",
+					"expanded_url": "https://youtu.be/IfBpjkgn5pY",
+					"display_url": "youtu.be/IfBpjkgn5pY",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1306701900436271000,
+		"in_reply_to_status_id_str": "1306701900436271104",
+		"in_reply_to_user_id": 11275542,
+		"in_reply_to_user_id_str": "11275542",
+		"in_reply_to_screen_name": "apignataro",
+		"user": {
+			"id": 600285139,
+			"id_str": "600285139",
+			"name": "Citizen. Coping.",
+			"screen_name": "PropCazhPM",
+			"location": "",
+			"description": "Thoughts on product mgmt, risk mgmt (communities, biz, health, insurance), tech, analytics & innovation. And frequently art. Comments my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1047,
+			"friends_count": 1161,
+			"listed_count": 358,
+			"created_at": "Tue Jun 05 17:45:45 +0000 2012",
+			"favourites_count": 27087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/731107214170054657/fHVHiwJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/731107214170054657/fHVHiwJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600285139/1579053843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@apignataro @kate_manne The Space Traders is the first 35 minute story...\n\nhttps://t.co/Tiix5gDAV7"
+	},
+	{
 		"created_at": "Sat Sep 19 17:59:19 +0000 2020",
 		"id": 1307271632071929900,
 		"id_str": "1307378752297598978",
