@@ -1,6 +1,479 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 24 17:54:01 +0000 2020",
+		"id": 1309178584595083300,
+		"id_str": "1309189359405592578",
+		"full_text": "If they didn't cheat, the UK government owes them an apology and compensation.\nhttps://t.co/iHPXFy2rm5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iHPXFy2rm5",
+					"expanded_url": "https://www.theguardian.com/uk-news/2020/sep/24/english-test-students-accused-of-cheating-send-letter-to-no-10",
+					"display_url": "theguardian.com/uk-news/2020/s…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13447582,
+			"id_str": "13447582",
+			"name": "Patrick Cox",
+			"screen_name": "patricox",
+			"location": "Cambridge, MA",
+			"description": "The @lingopod Subtitle podcast is me and @kbpillay",
+			"url": "https://t.co/vuR7VTRSTo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vuR7VTRSTo",
+							"expanded_url": "https://subtitlepod.com/",
+							"display_url": "subtitlepod.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3785,
+			"friends_count": 1137,
+			"listed_count": 226,
+			"created_at": "Wed Feb 13 20:57:13 +0000 2008",
+			"favourites_count": 3503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E5744",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/671772938702626816/_felRQLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/671772938702626816/_felRQLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13447582/1398706720",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAF4D0",
+			"profile_text_color": "304B46",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If they didn't cheat, the UK government owes them an apology and compensation.\nhttps://t.co/iHPXFy2rm5"
+	},
+	{
+		"created_at": "Thu Sep 24 17:52:37 +0000 2020",
+		"id": 1309189008153604000,
+		"id_str": "1309189008153604097",
+		"full_text": "@UMassLinguistic Not all up on this issue but one thing struck me is the writer conflating speech with writing in one of his objections? - e.g. \"The hard-to-pronounce\"",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UMassLinguistic",
+					"name": "umasslinguistics",
+					"id": 149239362,
+					"id_str": "149239362",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1309182067830382600,
+		"in_reply_to_status_id_str": "1309182067830382592",
+		"in_reply_to_user_id": 149239362,
+		"in_reply_to_user_id_str": "149239362",
+		"in_reply_to_screen_name": "UMassLinguistic",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2008,
+			"friends_count": 1652,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 13070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UMassLinguistic Not all up on this issue but one thing struck me is the writer conflating speech with writing in one of his objections? - e.g. \"The hard-to-pronounce\""
+	},
+	{
+		"created_at": "Thu Sep 24 17:35:54 +0000 2020",
+		"id": 1309182289369280500,
+		"id_str": "1309184799131807744",
+		"full_text": "I just published Post-It Dreams https://t.co/AG9aBxVzfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AG9aBxVzfU",
+					"expanded_url": "https://link.medium.com/YNWhXe9X29",
+					"display_url": "link.medium.com/YNWhXe9X29",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 148593548,
+			"id_str": "148593548",
+			"name": "Tressie McMillan Cottom",
+			"screen_name": "tressiemcphd",
+			"location": "Chapel Hill, NC",
+			"description": "I am writing about Vivians & white lady camps & hustling. It makes sense to me. Literary: @DorianKarchmar Speaking: @tuesdayagency General: info@tressiemc.com",
+			"url": "https://t.co/AlFx0MCPht",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AlFx0MCPht",
+							"expanded_url": "https://sils.unc.edu/people/faculty/profiles/Tressie-McMillan-Cottom",
+							"display_url": "sils.unc.edu/people/faculty…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143798,
+			"friends_count": 3839,
+			"listed_count": 1860,
+			"created_at": "Thu May 27 03:06:44 +0000 2010",
+			"favourites_count": 46133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 276814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF3300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294486906584129537/T4-tKtEC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294486906584129537/T4-tKtEC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1569078414",
+			"profile_link_color": "AB241D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7900A",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 329,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just published Post-It Dreams https://t.co/AG9aBxVzfU"
+	},
+	{
+		"created_at": "Thu Sep 24 08:59:14 +0000 2020",
+		"id": 1309054775091171300,
+		"id_str": "1309054775091171328",
+		"full_text": "Adults Put Off Crucial Conversations About Race Because They Mistakenly Think Young Children Won’t Understand https://t.co/WhMayv9YHO via @researchdigest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchDigest",
+					"name": "BPS Research Digest",
+					"id": 24862758,
+					"id_str": "24862758",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WhMayv9YHO",
+					"expanded_url": "https://digest.bps.org.uk/2020/09/22/adults-put-off-crucial-conversations-about-race-because-they-mistakenly-think-young-children-wont-understand/",
+					"display_url": "digest.bps.org.uk/2020/09/22/adu…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2008,
+			"friends_count": 1652,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 13070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adults Put Off Crucial Conversations About Race Because They Mistakenly Think Young Children Won’t Understand https://t.co/WhMayv9YHO via @researchdigest"
+	},
+	{
 		"created_at": "Wed Sep 23 17:38:17 +0000 2020",
 		"id": 1308823012200927200,
 		"id_str": "1308823012200927237",
