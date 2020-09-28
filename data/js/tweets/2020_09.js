@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 20:24:43 +0000 2020",
+		"id": 1310314448972845000,
+		"id_str": "1310314448972845059",
+		"full_text": "@caitlinmoriah non-fiction part of doc revolved about cycle of the mind dood, so guess producers did not feel any need to fact check any of what he said?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caitlinmoriah",
+					"name": "dr green, not a fan of phrenology",
+					"id": 1862202366,
+					"id_str": "1862202366",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1310313739376189400,
+		"in_reply_to_status_id_str": "1310313739376189440",
+		"in_reply_to_user_id": 1862202366,
+		"in_reply_to_user_id_str": "1862202366",
+		"in_reply_to_screen_name": "caitlinmoriah",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2009,
+			"friends_count": 1661,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 13119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@caitlinmoriah non-fiction part of doc revolved about cycle of the mind dood, so guess producers did not feel any need to fact check any of what he said?"
+	},
+	{
+		"created_at": "Sun Sep 27 20:20:06 +0000 2020",
+		"id": 1310313285632299000,
+		"id_str": "1310313285632299008",
+		"full_text": "@caitlinmoriah here's another dunk on cycle brain fella https://t.co/x4DHeLzQrT",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caitlinmoriah",
+					"name": "dr green, not a fan of phrenology",
+					"id": 1862202366,
+					"id_str": "1862202366",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x4DHeLzQrT",
+					"expanded_url": "https://twitter.com/PessimistsArc/status/1304134132709109761",
+					"display_url": "twitter.com/PessimistsArc/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1310312590652764200,
+		"in_reply_to_status_id_str": "1310312590652764160",
+		"in_reply_to_user_id": 1862202366,
+		"in_reply_to_user_id_str": "1862202366",
+		"in_reply_to_screen_name": "caitlinmoriah",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2009,
+			"friends_count": 1661,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 13119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304134132709109800,
+		"quoted_status_id_str": "1304134132709109761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x4DHeLzQrT",
+			"expanded": "https://twitter.com/PessimistsArc/status/1304134132709109761",
+			"display": "twitter.com/PessimistsArc/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 10 19:06:21 +0000 2020",
+			"id": 1304134132709109800,
+			"id_str": "1304134132709109761",
+			"full_text": "Oh no Tristan honey... #TheSocialDilemma https://t.co/MHeyuOYywp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheSocialDilemma",
+						"indices": [
+							23,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1304091748583567400,
+						"id_str": "1304091748583567360",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304091748583567360/pu/img/dekSfk15M8w1DLBF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304091748583567360/pu/img/dekSfk15M8w1DLBF.jpg",
+						"url": "https://t.co/MHeyuOYywp",
+						"display_url": "pic.twitter.com/MHeyuOYywp",
+						"expanded_url": "https://twitter.com/PessimistsArc/status/1304092648953839616/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1304092648953839600,
+						"source_status_id_str": "1304092648953839616",
+						"source_user_id": 3942597494,
+						"source_user_id_str": "3942597494"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304091748583567400,
+						"id_str": "1304091748583567360",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304091748583567360/pu/img/dekSfk15M8w1DLBF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304091748583567360/pu/img/dekSfk15M8w1DLBF.jpg",
+						"url": "https://t.co/MHeyuOYywp",
+						"display_url": "pic.twitter.com/MHeyuOYywp",
+						"expanded_url": "https://twitter.com/PessimistsArc/status/1304092648953839616/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1304092648953839600,
+						"source_status_id_str": "1304092648953839616",
+						"source_user_id": 3942597494,
+						"source_user_id_str": "3942597494",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 22239,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1304091748583567360/pu/pl/EAQqEaVYazdaSCd8.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1304091748583567360/pu/vid/480x270/4FXcC2BX-l8PrB7B.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1304091748583567360/pu/vid/640x360/Se3Ur0PQHEYGuQLs.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1304091748583567360/pu/vid/1280x720/72dYV-FJlI3bAlsK.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 3942597494,
+								"id_str": "3942597494",
+								"name": "Pessimists Archive",
+								"screen_name": "PessimistsArc",
+								"location": "",
+								"description": "Fear of old things when they were new. Newsletter: https://t.co/R6bmibkLvn Podcast: https://t.co/cvc8L9p1M2",
+								"url": "https://t.co/vAu4CbVHF8",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/vAu4CbVHF8",
+												"expanded_url": "http://pessimists.co/",
+												"display_url": "pessimists.co",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/R6bmibkLvn",
+												"expanded_url": "https://mailchi.mp/b4f3379b1f87/newsletter",
+												"display_url": "mailchi.mp/b4f3379b1f87/n…",
+												"indices": [
+													51,
+													74
+												]
+											},
+											{
+												"url": "https://t.co/cvc8L9p1M2",
+												"expanded_url": "http://link.chtbl.com/pessarc",
+												"display_url": "link.chtbl.com/pessarc",
+												"indices": [
+													84,
+													107
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 49743,
+								"friends_count": 0,
+								"listed_count": 643,
+								"created_at": "Mon Oct 19 03:08:03 +0000 2015",
+								"favourites_count": 1735,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 3205,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1300842603521478657/1Hu00FVA_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300842603521478657/1Hu00FVA_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3942597494/1598317803",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3942597494,
+				"id_str": "3942597494",
+				"name": "Pessimists Archive",
+				"screen_name": "PessimistsArc",
+				"location": "",
+				"description": "Fear of old things when they were new. Newsletter: https://t.co/R6bmibkLvn Podcast: https://t.co/cvc8L9p1M2",
+				"url": "https://t.co/vAu4CbVHF8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vAu4CbVHF8",
+								"expanded_url": "http://pessimists.co/",
+								"display_url": "pessimists.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/R6bmibkLvn",
+								"expanded_url": "https://mailchi.mp/b4f3379b1f87/newsletter",
+								"display_url": "mailchi.mp/b4f3379b1f87/n…",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/cvc8L9p1M2",
+								"expanded_url": "http://link.chtbl.com/pessarc",
+								"display_url": "link.chtbl.com/pessarc",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 49743,
+				"friends_count": 0,
+				"listed_count": 643,
+				"created_at": "Mon Oct 19 03:08:03 +0000 2015",
+				"favourites_count": 1735,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300842603521478657/1Hu00FVA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300842603521478657/1Hu00FVA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3942597494/1598317803",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 531,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@caitlinmoriah here's another dunk on cycle brain fella https://t.co/x4DHeLzQrT"
+	},
+	{
 		"created_at": "Sat Sep 26 13:33:46 +0000 2020",
 		"id": 1309768330471968800,
 		"id_str": "1309848639465050112",
