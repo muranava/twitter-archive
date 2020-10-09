@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 09:42:30 +0000 2020",
+		"id": 1314136320378314800,
+		"id_str": "1314139094033760256",
+		"full_text": "This is your so called state-of-the-art 'Situation Recognition' model. In reality, what it does is strip the very core &amp; crucial contexts people are situated in. This erasure of situation &amp; context all comes at the determent &amp; harm of the vulnerable &amp; keeps whiteness intact. https://t.co/Tp1FJA8VCb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314132700454846500,
+					"id_str": "1314132700454846465",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy8un5WAAEaetu.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy8un5WAAEaetu.png",
+					"url": "https://t.co/Tp1FJA8VCb",
+					"display_url": "pic.twitter.com/Tp1FJA8VCb",
+					"expanded_url": "https://twitter.com/Abebab/status/1314136320378314753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314132700454846500,
+					"id_str": "1314132700454846465",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy8un5WAAEaetu.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy8un5WAAEaetu.png",
+					"url": "https://t.co/Tp1FJA8VCb",
+					"display_url": "pic.twitter.com/Tp1FJA8VCb",
+					"expanded_url": "https://twitter.com/Abebab/status/1314136320378314753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 601,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 716,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314133829179842600,
+					"id_str": "1314133829179842562",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy9wUuWoAI5E5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy9wUuWoAI5E5_.jpg",
+					"url": "https://t.co/Tp1FJA8VCb",
+					"display_url": "pic.twitter.com/Tp1FJA8VCb",
+					"expanded_url": "https://twitter.com/Abebab/status/1314136320378314753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 907,
+							"h": 819,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 614,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 907,
+							"h": 819,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229005889,
+			"id_str": "229005889",
+			"name": "Abeba Birhane",
+			"screen_name": "Abebab",
+			"location": "Dublin, Ireland",
+			"description": "Cognitive science PhD student @UCDCompSci @ucddublin @LeroNews #Complexity #Embodiment #Ethics. Ethiopian living in Dublin. She/her #BlackLivesMatter",
+			"url": "https://t.co/DoIRXq5NBi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DoIRXq5NBi",
+							"expanded_url": "https://abebabirhane.wordpress.com/",
+							"display_url": "abebabirhane.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20192,
+			"friends_count": 2136,
+			"listed_count": 419,
+			"created_at": "Tue Dec 21 07:57:57 +0000 2010",
+			"favourites_count": 50302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309976584733024256/N7RTxmHx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309976584733024256/N7RTxmHx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229005889/1539703000",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is your so called state-of-the-art 'Situation Recognition' model. In reality, what it does is strip the very core &amp; crucial contexts people are situated in. This erasure of situation &amp; context all comes at the determent &amp; harm of the vulnerable &amp; keeps whiteness intact. https://t.co/Tp1FJA8VCb"
+	},
+	{
 		"created_at": "Mon Oct 05 10:58:50 +0000 2020",
 		"id": 1313048080514773000,
 		"id_str": "1313071143683796994",
