@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 20:27:22 +0000 2020",
+		"id": 1316989755092095000,
+		"id_str": "1317562873946800129",
+		"full_text": "***BREAKING***\n\nIts episode three of The Tories! The soap opera that has united a divided nation.\n\nWill Dom find what he is looking? Priti and Cressida's relationship goes from bad to worse. https://t.co/gwtbDirBvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316989497461121000,
+					"id_str": "1316989497461121025",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316989497461121025/pu/img/OC8i-MUC1HOUmDpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316989497461121025/pu/img/OC8i-MUC1HOUmDpJ.jpg",
+					"url": "https://t.co/gwtbDirBvD",
+					"display_url": "pic.twitter.com/gwtbDirBvD",
+					"expanded_url": "https://twitter.com/mikegove12/status/1316989755092094981/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316989497461121000,
+					"id_str": "1316989497461121025",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316989497461121025/pu/img/OC8i-MUC1HOUmDpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316989497461121025/pu/img/OC8i-MUC1HOUmDpJ.jpg",
+					"url": "https://t.co/gwtbDirBvD",
+					"display_url": "pic.twitter.com/gwtbDirBvD",
+					"expanded_url": "https://twitter.com/mikegove12/status/1316989755092094981/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139963,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316989497461121025/pu/vid/1280x720/SVRuTAc_xJe_Z6hP.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316989497461121025/pu/vid/480x270/tpgHR7VbwjLb5pRI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316989497461121025/pu/vid/640x360/AGsK-LNK0seCG2w3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316989497461121025/pu/pl/bdb3kakWAB8uFuRG.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113898497357623300,
+			"id_str": "1113898497357623296",
+			"name": "Michael Govern Ready",
+			"screen_name": "mikegove12",
+			"location": "Surrey Heath",
+			"description": "🧠I'm not Michael Gove\n🧠Lapsed mollusc\n🧠MP for Surrey Heath\n🧠Star Trek enthusiast\n🧠Incredibly integillent\n🧠I took ne-Francois-pas account off him\n💖HUSBAND",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59455,
+			"friends_count": 3269,
+			"listed_count": 1,
+			"created_at": "Thu Apr 04 20:17:51 +0000 2019",
+			"favourites_count": 62015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295068172870193156/FvnzH8eK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295068172870193156/FvnzH8eK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113898497357623296/1597603290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 806,
+		"favorite_count": 2155,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "***BREAKING***\n\nIts episode three of The Tories! The soap opera that has united a divided nation.\n\nWill Dom find what he is looking? Priti and Cressida's relationship goes from bad to worse. https://t.co/gwtbDirBvD"
+	},
+	{
 		"created_at": "Fri Oct 16 20:32:09 +0000 2020",
 		"id": 1317201688105726000,
 		"id_str": "1317201688105725965",
