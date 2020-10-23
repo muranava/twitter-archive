@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 11:48:08 +0000 2020",
+		"id": 1319242324203942000,
+		"id_str": "1319244143097487360",
+		"full_text": "Watch this powerful speech on free school meals by my Coventry colleague @TaiwoOwatemi 👇🏽\n\nhttps://t.co/mfxgzpS1V0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaiwoOwatemi",
+					"name": "Taiwo Owatemi MP",
+					"id": 802599212194132000,
+					"id_str": "802599212194131968",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319005370032001000,
+					"id_str": "1319005370032001024",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319005370032001024/pu/img/iONvLXHhXA6H-YF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319005370032001024/pu/img/iONvLXHhXA6H-YF7.jpg",
+					"url": "https://t.co/mfxgzpS1V0",
+					"display_url": "pic.twitter.com/mfxgzpS1V0",
+					"expanded_url": "https://twitter.com/TaiwoOwatemi/status/1319005533626650624/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1319005533626650600,
+					"source_status_id_str": "1319005533626650624",
+					"source_user_id": 802599212194132000,
+					"source_user_id_str": "802599212194131968"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319005370032001000,
+					"id_str": "1319005370032001024",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319005370032001024/pu/img/iONvLXHhXA6H-YF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319005370032001024/pu/img/iONvLXHhXA6H-YF7.jpg",
+					"url": "https://t.co/mfxgzpS1V0",
+					"display_url": "pic.twitter.com/mfxgzpS1V0",
+					"expanded_url": "https://twitter.com/TaiwoOwatemi/status/1319005533626650624/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1319005533626650600,
+					"source_status_id_str": "1319005533626650624",
+					"source_user_id": 802599212194132000,
+					"source_user_id_str": "802599212194131968",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140040,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319005370032001024/pu/vid/640x640/Sszo39xDM6nyHVbB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319005370032001024/pu/vid/480x480/yrpO8HW5r0CyJZqf.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319005370032001024/pu/vid/320x320/MlHTGTwlcxJjD4Jr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1319005370032001024/pu/pl/gCF3axwiJrSXaGBo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 802599212194132000,
+							"id_str": "802599212194131968",
+							"name": "Taiwo Owatemi MP",
+							"screen_name": "TaiwoOwatemi",
+							"location": "Coventry, England",
+							"description": "Labour MP for Coventry North West 🌹| NHS cancer pharmacist | Cannot take casework via Twitter, pls contact taiwo.owatemi.mp@parliament.uk",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 13838,
+							"friends_count": 407,
+							"listed_count": 140,
+							"created_at": "Sat Nov 26 19:45:38 +0000 2016",
+							"favourites_count": 705,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 805,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1238528605094887428/yX4udOUG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238528605094887428/yX4udOUG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/802599212194131968/1601308672",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3056307455,
+			"id_str": "3056307455",
+			"name": "Zarah Sultana MP",
+			"screen_name": "zarahsultana",
+			"location": "West Midlands, England",
+			"description": "Proudly serving the people of Coventry South as their Labour Member of Parliament🌹 For constituent casework: zarah.sultana.mp@parliament.uk",
+			"url": "https://t.co/C2js91ZsYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C2js91ZsYc",
+							"expanded_url": "https://join.labour.org.uk/",
+							"display_url": "join.labour.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90889,
+			"friends_count": 741,
+			"listed_count": 420,
+			"created_at": "Mon Feb 23 16:25:28 +0000 2015",
+			"favourites_count": 6629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220077084984344576/xYLp_MPN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220077084984344576/xYLp_MPN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3056307455/1573567280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1100,
+		"favorite_count": 3435,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch this powerful speech on free school meals by my Coventry colleague @TaiwoOwatemi 👇🏽\n\nhttps://t.co/mfxgzpS1V0"
+	},
+	{
+		"created_at": "Thu Oct 22 11:34:10 +0000 2020",
+		"id": 1319211093148029000,
+		"id_str": "1319240626014126081",
+		"full_text": "Teachers as Workers, an interview with Alberto Bruzos Moro @abruzos https://t.co/QSZ1UGJ8Um",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abruzos",
+					"name": "𝗔𝗹𝗯𝗲𝗿𝘁𝗼 𝗕𝗿𝘂𝘇𝗼𝘀",
+					"id": 150242940,
+					"id_str": "150242940",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QSZ1UGJ8Um",
+					"expanded_url": "https://twitter.com/taw_sig/status/1319210101899747328",
+					"display_url": "twitter.com/taw_sig/status…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20932918,
+			"id_str": "20932918",
+			"name": "blairteacher",
+			"screen_name": "blairteacher",
+			"location": "East Neuk of Fife",
+			"description": "Teaching Fellow, University of St Andrews | MSc TESOL, English for Academic Purposes and Technology for Teaching.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 598,
+			"listed_count": 26,
+			"created_at": "Sun Feb 15 20:04:22 +0000 2009",
+			"favourites_count": 19395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BEB9A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247951573247856642/PLwUmQLt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247951573247856642/PLwUmQLt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20932918/1603178495",
+			"profile_link_color": "B01C2E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319210101899747300,
+		"quoted_status_id_str": "1319210101899747328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QSZ1UGJ8Um",
+			"expanded": "https://twitter.com/taw_sig/status/1319210101899747328",
+			"display": "twitter.com/taw_sig/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 09:32:52 +0000 2020",
+			"id": 1319210101899747300,
+			"id_str": "1319210101899747328",
+			"full_text": "An Interview with … Alberto Bruzos Moro (Part 1) https://t.co/JNIX0zFFFt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JNIX0zFFFt",
+						"expanded_url": "https://www.teachersasworkers.org/an-interview-with-alberto-bruzos-moro-part-1/",
+						"display_url": "teachersasworkers.org/an-interview-w…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3152637711,
+				"id_str": "3152637711",
+				"name": "teachers_as_workers",
+				"screen_name": "taw_sig",
+				"location": "everywhere",
+				"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+				"url": "https://t.co/m5fCLqrXgN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m5fCLqrXgN",
+								"expanded_url": "http://www.teachersasworkers.org",
+								"display_url": "teachersasworkers.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1702,
+				"friends_count": 1104,
+				"listed_count": 24,
+				"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teachers as Workers, an interview with Alberto Bruzos Moro @abruzos https://t.co/QSZ1UGJ8Um"
+	},
+	{
+		"created_at": "Thu Oct 22 11:33:37 +0000 2020",
+		"id": 1319215549466005500,
+		"id_str": "1319240488881426432",
+		"full_text": "'#Precarity is no longer confined to the margins of society... precarity affects now larger portions of the middle class and is a defining feature of most jobs in the service sector.' Part I of interview w/Alberto Bruzos Moro by @blairteacher #elt #tefl #efl #esol https://t.co/9lG9jcBPWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Precarity",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						243,
+						247
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "efl",
+					"indices": [
+						254,
+						258
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						259,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blairteacher",
+					"name": "blairteacher",
+					"id": 20932918,
+					"id_str": "20932918",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9lG9jcBPWx",
+					"expanded_url": "https://twitter.com/taw_sig/status/1319210101899747328",
+					"display_url": "twitter.com/taw_sig/status…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2118,
+			"friends_count": 5001,
+			"listed_count": 54,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 5416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319210101899747300,
+		"quoted_status_id_str": "1319210101899747328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9lG9jcBPWx",
+			"expanded": "https://twitter.com/taw_sig/status/1319210101899747328",
+			"display": "twitter.com/taw_sig/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 09:32:52 +0000 2020",
+			"id": 1319210101899747300,
+			"id_str": "1319210101899747328",
+			"full_text": "An Interview with … Alberto Bruzos Moro (Part 1) https://t.co/JNIX0zFFFt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JNIX0zFFFt",
+						"expanded_url": "https://www.teachersasworkers.org/an-interview-with-alberto-bruzos-moro-part-1/",
+						"display_url": "teachersasworkers.org/an-interview-w…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3152637711,
+				"id_str": "3152637711",
+				"name": "teachers_as_workers",
+				"screen_name": "taw_sig",
+				"location": "everywhere",
+				"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+				"url": "https://t.co/m5fCLqrXgN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m5fCLqrXgN",
+								"expanded_url": "http://www.teachersasworkers.org",
+								"display_url": "teachersasworkers.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1702,
+				"friends_count": 1104,
+				"listed_count": 24,
+				"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'#Precarity is no longer confined to the margins of society... precarity affects now larger portions of the middle class and is a defining feature of most jobs in the service sector.' Part I of interview w/Alberto Bruzos Moro by @blairteacher #elt #tefl #efl #esol https://t.co/9lG9jcBPWx"
+	},
+	{
+		"created_at": "Thu Oct 22 11:31:46 +0000 2020",
+		"id": 1319240023661777000,
+		"id_str": "1319240023661776897",
+		"full_text": "Donald Trump Has Exposed the US-UK 'Special Relationship' for What It Really Is https://t.co/L4nuzHU2px via @novaramedia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "novaramedia",
+					"name": "Novara Media",
+					"id": 601148365,
+					"id_str": "601148365",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L4nuzHU2px",
+					"expanded_url": "https://novaramedia.com/2020/10/21/donald-trump-has-exposed-the-us-uk-special-relationship-for-what-it-really-is/",
+					"display_url": "novaramedia.com/2020/10/21/don…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2017,
+			"friends_count": 1718,
+			"listed_count": 0,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 13419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Donald Trump Has Exposed the US-UK 'Special Relationship' for What It Really Is https://t.co/L4nuzHU2px via @novaramedia"
+	},
+	{
+		"created_at": "Thu Oct 22 11:27:13 +0000 2020",
+		"id": 1319234426652549000,
+		"id_str": "1319238878608371712",
+		"full_text": "I wrote a short op-ed on CRT in Britain https://t.co/r5DulOZqQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r5DulOZqQR",
+					"expanded_url": "https://inews.co.uk/opinion/critical-race-theory-end-systematic-racism-no-sense-government-reject-it-732963",
+					"display_url": "inews.co.uk/opinion/critic…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470631149,
+			"id_str": "470631149",
+			"name": "ali meghji",
+			"screen_name": "alim1213",
+			"location": "London/Cambridge",
+			"description": "Lecturer @CamSociology Black middle class ('19) @ManchesterUP, Decolonizing Sociology(‘20), Critical race theory('21) @politybooks Review editor @POP_Jrnl",
+			"url": "https://t.co/ywcSG0GgHi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ywcSG0GgHi",
+							"expanded_url": "https://politybooks.com/index.php/bookdetail/?isbn=9781509541942",
+							"display_url": "politybooks.com/index.php/book…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2591,
+			"friends_count": 4573,
+			"listed_count": 12,
+			"created_at": "Sun Jan 22 00:04:11 +0000 2012",
+			"favourites_count": 4024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292523644174979074/Icphqf1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292523644174979074/Icphqf1y_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 97,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote a short op-ed on CRT in Britain https://t.co/r5DulOZqQR"
+	},
+	{
 		"created_at": "Wed Oct 21 20:03:29 +0000 2020",
 		"id": 1319006412853346300,
 		"id_str": "1319006412853346304",
