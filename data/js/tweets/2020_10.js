@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 10:11:48 +0000 2020",
+		"id": 1321007081034567700,
+		"id_str": "1321031837125386241",
+		"full_text": "Est-il + simple de dissoudre une ONG, qui a été blanchie de toutes les accusations après 3 ans d’enquête approfondie menée par les + hauts services de l’état,que de combattre réellement le terrorisme? Attaquer des innocents est 1 grave erreur. #contreLaDissolutionDeBarakacity https://t.co/su3J2E9888",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "contreLaDissolutionDeBarakacity",
+					"indices": [
+						244,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/su3J2E9888",
+					"expanded_url": "https://twitter.com/gdarmanin/status/1320998861545086984",
+					"display_url": "twitter.com/gdarmanin/stat…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401508362,
+			"id_str": "401508362",
+			"name": "BarakaCity",
+			"screen_name": "Barakacity",
+			"location": "",
+			"description": "ONG #humanitaire et de défense des droits humains. Humanitairement engagée pour toutes et tous.",
+			"url": "https://t.co/YaSGxBfW2n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YaSGxBfW2n",
+							"expanded_url": "http://www.barakacity.com",
+							"display_url": "barakacity.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66406,
+			"friends_count": 209,
+			"listed_count": 122,
+			"created_at": "Sun Oct 30 17:08:53 +0000 2011",
+			"favourites_count": 2700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183336841099071490/pUSyi9fY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183336841099071490/pUSyi9fY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401508362/1591622381",
+			"profile_link_color": "A97A72",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320998861545087000,
+		"quoted_status_id_str": "1320998861545086984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/su3J2E9888",
+			"expanded": "https://twitter.com/gdarmanin/status/1320998861545086984",
+			"display": "twitter.com/gdarmanin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 08:00:46 +0000 2020",
+			"id": 1320998861545087000,
+			"id_str": "1320998861545086984",
+			"full_text": "Je vais proposer demain en conseil des ministres la dissolution de Baraka City. #le79Inter https://t.co/QriaNWGBxf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "le79Inter",
+						"indices": [
+							80,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1320998815307047000,
+						"id_str": "1320998815307046913",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320998815307046913/pu/img/URUHV8wRgU_avdgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320998815307046913/pu/img/URUHV8wRgU_avdgP.jpg",
+						"url": "https://t.co/QriaNWGBxf",
+						"display_url": "pic.twitter.com/QriaNWGBxf",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1320998861545086984/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1320998815307047000,
+						"id_str": "1320998815307046913",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320998815307046913/pu/img/URUHV8wRgU_avdgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320998815307046913/pu/img/URUHV8wRgU_avdgP.jpg",
+						"url": "https://t.co/QriaNWGBxf",
+						"display_url": "pic.twitter.com/QriaNWGBxf",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1320998861545086984/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16789,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320998815307046913/pu/vid/480x270/SG70FiRlpCVt_Ufa.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320998815307046913/pu/vid/640x360/cp2UC7dsD800PGzi.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1320998815307046913/pu/vid/1280x720/NQkoqIxZKJVBBrFu.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1320998815307046913/pu/pl/EimOOFSuzgsHpofL.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209825928,
+				"id_str": "209825928",
+				"name": "Gérald DARMANIN",
+				"screen_name": "GDarmanin",
+				"location": "France",
+				"description": "Ministre de l’Intérieur 🇫🇷",
+				"url": "https://t.co/rWEKMb9EPC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rWEKMb9EPC",
+								"expanded_url": "https://instagram.com/gerald_darmanin?utm_source=ig_profile_share&igshid=1uc0uhbj47e7b",
+								"display_url": "instagram.com/gerald_darmani…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179459,
+				"friends_count": 1109,
+				"listed_count": 1141,
+				"created_at": "Sat Oct 30 00:30:43 +0000 2010",
+				"favourites_count": 594,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16097,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1264210301458812929/lSdKbqDR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264210301458812929/lSdKbqDR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209825928/1594399389",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 325,
+			"favorite_count": 1705,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 588,
+		"favorite_count": 989,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Est-il + simple de dissoudre une ONG, qui a été blanchie de toutes les accusations après 3 ans d’enquête approfondie menée par les + hauts services de l’état,que de combattre réellement le terrorisme? Attaquer des innocents est 1 grave erreur. #contreLaDissolutionDeBarakacity https://t.co/su3J2E9888"
+	},
+	{
 		"created_at": "Mon Oct 26 11:48:32 +0000 2020",
 		"id": 1320693796263415800,
 		"id_str": "1320693796263415809",
