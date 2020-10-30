@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 23:47:09 +0000 2020",
+		"id": 1321860461395124200,
+		"id_str": "1321961803388227585",
+		"full_text": "In 2014 the 'profession' was given a chance to address precarious work when me and Nicola Prentis applied for an #iatefl SIG. That is SIX years that we could have speaking, and doing something about the working conditions in #elt.  Repost: https://t.co/OlBinvQRMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iatefl",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						225,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OlBinvQRMg",
+					"expanded_url": "https://decentralisedteachingandlearning.com/iatefl-calling/",
+					"display_url": "decentralisedteachingandlearning.com/iatefl-calling/",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2120,
+			"friends_count": 4994,
+			"listed_count": 54,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 5513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2014 the 'profession' was given a chance to address precarious work when me and Nicola Prentis applied for an #iatefl SIG. That is SIX years that we could have speaking, and doing something about the working conditions in #elt.  Repost: https://t.co/OlBinvQRMg"
+	},
+	{
+		"created_at": "Thu Oct 29 23:46:45 +0000 2020",
+		"id": 1321959537251897300,
+		"id_str": "1321961701915430914",
+		"full_text": "The proposal, conversation, and community that continues as @taw_sig has been hugely heartening to our campaign in Ireland in organising.\n\n@NicolaPrentis and @josipa74 started something very important for Ts who orbit the @iateflonline in the #ELT/#TEFL universe.\n\n#JOINaUNION https://t.co/T6CRT0K9Yg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						243,
+						247
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "JOINaUNION",
+					"indices": [
+						265,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "NicolaPrentis",
+					"name": "Nicola Prentis",
+					"id": 810667033,
+					"id_str": "810667033",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"screen_name": "iateflonline",
+					"name": "IATEFL Online",
+					"id": 17447359,
+					"id_str": "17447359",
+					"indices": [
+						222,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T6CRT0K9Yg",
+					"expanded_url": "https://twitter.com/josipa74/status/1321860461395124225",
+					"display_url": "twitter.com/josipa74/statu…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 1224,
+			"listed_count": 25,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 8030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321860461395124200,
+		"quoted_status_id_str": "1321860461395124225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T6CRT0K9Yg",
+			"expanded": "https://twitter.com/josipa74/status/1321860461395124225",
+			"display": "twitter.com/josipa74/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 17:04:27 +0000 2020",
+			"id": 1321860461395124200,
+			"id_str": "1321860461395124225",
+			"full_text": "In 2014 the 'profession' was given a chance to address precarious work when me and Nicola Prentis applied for an #iatefl SIG. That is SIX years that we could have speaking, and doing something about the working conditions in #elt.  Repost: https://t.co/OlBinvQRMg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iatefl",
+						"indices": [
+							113,
+							120
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							225,
+							229
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OlBinvQRMg",
+						"expanded_url": "https://decentralisedteachingandlearning.com/iatefl-calling/",
+						"display_url": "decentralisedteachingandlearning.com/iatefl-calling/",
+						"indices": [
+							240,
+							263
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134211317,
+				"id_str": "134211317",
+				"name": "paulwalsh",
+				"screen_name": "josipa74",
+				"location": "berlin",
+				"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @independent\n@opendemocracy @redpepper @ROAR_Magazine @bellacaledonia",
+				"url": "https://t.co/0wx2uSf84O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0wx2uSf84O",
+								"expanded_url": "https://www.paulwalshwriting.com/",
+								"display_url": "paulwalshwriting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2120,
+				"friends_count": 4994,
+				"listed_count": 54,
+				"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+				"favourites_count": 5513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228007865341874176/hnEskxS8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The proposal, conversation, and community that continues as @taw_sig has been hugely heartening to our campaign in Ireland in organising.\n\n@NicolaPrentis and @josipa74 started something very important for Ts who orbit the @iateflonline in the #ELT/#TEFL universe.\n\n#JOINaUNION https://t.co/T6CRT0K9Yg"
+	},
+	{
+		"created_at": "Thu Oct 29 23:46:25 +0000 2020",
+		"id": 1321954947345297400,
+		"id_str": "1321961618763325440",
+		"full_text": "#TrickorTweet \n\n#ELT #AbandonedbyIH #TEFL \n@ELTUnite @OfUpe @ELTUnite @generalunion @CCOOeducacio @taw_sig @iww @iww https://t.co/DLZM74b9PB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrickorTweet",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "AbandonedbyIH",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTUnite",
+					"name": "English Language Teachers Branch - Unite the Union",
+					"id": 1180961573457801200,
+					"id_str": "1180961573457801222",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "OfUpe",
+					"name": "UPE Voice of the Workers",
+					"id": 1284784586313085000,
+					"id_str": "1284784586313084928",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"screen_name": "ELTUnite",
+					"name": "English Language Teachers Branch - Unite the Union",
+					"id": 1180961573457801200,
+					"id_str": "1180961573457801222",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "generalunion",
+					"name": "General Union Japan",
+					"id": 15333155,
+					"id_str": "15333155",
+					"indices": [
+						70,
+						83
+					]
+				},
+				{
+					"screen_name": "CCOOeducacio",
+					"name": "CCOO Educació",
+					"id": 15618834,
+					"id_str": "15618834",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"screen_name": "iww",
+					"name": "Industrial Workers of the World",
+					"id": 210619467,
+					"id_str": "210619467",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"screen_name": "iww",
+					"name": "Industrial Workers of the World",
+					"id": 210619467,
+					"id_str": "210619467",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321952477231665200,
+					"id_str": "1321952477231665157",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EliExidXUAUFTE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EliExidXUAUFTE9.jpg",
+					"url": "https://t.co/DLZM74b9PB",
+					"display_url": "pic.twitter.com/DLZM74b9PB",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1321954947345297408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1033,
+							"h": 517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321952477231665200,
+					"id_str": "1321952477231665157",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EliExidXUAUFTE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EliExidXUAUFTE9.jpg",
+					"url": "https://t.co/DLZM74b9PB",
+					"display_url": "pic.twitter.com/DLZM74b9PB",
+					"expanded_url": "https://twitter.com/ELTAdvocacy/status/1321954947345297408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1033,
+							"h": 517,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 517,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 712775553821048800,
+			"id_str": "712775553821048832",
+			"name": "ELT ADVOCACY Ireland",
+			"screen_name": "ELTAdvocacy",
+			"location": "Dublin City, Ireland",
+			"description": "Working to improve the working conditions and professional lives of English language teachers in Ireland through organisation and communication.",
+			"url": "https://t.co/OYbngXgD9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OYbngXgD9e",
+							"expanded_url": "https://eltadvocacy.wordpress.com/",
+							"display_url": "eltadvocacy.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 1224,
+			"listed_count": 25,
+			"created_at": "Wed Mar 23 22:58:29 +0000 2016",
+			"favourites_count": 8030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F58EA8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876697232665432064/hHj0Dq4i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712775553821048832/1546635473",
+			"profile_link_color": "35A891",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#TrickorTweet \n\n#ELT #AbandonedbyIH #TEFL \n@ELTUnite @OfUpe @ELTUnite @generalunion @CCOOeducacio @taw_sig @iww @iww https://t.co/DLZM74b9PB"
+	},
+	{
 		"created_at": "Wed Oct 28 16:34:44 +0000 2020",
 		"id": 1321490593298763800,
 		"id_str": "1321490593298763777",
