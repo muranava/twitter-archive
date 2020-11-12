@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 17:12:09 +0000 2020",
+		"id": 1326114445328834600,
+		"id_str": "1326573442490109952",
+		"full_text": "I want to summarize a recent article by Dave Wilton that uses linguistic corpus analysis to see how the term \"Anglo-Saxon\" is used generally across the world. Spoiler: it's primarily a racial term, not a reference to pre-1066. #MedievalTwitter \n\nhttps://t.co/PVu08FNHIZ https://t.co/CKiTObLrUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedievalTwitter",
+					"indices": [
+						227,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PVu08FNHIZ",
+					"expanded_url": "https://muse.jhu.edu/article/766894",
+					"display_url": "muse.jhu.edu/article/766894",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326114434859880400,
+					"id_str": "1326114434859880448",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmdODW1XUAAbc1t.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmdODW1XUAAbc1t.jpg",
+					"url": "https://t.co/CKiTObLrUy",
+					"display_url": "pic.twitter.com/CKiTObLrUy",
+					"expanded_url": "https://twitter.com/erik_kaars/status/1326114445328834561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326114434859880400,
+					"id_str": "1326114434859880448",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmdODW1XUAAbc1t.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmdODW1XUAAbc1t.jpg",
+					"url": "https://t.co/CKiTObLrUy",
+					"display_url": "pic.twitter.com/CKiTObLrUy",
+					"expanded_url": "https://twitter.com/erik_kaars/status/1326114445328834561/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmdODW1XUAAbc1t.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4257056233,
+			"id_str": "4257056233",
+			"name": "Erik Wade",
+			"screen_name": "erik_kaars",
+			"location": "Germany",
+			"description": "queer medievalist studying the global origins of ideas about sex/race in medieval English lit. helicopter parent to a kitty. phd. (he/him). views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19351,
+			"friends_count": 1917,
+			"listed_count": 152,
+			"created_at": "Mon Nov 16 13:24:12 +0000 2015",
+			"favourites_count": 44615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232283377094537218/WdXO_Tgz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232283377094537218/WdXO_Tgz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4257056233/1600328632",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 199,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to summarize a recent article by Dave Wilton that uses linguistic corpus analysis to see how the term \"Anglo-Saxon\" is used generally across the world. Spoiler: it's primarily a racial term, not a reference to pre-1066. #MedievalTwitter \n\nhttps://t.co/PVu08FNHIZ https://t.co/CKiTObLrUy"
+	},
+	{
 		"created_at": "Mon Nov 09 23:54:55 +0000 2020",
 		"id": 1325933632985424000,
 		"id_str": "1325950024627462151",
