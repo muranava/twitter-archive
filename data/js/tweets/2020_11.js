@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 19:52:40 +0000 2020",
+		"id": 1329145714182643700,
+		"id_str": "1329150551850938369",
+		"full_text": "Why immigration department struggles to become fit for purpose. Good officials leave.  https://t.co/lm7GbvsTx9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lm7GbvsTx9",
+					"expanded_url": "https://www.theguardian.com/uk-news/2020/nov/18/black-official-quit-allegedly-racist-windrush-compensation-scheme?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/uk-news/2020/n…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110222162,
+			"id_str": "1110222162",
+			"name": "Simon Cox",
+			"screen_name": "SimonFRCox",
+			"location": "at court, remotely",
+			"description": "migration & equality, law & politics | barrister | he/him | @doughtystreet formerly @osfjustice",
+			"url": "https://t.co/GOUzGnvxQO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOUzGnvxQO",
+							"expanded_url": "https://www.doughtystreet.co.uk/barristers/simon-cox",
+							"display_url": "doughtystreet.co.uk/barristers/sim…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13396,
+			"friends_count": 3245,
+			"listed_count": 254,
+			"created_at": "Mon Jan 21 23:04:36 +0000 2013",
+			"favourites_count": 113642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777058357647736832/elT48UPM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777058357647736832/elT48UPM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110222162/1594801089",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why immigration department struggles to become fit for purpose. Good officials leave.  https://t.co/lm7GbvsTx9"
+	},
+	{
 		"created_at": "Tue Nov 17 23:04:45 +0000 2020",
 		"id": 1328836502265213000,
 		"id_str": "1328836502265212928",
