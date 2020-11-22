@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 09:34:29 +0000 2020",
+		"id": 1329963537347829800,
+		"id_str": "1330082144245460993",
+		"full_text": "Stereotypes of white men as stoical are not just untrue; they function to render all the care labor poured into them invisible.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2549031829,
+			"id_str": "2549031829",
+			"name": "Kate Manne",
+			"screen_name": "kate_manne",
+			"location": "Cornell University",
+			"description": "Writer & philosopher at Cornell, author of Down Girl: The Logic of Misogyny (2018) & Entitled: How Male Privilege Hurts Women (Crown/Penguin, Aug 2020). She/her",
+			"url": "https://t.co/IvOvOic1Gm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IvOvOic1Gm",
+							"expanded_url": "http://www.katemanne.net",
+							"display_url": "katemanne.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42542,
+			"friends_count": 6960,
+			"listed_count": 424,
+			"created_at": "Fri Jun 06 01:44:13 +0000 2014",
+			"favourites_count": 44578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/651460023780925440/UyXjyB7b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/651460023780925440/UyXjyB7b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2549031829/1589389139",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 1450,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Stereotypes of white men as stoical are not just untrue; they function to render all the care labor poured into them invisible."
+	},
+	{
 		"created_at": "Fri Nov 20 12:44:07 +0000 2020",
 		"id": 1329767479166574600,
 		"id_str": "1329767479166574593",
