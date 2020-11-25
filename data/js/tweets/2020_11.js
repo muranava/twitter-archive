@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 24 16:44:27 +0000 2020",
+		"id": 1331190954448081000,
+		"id_str": "1331277512714952706",
+		"full_text": "#ELT friends, don't forget about our day of action TODAY to demand justice for teachers at The Overseas Teacher.\n\nDetails:\n\nhttps://t.co/HUQNHZvcry\n\n@thornburyscott @hughdellar @kierandonaghy @jimscriv @skrashen @HancockMcDonald @ihstaff @taw_sig @ELTAdvocacy @TeflEquity #TEFL https://t.co/mC47X3wdSh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						272,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thornburyscott",
+					"name": "Scott Thornbury",
+					"id": 23090474,
+					"id_str": "23090474",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"screen_name": "hughdellar",
+					"name": "hugh dellar",
+					"id": 88202140,
+					"id_str": "88202140",
+					"indices": [
+						165,
+						176
+					]
+				},
+				{
+					"screen_name": "kierandonaghy",
+					"name": "Kieran Donaghy",
+					"id": 135272434,
+					"id_str": "135272434",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"screen_name": "jimscriv",
+					"name": "Jim Scrivener 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺",
+					"id": 130149739,
+					"id_str": "130149739",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"screen_name": "skrashen",
+					"name": "Stephen Krashen",
+					"id": 25624708,
+					"id_str": "25624708",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"screen_name": "HancockMcDonald",
+					"name": "Hancock McDonald ELT",
+					"id": 552929354,
+					"id_str": "552929354",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"screen_name": "ihstaff",
+					"name": "IHSTAFF",
+					"id": 1311376658679595000,
+					"id_str": "1311376658679595010",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						238,
+						246
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						247,
+						259
+					]
+				},
+				{
+					"screen_name": "TeflEquity",
+					"name": "TEFL Equity",
+					"id": 3217729433,
+					"id_str": "3217729433",
+					"indices": [
+						260,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HUQNHZvcry",
+					"expanded_url": "https://iww.org.uk/news/the-overseas-teacher-shared/",
+					"display_url": "iww.org.uk/news/the-overs…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331190953240096800,
+					"id_str": "1331190953240096775",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EnlXHngW8AcO_HY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnlXHngW8AcO_HY.jpg",
+					"url": "https://t.co/mC47X3wdSh",
+					"display_url": "pic.twitter.com/mC47X3wdSh",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1331190954448080898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 942,
+							"h": 237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 171,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 942,
+							"h": 237,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331190953240096800,
+					"id_str": "1331190953240096775",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EnlXHngW8AcO_HY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnlXHngW8AcO_HY.jpg",
+					"url": "https://t.co/mC47X3wdSh",
+					"display_url": "pic.twitter.com/mC47X3wdSh",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1331190954448080898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 942,
+							"h": 237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 171,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 942,
+							"h": 237,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1333,
+			"friends_count": 99,
+			"listed_count": 10,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ELT friends, don't forget about our day of action TODAY to demand justice for teachers at The Overseas Teacher.\n\nDetails:\n\nhttps://t.co/HUQNHZvcry\n\n@thornburyscott @hughdellar @kierandonaghy @jimscriv @skrashen @HancockMcDonald @ihstaff @taw_sig @ELTAdvocacy @TeflEquity #TEFL https://t.co/mC47X3wdSh"
+	},
+	{
 		"created_at": "Sat Nov 21 09:34:29 +0000 2020",
 		"id": 1329963537347829800,
 		"id_str": "1330082144245460993",
