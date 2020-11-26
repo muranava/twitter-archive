@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 15:15:13 +0000 2020",
+		"id": 1331538295898202000,
+		"id_str": "1331617444465618945",
+		"full_text": "Proud to say that the #TEFLWorkersUnion is now displayed alongside our friends in @ELTUnite on the homepage of Teachers As Workers Special Interest Group!\n\nhttps://t.co/bU4VXbuGLS\n\nSolidarity &amp; struggle, comrades. ✊\n\n@taw_sig @ELTAdvocacy @TeflEquity @OfUpe @teflguild #TEFL #ELT https://t.co/1DIgmxoobL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						22,
+						39
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						273,
+						278
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						279,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTUnite",
+					"name": "English Language Teachers Branch - Unite the Union",
+					"id": 1180961573457801200,
+					"id_str": "1180961573457801222",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						230,
+						242
+					]
+				},
+				{
+					"screen_name": "TeflEquity",
+					"name": "TEFL Equity",
+					"id": 3217729433,
+					"id_str": "3217729433",
+					"indices": [
+						243,
+						254
+					]
+				},
+				{
+					"screen_name": "OfUpe",
+					"name": "UPE Voice of the Workers",
+					"id": 1284784586313085000,
+					"id_str": "1284784586313084928",
+					"indices": [
+						255,
+						261
+					]
+				},
+				{
+					"screen_name": "teflguild",
+					"name": "TEFL Guild",
+					"id": 732157129818316800,
+					"id_str": "732157129818316802",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bU4VXbuGLS",
+					"expanded_url": "https://www.teachersasworkers.org",
+					"display_url": "teachersasworkers.org",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331538294774124500,
+					"id_str": "1331538294774124545",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EnqTBjjXUAEP12g.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnqTBjjXUAEP12g.png",
+					"url": "https://t.co/1DIgmxoobL",
+					"display_url": "pic.twitter.com/1DIgmxoobL",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1331538295898202112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331538294774124500,
+					"id_str": "1331538294774124545",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EnqTBjjXUAEP12g.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnqTBjjXUAEP12g.png",
+					"url": "https://t.co/1DIgmxoobL",
+					"display_url": "pic.twitter.com/1DIgmxoobL",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1331538295898202112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1338,
+			"friends_count": 99,
+			"listed_count": 10,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud to say that the #TEFLWorkersUnion is now displayed alongside our friends in @ELTUnite on the homepage of Teachers As Workers Special Interest Group!\n\nhttps://t.co/bU4VXbuGLS\n\nSolidarity &amp; struggle, comrades. ✊\n\n@taw_sig @ELTAdvocacy @TeflEquity @OfUpe @teflguild #TEFL #ELT https://t.co/1DIgmxoobL"
+	},
+	{
 		"created_at": "Tue Nov 24 16:44:27 +0000 2020",
 		"id": 1331190954448081000,
 		"id_str": "1331277512714952706",
