@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 10:47:21 +0000 2020",
+		"id": 1331888202903298000,
+		"id_str": "1331912421359947777",
+		"full_text": "An interesting read on the struggles faced by EFL teachers, accelerated by COVID: https://t.co/4G1rnRcHbx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4G1rnRcHbx",
+					"expanded_url": "http://newsocialist.org.uk/transmissions/efl-teachers/",
+					"display_url": "newsocialist.org.uk/transmissions/…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824919639394185200,
+			"id_str": "824919639394185219",
+			"name": "Robert J. Lowe",
+			"screen_name": "nimorapi",
+			"location": "Saitama, Japan",
+			"description": "Critical Applied Linguist | 東京家政大学の講師 | New book: ‘Uncovering Ideology in English Language Teaching’ (Springer) | Podcaster @teflology | Horror fan",
+			"url": "https://t.co/61Ycox2EHj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61Ycox2EHj",
+							"expanded_url": "https://www.researchgate.net/profile/Robert_Lowe18",
+							"display_url": "researchgate.net/profile/Robert…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392,
+			"friends_count": 246,
+			"listed_count": 5,
+			"created_at": "Fri Jan 27 09:59:03 +0000 2017",
+			"favourites_count": 388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326430529546170368/zgLpqh1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326430529546170368/zgLpqh1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824919639394185219/1604045408",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An interesting read on the struggles faced by EFL teachers, accelerated by COVID: https://t.co/4G1rnRcHbx"
+	},
+	{
 		"created_at": "Wed Nov 25 15:15:13 +0000 2020",
 		"id": 1331538295898202000,
 		"id_str": "1331617444465618945",
