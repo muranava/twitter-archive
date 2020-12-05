@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 13:15:26 +0000 2020",
+		"id": 1334708006160883700,
+		"id_str": "1334848788763185152",
+		"full_text": "Evo Morales reads @ElonMusk's tweet before a crowd of thousands, \"We will coup whoever we want! Deal with it.\" https://t.co/EKpZ1vitYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334705785268473900,
+					"id_str": "1334705785268473857",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334705785268473857/pu/img/748Cw8NCDSQa87YV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334705785268473857/pu/img/748Cw8NCDSQa87YV.jpg",
+					"url": "https://t.co/EKpZ1vitYC",
+					"display_url": "pic.twitter.com/EKpZ1vitYC",
+					"expanded_url": "https://twitter.com/KawsachunNews/status/1334708006160883714/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334705785268473900,
+					"id_str": "1334705785268473857",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334705785268473857/pu/img/748Cw8NCDSQa87YV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334705785268473857/pu/img/748Cw8NCDSQa87YV.jpg",
+					"url": "https://t.co/EKpZ1vitYC",
+					"display_url": "pic.twitter.com/EKpZ1vitYC",
+					"expanded_url": "https://twitter.com/KawsachunNews/status/1334708006160883714/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 124358,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334705785268473857/pu/pl/qvzRO4oO1KAJ0zwO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334705785268473857/pu/vid/480x270/f7s-pua994NbcIni.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334705785268473857/pu/vid/640x360/_42lJmTX7EeMlrSG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334705785268473857/pu/vid/1280x720/EuQdTTd024x3syRB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1255473748700024800,
+			"id_str": "1255473748700024837",
+			"name": "Kawsachun News",
+			"screen_name": "KawsachunNews",
+			"location": "Trópico de Cochabamba",
+			"description": "News and analysis from Bolivia. The English language service of @KawsachunCoca official station of the 6 Federations, at the service of the social movements.",
+			"url": "https://t.co/eaC0Zn1mB0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eaC0Zn1mB0",
+							"expanded_url": "https://www.patreon.com/KawsachunNews",
+							"display_url": "patreon.com/KawsachunNews",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18351,
+			"friends_count": 10,
+			"listed_count": 151,
+			"created_at": "Wed Apr 29 12:27:39 +0000 2020",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289760820742807552/ypZPVAMq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289760820742807552/ypZPVAMq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255473748700024837/1594745607",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2534,
+		"favorite_count": 7171,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evo Morales reads @ElonMusk's tweet before a crowd of thousands, \"We will coup whoever we want! Deal with it.\" https://t.co/EKpZ1vitYC"
+	},
+	{
 		"created_at": "Thu Dec 03 14:18:27 +0000 2020",
 		"id": 1334502260324393000,
 		"id_str": "1334502260324392961",
