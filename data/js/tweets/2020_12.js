@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 12:12:33 +0000 2020",
+		"id": 1335531262723977200,
+		"id_str": "1335557740224258048",
+		"full_text": "Reactionaries are desperate to depoliticise anti-racism. https://t.co/G6I5f7B1Dh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G6I5f7B1Dh",
+					"expanded_url": "https://twitter.com/RidgeOnSunday/status/1335514739913482246",
+					"display_url": "twitter.com/RidgeOnSunday/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141188735,
+			"id_str": "141188735",
+			"name": "every area has the means of escape",
+			"screen_name": "MediocreDave",
+			"location": "London",
+			"description": "Theatre dwelling communist.\n\nhe/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12277,
+			"friends_count": 2054,
+			"listed_count": 196,
+			"created_at": "Fri May 07 11:51:23 +0000 2010",
+			"favourites_count": 56201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141188735/1478886150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335514739913482200,
+		"quoted_status_id_str": "1335514739913482246",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G6I5f7B1Dh",
+			"expanded": "https://twitter.com/RidgeOnSunday/status/1335514739913482246",
+			"display": "twitter.com/RidgeOnSunday/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 06 09:21:41 +0000 2020",
+			"id": 1335514739913482200,
+			"id_str": "1335514739913482246",
+			"full_text": "'My personal view is that Black Lives Matter is a political movement that is different to what most of us believe in, which is standing up for racial equality.'\n\nGeorge Eustice reacts to footage of Millwall fans booing footballer's for taking a knee.\n\nhttps://t.co/7d85kNDhUM https://t.co/cOVJjki8i0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7d85kNDhUM",
+						"expanded_url": "https://trib.al/5EHxpD5",
+						"display_url": "trib.al/5EHxpD5",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1335514532442239000,
+						"id_str": "1335514532442238977",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EoizkxyXMAAuvAt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoizkxyXMAAuvAt.jpg",
+						"url": "https://t.co/cOVJjki8i0",
+						"display_url": "pic.twitter.com/cOVJjki8i0",
+						"expanded_url": "https://twitter.com/RidgeOnSunday/status/1335514739913482246/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335514532442239000,
+						"id_str": "1335514532442238977",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EoizkxyXMAAuvAt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoizkxyXMAAuvAt.jpg",
+						"url": "https://t.co/cOVJjki8i0",
+						"display_url": "pic.twitter.com/cOVJjki8i0",
+						"expanded_url": "https://twitter.com/RidgeOnSunday/status/1335514739913482246/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 115800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335514532442238977/vid/640x360/TD_YWWGKSe9dig3i.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335514532442238977/vid/1280x720/4iul9zZ0ax4cJMnx.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335514532442238977/vid/480x270/IyrcOjSn8pEuQaRb.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1335514532442238977/pl/RIyOKLeTF1wmFsGW.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://news.sky.com/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 235229140,
+				"id_str": "235229140",
+				"name": "Sophy Ridge on Sunday",
+				"screen_name": "RidgeOnSunday",
+				"location": "",
+				"description": "Politics show on @SkyNews where @SophyRidgeSky interviews the biggest names as well as getting out and about around the UK. 8.30am every Sunday. #Ridge",
+				"url": "https://t.co/iwezbRz8Jp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iwezbRz8Jp",
+								"expanded_url": "http://facebook.com/ridgeonsunday",
+								"display_url": "facebook.com/ridgeonsunday",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83874,
+				"friends_count": 560,
+				"listed_count": 526,
+				"created_at": "Fri Jan 07 17:35:51 +0000 2011",
+				"favourites_count": 100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/992055880337195008/l7DA__N-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/992055880337195008/l7DA__N-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/235229140/1584793330",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 690,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 52,
+		"favorite_count": 216,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reactionaries are desperate to depoliticise anti-racism. https://t.co/G6I5f7B1Dh"
+	},
+	{
 		"created_at": "Sun Dec 06 00:31:42 +0000 2020",
 		"id": 1335380896975900700,
 		"id_str": "1335381366977015808",
