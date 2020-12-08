@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 11:54:26 +0000 2020",
+		"id": 1335915570894692400,
+		"id_str": "1335915570894692352",
+		"full_text": "@MathieuAvanzi pour rappel : ) https://t.co/aArWchtlbp",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MathieuAvanzi",
+					"name": "Mathieu Avanzi",
+					"id": 3246167362,
+					"id_str": "3246167362",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335915554109059000,
+					"id_str": "1335915554109059073",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EoogHlSW8AECvQF.png",
+					"media_url_https": "https://pbs.twimg.com/media/EoogHlSW8AECvQF.png",
+					"url": "https://t.co/aArWchtlbp",
+					"display_url": "pic.twitter.com/aArWchtlbp",
+					"expanded_url": "https://twitter.com/muranava/status/1335915570894692352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 53,
+							"h": 53,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335915554109059000,
+					"id_str": "1335915554109059073",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EoogHlSW8AECvQF.png",
+					"media_url_https": "https://pbs.twimg.com/media/EoogHlSW8AECvQF.png",
+					"url": "https://t.co/aArWchtlbp",
+					"display_url": "pic.twitter.com/aArWchtlbp",
+					"expanded_url": "https://twitter.com/muranava/status/1335915570894692352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 53,
+							"h": 53,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 380,
+							"h": 53,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335913184025337900,
+		"in_reply_to_status_id_str": "1335913184025337856",
+		"in_reply_to_user_id": 3246167362,
+		"in_reply_to_user_id_str": "3246167362",
+		"in_reply_to_screen_name": "MathieuAvanzi",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2043,
+			"friends_count": 1834,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "@MathieuAvanzi pour rappel : ) https://t.co/aArWchtlbp"
+	},
+	{
+		"created_at": "Mon Dec 07 11:33:43 +0000 2020",
+		"id": 1335910355642544000,
+		"id_str": "1335910355642544129",
+		"full_text": "@ian_cushing @canguroenglish yes and what can teachers do instead when assessing students?",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ian_cushing",
+					"name": "Ian Cushing",
+					"id": 4135124181,
+					"id_str": "4135124181",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "canguroenglish",
+					"name": "Canguro English",
+					"id": 2789515027,
+					"id_str": "2789515027",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335907176125239300,
+		"in_reply_to_status_id_str": "1335907176125239298",
+		"in_reply_to_user_id": 4135124181,
+		"in_reply_to_user_id_str": "4135124181",
+		"in_reply_to_screen_name": "ian_cushing",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2043,
+			"friends_count": 1834,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ian_cushing @canguroenglish yes and what can teachers do instead when assessing students?"
+	},
+	{
 		"created_at": "Sun Dec 06 12:12:33 +0000 2020",
 		"id": 1335531262723977200,
 		"id_str": "1335557740224258048",
