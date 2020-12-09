@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 18:33:55 +0000 2020",
+		"id": 1336370214670389200,
+		"id_str": "1336378488463499264",
+		"full_text": "“All we do is lie”: Grenfell’s insulation maker private WhatsApp chats reveal how Kingspan joked about passing fire safety tests. @RagsMartel reports from the Inquiry https://t.co/cME4DFddQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RagsMartel",
+					"name": "Rags Martel",
+					"id": 20917414,
+					"id_str": "20917414",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336366690599383000,
+					"id_str": "1336366690599383040",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336366690599383040/img/4m1_zvc3pWrA8sTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336366690599383040/img/4m1_zvc3pWrA8sTO.jpg",
+					"url": "https://t.co/cME4DFddQ1",
+					"display_url": "pic.twitter.com/cME4DFddQ1",
+					"expanded_url": "https://twitter.com/itvlondon/status/1336370214670389252/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336366690599383000,
+					"id_str": "1336366690599383040",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336366690599383040/img/4m1_zvc3pWrA8sTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336366690599383040/img/4m1_zvc3pWrA8sTO.jpg",
+					"url": "https://t.co/cME4DFddQ1",
+					"display_url": "pic.twitter.com/cME4DFddQ1",
+					"expanded_url": "https://twitter.com/itvlondon/status/1336370214670389252/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 142840,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336366690599383040/vid/1280x720/yPB9VN1K2PjQWQoH.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1336366690599383040/pl/kviH19Y5-Ol4WDVH.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336366690599383040/vid/480x270/vojIbWjPnXF0NfE6.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336366690599383040/vid/640x360/W8egXvh0Cli_srGa.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22919206,
+			"id_str": "22919206",
+			"name": "ITV London",
+			"screen_name": "itvlondon",
+			"location": "ITV News, central London",
+			"description": "Breaking news online for London and the Home Counties. Got a story? Email contactus@itvlondon.com",
+			"url": "https://t.co/x0nY0rdFXj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x0nY0rdFXj",
+							"expanded_url": "http://www.itv.com/london",
+							"display_url": "itv.com/london",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85813,
+			"friends_count": 1091,
+			"listed_count": 1131,
+			"created_at": "Thu Mar 05 13:41:47 +0000 2009",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090208126673010699/EjgO3qZs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090208126673010699/EjgO3qZs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22919206/1558735430",
+			"profile_link_color": "006473",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F558",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 284,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“All we do is lie”: Grenfell’s insulation maker private WhatsApp chats reveal how Kingspan joked about passing fire safety tests. @RagsMartel reports from the Inquiry https://t.co/cME4DFddQ1"
+	},
+	{
 		"created_at": "Mon Dec 07 11:54:26 +0000 2020",
 		"id": 1335915570894692400,
 		"id_str": "1335915570894692352",
