@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 21:47:15 +0000 2020",
+		"id": 1336789533371867100,
+		"id_str": "1336789533371867144",
+		"full_text": "Christmas Cracker Drill from https://t.co/CCQBBMqPrz https://t.co/OJQEhm4Pup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CCQBBMqPrz",
+					"expanded_url": "https://www.hltmag.co.uk/dec20/christmas-cracker-drill",
+					"display_url": "hltmag.co.uk/dec20/christma…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336789499498606600,
+					"id_str": "1336789499498606604",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo0695kWMAwSeX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo0695kWMAwSeX9.jpg",
+					"url": "https://t.co/OJQEhm4Pup",
+					"display_url": "pic.twitter.com/OJQEhm4Pup",
+					"expanded_url": "https://twitter.com/muranava/status/1336789533371867144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336789499498606600,
+					"id_str": "1336789499498606604",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo0695kWMAwSeX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo0695kWMAwSeX9.jpg",
+					"url": "https://t.co/OJQEhm4Pup",
+					"display_url": "pic.twitter.com/OJQEhm4Pup",
+					"expanded_url": "https://twitter.com/muranava/status/1336789533371867144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 429,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1841,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Christmas Cracker Drill from https://t.co/CCQBBMqPrz https://t.co/OJQEhm4Pup"
+	},
+	{
+		"created_at": "Wed Dec 09 17:15:56 +0000 2020",
+		"id": 1336721251251998700,
+		"id_str": "1336721251251998725",
+		"full_text": "Churchill on English language \"But I do not see why we should not try to spread our common language even more widely throughout the globe and, without seeking selfish advantage over any, possess ourselves of this invaluable amenity and birthright.\" https://t.co/ddU7YON07M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ddU7YON07M",
+					"expanded_url": "https://youtu.be/ohe-6E2L3ks?t=620",
+					"display_url": "youtu.be/ohe-6E2L3ks?t=…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1841,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Churchill on English language \"But I do not see why we should not try to spread our common language even more widely throughout the globe and, without seeking selfish advantage over any, possess ourselves of this invaluable amenity and birthright.\" https://t.co/ddU7YON07M"
+	},
+	{
+		"created_at": "Wed Dec 09 11:23:01 +0000 2020",
+		"id": 1336614318662672400,
+		"id_str": "1336632437120626688",
+		"full_text": "Confirmed! The next episode of the @TEFLology podcast will feature a panel of 6 members of the #TEFLWorkersUnion, each from a different school and each talking about what the union's been up to in their workplace.\n\nDue out next week!\n\n@taw_sig @ELTAdvocacy @TeflEquity #TEFL #ELT https://t.co/F4kU4wZlZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						269,
+						274
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						275,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TEFLology",
+					"name": "TEFLology Podcast",
+					"id": 2882870444,
+					"id_str": "2882870444",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						235,
+						243
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						244,
+						256
+					]
+				},
+				{
+					"screen_name": "TeflEquity",
+					"name": "TEFL Equity",
+					"id": 3217729433,
+					"id_str": "3217729433",
+					"indices": [
+						257,
+						268
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336614317052096500,
+					"id_str": "1336614317052096512",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoybo8GXcAAtHbf.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eoybo8GXcAAtHbf.png",
+					"url": "https://t.co/F4kU4wZlZ5",
+					"display_url": "pic.twitter.com/F4kU4wZlZ5",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1336614318662672385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336614317052096500,
+					"id_str": "1336614317052096512",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoybo8GXcAAtHbf.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eoybo8GXcAAtHbf.png",
+					"url": "https://t.co/F4kU4wZlZ5",
+					"display_url": "pic.twitter.com/F4kU4wZlZ5",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1336614318662672385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 598,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1381,
+			"friends_count": 102,
+			"listed_count": 10,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Confirmed! The next episode of the @TEFLology podcast will feature a panel of 6 members of the #TEFLWorkersUnion, each from a different school and each talking about what the union's been up to in their workplace.\n\nDue out next week!\n\n@taw_sig @ELTAdvocacy @TeflEquity #TEFL #ELT https://t.co/F4kU4wZlZ5"
+	},
+	{
+		"created_at": "Wed Dec 09 11:22:21 +0000 2020",
+		"id": 1336454527403356200,
+		"id_str": "1336632271005216770",
+		"full_text": "This  English Language School made 30 teachers redundant ,including myself ,in March and went into liquidation. Now it is reopening 🤬 This is on their Instagram account.@SorchaPollak @TheBusinessRTE @ELTAdvocacy @emma_okelly @MEI_Ireland @SimonHarrisTD @LaoiseNeylon https://t.co/couXRkP7SL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SorchaPollak",
+					"name": "Sorcha Pollak",
+					"id": 389083861,
+					"id_str": "389083861",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "TheBusinessRTE",
+					"name": "The Business",
+					"id": 31171388,
+					"id_str": "31171388",
+					"indices": [
+						183,
+						198
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"screen_name": "emma_okelly",
+					"name": "emma o kelly",
+					"id": 88401150,
+					"id_str": "88401150",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"screen_name": "MEI_Ireland",
+					"name": "MEI",
+					"id": 990851077,
+					"id_str": "990851077",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"screen_name": "SimonHarrisTD",
+					"name": "Simon Harris TD",
+					"id": 21117425,
+					"id_str": "21117425",
+					"indices": [
+						238,
+						252
+					]
+				},
+				{
+					"screen_name": "LaoiseNeylon",
+					"name": "Laoise Neylon",
+					"id": 1516617655,
+					"id_str": "1516617655",
+					"indices": [
+						253,
+						266
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336454522642763800,
+					"id_str": "1336454522642763777",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EowKTriWEAE73kz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EowKTriWEAE73kz.jpg",
+					"url": "https://t.co/couXRkP7SL",
+					"display_url": "pic.twitter.com/couXRkP7SL",
+					"expanded_url": "https://twitter.com/willour1/status/1336454527403356162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336454522642763800,
+					"id_str": "1336454522642763777",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EowKTriWEAE73kz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EowKTriWEAE73kz.jpg",
+					"url": "https://t.co/couXRkP7SL",
+					"display_url": "pic.twitter.com/couXRkP7SL",
+					"expanded_url": "https://twitter.com/willour1/status/1336454527403356162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42605733,
+			"id_str": "42605733",
+			"name": "Roy Willoughby",
+			"screen_name": "willour1",
+			"location": "South Dublin, Ireland",
+			"description": "After 38 years working for RTE (28 in Sport)I changed direction and taught English for six years at The English Studio Dublin .Sadly they liquidated on 27/3🤬",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 527,
+			"listed_count": 3,
+			"created_at": "Tue May 26 11:23:04 +0000 2009",
+			"favourites_count": 932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3414134269/93505eb552e1c13316fdfa4e5e1b45bd_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3414134269/93505eb552e1c13316fdfa4e5e1b45bd_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "e59069aafae0aa25",
+			"url": "https://api.twitter.com/1.1/geo/id/e59069aafae0aa25.json",
+			"place_type": "city",
+			"name": "South Dublin",
+			"full_name": "South Dublin, Ireland",
+			"country_code": "IE",
+			"country": "Ireland",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-6.5468143,
+							53.178753
+						],
+						[
+							-6.252228,
+							53.178753
+						],
+						[
+							-6.252228,
+							53.3682523
+						],
+						[
+							-6.5468143,
+							53.3682523
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This  English Language School made 30 teachers redundant ,including myself ,in March and went into liquidation. Now it is reopening 🤬 This is on their Instagram account.@SorchaPollak @TheBusinessRTE @ELTAdvocacy @emma_okelly @MEI_Ireland @SimonHarrisTD @LaoiseNeylon https://t.co/couXRkP7SL"
+	},
+	{
 		"created_at": "Tue Dec 08 18:33:55 +0000 2020",
 		"id": 1336370214670389200,
 		"id_str": "1336378488463499264",
