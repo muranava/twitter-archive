@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 16:37:15 +0000 2020",
+		"id": 1337173483365802000,
+		"id_str": "1337436292234272768",
+		"full_text": "I've campaigned on the #SpyCops scandal for nearly a decade; but listening to this podcast about undercover political police stealing the identities of dead children is heart wrenching even for me.\nSolidarity with Frank Bennett &amp; his family.\n#NotInMyName\nhttps://t.co/KmffnSmNDS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpyCops",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "NotInMyName",
+					"indices": [
+						246,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KmffnSmNDS",
+					"expanded_url": "https://www.theguardian.com/news/audio/2020/dec/09/the-spy-cops-scandal-part-2",
+					"display_url": "theguardian.com/news/audio/202…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 563135113,
+			"id_str": "563135113",
+			"name": "Dave Smith - Join A Union: Save Lives Save Jobs",
+			"screen_name": "DaveBlacklist",
+			"location": "Blacklist Support Group",
+			"description": "Blacklisted construction union activist & author tweeting about: blacklisting - spycops - union organising - health & safety - anti-fascism - Shut The Sites",
+			"url": "https://t.co/6BjnezM18u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6BjnezM18u",
+							"expanded_url": "http://www.hazards.org/blacklistblog",
+							"display_url": "hazards.org/blacklistblog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8010,
+			"friends_count": 4785,
+			"listed_count": 0,
+			"created_at": "Wed Apr 25 19:30:42 +0000 2012",
+			"favourites_count": 30922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150683174445490177/VxHnhg4T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150683174445490177/VxHnhg4T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/563135113/1473500655",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've campaigned on the #SpyCops scandal for nearly a decade; but listening to this podcast about undercover political police stealing the identities of dead children is heart wrenching even for me.\nSolidarity with Frank Bennett &amp; his family.\n#NotInMyName\nhttps://t.co/KmffnSmNDS"
+	},
+	{
+		"created_at": "Fri Dec 11 14:18:35 +0000 2020",
+		"id": 1337401397235626000,
+		"id_str": "1337401397235625987",
+		"full_text": "@ielts_and_more words collocating with was like in BNC2014 spoken corpus https://t.co/lQDhtqjyEc",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ielts_and_more",
+					"name": "Melanie Aird",
+					"id": 2922871361,
+					"id_str": "2922871361",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337401381045604400,
+					"id_str": "1337401381045604353",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo9neF9XEAEfecD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo9neF9XEAEfecD.png",
+					"url": "https://t.co/lQDhtqjyEc",
+					"display_url": "pic.twitter.com/lQDhtqjyEc",
+					"expanded_url": "https://twitter.com/muranava/status/1337401397235625987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 196,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 232,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 232,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337401381045604400,
+					"id_str": "1337401381045604353",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo9neF9XEAEfecD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo9neF9XEAEfecD.png",
+					"url": "https://t.co/lQDhtqjyEc",
+					"display_url": "pic.twitter.com/lQDhtqjyEc",
+					"expanded_url": "https://twitter.com/muranava/status/1337401397235625987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 196,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 232,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 232,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1337398781717966800,
+		"in_reply_to_status_id_str": "1337398781717966848",
+		"in_reply_to_user_id": 2922871361,
+		"in_reply_to_user_id_str": "2922871361",
+		"in_reply_to_screen_name": "ielts_and_more",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1844,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ielts_and_more words collocating with was like in BNC2014 spoken corpus https://t.co/lQDhtqjyEc"
+	},
+	{
 		"created_at": "Fri Dec 11 00:19:10 +0000 2020",
 		"id": 1337190152079364000,
 		"id_str": "1337190152079364097",
