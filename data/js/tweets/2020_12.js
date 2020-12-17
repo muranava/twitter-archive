@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 21:13:33 +0000 2020",
+		"id": 1339312365276455000,
+		"id_str": "1339317768110415873",
+		"full_text": "You who claim \"talking right\" is only about professionalism, not racism, classism, oppression, watch this asshole judge raise a woman's bail from already wild $1000 to $2000 for answering \"yeah\" instead of \"yes.\" What stigma or suffering are you ok with for people who talk wrong? https://t.co/64US0cPSwD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/64US0cPSwD",
+					"expanded_url": "https://twitter.com/equalityAlec/status/1338527195791179777",
+					"display_url": "twitter.com/equalityAlec/s…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2284718570,
+			"id_str": "2284718570",
+			"name": "Uju Anya",
+			"screen_name": "UjuAnya",
+			"location": "State College, PA",
+			"description": "University professor. Critical applied linguist. Anti-racist, equity-minded, feminist pedagogy. 🏳️‍🌈⚢🏳️‍🌈 Inquiry: Blackness in multilingualism. Views=mine.",
+			"url": "https://t.co/nSswwI4H9J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nSswwI4H9J",
+							"expanded_url": "https://ujuanya.com",
+							"display_url": "ujuanya.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36665,
+			"friends_count": 2822,
+			"listed_count": 105,
+			"created_at": "Fri Jan 10 07:48:57 +0000 2014",
+			"favourites_count": 25299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282001185256480768/3MD3PWbC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282001185256480768/3MD3PWbC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284718570/1588041073",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338527195791179800,
+		"quoted_status_id_str": "1338527195791179777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/64US0cPSwD",
+			"expanded": "https://twitter.com/equalityAlec/status/1338527195791179777",
+			"display": "twitter.com/equalityAlec/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 16:52:06 +0000 2020",
+			"id": 1338527195791179800,
+			"id_str": "1338527195791179777",
+			"full_text": "Have you ever watched a bail hearing? I'm going to show you a few this week. Take a minute to watch how our society decides who is in a cage. This is what happens in over 3,000 courtrooms every day: a woman jailed because she can't pay $2,000 on a marijuana charge. https://t.co/eXVu2VSz0H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338526504112640000,
+						"id_str": "1338526504112640000",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338526504112640000/pu/img/yQGMbo1L-xQl-IRI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338526504112640000/pu/img/yQGMbo1L-xQl-IRI.jpg",
+						"url": "https://t.co/eXVu2VSz0H",
+						"display_url": "pic.twitter.com/eXVu2VSz0H",
+						"expanded_url": "https://twitter.com/equalityAlec/status/1338527195791179777/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338526504112640000,
+						"id_str": "1338526504112640000",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338526504112640000/pu/img/yQGMbo1L-xQl-IRI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338526504112640000/pu/img/yQGMbo1L-xQl-IRI.jpg",
+						"url": "https://t.co/eXVu2VSz0H",
+						"display_url": "pic.twitter.com/eXVu2VSz0H",
+						"expanded_url": "https://twitter.com/equalityAlec/status/1338527195791179777/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 114448,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1338526504112640000/pu/vid/640x480/A_QdhlGRFPmHYL8X.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1338526504112640000/pu/vid/360x270/kRbZz4_ZV8bMW0I9.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1338526504112640000/pu/vid/480x360/PmHUmsa2IL1EZ23R.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1338526504112640000/pu/pl/huXg4dELDk3J4g8g.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365887990,
+				"id_str": "2365887990",
+				"name": "Alec Karakatsanis",
+				"screen_name": "equalityAlec",
+				"location": "Washington, DC",
+				"description": "Founder and Executive Director, Civil Rights Corps\nAuthor of Usual Cruelty",
+				"url": "https://t.co/0Kks241YLn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Kks241YLn",
+								"expanded_url": "http://www.civilrightscorps.org",
+								"display_url": "civilrightscorps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9201,
+				"friends_count": 25,
+				"listed_count": 95,
+				"created_at": "Fri Feb 28 17:10:26 +0000 2014",
+				"favourites_count": 1265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439454198136963073/xY_rFtYG_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439454198136963073/xY_rFtYG_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365887990/1521503652",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1058,
+			"favorite_count": 2191,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 22,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You who claim \"talking right\" is only about professionalism, not racism, classism, oppression, watch this asshole judge raise a woman's bail from already wild $1000 to $2000 for answering \"yeah\" instead of \"yes.\" What stigma or suffering are you ok with for people who talk wrong? https://t.co/64US0cPSwD"
+	},
+	{
+		"created_at": "Wed Dec 16 15:15:54 +0000 2020",
+		"id": 1339227758858285000,
+		"id_str": "1339227758858285057",
+		"full_text": "@ykomska @abruzos Interesting article, though wonder about choice of showing non normalised counts in the graphs?",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ykomska",
+					"name": "Yuliya Komska",
+					"id": 2236444566,
+					"id_str": "2236444566",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "abruzos",
+					"name": "𝗔𝗹𝗯𝗲𝗿𝘁𝗼 𝗕𝗿𝘂𝘇𝗼𝘀",
+					"id": 150242940,
+					"id_str": "150242940",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339210094999986200,
+		"in_reply_to_status_id_str": "1339210094999986177",
+		"in_reply_to_user_id": 2236444566,
+		"in_reply_to_user_id_str": "2236444566",
+		"in_reply_to_screen_name": "ykomska",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2043,
+			"friends_count": 1858,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ykomska @abruzos Interesting article, though wonder about choice of showing non normalised counts in the graphs?"
+	},
+	{
 		"created_at": "Mon Dec 14 20:53:46 +0000 2020",
 		"id": 1338588010804355000,
 		"id_str": "1338588010804355073",
