@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 00:18:16 +0000 2020",
+		"id": 1341048805463109600,
+		"id_str": "1341176189407416321",
+		"full_text": "BREAKING: Facing a threatened lawsuit from @openDemocracy &amp; @Foxglovelegal, the UK govt secretly signed a massive a 2-year, £23m NHS data deal with controversial tech firm Palantir (1)\n\nhttps://t.co/XSmPAZTbqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openDemocracy",
+					"name": "openDemocracy",
+					"id": 15876845,
+					"id_str": "15876845",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"screen_name": "Foxglovelegal",
+					"name": "Foxglove",
+					"id": 1160172843683987500,
+					"id_str": "1160172843683987457",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XSmPAZTbqK",
+					"expanded_url": "https://www.opendemocracy.net/en/ournhs/controversial-tech-firm-palantir-23m-nhs-data-deal",
+					"display_url": "opendemocracy.net/en/ournhs/cont…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86960418,
+			"id_str": "86960418",
+			"name": "Mary Fitzgerald",
+			"screen_name": "maryftz",
+			"location": "London",
+			"description": "Editor in Chief @openDemocracy. Ex @Avaaz & @prospect_uk, former trustee @Reprieve. Recent writing @nybooks @ProSyn @nytimes @guardian",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7704,
+			"friends_count": 1257,
+			"listed_count": 126,
+			"created_at": "Mon Nov 02 15:11:41 +0000 2009",
+			"favourites_count": 1254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504586706/n507995289_7400_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504586706/n507995289_7400_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86960418/1603620297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 744,
+		"favorite_count": 734,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: Facing a threatened lawsuit from @openDemocracy &amp; @Foxglovelegal, the UK govt secretly signed a massive a 2-year, £23m NHS data deal with controversial tech firm Palantir (1)\n\nhttps://t.co/XSmPAZTbqK"
+	},
+	{
 		"created_at": "Sun Dec 20 10:18:13 +0000 2020",
 		"id": 1340357690485313500,
 		"id_str": "1340602399052992512",
@@ -28,7 +142,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "Sanchia",
 			"screen_name": "sanchiadanielle",
 			"location": "",
-			"description": "💃🏽 she/her 💫 eng-lang teacher + fledgling researcher 🔥 stop asking me where i’m from 🧜🏽‍♀️",
+			"description": "💃🏽 she/her 💫 eng-lang teacher + fledgling researcher 🔥 stop asking me where i’m from 🧜🏽♀️",
 			"url": "https://t.co/23Dlroh5V8",
 			"entities": {
 				"url": {
