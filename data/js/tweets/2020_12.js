@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 12:32:57 +0000 2020",
+		"id": 1341334244346523600,
+		"id_str": "1341361080837304320",
+		"full_text": "Obsessed with this Punjabi version of Bella Ciao from the farmers’ protest currently taking place across India  https://t.co/cJmBp88HJv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cJmBp88HJv",
+					"expanded_url": "https://www.youtube.com/watch?v=yOH7BDvOzxY&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=yOH7BD…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1060976508,
+			"id_str": "1060976508",
+			"name": "Neha",
+			"screen_name": "nehashah_",
+			"location": "London / Oxford",
+			"description": "next to a scab I’m ten ft tall | freelance writer | researching tricontinentalism, anti-colonial struggle & intl solidarity @oxfordhistory | @refugeeinfobus",
+			"url": "https://t.co/CX2teETvd5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CX2teETvd5",
+							"expanded_url": "https://www.history.ox.ac.uk/people/neha-shah",
+							"display_url": "history.ox.ac.uk/people/neha-sh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4315,
+			"friends_count": 2505,
+			"listed_count": 18,
+			"created_at": "Fri Jan 04 17:32:08 +0000 2013",
+			"favourites_count": 19655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924662412502061059/McVdbBWZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924662412502061059/McVdbBWZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1060976508/1502011748",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 271,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Obsessed with this Punjabi version of Bella Ciao from the farmers’ protest currently taking place across India  https://t.co/cJmBp88HJv"
+	},
+	{
+		"created_at": "Tue Dec 22 11:18:48 +0000 2020",
+		"id": 1341342421402136600,
+		"id_str": "1341342421402136576",
+		"full_text": "@SallyHarg99 clearly missing a trick in personality unlike this role model &gt; https://t.co/1kVIgIeHub",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SallyHarg99",
+					"name": "Sally Hargreaves",
+					"id": 1253678391204540400,
+					"id_str": "1253678391204540417",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1kVIgIeHub",
+					"expanded_url": "https://archive.vn/JzhoE",
+					"display_url": "archive.vn/JzhoE",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341338380311912400,
+		"in_reply_to_status_id_str": "1341338380311912448",
+		"in_reply_to_user_id": 1253678391204540400,
+		"in_reply_to_user_id_str": "1253678391204540417",
+		"in_reply_to_screen_name": "SallyHarg99",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2046,
+			"friends_count": 1891,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SallyHarg99 clearly missing a trick in personality unlike this role model &gt; https://t.co/1kVIgIeHub"
+	},
+	{
 		"created_at": "Tue Dec 22 00:18:16 +0000 2020",
 		"id": 1341048805463109600,
 		"id_str": "1341176189407416321",
