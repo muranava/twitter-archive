@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 12:46:55 +0000 2020",
+		"id": 1341747724111196200,
+		"id_str": "1342089370627678208",
+		"full_text": ".@JeremyCorbyn's Christmas Message 🎅🏼 https://t.co/EXiBUssKDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeremycorbyn",
+					"name": "Jeremy Corbyn",
+					"id": 117777690,
+					"id_str": "117777690",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341744341589614600,
+					"id_str": "1341744341589614593",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7YAM6XIAMEPDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7YAM6XIAMEPDQ.jpg",
+					"url": "https://t.co/EXiBUssKDZ",
+					"display_url": "pic.twitter.com/EXiBUssKDZ",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1341747724111196166/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341744341589614600,
+					"id_str": "1341744341589614593",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7YAM6XIAMEPDQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7YAM6XIAMEPDQ.jpg",
+					"url": "https://t.co/EXiBUssKDZ",
+					"display_url": "pic.twitter.com/EXiBUssKDZ",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1341747724111196166/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 250080,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1341744341589614593/pl/oBEVLyONmmlEKVAn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1341744341589614593/vid/320x320/8lEHcOv_WoUlDT_k.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1341744341589614593/vid/480x480/tkV2i5jPESVEfqWT.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1341744341589614593/vid/720x720/yRRjse97p1-Z31rx.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808638164411842600,
+			"id_str": "808638164411842560",
+			"name": "Double Down News",
+			"screen_name": "DoubleDownNews",
+			"location": "United Kingdom",
+			"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+			"url": "https://t.co/mVcinH54Lh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVcinH54Lh",
+							"expanded_url": "http://www.doubledown.news",
+							"display_url": "doubledown.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V0RZWehJE0",
+							"expanded_url": "http://patreon.com/DoubleDownNews",
+							"display_url": "patreon.com/DoubleDownNews",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/BG2aXVXDbq",
+							"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+							"display_url": "paypal.com/cgi-bin/webscr…",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 114313,
+			"friends_count": 3234,
+			"listed_count": 594,
+			"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+			"favourites_count": 5703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 946,
+		"favorite_count": 2055,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@JeremyCorbyn's Christmas Message 🎅🏼 https://t.co/EXiBUssKDZ"
+	},
+	{
 		"created_at": "Wed Dec 23 21:05:05 +0000 2020",
 		"id": 1341852351150387200,
 		"id_str": "1341852351150387200",
