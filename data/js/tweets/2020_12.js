@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 15:47:20 +0000 2020",
+		"id": 1344448113310793700,
+		"id_str": "1344671491108065281",
+		"full_text": "Updates to Ep.105 of the podcast, where we discussed Shane English schools in Japan requiring teachers to repay their furlough “loans”:\n\n1. Shane relented, and teachers will not have to repay the money.\n\n2. The union organizers have been fired: https://t.co/puDK0wB2uA\n\n@TeflUnion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/puDK0wB2uA",
+					"expanded_url": "http://shingetsunewsagency.com/2020/12/30/shane-dismisses-leading-labor-union-organizers/?fbclid=IwAR2wmbeT_lPLhObksKOD4ySrrOin6zTmXyyQSNI4NYpdPwQ62_inzb_8OhY",
+					"display_url": "shingetsunewsagency.com/2020/12/30/sha…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824919639394185200,
+			"id_str": "824919639394185219",
+			"name": "Robert J. Lowe",
+			"screen_name": "nimorapi",
+			"location": "Saitama, Japan",
+			"description": "Critical Applied Linguist | 東京家政大学の講師 | New book: ‘Uncovering Ideology in English Language Teaching’ (Springer) | Podcaster @teflology | Horror fan",
+			"url": "https://t.co/61Ycox2EHj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61Ycox2EHj",
+							"expanded_url": "https://www.researchgate.net/profile/Robert_Lowe18",
+							"display_url": "researchgate.net/profile/Robert…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 412,
+			"friends_count": 260,
+			"listed_count": 5,
+			"created_at": "Fri Jan 27 09:59:03 +0000 2017",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326430529546170368/zgLpqh1t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326430529546170368/zgLpqh1t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/824919639394185219/1604045408",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Updates to Ep.105 of the podcast, where we discussed Shane English schools in Japan requiring teachers to repay their furlough “loans”:\n\n1. Shane relented, and teachers will not have to repay the money.\n\n2. The union organizers have been fired: https://t.co/puDK0wB2uA\n\n@TeflUnion"
+	},
+	{
 		"created_at": "Wed Dec 30 09:21:52 +0000 2020",
 		"id": 1343849356429045800,
 		"id_str": "1344212094724542464",
