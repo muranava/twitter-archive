@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 11:18:20 +0000 2021",
+		"id": 1347674363470999600,
+		"id_str": "1347865285408083974",
+		"full_text": "In 1898 white supremacists overthrew the democratically elected government of Wilmington, North Carolina.\n\nThis is the hidden history of an American coup that North Carolina – and the United States – has yet to fully reckon with. https://t.co/Aql0uGOFEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Aql0uGOFEN",
+					"expanded_url": "https://www.youtube.com/watch?v=LVQomlXMeek",
+					"display_url": "youtube.com/watch?v=LVQoml…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2347049341,
+			"id_str": "2347049341",
+			"name": "Vox",
+			"screen_name": "voxdotcom",
+			"location": "",
+			"description": "Understand the news. Subscribe to our daily explainer podcast: https://t.co/KxSxa4Ijqx",
+			"url": "http://t.co/RnqX4a68G1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/RnqX4a68G1",
+							"expanded_url": "http://vox.com",
+							"display_url": "vox.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KxSxa4Ijqx",
+							"expanded_url": "http://bit.ly/Today-Explained",
+							"display_url": "bit.ly/Today-Explained",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1013987,
+			"friends_count": 297,
+			"listed_count": 16288,
+			"created_at": "Sun Feb 16 15:46:00 +0000 2014",
+			"favourites_count": 3263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 131828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/807306191395241984/s8xmWAvU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/807306191395241984/s8xmWAvU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2347049341/1522707898",
+			"profile_link_color": "67818B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 1111,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 1898 white supremacists overthrew the democratically elected government of Wilmington, North Carolina.\n\nThis is the hidden history of an American coup that North Carolina – and the United States – has yet to fully reckon with. https://t.co/Aql0uGOFEN"
+	},
+	{
 		"created_at": "Tue Jan 05 17:37:16 +0000 2021",
 		"id": 1346511095784222700,
 		"id_str": "1346511095784222721",
