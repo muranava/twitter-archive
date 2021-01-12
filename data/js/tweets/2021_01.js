@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 12:16:38 +0000 2021",
+		"id": 1348604729815953400,
+		"id_str": "1348604729815953408",
+		"full_text": "@maria_axente @filippie509 so called \"AI winters\" tend not to align with fat government funding e.g. https://t.co/DoKuujJ6v6",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maria_axente",
+					"name": "Maria Luciana Axente",
+					"id": 16556796,
+					"id_str": "16556796",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "filippie509",
+					"name": "Filip Piekniewski",
+					"id": 4070765174,
+					"id_str": "4070765174",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DoKuujJ6v6",
+					"expanded_url": "https://www.darpa.mil/news-events/2018-09-07",
+					"display_url": "darpa.mil/news-events/20…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348597205255544800,
+		"in_reply_to_status_id_str": "1348597205255544834",
+		"in_reply_to_user_id": 16556796,
+		"in_reply_to_user_id_str": "16556796",
+		"in_reply_to_screen_name": "maria_axente",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1855,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@maria_axente @filippie509 so called \"AI winters\" tend not to align with fat government funding e.g. https://t.co/DoKuujJ6v6"
+	},
+	{
+		"created_at": "Mon Jan 11 11:00:15 +0000 2021",
+		"id": 1348555339541737500,
+		"id_str": "1348585509367513088",
+		"full_text": "BREAKING NEWS:\n\n #TEFLWorkersUnion takes Kaplan to employment tribunal, alleging bogus fixed-term contracts &amp; stolen redundancy pay\n\nhttps://t.co/FVS3CA4gwA\n\n@iww @hughdellar @ELGazette @IndustrialWrkr @LondonIWW #TEFL #ELT @libcomorg @Union_NewsUK @labourstart @wrkclasshistory",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						17,
+						34
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						217,
+						222
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						223,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iww",
+					"name": "Industrial Workers of the World",
+					"id": 210619467,
+					"id_str": "210619467",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"screen_name": "hughdellar",
+					"name": "hugh dellar",
+					"id": 88202140,
+					"id_str": "88202140",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"screen_name": "ELGazette",
+					"name": "EL Gazette",
+					"id": 614186998,
+					"id_str": "614186998",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"screen_name": "IndustrialWrkr",
+					"name": "Industrial Worker",
+					"id": 182946272,
+					"id_str": "182946272",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"screen_name": "LondonIWW",
+					"name": "London IWW",
+					"id": 282538120,
+					"id_str": "282538120",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"screen_name": "libcomorg",
+					"name": "libcom.org",
+					"id": 69545227,
+					"id_str": "69545227",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"screen_name": "Union_NewsUK",
+					"name": "UnionNewsUK",
+					"id": 293402908,
+					"id_str": "293402908",
+					"indices": [
+						239,
+						252
+					]
+				},
+				{
+					"screen_name": "labourstart",
+					"name": "LabourStart",
+					"id": 15144122,
+					"id_str": "15144122",
+					"indices": [
+						253,
+						265
+					]
+				},
+				{
+					"screen_name": "wrkclasshistory",
+					"name": "Working Class History",
+					"id": 2695143194,
+					"id_str": "2695143194",
+					"indices": [
+						266,
+						282
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FVS3CA4gwA",
+					"expanded_url": "https://iww.org.uk/news/tefl-workers-union-vs-kaplan/",
+					"display_url": "iww.org.uk/news/tefl-work…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1464,
+			"friends_count": 102,
+			"listed_count": 10,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING NEWS:\n\n #TEFLWorkersUnion takes Kaplan to employment tribunal, alleging bogus fixed-term contracts &amp; stolen redundancy pay\n\nhttps://t.co/FVS3CA4gwA\n\n@iww @hughdellar @ELGazette @IndustrialWrkr @LondonIWW #TEFL #ELT @libcomorg @Union_NewsUK @labourstart @wrkclasshistory"
+	},
+	{
+		"created_at": "Mon Jan 11 10:54:52 +0000 2021",
+		"id": 1348511602832625700,
+		"id_str": "1348584153600696320",
+		"full_text": "@ServisOficial @moxie https://t.co/QDvkZKtuiz",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ServisOficial",
+					"name": "Servando",
+					"id": 2267192342,
+					"id_str": "2267192342",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "moxie",
+					"name": "Moxie Marlinspike",
+					"id": 76980293,
+					"id_str": "76980293",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QDvkZKtuiz",
+					"expanded_url": "https://medium.com/@therealsexycyborg/shenzhen-tech-girl-naomi-wu-part-3-defunding-deplatforming-and-detention-140fed4b9554",
+					"display_url": "medium.com/@therealsexycy…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348510286672642000,
+		"in_reply_to_status_id_str": "1348510286672642050",
+		"in_reply_to_user_id": 2267192342,
+		"in_reply_to_user_id_str": "2267192342",
+		"in_reply_to_screen_name": "ServisOficial",
+		"user": {
+			"id": 3562121415,
+			"id_str": "3562121415",
+			"name": "Naomi Wu 机械妖姬",
+			"screen_name": "RealSexyCyborg",
+			"location": "Shenzhen, China",
+			"description": "China's #1 Tech & DIY YouTuber\nOpen Source, 3D Printing & Digital Fabrication, Automation, Infosec\n1/18th synthetic\n'It's all about merit until merit has tits'",
+			"url": "https://t.co/dIR0XfOgFk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dIR0XfOgFk",
+							"expanded_url": "http://youtube.com/c/SexyCyborg",
+							"display_url": "youtube.com/c/SexyCyborg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149946,
+			"friends_count": 2650,
+			"listed_count": 1164,
+			"created_at": "Sun Sep 06 03:39:45 +0000 2015",
+			"favourites_count": 266343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763179688013377536/mbsD4Ptg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763179688013377536/mbsD4Ptg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3562121415/1511133594",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ServisOficial @moxie https://t.co/QDvkZKtuiz"
+	},
+	{
 		"created_at": "Sun Jan 10 21:49:47 +0000 2021",
 		"id": 1348386579992244200,
 		"id_str": "1348386579992244224",
