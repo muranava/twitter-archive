@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 20:21:01 +0000 2021",
+		"id": 1349087521209254000,
+		"id_str": "1349089017497874433",
+		"full_text": "'Tell us, how did a boy get taken from his home and end up dead! ?' \n\nVideo from today's powerful protest over the death of Mohamud Mohammed Hassan, the 24 year old black man who died after being detained by South Wales Police. https://t.co/4opJTp9m8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349087175904817200,
+					"id_str": "1349087175904817154",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349087175904817154/pu/img/I6S3UMOAcOfaZuew.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349087175904817154/pu/img/I6S3UMOAcOfaZuew.jpg",
+					"url": "https://t.co/4opJTp9m8r",
+					"display_url": "pic.twitter.com/4opJTp9m8r",
+					"expanded_url": "https://twitter.com/voice_wales/status/1349087521209253894/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349087175904817200,
+					"id_str": "1349087175904817154",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349087175904817154/pu/img/I6S3UMOAcOfaZuew.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349087175904817154/pu/img/I6S3UMOAcOfaZuew.jpg",
+					"url": "https://t.co/4opJTp9m8r",
+					"display_url": "pic.twitter.com/4opJTp9m8r",
+					"expanded_url": "https://twitter.com/voice_wales/status/1349087521209253894/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50019,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349087175904817154/pu/vid/640x360/dnMdO0koxrRofXqL.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349087175904817154/pu/vid/480x270/UjV_eRq7X9QezPA3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1349087175904817154/pu/pl/n_nDSYEK5mRYPPWG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349087175904817154/pu/vid/1280x720/IfKmBuocSf3TI9wS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106177386717036500,
+			"id_str": "1106177386717036545",
+			"name": "voice.wales",
+			"screen_name": "voice_wales",
+			"location": "",
+			"description": "A platform for radical journalism in Wales. Follow for in-depth features & investigations. Cover image: V Merkova\nSubscribe: https://t.co/gFd0MEo3F0",
+			"url": "https://t.co/npXthxWiKy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npXthxWiKy",
+							"expanded_url": "http://www.voice.wales",
+							"display_url": "voice.wales",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gFd0MEo3F0",
+							"expanded_url": "http://patreon.com/voicewales",
+							"display_url": "patreon.com/voicewales",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3776,
+			"friends_count": 119,
+			"listed_count": 16,
+			"created_at": "Thu Mar 14 12:56:55 +0000 2019",
+			"favourites_count": 317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106195234126512128/AUQsQ9wz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106195234126512128/AUQsQ9wz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106177386717036545/1552573591",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Tell us, how did a boy get taken from his home and end up dead! ?' \n\nVideo from today's powerful protest over the death of Mohamud Mohammed Hassan, the 24 year old black man who died after being detained by South Wales Police. https://t.co/4opJTp9m8r"
+	},
+	{
 		"created_at": "Mon Jan 11 12:16:38 +0000 2021",
 		"id": 1348604729815953400,
 		"id_str": "1348604729815953408",
