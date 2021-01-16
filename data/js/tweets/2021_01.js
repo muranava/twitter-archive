@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 22:07:02 +0000 2021",
+		"id": 1350186987865731000,
+		"id_str": "1350202862941446153",
+		"full_text": "We can force Elbit out despite the establishment; despite the targeted attacks against our movement — united we will win #ShutElbitDown https://t.co/wBPgAHC0vW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutElbitDown",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350186741697798100,
+					"id_str": "1350186741697798146",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350186741697798146/pu/img/bM3FHB5i7SAODnyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350186741697798146/pu/img/bM3FHB5i7SAODnyd.jpg",
+					"url": "https://t.co/wBPgAHC0vW",
+					"display_url": "pic.twitter.com/wBPgAHC0vW",
+					"expanded_url": "https://twitter.com/Pal_action/status/1350186987865731073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350186741697798100,
+					"id_str": "1350186741697798146",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350186741697798146/pu/img/bM3FHB5i7SAODnyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350186741697798146/pu/img/bM3FHB5i7SAODnyd.jpg",
+					"url": "https://t.co/wBPgAHC0vW",
+					"display_url": "pic.twitter.com/wBPgAHC0vW",
+					"expanded_url": "https://twitter.com/Pal_action/status/1350186987865731073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139940,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350186741697798146/pu/vid/640x360/n7vOwjodYS4OOWt0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350186741697798146/pu/pl/yUoPfMD6fNDA8mg2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350186741697798146/pu/vid/480x270/3a_6j_2hcw7CWgqn.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350186741697798146/pu/vid/960x540/GsnX09Q9nN6Rq-qM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288252277187371000,
+			"id_str": "1288252277187371012",
+			"name": "Palestine Action",
+			"screen_name": "Pal_action",
+			"location": "",
+			"description": "A direct action network demanding an end to UK complicity with Israeli apartheid #ShutElbitDown",
+			"url": "https://t.co/qBlPxQSvgK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBlPxQSvgK",
+							"expanded_url": "https://linktr.ee/pal_action",
+							"display_url": "linktr.ee/pal_action",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5052,
+			"friends_count": 214,
+			"listed_count": 22,
+			"created_at": "Tue Jul 28 23:17:42 +0000 2020",
+			"favourites_count": 2662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288252277187371012/1607279419",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 241,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We can force Elbit out despite the establishment; despite the targeted attacks against our movement — united we will win #ShutElbitDown https://t.co/wBPgAHC0vW"
+	},
+	{
+		"created_at": "Fri Jan 15 21:55:02 +0000 2021",
+		"id": 1350199842149163000,
+		"id_str": "1350199842149163013",
+		"full_text": "@michalkosinski @matias_kaplan the study is using (correlational) stats all the way down from the face classifier to your regression model?",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michalkosinski",
+					"name": "Michal Kosinski",
+					"id": 52401341,
+					"id_str": "52401341",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "matias_kaplan",
+					"name": "Matias Kaplan",
+					"id": 2891955705,
+					"id_str": "2891955705",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350112714157219800,
+		"in_reply_to_status_id_str": "1350112714157219840",
+		"in_reply_to_user_id": 52401341,
+		"in_reply_to_user_id_str": "52401341",
+		"in_reply_to_screen_name": "michalkosinski",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1870,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@michalkosinski @matias_kaplan the study is using (correlational) stats all the way down from the face classifier to your regression model?"
+	},
+	{
+		"created_at": "Fri Jan 15 20:06:37 +0000 2021",
+		"id": 1350169822546505700,
+		"id_str": "1350172556142194691",
+		"full_text": "It's been a year in the making and now \"Creating Corpus-Informed Materials for the English as a Foreign Language Classroom: A step-by-step guide for (trainee) teachers using online resources\" is live on https://t.co/r2DzPPoj4J 🎉 This is a free e-book so please share widely! #OER https://t.co/HXaMaURoys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						275,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r2DzPPoj4J",
+					"expanded_url": "http://elenlefoll.pressbooks.com",
+					"display_url": "elenlefoll.pressbooks.com",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350169236497432600,
+					"id_str": "1350169236497432578",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350169236497432578/pu/img/5FdwWwgLnePR23uP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350169236497432578/pu/img/5FdwWwgLnePR23uP.jpg",
+					"url": "https://t.co/HXaMaURoys",
+					"display_url": "pic.twitter.com/HXaMaURoys",
+					"expanded_url": "https://twitter.com/ElenLeFoll/status/1350169822546505730/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350169236497432600,
+					"id_str": "1350169236497432578",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350169236497432578/pu/img/5FdwWwgLnePR23uP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350169236497432578/pu/img/5FdwWwgLnePR23uP.jpg",
+					"url": "https://t.co/HXaMaURoys",
+					"display_url": "pic.twitter.com/HXaMaURoys",
+					"expanded_url": "https://twitter.com/ElenLeFoll/status/1350169822546505730/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139906,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350169236497432578/pu/vid/640x360/fWUQfiYd64modwVr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350169236497432578/pu/pl/jGitKsQ0JDS675kL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350169236497432578/pu/vid/480x270/22sSvYaa_qHyTmlf.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350169236497432578/pu/vid/960x540/dQvFfB1ZmEQTcIoe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1007347536716234800,
+			"id_str": "1007347536716234752",
+			"name": "Elen Le Foll 🇫🇷 🇬🇧 🇩🇪 🇪🇺",
+			"screen_name": "ElenLeFoll",
+			"location": "Köln/Osnabrück, Germany",
+			"description": "English Education Lecturer & PhD Candidate @UniOsnabrueck • Corpus Linguistics • Conference Interpreter MA • #Rstats #EFL #ELT #SLA #1nt • 📚📊🎷🎼🎹🌱🍰🚴‍♀️🚄",
+			"url": "https://t.co/Up6jM7vnLx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Up6jM7vnLx",
+							"expanded_url": "http://elenlefoll.eu",
+							"display_url": "elenlefoll.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 921,
+			"friends_count": 899,
+			"listed_count": 17,
+			"created_at": "Thu Jun 14 19:42:23 +0000 2018",
+			"favourites_count": 11821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318626811081822209/fcnuzFvt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318626811081822209/fcnuzFvt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1007347536716234752/1597060867",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been a year in the making and now \"Creating Corpus-Informed Materials for the English as a Foreign Language Classroom: A step-by-step guide for (trainee) teachers using online resources\" is live on https://t.co/r2DzPPoj4J 🎉 This is a free e-book so please share widely! #OER https://t.co/HXaMaURoys"
+	},
+	{
+		"created_at": "Fri Jan 15 17:23:19 +0000 2021",
+		"id": 1350071830900568000,
+		"id_str": "1350131464315277312",
+		"full_text": "This is brilliant \nhttps://t.co/Y1e1iDF7DT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349716820136251400,
+					"id_str": "1349716820136251394",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Ersu1zoVkAA8HoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ersu1zoVkAA8HoQ.jpg",
+					"url": "https://t.co/Y1e1iDF7DT",
+					"display_url": "pic.twitter.com/Y1e1iDF7DT",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1350034318853341184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1350034318853341200,
+					"source_status_id_str": "1350034318853341184",
+					"source_user_id": 808638164411842600,
+					"source_user_id_str": "808638164411842560"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349716820136251400,
+					"id_str": "1349716820136251394",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Ersu1zoVkAA8HoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ersu1zoVkAA8HoQ.jpg",
+					"url": "https://t.co/Y1e1iDF7DT",
+					"display_url": "pic.twitter.com/Y1e1iDF7DT",
+					"expanded_url": "https://twitter.com/DoubleDownNews/status/1350034318853341184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1350034318853341200,
+					"source_status_id_str": "1350034318853341184",
+					"source_user_id": 808638164411842600,
+					"source_user_id_str": "808638164411842560",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 443040,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1349716820136251394/vid/320x320/vAztvIjobQHLrpO2.mp4?tag=14"
+							},
+							{
+								"bitrate": 896000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1349716820136251394/vid/540x540/fCDiAa3e0BF9smWB.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1349716820136251394/pl/fMoXU7esiRJHRUOa.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1349716820136251394/vid/720x720/cP30XIRW_cbX5uw5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 808638164411842600,
+							"id_str": "808638164411842560",
+							"name": "Double Down News",
+							"screen_name": "DoubleDownNews",
+							"location": "United Kingdom",
+							"description": "Join us: https://t.co/V0RZWehJE0 Support: https://t.co/BG2aXVXDbq",
+							"url": "https://t.co/mVcinH54Lh",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mVcinH54Lh",
+											"expanded_url": "http://www.doubledown.news",
+											"display_url": "doubledown.news",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/V0RZWehJE0",
+											"expanded_url": "http://patreon.com/DoubleDownNews",
+											"display_url": "patreon.com/DoubleDownNews",
+											"indices": [
+												9,
+												32
+											]
+										},
+										{
+											"url": "https://t.co/BG2aXVXDbq",
+											"expanded_url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TLXUE9P9GA9ZC&source=url",
+											"display_url": "paypal.com/cgi-bin/webscr…",
+											"indices": [
+												42,
+												65
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 120871,
+							"friends_count": 3360,
+							"listed_count": 619,
+							"created_at": "Tue Dec 13 11:42:16 +0000 2016",
+							"favourites_count": 5775,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 3655,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016989764036284416/YDiA-t_T_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/808638164411842560/1556546699",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103709540,
+			"id_str": "103709540",
+			"name": "Alex Nunns",
+			"screen_name": "alexnunns",
+			"location": "London",
+			"description": "I am fewer than 280 characters. Previously Jeremy Corbyn's speechwriter and I also wrote this book: https://t.co/iD5oLaJbT7",
+			"url": "https://t.co/ukqG3FIIiE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukqG3FIIiE",
+							"expanded_url": "http://orbooks.com/catalog/the-candidate/",
+							"display_url": "orbooks.com/catalog/the-ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iD5oLaJbT7",
+							"expanded_url": "http://www.orbooks.com/catalog/candidate-alex-nunns-2nd-edition",
+							"display_url": "orbooks.com/catalog/candid…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28793,
+			"friends_count": 3655,
+			"listed_count": 183,
+			"created_at": "Mon Jan 11 00:41:29 +0000 2010",
+			"favourites_count": 12386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156668575182204928/7I1kfxd6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156668575182204928/7I1kfxd6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103709540/1529262244",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 561,
+		"favorite_count": 1039,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is brilliant \nhttps://t.co/Y1e1iDF7DT"
+	},
+	{
 		"created_at": "Thu Jan 14 22:25:52 +0000 2021",
 		"id": 1349845212764516400,
 		"id_str": "1349845212764516355",
