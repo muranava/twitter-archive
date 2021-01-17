@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 20:06:01 +0000 2021",
+		"id": 1350512667681845200,
+		"id_str": "1350534796997484547",
+		"full_text": "Tory made Food Bank Britain. https://t.co/D1WxlkKFlI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350512520411443200,
+					"id_str": "1350512520411443201",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350512520411443201/pu/img/FkEyZh61BHojUJ7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350512520411443201/pu/img/FkEyZh61BHojUJ7A.jpg",
+					"url": "https://t.co/D1WxlkKFlI",
+					"display_url": "pic.twitter.com/D1WxlkKFlI",
+					"expanded_url": "https://twitter.com/Muqadaam/status/1350512667681845255/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350512520411443200,
+					"id_str": "1350512520411443201",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350512520411443201/pu/img/FkEyZh61BHojUJ7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350512520411443201/pu/img/FkEyZh61BHojUJ7A.jpg",
+					"url": "https://t.co/D1WxlkKFlI",
+					"display_url": "pic.twitter.com/D1WxlkKFlI",
+					"expanded_url": "https://twitter.com/Muqadaam/status/1350512667681845255/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 81390,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350512520411443201/pu/vid/320x568/4dTGAxdHFXcN8_Vv.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350512520411443201/pu/vid/720x1280/aBmzwIYI4RwRBz1f.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350512520411443201/pu/vid/360x640/uNKg_synVPg-Tvb3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350512520411443201/pu/pl/W6BaOkG-32tCmgct.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2372092065,
+			"id_str": "2372092065",
+			"name": "Nadeem Ahmed",
+			"screen_name": "Muqadaam",
+			"location": "Birmingham, England",
+			"description": "U.K Political, Mental Health and Disability Activist. Unite Union Member. Views My Own. RTs Not Endorsement.                        Enquires: muqadaam@gmail.com",
+			"url": "https://t.co/dvY3mronqO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dvY3mronqO",
+							"expanded_url": "https://muqadaamblogs.wordpress.com/about/",
+							"display_url": "muqadaamblogs.wordpress.com/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24945,
+			"friends_count": 3431,
+			"listed_count": 114,
+			"created_at": "Fri Feb 28 23:50:27 +0000 2014",
+			"favourites_count": 51099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330159907019116544/Q17ksCZK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330159907019116544/Q17ksCZK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2372092065/1608151761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 125,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tory made Food Bank Britain. https://t.co/D1WxlkKFlI"
+	},
+	{
+		"created_at": "Sat Jan 16 17:19:02 +0000 2021",
+		"id": 1350492770511839200,
+		"id_str": "1350492770511839243",
+		"full_text": "@eilymurphy @MissHillsmith @Ven_VVE There's link in the help file to @michelleworgan micro stories https://t.co/EfgweZNuz6",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eilymurphy",
+					"name": "Eily Murphy",
+					"id": 111091623,
+					"id_str": "111091623",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MissHillsmith",
+					"name": "Miss Hillsmith🙋🏻‍♀️",
+					"id": 1136717935022682100,
+					"id_str": "1136717935022682113",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Ven_VVE",
+					"name": "Vedrana Vojković Estatiev",
+					"id": 270839603,
+					"id_str": "270839603",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "michelleworgan",
+					"name": "Michelle Worgan",
+					"id": 20764799,
+					"id_str": "20764799",
+					"indices": [
+						69,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EfgweZNuz6",
+					"expanded_url": "https://drive.google.com/file/d/0B3r9MWZOFubNTHNVeURpRmIwVE0/view",
+					"display_url": "drive.google.com/file/d/0B3r9MW…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350476955859169300,
+		"in_reply_to_status_id_str": "1350476955859169286",
+		"in_reply_to_user_id": 111091623,
+		"in_reply_to_user_id_str": "111091623",
+		"in_reply_to_screen_name": "eilymurphy",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 1870,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eilymurphy @MissHillsmith @Ven_VVE There's link in the help file to @michelleworgan micro stories https://t.co/EfgweZNuz6"
+	},
+	{
 		"created_at": "Fri Jan 15 22:07:02 +0000 2021",
 		"id": 1350186987865731000,
 		"id_str": "1350202862941446153",
@@ -503,7 +874,7 @@ Grailbird.data.tweets_2021_01 =
 			"name": "Elen Le Foll 🇫🇷 🇬🇧 🇩🇪 🇪🇺",
 			"screen_name": "ElenLeFoll",
 			"location": "Köln/Osnabrück, Germany",
-			"description": "English Education Lecturer & PhD Candidate @UniOsnabrueck • Corpus Linguistics • Conference Interpreter MA • #Rstats #EFL #ELT #SLA #1nt • 📚📊🎷🎼🎹🌱🍰🚴‍♀️🚄",
+			"description": "English Education Lecturer & PhD Candidate @UniOsnabrueck • Corpus Linguistics • Conference Interpreter MA • #Rstats #EFL #ELT #SLA #1nt • 📚📊🎷🎼🎹🌱🍰🚴♀️🚄",
 			"url": "https://t.co/Up6jM7vnLx",
 			"entities": {
 				"url": {
