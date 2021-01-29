@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 18:58:59 +0000 2021",
+		"id": 1354859538273489000,
+		"id_str": "1354866579331285002",
+		"full_text": "It's this daily violence and family separation that \"good cops\" do each day. The solution to this problem isn't \"better training\" or \"body cameras\" that cops can link to  facial recognition databases. It is dramatically reducing the footprint of the policing bureaucracy. (4)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354859537438830600,
+		"in_reply_to_status_id_str": "1354859537438830596",
+		"in_reply_to_user_id": 2365887990,
+		"in_reply_to_user_id_str": "2365887990",
+		"in_reply_to_screen_name": "equalityAlec",
+		"user": {
+			"id": 2365887990,
+			"id_str": "2365887990",
+			"name": "Alec Karakatsanis",
+			"screen_name": "equalityAlec",
+			"location": "Washington, DC",
+			"description": "Founder and Executive Director, Civil Rights Corps\nAuthor of Usual Cruelty",
+			"url": "https://t.co/0Kks241YLn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Kks241YLn",
+							"expanded_url": "http://www.civilrightscorps.org",
+							"display_url": "civilrightscorps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12348,
+			"friends_count": 24,
+			"listed_count": 127,
+			"created_at": "Fri Feb 28 17:10:26 +0000 2014",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439454198136963073/xY_rFtYG_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439454198136963073/xY_rFtYG_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365887990/1521503652",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's this daily violence and family separation that \"good cops\" do each day. The solution to this problem isn't \"better training\" or \"body cameras\" that cops can link to  facial recognition databases. It is dramatically reducing the footprint of the policing bureaucracy. (4)"
+	},
+	{
+		"created_at": "Thu Jan 28 16:50:25 +0000 2021",
+		"id": 1354834224952520700,
+		"id_str": "1354834224952520705",
+		"full_text": "@EFF @NaSh12 @CodedBias is the word bias more problematic than helpful? i.e. use of term gives lie to the notion such systems can be reformed by being \"unbiased\"?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EFF",
+					"name": "EFF",
+					"id": 4816,
+					"id_str": "4816",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"screen_name": "NaSh12",
+					"name": "nash scrutari",
+					"id": 16951458,
+					"id_str": "16951458",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"screen_name": "CodedBias",
+					"name": "Coded Bias Documentary",
+					"id": 1220735833503715300,
+					"id_str": "1220735833503715329",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354567097532051500,
+		"in_reply_to_status_id_str": "1354567097532051457",
+		"in_reply_to_user_id": 4816,
+		"in_reply_to_user_id_str": "4816",
+		"in_reply_to_screen_name": "EFF",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1905,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EFF @NaSh12 @CodedBias is the word bias more problematic than helpful? i.e. use of term gives lie to the notion such systems can be reformed by being \"unbiased\"?"
+	},
+	{
 		"created_at": "Thu Jan 28 00:18:12 +0000 2021",
 		"id": 1354584525708419000,
 		"id_str": "1354584525708419072",
