@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 21:25:32 +0000 2021",
+		"id": 1355262782279569400,
+		"id_str": "1355265848160747520",
+		"full_text": "1/ For reasons that are probably obvious, I got curious about this term “neoracism” and how it worked its way into the vernacular of certain Ivy League professors trying to sell their substack books. After a little digging, here’s what I found out! (it’s a long one, sorry!) https://t.co/R622uuR0jz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1355262772158689300,
+					"id_str": "1355262772158689281",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Es7cT4_UcAE0sn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es7cT4_UcAE0sn3.jpg",
+					"url": "https://t.co/R622uuR0jz",
+					"display_url": "pic.twitter.com/R622uuR0jz",
+					"expanded_url": "https://twitter.com/caitlinmoriah/status/1355262782279569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 717,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355262772158689300,
+					"id_str": "1355262772158689281",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Es7cT4_UcAE0sn3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es7cT4_UcAE0sn3.jpg",
+					"url": "https://t.co/R622uuR0jz",
+					"display_url": "pic.twitter.com/R622uuR0jz",
+					"expanded_url": "https://twitter.com/caitlinmoriah/status/1355262782279569408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 407,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 717,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1862202366,
+			"id_str": "1862202366",
+			"name": "Dr. Green, Orwell Understander",
+			"screen_name": "caitlinmoriah",
+			"location": "Ohlone Land",
+			"description": "she/her. linguist, pragmatics/discourse, gender/whiteness. \"full of sh*t” -cathy young. “little-tyrant voice” -glenn greenwald. dissert https://t.co/QUoghExoDy",
+			"url": "https://t.co/KHQLlpeip5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KHQLlpeip5",
+							"expanded_url": "http://link.medium.com/Re8Nv7KDU7",
+							"display_url": "link.medium.com/Re8Nv7KDU7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QUoghExoDy",
+							"expanded_url": "http://bit.ly/2UEnk9D",
+							"display_url": "bit.ly/2UEnk9D",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2549,
+			"friends_count": 3606,
+			"listed_count": 23,
+			"created_at": "Sat Sep 14 01:09:08 +0000 2013",
+			"favourites_count": 131215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353494193360891904/SE2DmqTH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353494193360891904/SE2DmqTH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1862202366/1592341046",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/ For reasons that are probably obvious, I got curious about this term “neoracism” and how it worked its way into the vernacular of certain Ivy League professors trying to sell their substack books. After a little digging, here’s what I found out! (it’s a long one, sorry!) https://t.co/R622uuR0jz"
+	},
+	{
+		"created_at": "Fri Jan 29 17:27:28 +0000 2021",
+		"id": 1355205935904526300,
+		"id_str": "1355205935904526338",
+		"full_text": "This Is Why You Shouldn't Work For iTutorGroup https://t.co/Oe2jaYqPep via @YouTube by @ELTExperiences",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"screen_name": "ELTExperiences",
+					"name": "Martin Sketchley",
+					"id": 22779473,
+					"id_str": "22779473",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Oe2jaYqPep",
+					"expanded_url": "https://youtu.be/VA25fETnWfU",
+					"display_url": "youtu.be/VA25fETnWfU",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1909,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Is Why You Shouldn't Work For iTutorGroup https://t.co/Oe2jaYqPep via @YouTube by @ELTExperiences"
+	},
+	{
 		"created_at": "Thu Jan 28 18:58:59 +0000 2021",
 		"id": 1354859538273489000,
 		"id_str": "1354866579331285002",
