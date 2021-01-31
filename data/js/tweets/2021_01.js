@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 12:44:32 +0000 2021",
+		"id": 1355489413069992000,
+		"id_str": "1355497122272047107",
+		"full_text": "Over 300 men have been left in Napier Barracks after yesterday's fire. Many spent the night with their belongings destroyed and without electricity or heating. \n\nWe are fundraising to help get emergency provisions into the camp - you can donate here: \n\nhttps://t.co/KUi2KHX34f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KUi2KHX34f",
+					"expanded_url": "https://www.goldengiving.com/fundraising/Napier-emergency-fundraising?fbclid=IwAR0N22jmmwIMeJG-9wJe3CBmWAmS1lcPz1gc-1-7oTVa2F75NwzdqMZC-x0",
+					"display_url": "goldengiving.com/fundraising/Na…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3590300313,
+			"id_str": "3590300313",
+			"name": "Care4Calais",
+			"screen_name": "Care4Calais",
+			"location": "United Kingdom",
+			"description": "Charity working in Northern France. Helping refugees from war-torn countries stranded in a terrible humanitarian crisis less than 30 miles from British shores.",
+			"url": "https://t.co/3Gwd8jDI0i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3Gwd8jDI0i",
+							"expanded_url": "http://care4calais.org/coats4calais",
+							"display_url": "care4calais.org/coats4calais",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11984,
+			"friends_count": 1028,
+			"listed_count": 101,
+			"created_at": "Tue Sep 08 18:41:40 +0000 2015",
+			"favourites_count": 5412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641566961978183680/8VxFtlBI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641566961978183680/8VxFtlBI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3590300313/1522351259",
+			"profile_link_color": "D90000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 122,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Over 300 men have been left in Napier Barracks after yesterday's fire. Many spent the night with their belongings destroyed and without electricity or heating. \n\nWe are fundraising to help get emergency provisions into the camp - you can donate here: \n\nhttps://t.co/KUi2KHX34f"
+	},
+	{
+		"created_at": "Sat Jan 30 12:24:14 +0000 2021",
+		"id": 1355492014629019600,
+		"id_str": "1355492014629019650",
+		"full_text": "@ZeerakW The \"bias\"  talk in article is even more problematic; Tech vendor - \"Please be rest assured that our surveillance tech is not sexist\"",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZeerakW",
+					"name": "Zeerak Waseem",
+					"id": 166479009,
+					"id_str": "166479009",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1355224592818835500,
+		"in_reply_to_status_id_str": "1355224592818835458",
+		"in_reply_to_user_id": 166479009,
+		"in_reply_to_user_id_str": "166479009",
+		"in_reply_to_screen_name": "ZeerakW",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1915,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ZeerakW The \"bias\"  talk in article is even more problematic; Tech vendor - \"Please be rest assured that our surveillance tech is not sexist\""
+	},
+	{
 		"created_at": "Fri Jan 29 21:25:32 +0000 2021",
 		"id": 1355262782279569400,
 		"id_str": "1355265848160747520",
