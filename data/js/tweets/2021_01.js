@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 12:57:45 +0000 2021",
+		"id": 1355848436621455400,
+		"id_str": "1355862836224929793",
+		"full_text": "The #TEFLWorkersUnion is proud to have made a donation to the @TEFLology podcast in recognition of their coverage of employment issues in #ELT.\n\nTheir work in the world of #TEFL is invaluable, so please consider making a donation as well:\n\nhttps://t.co/W7AeAdyekn\n\n@ELTAdvocacy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFLWorkersUnion",
+					"indices": [
+						4,
+						21
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TEFLology",
+					"name": "TEFLology Podcast",
+					"id": 2882870444,
+					"id_str": "2882870444",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "ELTAdvocacy",
+					"name": "ELT ADVOCACY Ireland",
+					"id": 712775553821048800,
+					"id_str": "712775553821048832",
+					"indices": [
+						265,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W7AeAdyekn",
+					"expanded_url": "https://teflology-podcast.com",
+					"display_url": "teflology-podcast.com",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1500,
+			"friends_count": 105,
+			"listed_count": 11,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #TEFLWorkersUnion is proud to have made a donation to the @TEFLology podcast in recognition of their coverage of employment issues in #ELT.\n\nTheir work in the world of #TEFL is invaluable, so please consider making a donation as well:\n\nhttps://t.co/W7AeAdyekn\n\n@ELTAdvocacy"
+	},
+	{
 		"created_at": "Sat Jan 30 12:44:32 +0000 2021",
 		"id": 1355489413069992000,
 		"id_str": "1355497122272047107",
