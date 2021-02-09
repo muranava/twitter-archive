@@ -1,6 +1,744 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 21:09:59 +0000 2021",
+		"id": 1358885812151148500,
+		"id_str": "1358885812151148544",
+		"full_text": "https://t.co/ys2gJ6cPab h.t @aral",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aral",
+					"name": "Aral Balkan 🕷 (@aral@mastodon.ar.al)",
+					"id": 48903,
+					"id_str": "48903",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ys2gJ6cPab",
+					"expanded_url": "https://switching.software/",
+					"display_url": "switching.software",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1949,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ys2gJ6cPab h.t @aral"
+	},
+	{
+		"created_at": "Mon Feb 08 17:41:54 +0000 2021",
+		"id": 1358823208137461800,
+		"id_str": "1358833448425816065",
+		"full_text": "Middle East minister James Cleverly is really going out to bat for the Saudi regime this afternoon in Parliament. He refuses to stop UK arms sales,  contrary to Biden policy. He admonishes MPs who dare to suggest arms embargo and repeatedly blames Houthis/Iran for whole situation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594641380,
+			"id_str": "2594641380",
+			"name": "Phil Miller",
+			"screen_name": "pmillerinfo",
+			"location": "Plague Island",
+			"description": "Staff reporter and videos for @DeclassifiedUK\nAuthor - https://t.co/pqeSJSFndL\nEmail: phil@declassifieduk.org \nTelegram: https://t.co/EmYAX6Qzqe",
+			"url": "https://t.co/2j7BzQuhQv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2j7BzQuhQv",
+							"expanded_url": "http://www.philmiller.info/about",
+							"display_url": "philmiller.info/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pqeSJSFndL",
+							"expanded_url": "http://KeenieMeenie.Info",
+							"display_url": "KeenieMeenie.Info",
+							"indices": [
+								55,
+								78
+							]
+						},
+						{
+							"url": "https://t.co/EmYAX6Qzqe",
+							"expanded_url": "http://t.me/PhilDeclassifiedUK",
+							"display_url": "t.me/PhilDeclassifi…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7293,
+			"friends_count": 1137,
+			"listed_count": 59,
+			"created_at": "Sun Jun 29 11:32:29 +0000 2014",
+			"favourites_count": 1082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341386600153030658/mUCW3Jrl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341386600153030658/mUCW3Jrl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594641380/1608646463",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 168,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Middle East minister James Cleverly is really going out to bat for the Saudi regime this afternoon in Parliament. He refuses to stop UK arms sales,  contrary to Biden policy. He admonishes MPs who dare to suggest arms embargo and repeatedly blames Houthis/Iran for whole situation"
+	},
+	{
+		"created_at": "Mon Feb 08 17:29:58 +0000 2021",
+		"id": 1358830445958467600,
+		"id_str": "1358830445958467585",
+		"full_text": "@michelleworgan @eilymurphy @MissHillsmith @Ven_VVE no worries, look fwd to any update : )",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michelleworgan",
+					"name": "Michelle Worgan",
+					"id": 20764799,
+					"id_str": "20764799",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "eilymurphy",
+					"name": "Eily Murphy",
+					"id": 111091623,
+					"id_str": "111091623",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "MissHillsmith",
+					"name": "Miss Hillsmith🙋🏻‍♀️",
+					"id": 1136717935022682100,
+					"id_str": "1136717935022682113",
+					"indices": [
+						28,
+						42
+					]
+				},
+				{
+					"screen_name": "Ven_VVE",
+					"name": "Vedrana Vojković Estatiev",
+					"id": 270839603,
+					"id_str": "270839603",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358736236442222600,
+		"in_reply_to_status_id_str": "1358736236442222596",
+		"in_reply_to_user_id": 20764799,
+		"in_reply_to_user_id_str": "20764799",
+		"in_reply_to_screen_name": "michelleworgan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1949,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@michelleworgan @eilymurphy @MissHillsmith @Ven_VVE no worries, look fwd to any update : )"
+	},
+	{
+		"created_at": "Mon Feb 08 13:31:44 +0000 2021",
+		"id": 1358445096392265700,
+		"id_str": "1358770489972424705",
+		"full_text": "@Tutini2 @Emmabarnett I do a lot of free schooling for elite Brits.\n\nThink of it as my way of saying thank you for the railways",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tutini2",
+					"name": "Tutini - Necessary Trouble - Good Trouble",
+					"id": 778309284,
+					"id_str": "778309284",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Emmabarnett",
+					"name": "Emma Barnett",
+					"id": 19064312,
+					"id_str": "19064312",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358444861213581300,
+		"in_reply_to_status_id_str": "1358444861213581313",
+		"in_reply_to_user_id": 778309284,
+		"in_reply_to_user_id_str": "778309284",
+		"in_reply_to_screen_name": "Tutini2",
+		"user": {
+			"id": 108691306,
+			"id_str": "108691306",
+			"name": "Priyamvada Gopal",
+			"screen_name": "PriyamvadaGopal",
+			"location": "Cambridge, UK",
+			"description": "Academic and Writer. Author,Insurgent Empire: Anticolonial Resistance & British Dissent.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69950,
+			"friends_count": 1523,
+			"listed_count": 388,
+			"created_at": "Tue Jan 26 19:18:48 +0000 2010",
+			"favourites_count": 65552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 60754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276639299451203584/bZKBg355_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276639299451203584/bZKBg355_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108691306/1574621798",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 86,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Tutini2 @Emmabarnett I do a lot of free schooling for elite Brits.\n\nThink of it as my way of saying thank you for the railways"
+	},
+	{
+		"created_at": "Mon Feb 08 13:31:03 +0000 2021",
+		"id": 1358768191397372000,
+		"id_str": "1358770319763324929",
+		"full_text": "For all of the accusations of \"not listening to dissenting opinions\" they'd never let me on the BBC to call Boris Johnson a racist piece of shit and read from his book \"Seventy-Two Virgins\" to illustrate my point.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358767999369556000,
+		"in_reply_to_status_id_str": "1358767999369555971",
+		"in_reply_to_user_id": 2518485859,
+		"in_reply_to_user_id_str": "2518485859",
+		"in_reply_to_screen_name": "TheSinanKose",
+		"user": {
+			"id": 2518485859,
+			"id_str": "2518485859",
+			"name": "Sinan Kose",
+			"screen_name": "TheSinanKose",
+			"location": "Nottingham, England",
+			"description": "Formerly a Physicist. D&D, Socialism, Streaming and having the best hair on Twitter. Award Winning Twitch Streamer. Follow me on Twitch: https://t.co/fQYL5qg8lg",
+			"url": "https://t.co/dx9G2ANJyy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dx9G2ANJyy",
+							"expanded_url": "https://www.youtube.com/c/SKTheCrusader",
+							"display_url": "youtube.com/c/SKTheCrusader",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fQYL5qg8lg",
+							"expanded_url": "http://twitch.tv/skthecrusader",
+							"display_url": "twitch.tv/skthecrusader",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6021,
+			"friends_count": 897,
+			"listed_count": 14,
+			"created_at": "Fri May 23 19:07:25 +0000 2014",
+			"favourites_count": 100036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205842680980348928/X9sylcxA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205842680980348928/X9sylcxA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2518485859/1563487979",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 51,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For all of the accusations of \"not listening to dissenting opinions\" they'd never let me on the BBC to call Boris Johnson a racist piece of shit and read from his book \"Seventy-Two Virgins\" to illustrate my point."
+	},
+	{
+		"created_at": "Mon Feb 08 13:23:12 +0000 2021",
+		"id": 1358768345017901000,
+		"id_str": "1358768345017901061",
+		"full_text": "@nathanoseroff Chomsky mentioning n-word was jarring!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nathanoseroff",
+					"name": "Nathan Oseroff-Spicer",
+					"id": 2768346873,
+					"id_str": "2768346873",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358767801624916000,
+		"in_reply_to_status_id_str": "1358767801624915975",
+		"in_reply_to_user_id": 2768346873,
+		"in_reply_to_user_id_str": "2768346873",
+		"in_reply_to_screen_name": "nathanoseroff",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1949,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 14969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nathanoseroff Chomsky mentioning n-word was jarring!"
+	},
+	{
 		"created_at": "Sun Feb 07 21:12:12 +0000 2021",
 		"id": 1358512177934655500,
 		"id_str": "1358523985613438982",
