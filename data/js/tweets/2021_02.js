@@ -1,6 +1,846 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 13 14:17:07 +0000 2021",
+		"id": 1360593852239904800,
+		"id_str": "1360593852239904772",
+		"full_text": "@jasonintrator Silverstein \"Now you're trying to cast me in the role of a therapist,\"...I could say, '...I've made a study of these things, &amp; my systematic knowledge says this &amp; this is the case.' ...problem of the futility of that knowledge to anyone on the outside..\" https://t.co/IL4XlxVhw9",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			301
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonintrator",
+					"name": "Jason Stanley",
+					"id": 1726682706,
+					"id_str": "1726682706",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IL4XlxVhw9",
+					"expanded_url": "https://www.chicagoreader.com/chicago/watch-your-language/Content?oid=877112",
+					"display_url": "chicagoreader.com/chicago/watch-…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360584759903150000,
+		"in_reply_to_status_id_str": "1360584759903150081",
+		"in_reply_to_user_id": 1726682706,
+		"in_reply_to_user_id_str": "1726682706",
+		"in_reply_to_screen_name": "jasonintrator",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2056,
+			"friends_count": 1984,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jasonintrator Silverstein \"Now you're trying to cast me in the role of a therapist,\"...I could say, '...I've made a study of these things, &amp; my systematic knowledge says this &amp; this is the case.' ...problem of the futility of that knowledge to anyone on the outside..\" https://t.co/IL4XlxVhw9"
+	},
+	{
+		"created_at": "Sat Feb 13 11:40:56 +0000 2021",
+		"id": 1360554545223524400,
+		"id_str": "1360554545223524352",
+		"full_text": "@john_lichfield what's the French for plausible deniability?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_lichfield",
+					"name": "John Lichfield",
+					"id": 852538501832769500,
+					"id_str": "852538501832769540",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360373761481007000,
+		"in_reply_to_status_id_str": "1360373761481007108",
+		"in_reply_to_user_id": 852538501832769500,
+		"in_reply_to_user_id_str": "852538501832769540",
+		"in_reply_to_screen_name": "john_lichfield",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2056,
+			"friends_count": 1984,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@john_lichfield what's the French for plausible deniability?"
+	},
+	{
+		"created_at": "Sat Feb 13 11:33:38 +0000 2021",
+		"id": 1360552710261665800,
+		"id_str": "1360552710261665794",
+		"full_text": "new quote added to white voice on AI \"They [AI child policy] should empower children to contribute to the development and use of AI\"- UNICEF Policy Guidance on AI for Children, 2020 https://t.co/CTTbLmETaU #abolishAInow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "abolishAInow",
+					"indices": [
+						206,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CTTbLmETaU",
+					"expanded_url": "https://interact.englishup.me/whitevoice/",
+					"display_url": "interact.englishup.me/whitevoice/",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2056,
+			"friends_count": 1984,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "new quote added to white voice on AI \"They [AI child policy] should empower children to contribute to the development and use of AI\"- UNICEF Policy Guidance on AI for Children, 2020 https://t.co/CTTbLmETaU #abolishAInow"
+	},
+	{
+		"created_at": "Sat Feb 13 10:46:58 +0000 2021",
+		"id": 1360540964616568800,
+		"id_str": "1360540964616568833",
+		"full_text": "@SethBergeson @jennschenker @iamwill @unicefchief @wef @PwCUS @AnandSRao @GolbinIlana @maria_axente @RobMcCargow cld go along with this if every \"AI\" toy, adult &amp; kids had following JW quoye stamped  \"I think that what has to be remembered is that in the end these things are the fallout of gigantic efforts to make it possible to kill more and more people ever more efficiently\"",
+		"truncated": false,
+		"display_text_range": [
+			113,
+			383
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SethBergeson",
+					"name": "Seth Bergeson",
+					"id": 801850213,
+					"id_str": "801850213",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jennschenker",
+					"name": "Jennifer Schenker",
+					"id": 19905595,
+					"id_str": "19905595",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "iamwill",
+					"name": "will.i.am",
+					"id": 49573859,
+					"id_str": "49573859",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "unicefchief",
+					"name": "Henrietta H. Fore",
+					"id": 950824252562903000,
+					"id_str": "950824252562903040",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "wef",
+					"name": "World Economic Forum",
+					"id": 5120691,
+					"id_str": "5120691",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"screen_name": "PwCUS",
+					"name": "PwC US",
+					"id": 24636272,
+					"id_str": "24636272",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"screen_name": "AnandSRao",
+					"name": "AnandSRao",
+					"id": 14712864,
+					"id_str": "14712864",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "GolbinIlana",
+					"name": "Ilana Golbin",
+					"id": 1131930034309095400,
+					"id_str": "1131930034309095424",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"screen_name": "maria_axente",
+					"name": "Maria Luciana Axente",
+					"id": 16556796,
+					"id_str": "16556796",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "RobMcCargow",
+					"name": "Rob McCargow",
+					"id": 339941459,
+					"id_str": "339941459",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360402232357781500,
+		"in_reply_to_status_id_str": "1360402232357781505",
+		"in_reply_to_user_id": 801850213,
+		"in_reply_to_user_id_str": "801850213",
+		"in_reply_to_screen_name": "SethBergeson",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2056,
+			"friends_count": 1984,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SethBergeson @jennschenker @iamwill @unicefchief @wef @PwCUS @AnandSRao @GolbinIlana @maria_axente @RobMcCargow cld go along with this if every \"AI\" toy, adult &amp; kids had following JW quoye stamped  \"I think that what has to be remembered is that in the end these things are the fallout of gigantic efforts to make it possible to kill more and more people ever more efficiently\""
+	},
+	{
+		"created_at": "Sat Feb 13 10:27:20 +0000 2021",
+		"id": 1360368693180588000,
+		"id_str": "1360536024200454144",
+		"full_text": "@campbellclaret The most damning BMJ editorial I have ever read. \nhttps://t.co/neqY7X7abZ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "campbellclaret",
+					"name": "ALASTAIR CAMPBELL",
+					"id": 19644592,
+					"id_str": "19644592",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/neqY7X7abZ",
+					"expanded_url": "https://www.bmj.com/content/372/bmj.n314",
+					"display_url": "bmj.com/content/372/bm…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1360304476486312000,
+		"in_reply_to_status_id_str": "1360304476486311940",
+		"in_reply_to_user_id": 19644592,
+		"in_reply_to_user_id_str": "19644592",
+		"in_reply_to_screen_name": "campbellclaret",
+		"user": {
+			"id": 260211154,
+			"id_str": "260211154",
+			"name": "Prof Alice Roberts💙",
+			"screen_name": "theAliceRoberts",
+			"location": "location: Crypt of Lieberkuhn",
+			"description": "Professor of Public Engagement in Science at Uni of Birmingham; biological anthropologist, author, broadcaster; President of Humanists UK. All views my own.",
+			"url": "https://t.co/b5q1lCAYw8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b5q1lCAYw8",
+							"expanded_url": "http://www.alice-roberts.co.uk",
+							"display_url": "alice-roberts.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303812,
+			"friends_count": 2215,
+			"listed_count": 2385,
+			"created_at": "Thu Mar 03 12:34:44 +0000 2011",
+			"favourites_count": 46627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326311165782323207/qoH_X4nn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326311165782323207/qoH_X4nn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260211154/1605052199",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 885,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@campbellclaret The most damning BMJ editorial I have ever read. \nhttps://t.co/neqY7X7abZ"
+	},
+	{
+		"created_at": "Sat Feb 13 09:39:39 +0000 2021",
+		"id": 1360350233855688700,
+		"id_str": "1360524026846838789",
+		"full_text": "CN: police violence\n\nLast night police broke into our flat and assaulted my brother. Thankfully my brother is ok (as possible); we’re raising money to replace the door.\n\nHate to come back on here just to share this, but unfortunately needs must. #ACAB\n\nhttps://t.co/n4UUdZjcPZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACAB",
+					"indices": [
+						246,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n4UUdZjcPZ",
+					"expanded_url": "https://www.gofundme.com/f/help-yusuf-fix-his-door-after-police-aggression",
+					"display_url": "gofundme.com/f/help-yusuf-f…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1209031178797355000,
+			"id_str": "1209031178797355008",
+			"name": "Knox (deactivating) Mulder",
+			"screen_name": "knox_o",
+			"location": "back on twitter, i guess",
+			"description": "FKA knox_o\nshe/her\nScrabble fiend\nIMI trustee - SLRA therapist - freelance photographer (currently enforced hiatus)\n\"I’m still this Londoner boy’\"",
+			"url": "https://t.co/w82nuSAaCZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w82nuSAaCZ",
+							"expanded_url": "http://www.wasidaniju.com",
+							"display_url": "wasidaniju.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 1495,
+			"listed_count": 5,
+			"created_at": "Mon Dec 23 08:41:18 +0000 2019",
+			"favourites_count": 9074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350613444421156864/TorSyRUX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350613444421156864/TorSyRUX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1209031178797355008/1607642379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 94,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN: police violence\n\nLast night police broke into our flat and assaulted my brother. Thankfully my brother is ok (as possible); we’re raising money to replace the door.\n\nHate to come back on here just to share this, but unfortunately needs must. #ACAB\n\nhttps://t.co/n4UUdZjcPZ"
+	},
+	{
 		"created_at": "Fri Feb 12 13:50:18 +0000 2021",
 		"id": 1360224714334027800,
 		"id_str": "1360224714334027777",
@@ -1372,7 +2212,7 @@ Grailbird.data.tweets_2021_02 =
 				},
 				{
 					"screen_name": "JMPaiz_PhD",
-					"name": "Joshua M. Paíz 🏳️‍🌈 庞书华",
+					"name": "Joshua M. Paíz 🏳️🌈 庞书华",
 					"id": 3388524335,
 					"id_str": "3388524335",
 					"indices": [
