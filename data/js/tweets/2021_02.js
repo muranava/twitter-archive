@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 16:27:01 +0000 2021",
+		"id": 1363163256962117600,
+		"id_str": "1363163256962117632",
+		"full_text": "@twainus @ruchowdh @kdphd @math_rachel @mathbabedotorg @johnchavens @vdignum @dmonett @NandoDF @geomblog @timnitGebru would clearer definitions still obscure power friendly ideology of \"algorithmic bias\"?",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twainus",
+					"name": "Twain",
+					"id": 558505451,
+					"id_str": "558505451",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ruchowdh",
+					"name": "Rumman Chowdhury",
+					"id": 705850200473010200,
+					"id_str": "705850200473010178",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"screen_name": "kdphd",
+					"name": "sorelle",
+					"id": 251927957,
+					"id_str": "251927957",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"screen_name": "math_rachel",
+					"name": "Rachel Thomas",
+					"id": 1408142352,
+					"id_str": "1408142352",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "mathbabedotorg",
+					"name": "Cathy O'Neil",
+					"id": 365145609,
+					"id_str": "365145609",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "johnchavens",
+					"name": "John C. Havens",
+					"id": 3427261,
+					"id_str": "3427261",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "vdignum",
+					"name": "Virginia Dignum",
+					"id": 271601706,
+					"id_str": "271601706",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "dmonett",
+					"name": "Dagmar Monett",
+					"id": 146536061,
+					"id_str": "146536061",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"screen_name": "NandoDF",
+					"name": "Nando de Freitas",
+					"id": 29843511,
+					"id_str": "29843511",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"screen_name": "geomblog",
+					"name": "Suresh Venkatasubramanian",
+					"id": 1368571,
+					"id_str": "1368571",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"screen_name": "timnitGebru",
+					"name": "Timnit Gebru",
+					"id": 359831209,
+					"id_str": "359831209",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1363149312142815200,
+		"in_reply_to_status_id_str": "1363149312142815236",
+		"in_reply_to_user_id": 558505451,
+		"in_reply_to_user_id_str": "558505451",
+		"in_reply_to_screen_name": "twainus",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2051,
+			"friends_count": 2004,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@twainus @ruchowdh @kdphd @math_rachel @mathbabedotorg @johnchavens @vdignum @dmonett @NandoDF @geomblog @timnitGebru would clearer definitions still obscure power friendly ideology of \"algorithmic bias\"?"
+	},
+	{
 		"created_at": "Fri Feb 19 13:12:24 +0000 2021",
 		"id": 1362751892141592600,
 		"id_str": "1362751892141592579",
