@@ -1,6 +1,756 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 18:31:48 +0000 2021",
+		"id": 1363903973267300400,
+		"id_str": "1363919436068122625",
+		"full_text": "Hypernormalislandisation https://t.co/bUET3o7wYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363903855902220300,
+					"id_str": "1363903855902220288",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363903855902220288/pu/img/igftvPB5PI8QhtFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363903855902220288/pu/img/igftvPB5PI8QhtFd.jpg",
+					"url": "https://t.co/bUET3o7wYD",
+					"display_url": "pic.twitter.com/bUET3o7wYD",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1363903973267300352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363903855902220300,
+					"id_str": "1363903855902220288",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363903855902220288/pu/img/igftvPB5PI8QhtFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363903855902220288/pu/img/igftvPB5PI8QhtFd.jpg",
+					"url": "https://t.co/bUET3o7wYD",
+					"display_url": "pic.twitter.com/bUET3o7wYD",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1363903973267300352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 132747,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363903855902220288/pu/vid/640x360/-uzfXeOP8uR8KUqq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363903855902220288/pu/vid/480x270/rqlZ6jnv1qMVrKbV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363903855902220288/pu/vid/1280x720/iNy1dkFIRYSEfLBw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363903855902220288/pu/pl/KgVElI27I8_G1GDT.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly.",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17248,
+			"friends_count": 1088,
+			"listed_count": 53,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 8278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1598092582",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 984,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Hypernormalislandisation https://t.co/bUET3o7wYD"
+	},
+	{
+		"created_at": "Mon Feb 22 16:57:52 +0000 2021",
+		"id": 1363893961451053000,
+		"id_str": "1363895797255974918",
+		"full_text": "I received a death threat, with the threat of a bullet to the back of my head.\n\nAll because Toby Young is peddling an decade old, incorrect, story about me so that his followers can send threats, you are both SCUM.\n\n@piersmorgan wanna find this guy as well?\n\n@metpoliceuk @MetCC https://t.co/UrQTiNIqgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "piersmorgan",
+					"name": "Piers Morgan",
+					"id": 216299334,
+					"id_str": "216299334",
+					"indices": [
+						216,
+						228
+					]
+				},
+				{
+					"screen_name": "metpoliceuk",
+					"name": "Metropolitan Police",
+					"id": 66967746,
+					"id_str": "66967746",
+					"indices": [
+						259,
+						271
+					]
+				},
+				{
+					"screen_name": "MetCC",
+					"name": "Met Contact Centre",
+					"id": 4017163456,
+					"id_str": "4017163456",
+					"indices": [
+						272,
+						278
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363893959416774700,
+					"id_str": "1363893959416774663",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu2GVHJWgAcyLhu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu2GVHJWgAcyLhu.jpg",
+					"url": "https://t.co/UrQTiNIqgd",
+					"display_url": "pic.twitter.com/UrQTiNIqgd",
+					"expanded_url": "https://twitter.com/DawnButlerBrent/status/1363893961451053061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363893959416774700,
+					"id_str": "1363893959416774663",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu2GVHJWgAcyLhu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu2GVHJWgAcyLhu.jpg",
+					"url": "https://t.co/UrQTiNIqgd",
+					"display_url": "pic.twitter.com/UrQTiNIqgd",
+					"expanded_url": "https://twitter.com/DawnButlerBrent/status/1363893961451053061/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114505454,
+			"id_str": "114505454",
+			"name": "Dawn Butler MP✊🏾💙",
+			"screen_name": "DawnButlerBrent",
+			"location": "Brent",
+			"description": "MP for Brent Central ✉ dawn.butler.mp@parliament.uk\nFirst elected Black female government minister in the UK\nin Vogue's top 25 women shaping 2020\nShe/Her",
+			"url": "https://t.co/vFlHUDxubU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vFlHUDxubU",
+							"expanded_url": "http://www.dawnbutler.org.uk",
+							"display_url": "dawnbutler.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151795,
+			"friends_count": 5954,
+			"listed_count": 882,
+			"created_at": "Mon Feb 15 16:59:03 +0000 2010",
+			"favourites_count": 10467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332325783289929729/Te2cb8pB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332325783289929729/Te2cb8pB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114505454/1595147876",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 895,
+		"favorite_count": 2658,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I received a death threat, with the threat of a bullet to the back of my head.\n\nAll because Toby Young is peddling an decade old, incorrect, story about me so that his followers can send threats, you are both SCUM.\n\n@piersmorgan wanna find this guy as well?\n\n@metpoliceuk @MetCC https://t.co/UrQTiNIqgd"
+	},
+	{
+		"created_at": "Mon Feb 22 16:44:24 +0000 2021",
+		"id": 1363756714428936200,
+		"id_str": "1363892407746650113",
+		"full_text": "So many views get repeated by being represented as prohibited. Those who claim to be the most silenced are in fact the least silenced. And those who claim to be no platformed are in fact over-platformed. It’s an old piece but it’s an older problem. https://t.co/cU21mPeb4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cU21mPeb4S",
+					"expanded_url": "https://feministkilljoys.com/2015/02/15/you-are-oppressing-us/",
+					"display_url": "feministkilljoys.com/2015/02/15/you…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 339791868,
+			"id_str": "339791868",
+			"name": "feministkilljoy",
+			"screen_name": "SaraNAhmed",
+			"location": "Cambridgeshire",
+			"description": "Feminist queer writer of colour. Independent scholar. she/her. Labour. What's the Use? On the Uses of Use is out now. https://t.co/KruqM8SGnQ",
+			"url": "https://t.co/cAQrHQOdmf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cAQrHQOdmf",
+							"expanded_url": "http://www.saranahmed.com",
+							"display_url": "saranahmed.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KruqM8SGnQ",
+							"expanded_url": "http://dukeupress.edu/whats-the-use",
+							"display_url": "dukeupress.edu/whats-the-use",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62765,
+			"friends_count": 1587,
+			"listed_count": 467,
+			"created_at": "Thu Jul 21 17:24:57 +0000 2011",
+			"favourites_count": 20136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466429552/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466429552/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/339791868/1598622642",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 247,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So many views get repeated by being represented as prohibited. Those who claim to be the most silenced are in fact the least silenced. And those who claim to be no platformed are in fact over-platformed. It’s an old piece but it’s an older problem. https://t.co/cU21mPeb4S"
+	},
+	{
+		"created_at": "Mon Feb 22 16:36:00 +0000 2021",
+		"id": 1363890292764647400,
+		"id_str": "1363890292764647426",
+		"full_text": "\"...these luminaries instead of finding out what these students were saying...just accused of the students of being ignorant without reflecting on their own ignorance of what the students meant when they said this [that the philosophical cannon was white]\" https://t.co/SVh2EYWPFB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVh2EYWPFB",
+					"expanded_url": "https://twitter.com/bungatuffie/status/1363866964830146561",
+					"display_url": "twitter.com/bungatuffie/st…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 2008,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363866964830146600,
+		"quoted_status_id_str": "1363866964830146561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SVh2EYWPFB",
+			"expanded": "https://twitter.com/bungatuffie/status/1363866964830146561",
+			"display": "twitter.com/bungatuffie/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 15:03:18 +0000 2021",
+			"id": 1363866964830146600,
+			"id_str": "1363866964830146561",
+			"full_text": "I haven’t seen Robert Bernasconi for aeons. His contribution is really significant. There’s lots to think about in this interview. \n\nhttps://t.co/ie4KxFk4Zk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ie4KxFk4Zk",
+						"expanded_url": "https://www.youtube.com/watch?v=CCTpL-HMdmA&feature=emb_logo",
+						"display_url": "youtube.com/watch?v=CCTpL-…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31368035,
+				"id_str": "31368035",
+				"name": "Paul Gilroy",
+				"screen_name": "bungatuffie",
+				"location": "Poundland: where ignorant armies clash by night.",
+				"description": "A metaphysician in the dark, twanging. Soul rebel, IC7, dilettante, tele-ologist, Londoner, utopian, Dreamer Tribe affiliate.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22301,
+				"friends_count": 2773,
+				"listed_count": 258,
+				"created_at": "Wed Apr 15 08:21:07 +0000 2009",
+				"favourites_count": 5524,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10725,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE8AF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000364918572/c9c3dccae79ef418ca4e5c8328c11284_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000364918572/c9c3dccae79ef418ca4e5c8328c11284_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31368035/1527681660",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E9F623",
+				"profile_text_color": "710E2B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"...these luminaries instead of finding out what these students were saying...just accused of the students of being ignorant without reflecting on their own ignorance of what the students meant when they said this [that the philosophical cannon was white]\" https://t.co/SVh2EYWPFB"
+	},
+	{
 		"created_at": "Sun Feb 21 13:26:02 +0000 2021",
 		"id": 1363480098465325000,
 		"id_str": "1363480098465325056",
@@ -286,7 +1036,7 @@ Grailbird.data.tweets_2021_02 =
 				},
 				{
 					"screen_name": "eltplanning",
-					"name": "Peter Pun 🙋🏻‍♂️",
+					"name": "Peter Pun 🙋🏻♂️",
 					"id": 1206391330575806500,
 					"id_str": "1206391330575806467",
 					"indices": [
@@ -421,7 +1171,7 @@ Grailbird.data.tweets_2021_02 =
 				},
 				{
 					"screen_name": "eltplanning",
-					"name": "Peter Pun 🙋🏻‍♂️",
+					"name": "Peter Pun 🙋🏻♂️",
 					"id": 1206391330575806500,
 					"id_str": "1206391330575806467",
 					"indices": [
@@ -566,7 +1316,7 @@ Grailbird.data.tweets_2021_02 =
 				},
 				{
 					"screen_name": "eltplanning",
-					"name": "Peter Pun 🙋🏻‍♂️",
+					"name": "Peter Pun 🙋🏻♂️",
 					"id": 1206391330575806500,
 					"id_str": "1206391330575806467",
 					"indices": [
@@ -711,7 +1461,7 @@ Grailbird.data.tweets_2021_02 =
 				},
 				{
 					"screen_name": "eltplanning",
-					"name": "Peter Pun 🙋🏻‍♂️",
+					"name": "Peter Pun 🙋🏻♂️",
 					"id": 1206391330575806500,
 					"id_str": "1206391330575806467",
 					"indices": [
