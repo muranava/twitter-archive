@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 10:56:59 +0000 2021",
+		"id": 1364529754905444400,
+		"id_str": "1364529754905444352",
+		"full_text": "@quadzeus @NewLiberalsPod @deonteleologist @tamler @peez @verybadwizards Similar point here on irony of ignorance charges? https://t.co/diqZd1WxPJ",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quadzeus",
+					"name": "Chris Spanos",
+					"id": 282012490,
+					"id_str": "282012490",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "NewLiberalsPod",
+					"name": "The New Liberals",
+					"id": 1083520013347090400,
+					"id_str": "1083520013347090432",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "deonteleologist",
+					"name": "Sam Hoadley-Brill",
+					"id": 1209245247072391200,
+					"id_str": "1209245247072391168",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "tamler",
+					"name": "Tamler Sommers",
+					"id": 40289454,
+					"id_str": "40289454",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"screen_name": "peez",
+					"name": "David Pizarro",
+					"id": 14913454,
+					"id_str": "14913454",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"screen_name": "verybadwizards",
+					"name": "Very Bad Wizards",
+					"id": 868623228,
+					"id_str": "868623228",
+					"indices": [
+						57,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/diqZd1WxPJ",
+					"expanded_url": "https://twitter.com/muranava/status/1363890292764647426?s=20",
+					"display_url": "twitter.com/muranava/statu…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364479188896374800,
+		"in_reply_to_status_id_str": "1364479188896374787",
+		"in_reply_to_user_id": 282012490,
+		"in_reply_to_user_id_str": "282012490",
+		"in_reply_to_screen_name": "quadzeus",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 2010,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363890292764647400,
+		"quoted_status_id_str": "1363890292764647426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/diqZd1WxPJ",
+			"expanded": "https://twitter.com/muranava/status/1363890292764647426?s=20",
+			"display": "twitter.com/muranava/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 16:36:00 +0000 2021",
+			"id": 1363890292764647400,
+			"id_str": "1363890292764647426",
+			"full_text": "\"...these luminaries instead of finding out what these students were saying...just accused of the students of being ignorant without reflecting on their own ignorance of what the students meant when they said this [that the philosophical cannon was white]\" https://t.co/SVh2EYWPFB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SVh2EYWPFB",
+						"expanded_url": "https://twitter.com/bungatuffie/status/1363866964830146561",
+						"display_url": "twitter.com/bungatuffie/st…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18602422,
+				"id_str": "18602422",
+				"name": "Mura Nava",
+				"screen_name": "muranava",
+				"location": "Paris, France",
+				"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+				"url": "http://t.co/efJ8SaX9fj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/efJ8SaX9fj",
+								"expanded_url": "http://eflnotes.wordpress.com/",
+								"display_url": "eflnotes.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e8kZronG5C",
+								"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+								"display_url": "eflnotes.wordpress.com/the-shed/",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/5QyzQm27Ej",
+								"expanded_url": "https://www.smashwords.com/books/view/618387",
+								"display_url": "smashwords.com/books/view/618…",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2052,
+				"friends_count": 2010,
+				"listed_count": 103,
+				"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+				"favourites_count": 15242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+				"profile_link_color": "08780E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1363866964830146600,
+			"quoted_status_id_str": "1363866964830146561",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SVh2EYWPFB",
+				"expanded": "https://twitter.com/bungatuffie/status/1363866964830146561",
+				"display": "twitter.com/bungatuffie/st…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@quadzeus @NewLiberalsPod @deonteleologist @tamler @peez @verybadwizards Similar point here on irony of ignorance charges? https://t.co/diqZd1WxPJ"
+	},
+	{
 		"created_at": "Tue Feb 23 10:37:56 +0000 2021",
 		"id": 1364162570693861400,
 		"id_str": "1364162570693861379",
