@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 27 09:52:12 +0000 2021",
+		"id": 1365600427367166000,
+		"id_str": "1365600614089175040",
+		"full_text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷‍♂️\n\nhttps://t.co/nrntJ3HLXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nrntJ3HLXz",
+					"expanded_url": "https://www.inc.com/jason-aten/clubhouse-is-recording-your-conversations-thats-not-even-its-worst-privacy-problem.html",
+					"display_url": "inc.com/jason-aten/clu…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan 🕷 (@aral@mastodon.ar.al)",
+			"screen_name": "aral",
+			"location": "Would rather be elsewhere",
+			"description": "Here under protest. he/they\n\nSmall Technology Foundation\nhttps://t.co/tbNC61jYna\n\nRSS: https://t.co/P4oRD4rKOD\nMastodon: https://t.co/C6XykeV5vi",
+			"url": "https://t.co/MH5qjWg2mi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tbNC61jYna",
+							"expanded_url": "http://small-tech.org",
+							"display_url": "small-tech.org",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/P4oRD4rKOD",
+							"expanded_url": "http://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/C6XykeV5vi",
+							"expanded_url": "http://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44247,
+			"friends_count": 27762,
+			"listed_count": 2471,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 144743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1590815467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 103,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷‍♂️\n\nhttps://t.co/nrntJ3HLXz"
+	},
+	{
 		"created_at": "Wed Feb 24 10:56:59 +0000 2021",
 		"id": 1364529754905444400,
 		"id_str": "1364529754905444352",
