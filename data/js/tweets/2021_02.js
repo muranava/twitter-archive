@@ -1,10 +1,137 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 14:52:16 +0000 2021",
+		"id": 1360282145353252900,
+		"id_str": "1366038515998457856",
+		"full_text": "Last nght's discussion of \"The Racial Consequences of Mr Churchill\" with @PriyamvadaGopal, @kehinde_andrews, @Mudhusree1984, and Oneyka Nubia https://t.co/oRCjVzTMUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PriyamvadaGopal",
+					"name": "Priyamvada Gopal",
+					"id": 108691306,
+					"id_str": "108691306",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "kehinde_andrews",
+					"name": "Kehinde Andrews",
+					"id": 3392883071,
+					"id_str": "3392883071",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oRCjVzTMUv",
+					"expanded_url": "https://youtu.be/wermPu-oG5w",
+					"display_url": "youtu.be/wermPu-oG5w",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49615331,
+			"id_str": "49615331",
+			"name": "Yahya Birt",
+			"screen_name": "YBirt",
+			"location": "Ilkley, West Yorkshire",
+			"description": "Personal views; links & RTs ≠ endorsements. Forthcoming book in Spring 2021: Islam in Victorian Liverpool, co-edited with R. Macnamara and M.Z. Maksudoğlu.",
+			"url": "https://t.co/C3YNddK6Jb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C3YNddK6Jb",
+							"expanded_url": "https://medium.com/@yahyabirt",
+							"display_url": "medium.com/@yahyabirt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7464,
+			"friends_count": 1958,
+			"listed_count": 85,
+			"created_at": "Mon Jun 22 12:37:27 +0000 2009",
+			"favourites_count": 5650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294017782699483138/uJYuyGzX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294017782699483138/uJYuyGzX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49615331/1609417261",
+			"profile_link_color": "004358",
+			"profile_sidebar_border_color": "F7B565",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "448668",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last nght's discussion of \"The Racial Consequences of Mr Churchill\" with @PriyamvadaGopal, @kehinde_andrews, @Mudhusree1984, and Oneyka Nubia https://t.co/oRCjVzTMUv"
+	},
+	{
 		"created_at": "Sat Feb 27 09:52:12 +0000 2021",
 		"id": 1365600427367166000,
 		"id_str": "1365600614089175040",
-		"full_text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷‍♂️\n\nhttps://t.co/nrntJ3HLXz",
+		"full_text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷♂️\n\nhttps://t.co/nrntJ3HLXz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -132,7 +259,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷‍♂️\n\nhttps://t.co/nrntJ3HLXz"
+		"text": "1. New VC-backed startup enters the scene\n2. People flock to it \n3. They discover it’s a surveillance capitalist (and still have no clue what that is)\n4. They’re shocked (because, see 3)\n5. It’s too late, they’re too big and they’ve exited\n6. Goto 1\n\n🤷♂️\n\nhttps://t.co/nrntJ3HLXz"
 	},
 	{
 		"created_at": "Wed Feb 24 10:56:59 +0000 2021",
