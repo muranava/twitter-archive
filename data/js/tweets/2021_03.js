@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 16:08:53 +0000 2021",
+		"id": 1368594511719448600,
+		"id_str": "1368594511719448581",
+		"full_text": "Average TEFL salaries vs average salaries (but note the disclaimer) from TEFL Tourism Principles, Commodification and the Sustainability of Teaching English As a Foreign Language by Stainton, Hayley 2019 https://t.co/wYUxAibqxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368594300544704500,
+					"id_str": "1368594300544704512",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev45Q-WXYAAm-v4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ev45Q-WXYAAm-v4.png",
+					"url": "https://t.co/wYUxAibqxw",
+					"display_url": "pic.twitter.com/wYUxAibqxw",
+					"expanded_url": "https://twitter.com/muranava/status/1368594511719448581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 779,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368594300544704500,
+					"id_str": "1368594300544704512",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev45Q-WXYAAm-v4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ev45Q-WXYAAm-v4.png",
+					"url": "https://t.co/wYUxAibqxw",
+					"display_url": "pic.twitter.com/wYUxAibqxw",
+					"expanded_url": "https://twitter.com/muranava/status/1368594511719448581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 662,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 779,
+							"h": 662,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 2038,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Average TEFL salaries vs average salaries (but note the disclaimer) from TEFL Tourism Principles, Commodification and the Sustainability of Teaching English As a Foreign Language by Stainton, Hayley 2019 https://t.co/wYUxAibqxw"
+	},
+	{
+		"created_at": "Sun Mar 07 16:02:30 +0000 2021",
+		"id": 1368592904311177200,
+		"id_str": "1368592904311177216",
+		"full_text": "@philipjohnkerr @ebefl \"The results from TALIS suggest that, in many countries, education is still far from being a knowledge industry in the sense that its own practices are not yet being transformed by knowledge about the efficacy of those practices.\" https://t.co/sbnAB5jedF",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipjohnkerr",
+					"name": "philipjkerr",
+					"id": 847708264666062800,
+					"id_str": "847708264666062848",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ebefl",
+					"name": "Russ Mayne",
+					"id": 2228367554,
+					"id_str": "2228367554",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sbnAB5jedF",
+					"expanded_url": "http://www.oecd.org/education/school/43023606.pdf",
+					"display_url": "oecd.org/education/scho…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1368460675266273300,
+		"in_reply_to_status_id_str": "1368460675266273282",
+		"in_reply_to_user_id": 847708264666062800,
+		"in_reply_to_user_id_str": "847708264666062848",
+		"in_reply_to_screen_name": "philipjohnkerr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 2038,
+			"listed_count": 104,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@philipjohnkerr @ebefl \"The results from TALIS suggest that, in many countries, education is still far from being a knowledge industry in the sense that its own practices are not yet being transformed by knowledge about the efficacy of those practices.\" https://t.co/sbnAB5jedF"
+	},
+	{
+		"created_at": "Sun Mar 07 14:34:15 +0000 2021",
+		"id": 1368546205773467600,
+		"id_str": "1368570696280997889",
+		"full_text": "We live in a country where we can justify banishing black and brown citizens, but Ghislaine Maxwell, whose father was Czechoslovakian and whose mother was French, can renounce her citizenship for bail. A snippet from me on the BBC's Big Questions today discussing Shamima Begum. https://t.co/NNP45f9xI7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368544796923592700,
+					"id_str": "1368544796923592707",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368544796923592707/pu/img/asyTAY-0Dehykrce.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368544796923592707/pu/img/asyTAY-0Dehykrce.jpg",
+					"url": "https://t.co/NNP45f9xI7",
+					"display_url": "pic.twitter.com/NNP45f9xI7",
+					"expanded_url": "https://twitter.com/ainajkhan/status/1368546205773467650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368544796923592700,
+					"id_str": "1368544796923592707",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368544796923592707/pu/img/asyTAY-0Dehykrce.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368544796923592707/pu/img/asyTAY-0Dehykrce.jpg",
+					"url": "https://t.co/NNP45f9xI7",
+					"display_url": "pic.twitter.com/NNP45f9xI7",
+					"expanded_url": "https://twitter.com/ainajkhan/status/1368546205773467650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1368544796923592707/pu/pl/cM2aoNkLHXkOpZ1J.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368544796923592707/pu/vid/480x270/QHb5KqoMsJg5sXFL.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368544796923592707/pu/vid/1280x720/7_MG4SF77x2MzKzL.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368544796923592707/pu/vid/640x360/bSLHM7rGzavUl5ui.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267801131,
+			"id_str": "267801131",
+			"name": "Aina J. Khan",
+			"screen_name": "ainajkhan",
+			"location": "London",
+			"description": "Journalist by day, Ms.Marvel by night🧕🏼 Retweets do not = declaration of undying digital love",
+			"url": "https://t.co/S8TiDax8p1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S8TiDax8p1",
+							"expanded_url": "https://www.aljazeera.com/author/aina_khan_171102195145533",
+							"display_url": "aljazeera.com/author/aina_kh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7830,
+			"friends_count": 6868,
+			"listed_count": 64,
+			"created_at": "Thu Mar 17 15:25:24 +0000 2011",
+			"favourites_count": 31061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343563694211555329/lvSSWONR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343563694211555329/lvSSWONR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267801131/1579354405",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 331,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We live in a country where we can justify banishing black and brown citizens, but Ghislaine Maxwell, whose father was Czechoslovakian and whose mother was French, can renounce her citizenship for bail. A snippet from me on the BBC's Big Questions today discussing Shamima Begum. https://t.co/NNP45f9xI7"
+	},
+	{
+		"created_at": "Sun Mar 07 14:26:33 +0000 2021",
+		"id": 1368555645314732000,
+		"id_str": "1368568758042824705",
+		"full_text": "4 years ago we used one of Malak's paintings to inspire young learners of English to write short poems. Join us tomorrow for #InternationalWomensDay and find out what inspired Malak herself https://t.co/2z1Gw7UyFB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalWomensDay",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2z1Gw7UyFB",
+					"expanded_url": "https://handsupproject.org/2017/07/09/5775/",
+					"display_url": "handsupproject.org/2017/07/09/577…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273391079,
+			"id_str": "273391079",
+			"name": "Nick Bilbrough, Founder of @HandsUpProject",
+			"screen_name": "nickbilbrough",
+			"location": "Totnes, UK",
+			"description": "#Storytelling and more with children in #refugee camps @HandsUpProject",
+			"url": "https://t.co/spueUUU41H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/spueUUU41H",
+							"expanded_url": "http://handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1120,
+			"friends_count": 959,
+			"listed_count": 17,
+			"created_at": "Mon Mar 28 12:01:33 +0000 2011",
+			"favourites_count": 622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273391079/1608149286",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 years ago we used one of Malak's paintings to inspire young learners of English to write short poems. Join us tomorrow for #InternationalWomensDay and find out what inspired Malak herself https://t.co/2z1Gw7UyFB"
+	},
+	{
+		"created_at": "Sun Mar 07 12:54:39 +0000 2021",
+		"id": 1368522186424782800,
+		"id_str": "1368545629262254085",
+		"full_text": "From Sunday, March 7th to Saturday, March 13th, everyone is being asked to not use Amazon or Amazon Prime and do not stream videos using the Amazon Prime video service. Don’t cross the virtual picket line!!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169019181,
+			"id_str": "169019181",
+			"name": "Duchess of Brixton 🇳🇬🇳🇬 (🇯🇲)",
+			"screen_name": "fufuisonme",
+			"location": "londonnn",
+			"description": "Child of God, 🇺🇳UN fellow, Human Rights Defender, Founder of @blamcharity& @blkprotestlegal, ✊🏿Community Activist, Barrister, Writer, Curator, Yorubaian",
+			"url": "https://t.co/5MRLkS44vs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5MRLkS44vs",
+							"expanded_url": "https://www.ifethompson.com/about-me",
+							"display_url": "ifethompson.com/about-me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 3326,
+			"listed_count": 18,
+			"created_at": "Wed Jul 21 10:06:57 +0000 2010",
+			"favourites_count": 9083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356418713541611520/FdSeKKmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356418713541611520/FdSeKKmj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169019181/1591857927",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 97,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "From Sunday, March 7th to Saturday, March 13th, everyone is being asked to not use Amazon or Amazon Prime and do not stream videos using the Amazon Prime video service. Don’t cross the virtual picket line!!!"
+	},
+	{
+		"created_at": "Sun Mar 07 12:16:41 +0000 2021",
+		"id": 1367505117600120800,
+		"id_str": "1368536076353212417",
+		"full_text": "Let us start by telling Christopher's story. Christopher was a young black 13-year-old child who died on 1st July 2019 after being pushed into the river in front of many of his peers. He was the only black child present at the scene of the incident. https://t.co/HZzsiVAQqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274292542796955600,
+					"id_str": "1274292542796955649",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274292542796955649/pu/img/7IsdAJT1OIfJolJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274292542796955649/pu/img/7IsdAJT1OIfJolJ6.jpg",
+					"url": "https://t.co/HZzsiVAQqS",
+					"display_url": "pic.twitter.com/HZzsiVAQqS",
+					"expanded_url": "https://twitter.com/JKapessa/status/1274292743188217856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274292743188217900,
+					"source_status_id_str": "1274292743188217856",
+					"source_user_id": 1233159864165294000,
+					"source_user_id_str": "1233159864165294081"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274292542796955600,
+					"id_str": "1274292542796955649",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274292542796955649/pu/img/7IsdAJT1OIfJolJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274292542796955649/pu/img/7IsdAJT1OIfJolJ6.jpg",
+					"url": "https://t.co/HZzsiVAQqS",
+					"display_url": "pic.twitter.com/HZzsiVAQqS",
+					"expanded_url": "https://twitter.com/JKapessa/status/1274292743188217856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1274292743188217900,
+					"source_status_id_str": "1274292743188217856",
+					"source_user_id": 1233159864165294000,
+					"source_user_id_str": "1233159864165294081",
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 138800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1274292542796955649/pu/pl/PQ1uwgaZu47gNxbi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274292542796955649/pu/vid/636x360/oSUH13BKlFN9lPl3.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274292542796955649/pu/vid/476x270/9yWKGch4BvCLBH37.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1274292542796955649/pu/vid/848x480/l5Pf46q3KlnwZr9A.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1233159864165294000,
+							"id_str": "1233159864165294081",
+							"name": "JusticeForChristopherKapessa",
+							"screen_name": "JKapessa",
+							"location": "Mountain Ash, Wales",
+							"description": "This account is run by the family & friends of Christopher, a 13 year old black child who was pushed into a river in 2019, seeking #JusticeForChristopherKapessa",
+							"url": "https://t.co/gyvRly7omF",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/gyvRly7omF",
+											"expanded_url": "https://linktr.ee/JusticeForChristopherKapessa",
+											"display_url": "linktr.ee/JusticeForChri…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1244,
+							"friends_count": 778,
+							"listed_count": 2,
+							"created_at": "Thu Feb 27 22:40:26 +0000 2020",
+							"favourites_count": 611,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 784,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1271382527463350272/YDJAvow2_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271382527463350272/YDJAvow2_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233159864165294081/1611216291",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1233159864165294000,
+			"id_str": "1233159864165294081",
+			"name": "JusticeForChristopherKapessa",
+			"screen_name": "JKapessa",
+			"location": "Mountain Ash, Wales",
+			"description": "This account is run by the family & friends of Christopher, a 13 year old black child who was pushed into a river in 2019, seeking #JusticeForChristopherKapessa",
+			"url": "https://t.co/gyvRly7omF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gyvRly7omF",
+							"expanded_url": "https://linktr.ee/JusticeForChristopherKapessa",
+							"display_url": "linktr.ee/JusticeForChri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1244,
+			"friends_count": 778,
+			"listed_count": 2,
+			"created_at": "Thu Feb 27 22:40:26 +0000 2020",
+			"favourites_count": 611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271382527463350272/YDJAvow2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271382527463350272/YDJAvow2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233159864165294081/1611216291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 456,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let us start by telling Christopher's story. Christopher was a young black 13-year-old child who died on 1st July 2019 after being pushed into the river in front of many of his peers. He was the only black child present at the scene of the incident. https://t.co/HZzsiVAQqS"
+	},
+	{
 		"created_at": "Sat Mar 06 23:48:23 +0000 2021",
 		"id": 1368195396338471000,
 		"id_str": "1368347759850438660",
