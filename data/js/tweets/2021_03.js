@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 08 17:31:50 +0000 2021",
+		"id": 1368933645650714600,
+		"id_str": "1368977773629480960",
+		"full_text": "Meghan Markle on the value of unions in America: “In my old job, there was a union, and they would protect me.” https://t.co/0gnIEkBm44",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368933119647244300,
+					"id_str": "1368933119647244290",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1368933119647244290/img/g_kuDwAoufukAKfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1368933119647244290/img/g_kuDwAoufukAKfs.jpg",
+					"url": "https://t.co/0gnIEkBm44",
+					"display_url": "pic.twitter.com/0gnIEkBm44",
+					"expanded_url": "https://twitter.com/MorePerfectUS/status/1368933645650714627/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368933119647244300,
+					"id_str": "1368933119647244290",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1368933119647244290/img/g_kuDwAoufukAKfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1368933119647244290/img/g_kuDwAoufukAKfs.jpg",
+					"url": "https://t.co/0gnIEkBm44",
+					"display_url": "pic.twitter.com/0gnIEkBm44",
+					"expanded_url": "https://twitter.com/MorePerfectUS/status/1368933645650714627/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37639,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1368933119647244290/vid/640x360/4ov-ORNgbbNxadGr.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1368933119647244290/vid/1280x720/2QHZz_Hxmc1V4mis.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1368933119647244290/pl/rlkbRXK4cbdo2Qis.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1368933119647244290/vid/480x270/gtsdUaxc4drBGgxL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321935792416149500,
+			"id_str": "1321935792416149505",
+			"name": "More Perfect Union",
+			"screen_name": "MorePerfectUS",
+			"location": "",
+			"description": "Media that builds power for working people. Send stories and pitches to: stories@perfectunion.us. Come work with us: jobs@perfectunion.us",
+			"url": "https://t.co/qXeIEnlD1H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qXeIEnlD1H",
+							"expanded_url": "http://perfectunion.us",
+							"display_url": "perfectunion.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16785,
+			"friends_count": 393,
+			"listed_count": 76,
+			"created_at": "Thu Oct 29 22:04:04 +0000 2020",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356276091795734533/6fDJO-jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356276091795734533/6fDJO-jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321935792416149505/1612196394",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 668,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meghan Markle on the value of unions in America: “In my old job, there was a union, and they would protect me.” https://t.co/0gnIEkBm44"
+	},
+	{
 		"created_at": "Sun Mar 07 16:08:53 +0000 2021",
 		"id": 1368594511719448600,
 		"id_str": "1368594511719448581",
