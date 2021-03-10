@@ -1,6 +1,931 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 09 19:08:37 +0000 2021",
+		"id": 1369364517809950700,
+		"id_str": "1369364517809950724",
+		"full_text": "@eripsa For the ban won, I had to add min size for Undecided so there would be enough people to ask questions.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eripsa",
+					"name": "eripsa",
+					"id": 18111180,
+					"id_str": "18111180",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1369360793842638800,
+		"in_reply_to_status_id_str": "1369360793842638859",
+		"in_reply_to_user_id": 18111180,
+		"in_reply_to_user_id_str": "18111180",
+		"in_reply_to_screen_name": "eripsa",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2049,
+			"friends_count": 2045,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eripsa For the ban won, I had to add min size for Undecided so there would be enough people to ask questions."
+	},
+	{
+		"created_at": "Tue Mar 09 18:16:08 +0000 2021",
+		"id": 1369351310605160400,
+		"id_str": "1369351310605160451",
+		"full_text": "@eripsa Hi Daniel, used your debate format recently, worked quite well in online context thx! https://t.co/ezqkIvhrfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eripsa",
+					"name": "eripsa",
+					"id": 18111180,
+					"id_str": "18111180",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369351182582419500,
+					"id_str": "1369351182582419469",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDppTqWEA0qpkM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EwDppTqWEA0qpkM.png",
+					"url": "https://t.co/ezqkIvhrfk",
+					"display_url": "pic.twitter.com/ezqkIvhrfk",
+					"expanded_url": "https://twitter.com/muranava/status/1369351310605160451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1051,
+							"h": 585,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1051,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369351182582419500,
+					"id_str": "1369351182582419469",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EwDppTqWEA0qpkM.png",
+					"media_url_https": "https://pbs.twimg.com/media/EwDppTqWEA0qpkM.png",
+					"url": "https://t.co/ezqkIvhrfk",
+					"display_url": "pic.twitter.com/ezqkIvhrfk",
+					"expanded_url": "https://twitter.com/muranava/status/1369351310605160451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1051,
+							"h": 585,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1051,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18111180,
+		"in_reply_to_user_id_str": "18111180",
+		"in_reply_to_screen_name": "eripsa",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2049,
+			"friends_count": 2045,
+			"listed_count": 103,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eripsa Hi Daniel, used your debate format recently, worked quite well in online context thx! https://t.co/ezqkIvhrfk"
+	},
+	{
+		"created_at": "Tue Mar 09 17:56:11 +0000 2021",
+		"id": 1369275049207881700,
+		"id_str": "1369346291793330182",
+		"full_text": "wtf is 'casual' about racism?!\nanswer quickly! https://t.co/frXtLmTTQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369274151119315000,
+					"id_str": "1369274151119314949",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1369274151119314949/img/076dr1aga3I2pRFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1369274151119314949/img/076dr1aga3I2pRFg.jpg",
+					"url": "https://t.co/frXtLmTTQ1",
+					"display_url": "pic.twitter.com/frXtLmTTQ1",
+					"expanded_url": "https://twitter.com/kelechnekoff/status/1369275049207881729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369274151119315000,
+					"id_str": "1369274151119314949",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1369274151119314949/img/076dr1aga3I2pRFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1369274151119314949/img/076dr1aga3I2pRFg.jpg",
+					"url": "https://t.co/frXtLmTTQ1",
+					"display_url": "pic.twitter.com/frXtLmTTQ1",
+					"expanded_url": "https://twitter.com/kelechnekoff/status/1369275049207881729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 304605,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369274151119314949/vid/1280x720/W-HfjyPB1jHDMts0.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369274151119314949/vid/480x270/TGIbIXGv_Qawliye.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1369274151119314949/vid/640x360/RAwAuOJaU6DY7Ucn.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1369274151119314949/pl/b8g5uMMKK0aG_e7E.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214411666,
+			"id_str": "214411666",
+			"name": "machine gun Kele",
+			"screen_name": "kelechnekoff",
+			"location": "London",
+			"description": "Actress | Founder of Kelechnekoff Fitness Studio @klchnkff_studio | multi-award winning Baby Girl | creator of @SayYourMindPod and #SallyInHR",
+			"url": "https://t.co/GwixUaKYbv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GwixUaKYbv",
+							"expanded_url": "https://podcasts.apple.com/gb/podcast/say-your-mind/id1324118843",
+							"display_url": "podcasts.apple.com/gb/podcast/say…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97225,
+			"friends_count": 1334,
+			"listed_count": 319,
+			"created_at": "Thu Nov 11 10:26:41 +0000 2010",
+			"favourites_count": 78773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 237774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349313065695768576/1-HE2DoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349313065695768576/1-HE2DoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214411666/1573382845",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4902,
+		"favorite_count": 13715,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wtf is 'casual' about racism?!\nanswer quickly! https://t.co/frXtLmTTQ1"
+	},
+	{
+		"created_at": "Tue Mar 09 11:12:30 +0000 2021",
+		"id": 1369231842570887200,
+		"id_str": "1369244698636922884",
+		"full_text": "Meghan has a better understanding of privacy than most “privacy professionals” (privacy because, unlike them, she doesn’t work for corporations that profit from violating yours). Privacy is the right to decide what you share with others and what you keep to yourself. Period. https://t.co/rQMjPkCjmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rQMjPkCjmo",
+					"expanded_url": "https://twitter.com/Iwillleavenow/status/1369131436008116225",
+					"display_url": "twitter.com/Iwillleavenow/…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan 🕷 (@aral@mastodon.ar.al)",
+			"screen_name": "aral",
+			"location": "Would rather be elsewhere",
+			"description": "Here under protest. he/they\n\nSmall Technology Foundation\nhttps://t.co/tbNC61jYna\n\nRSS: https://t.co/P4oRD4rKOD\nMastodon: https://t.co/C6XykeV5vi",
+			"url": "https://t.co/MH5qjWg2mi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tbNC61jYna",
+							"expanded_url": "http://small-tech.org",
+							"display_url": "small-tech.org",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/P4oRD4rKOD",
+							"expanded_url": "http://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								87,
+								110
+							]
+						},
+						{
+							"url": "https://t.co/C6XykeV5vi",
+							"expanded_url": "http://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44273,
+			"friends_count": 27844,
+			"listed_count": 2472,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 145064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1590815467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369131436008116200,
+		"quoted_status_id_str": "1369131436008116225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rQMjPkCjmo",
+			"expanded": "https://twitter.com/Iwillleavenow/status/1369131436008116225",
+			"display": "twitter.com/Iwillleavenow/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 09 03:42:26 +0000 2021",
+			"id": 1369131436008116200,
+			"id_str": "1369131436008116225",
+			"full_text": "Girl, she CRUSHED that privacy explanation. Love it. No notes.\n\n(I mean, some potential expansions because I’m an obnoxious privacy lawyer, but NO NOTES.)\nhttps://t.co/2eSYqKObCq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1369098825743401000,
+						"id_str": "1369098825743400965",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1369098825743400965/pu/img/2BxGcQYCCKNTTobG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1369098825743400965/pu/img/2BxGcQYCCKNTTobG.jpg",
+						"url": "https://t.co/2eSYqKObCq",
+						"display_url": "pic.twitter.com/2eSYqKObCq",
+						"expanded_url": "https://twitter.com/FaRah07595123/status/1369098918684921867/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1054,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1054,
+								"h": 610,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1369098918684921900,
+						"source_status_id_str": "1369098918684921867",
+						"source_user_id": 1099868220390027300,
+						"source_user_id_str": "1099868220390027267"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1369098825743401000,
+						"id_str": "1369098825743400965",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1369098825743400965/pu/img/2BxGcQYCCKNTTobG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1369098825743400965/pu/img/2BxGcQYCCKNTTobG.jpg",
+						"url": "https://t.co/2eSYqKObCq",
+						"display_url": "pic.twitter.com/2eSYqKObCq",
+						"expanded_url": "https://twitter.com/FaRah07595123/status/1369098918684921867/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1054,
+								"h": 610,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1054,
+								"h": 610,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1369098918684921900,
+						"source_status_id_str": "1369098918684921867",
+						"source_user_id": 1099868220390027300,
+						"source_user_id_str": "1099868220390027267",
+						"video_info": {
+							"aspect_ratio": [
+								527,
+								305
+							],
+							"duration_millis": 89468,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1369098825743400965/pu/vid/1054x610/m2vyY1P_e3c9QPN2.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1369098825743400965/pu/vid/622x360/D4iNdq-0kLtTiMN1.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1369098825743400965/pu/pl/SiP3oA0rC_wncn23.m3u8?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1369098825743400965/pu/vid/466x270/i7WswsBcHolKYVq5.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1099868220390027300,
+								"id_str": "1099868220390027267",
+								"name": "What A Time",
+								"screen_name": "FaRah07595123",
+								"location": "",
+								"description": "#EnoughisEnough #AmINext #EndGenderBasedViolence",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1686,
+								"friends_count": 250,
+								"listed_count": 4,
+								"created_at": "Mon Feb 25 03:06:33 +0000 2019",
+								"favourites_count": 33105,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 54060,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1368948865169321991/I3pmTBYa_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368948865169321991/I3pmTBYa_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1099868220390027267/1590721591",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3035183724,
+				"id_str": "3035183724",
+				"name": "Techni-Calli",
+				"screen_name": "Iwillleavenow",
+				"location": "",
+				"description": "Attorney in privacy/data security, privacy advocate, nerd. Various articles and podcasts various places. My views only. She/Her. CIPM, CIPP-US/E/C, FIP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8820,
+				"friends_count": 997,
+				"listed_count": 191,
+				"created_at": "Sat Feb 21 22:04:11 +0000 2015",
+				"favourites_count": 24657,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/569271254138376192/ezG1qQTd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/569271254138376192/ezG1qQTd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3035183724/1586382726",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 872,
+			"favorite_count": 3233,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 203,
+		"favorite_count": 687,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meghan has a better understanding of privacy than most “privacy professionals” (privacy because, unlike them, she doesn’t work for corporations that profit from violating yours). Privacy is the right to decide what you share with others and what you keep to yourself. Period. https://t.co/rQMjPkCjmo"
+	},
+	{
 		"created_at": "Mon Mar 08 17:31:50 +0000 2021",
 		"id": 1368933645650714600,
 		"id_str": "1368977773629480960",
