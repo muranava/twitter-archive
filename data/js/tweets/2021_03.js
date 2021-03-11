@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 10 16:41:20 +0000 2021",
+		"id": 1368985485872226300,
+		"id_str": "1369689841529655296",
+		"full_text": "Never forget how Oprah helped sell the Iraq War to the public: https://t.co/lFldnIA8iR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368985399020851200,
+					"id_str": "1368985399020851200",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368985399020851200/pu/img/QLPLKvIm8cH7Mzfr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368985399020851200/pu/img/QLPLKvIm8cH7Mzfr.jpg",
+					"url": "https://t.co/lFldnIA8iR",
+					"display_url": "pic.twitter.com/lFldnIA8iR",
+					"expanded_url": "https://twitter.com/queeralamode/status/1368985485872226306/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 396,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368985399020851200,
+					"id_str": "1368985399020851200",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1368985399020851200/pu/img/QLPLKvIm8cH7Mzfr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1368985399020851200/pu/img/QLPLKvIm8cH7Mzfr.jpg",
+					"url": "https://t.co/lFldnIA8iR",
+					"display_url": "pic.twitter.com/lFldnIA8iR",
+					"expanded_url": "https://twitter.com/queeralamode/status/1368985485872226306/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 396,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 482,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							414,
+							241
+						],
+						"duration_millis": 60282,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368985399020851200/pu/vid/618x360/ZuLoU8UGVgMMRJDn.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368985399020851200/pu/vid/462x270/ivmlMuUmaewzKOI3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1368985399020851200/pu/pl/AVJlxZ16pvt7MpHi.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1368985399020851200/pu/vid/828x482/Up1p0fx8DKwYVeI7.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3188096689,
+			"id_str": "3188096689",
+			"name": "Human Rights Watch Watcher",
+			"screen_name": "queeralamode",
+			"location": "Occupied Tongva Land",
+			"description": "Born and raised in the belly of the beast. ☭",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10910,
+			"friends_count": 981,
+			"listed_count": 62,
+			"created_at": "Thu May 07 19:47:30 +0000 2015",
+			"favourites_count": 61168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245038551533682693/JDpiEego_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245038551533682693/JDpiEego_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3188096689/1604356713",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1656,
+		"favorite_count": 4960,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never forget how Oprah helped sell the Iraq War to the public: https://t.co/lFldnIA8iR"
+	},
+	{
 		"created_at": "Tue Mar 09 19:08:37 +0000 2021",
 		"id": 1369364517809950700,
 		"id_str": "1369364517809950724",
