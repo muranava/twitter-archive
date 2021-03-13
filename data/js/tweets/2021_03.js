@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 13 01:00:12 +0000 2021",
+		"id": 1370540159469490200,
+		"id_str": "1370540159469490180",
+		"full_text": "@geomblog what are your thoughts that AI bias could be seen as a diversion from AI surveillance following Snowden revelations in 2013 (after Yarden Katz in Artificial Whiteness)? thx",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geomblog",
+					"name": "Suresh Venkatasubramanian",
+					"id": 1368571,
+					"id_str": "1368571",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370424937505169400,
+		"in_reply_to_status_id_str": "1370424937505169411",
+		"in_reply_to_user_id": 1368571,
+		"in_reply_to_user_id_str": "1368571",
+		"in_reply_to_screen_name": "geomblog",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 2052,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@geomblog what are your thoughts that AI bias could be seen as a diversion from AI surveillance following Snowden revelations in 2013 (after Yarden Katz in Artificial Whiteness)? thx"
+	},
+	{
+		"created_at": "Fri Mar 12 16:44:50 +0000 2021",
+		"id": 1370415496634450000,
+		"id_str": "1370415496634449922",
+		"full_text": "Age, Implicit Learning, &amp; Second Language Acquisition - Professor Paulin... https://t.co/bHrfpuWS99 via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bHrfpuWS99",
+					"expanded_url": "https://youtu.be/SclZWgEfkCg",
+					"display_url": "youtu.be/SclZWgEfkCg",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 2052,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Age, Implicit Learning, &amp; Second Language Acquisition - Professor Paulin... https://t.co/bHrfpuWS99 via @YouTube"
+	},
+	{
+		"created_at": "Fri Mar 12 12:44:14 +0000 2021",
+		"id": 1369563152795529200,
+		"id_str": "1370354950526631941",
+		"full_text": "For anyone who is interested, it took KLF 67 minutes to burn £1,000,000. \n\nUsing identical methods, burning £37bn would take 4.7 years. This does not allow time for eating, sleeping or resting.\n\nPresumably Dido Harding owns an industrial furnace.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36146086,
+			"id_str": "36146086",
+			"name": "Mike Stafford",
+			"screen_name": "faithfulpundit",
+			"location": "Worcester, UK",
+			"description": "Writer @ https://t.co/zRb4kcSpmu |\n\nHost of weekly YouTube show 'You Need This Book in Your Life' |\n\nWarning: tweets may contain politics.",
+			"url": "https://t.co/zRb4kcSpmu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zRb4kcSpmu",
+							"expanded_url": "http://faithfulpundit.co.uk",
+							"display_url": "faithfulpundit.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zRb4kcSpmu",
+							"expanded_url": "http://faithfulpundit.co.uk",
+							"display_url": "faithfulpundit.co.uk",
+							"indices": [
+								9,
+								32
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1323,
+			"friends_count": 780,
+			"listed_count": 27,
+			"created_at": "Tue Apr 28 18:49:54 +0000 2009",
+			"favourites_count": 32178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165939595718135808/EmDVV9n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165939595718135808/EmDVV9n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36146086/1585662478",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1441,
+		"favorite_count": 4557,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "For anyone who is interested, it took KLF 67 minutes to burn £1,000,000. \n\nUsing identical methods, burning £37bn would take 4.7 years. This does not allow time for eating, sleeping or resting.\n\nPresumably Dido Harding owns an industrial furnace."
+	},
+	{
+		"created_at": "Fri Mar 12 09:44:11 +0000 2021",
+		"id": 1370309638709784600,
+		"id_str": "1370309638709784578",
+		"full_text": "@divywonder @mathbabedotorg Yes the technical grounds are narrower, the fact that funding doesn't match the general\"winter\" frame makes it look much narrower!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "divywonder",
+					"name": "Divy",
+					"id": 916443533833375700,
+					"id_str": "916443533833375744",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mathbabedotorg",
+					"name": "Cathy O'Neil",
+					"id": 365145609,
+					"id_str": "365145609",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370299603942248400,
+		"in_reply_to_status_id_str": "1370299603942248448",
+		"in_reply_to_user_id": 916443533833375700,
+		"in_reply_to_user_id_str": "916443533833375744",
+		"in_reply_to_screen_name": "divywonder",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 2052,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@divywonder @mathbabedotorg Yes the technical grounds are narrower, the fact that funding doesn't match the general\"winter\" frame makes it look much narrower!"
+	},
+	{
+		"created_at": "Fri Mar 12 07:40:57 +0000 2021",
+		"id": 1370071690437390300,
+		"id_str": "1370278626558672897",
+		"full_text": "Evening all! \nWe're having an organising meeting on Monday 15 March @ 7pm. \n\nThe more the merrier so if you could spread the word I'd really appreciate it.\nDrop me a line for the link/accessibility here or via email @ manchester.comms@iww.org.uk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1364321529073401900,
+			"id_str": "1364321529073401860",
+			"name": "Manchester TEFL Union",
+			"screen_name": "MCR_TEFLUnion",
+			"location": "",
+			"description": "Manchester branch of the TEFL Workers' Union\nJoin us in the fight for secure employment for TEFL workers",
+			"url": "https://t.co/He3ONQ7wdt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/He3ONQ7wdt",
+							"expanded_url": "https://www.facebook.com/MancIWW",
+							"display_url": "facebook.com/MancIWW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Tue Feb 23 21:11:00 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364323958649204738/TplyhmcC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364323958649204738/TplyhmcC_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Evening all! \nWe're having an organising meeting on Monday 15 March @ 7pm. \n\nThe more the merrier so if you could spread the word I'd really appreciate it.\nDrop me a line for the link/accessibility here or via email @ manchester.comms@iww.org.uk"
+	},
+	{
 		"created_at": "Thu Mar 11 20:39:48 +0000 2021",
 		"id": 1369724764088987600,
 		"id_str": "1370112243577274371",
