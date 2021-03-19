@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 21:30:17 +0000 2021",
+		"id": 1372653028210278400,
+		"id_str": "1372661659949490193",
+		"full_text": "It’s been confirmed that the oppressive and authoritarian #PoliceCrackdownBill has been delayed until ‘later in the year’ by @peterkyle MP. \n\nIt’s an incredible victory for @SistersUncut and everyone who turned up to the protests, made noise about it and contacted MPs https://t.co/VMD6kCtncm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PoliceCrackdownBill",
+					"indices": [
+						58,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterkyle",
+					"name": "Peter Kyle MP",
+					"id": 21769986,
+					"id_str": "21769986",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"screen_name": "SistersUncut",
+					"name": "Sisters Uncut",
+					"id": 2842030067,
+					"id_str": "2842030067",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372653021595897900,
+					"id_str": "1372653021595897856",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EwykpogXEAAhLot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwykpogXEAAhLot.jpg",
+					"url": "https://t.co/VMD6kCtncm",
+					"display_url": "pic.twitter.com/VMD6kCtncm",
+					"expanded_url": "https://twitter.com/g__ferris/status/1372653028210278401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 959,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372653021595897900,
+					"id_str": "1372653021595897856",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EwykpogXEAAhLot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwykpogXEAAhLot.jpg",
+					"url": "https://t.co/VMD6kCtncm",
+					"display_url": "pic.twitter.com/VMD6kCtncm",
+					"expanded_url": "https://twitter.com/g__ferris/status/1372653028210278401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 959,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 545060251,
+			"id_str": "545060251",
+			"name": "Griff Ferris",
+			"screen_name": "g__ferris",
+			"location": "United Kingdom  ¯\\_(ツ)_/¯",
+			"description": "human rights, criminal justice, abuse of data & tech // law @fairtrials // also @sdetsup @blkprotestlegal // member @lswunited @ldnrentersunion // views mine",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2174,
+			"friends_count": 1403,
+			"listed_count": 16,
+			"created_at": "Wed Apr 04 11:40:44 +0000 2012",
+			"favourites_count": 39462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918425535579086848/jEw76uv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918425535579086848/jEw76uv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/545060251/1502873323",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 687,
+		"favorite_count": 1768,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s been confirmed that the oppressive and authoritarian #PoliceCrackdownBill has been delayed until ‘later in the year’ by @peterkyle MP. \n\nIt’s an incredible victory for @SistersUncut and everyone who turned up to the protests, made noise about it and contacted MPs https://t.co/VMD6kCtncm"
+	},
+	{
+		"created_at": "Thu Mar 18 21:20:39 +0000 2021",
+		"id": 1372647364549353500,
+		"id_str": "1372659236820357124",
+		"full_text": "Hypernormalislandisation (part 4) https://t.co/W8Dq1IUGIL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372635464063193000,
+					"id_str": "1372635464063193091",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372635464063193091/pu/img/Xo8kNi85fbVGFEYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372635464063193091/pu/img/Xo8kNi85fbVGFEYg.jpg",
+					"url": "https://t.co/W8Dq1IUGIL",
+					"display_url": "pic.twitter.com/W8Dq1IUGIL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1372635624365289473/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1372635624365289500,
+					"source_status_id_str": "1372635624365289473",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372635464063193000,
+					"id_str": "1372635464063193091",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1372635464063193091/pu/img/Xo8kNi85fbVGFEYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1372635464063193091/pu/img/Xo8kNi85fbVGFEYg.jpg",
+					"url": "https://t.co/W8Dq1IUGIL",
+					"display_url": "pic.twitter.com/W8Dq1IUGIL",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1372635624365289473/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1372635624365289500,
+					"source_status_id_str": "1372635624365289473",
+					"source_user_id": 3291321552,
+					"source_user_id_str": "3291321552",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139972,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372635464063193091/pu/vid/480x270/dy5nubzQUt3zi5yl.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372635464063193091/pu/vid/1280x720/EJPzCoekSMyb-bkD.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1372635464063193091/pu/vid/640x360/PJ_D0aFcwdfcDz4C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1372635464063193091/pu/pl/PuMVceB6qBFbGh-G.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3291321552,
+							"id_str": "3291321552",
+							"name": "TheIainDuncanSmiths",
+							"screen_name": "TheIDSmiths",
+							"location": "DWP",
+							"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly.",
+							"url": "https://t.co/LpP9z6apMW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LpP9z6apMW",
+											"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+											"display_url": "youtube.com/TheIainDuncanS…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 17644,
+							"friends_count": 1114,
+							"listed_count": 52,
+							"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+							"favourites_count": 8522,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 12504,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1598092582",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "DWP",
+			"description": "Welfare reform just got musical. All celebrity voices are impersonated...poorly.",
+			"url": "https://t.co/LpP9z6apMW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LpP9z6apMW",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17644,
+			"friends_count": 1114,
+			"listed_count": 52,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 8522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624773427514220545/I9VTMV06_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1598092582",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 145,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Hypernormalislandisation (part 4) https://t.co/W8Dq1IUGIL"
+	},
+	{
+		"created_at": "Thu Mar 18 16:46:20 +0000 2021",
+		"id": 1372590202661654500,
+		"id_str": "1372590202661654529",
+		"full_text": "@mathbabedotorg @Econ_Marshall ++ for those \"critical\" orgs funded by big tech",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mathbabedotorg",
+					"name": "Cathy O'Neil",
+					"id": 365145609,
+					"id_str": "365145609",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Econ_Marshall",
+					"name": "Marshall Steinbaum 🔥",
+					"id": 2496925550,
+					"id_str": "2496925550",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1372589152303259600,
+		"in_reply_to_status_id_str": "1372589152303259651",
+		"in_reply_to_user_id": 365145609,
+		"in_reply_to_user_id_str": "365145609",
+		"in_reply_to_screen_name": "mathbabedotorg",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 2075,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mathbabedotorg @Econ_Marshall ++ for those \"critical\" orgs funded by big tech"
+	},
+	{
 		"created_at": "Wed Mar 17 17:04:45 +0000 2021",
 		"id": 1372224401840742400,
 		"id_str": "1372232449284042755",
