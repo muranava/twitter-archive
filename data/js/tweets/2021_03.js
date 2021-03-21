@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 01:11:28 +0000 2021",
+		"id": 1373442099622842400,
+		"id_str": "1373442099622842370",
+		"full_text": "@Abebab \"forcibly inject\" 😂",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Abebab",
+					"name": "Abeba Birhane",
+					"id": 229005889,
+					"id_str": "229005889",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373438856675098600,
+		"in_reply_to_status_id_str": "1373438856675098626",
+		"in_reply_to_user_id": 229005889,
+		"in_reply_to_user_id_str": "229005889",
+		"in_reply_to_screen_name": "Abebab",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 2090,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Abebab \"forcibly inject\" 😂"
+	},
+	{
+		"created_at": "Sat Mar 20 14:56:08 +0000 2021",
+		"id": 1373261548593021000,
+		"id_str": "1373287244530913282",
+		"full_text": "@profjsg @dgolumbia @luke_stark @StevenLevy And there’s @bengrosser’s Order of Magnitude. :) \n\nhttps://t.co/TyapsAgTtT",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profjsg",
+					"name": "Dr. J. Stromer-Galley",
+					"id": 15210983,
+					"id_str": "15210983",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dgolumbia",
+					"name": "David \"🌷🌷🌷\" Golumbia",
+					"id": 14304930,
+					"id_str": "14304930",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "luke_stark",
+					"name": "Luke Stark",
+					"id": 24223629,
+					"id_str": "24223629",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "StevenLevy",
+					"name": "Steven Levy",
+					"id": 808627,
+					"id_str": "808627",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "bengrosser",
+					"name": "ben grosser",
+					"id": 10528692,
+					"id_str": "10528692",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TyapsAgTtT",
+					"expanded_url": "https://bengrosser.com/projects/order-of-magnitude/",
+					"display_url": "bengrosser.com/projects/order…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1373259721466114000,
+		"in_reply_to_status_id_str": "1373259721466114048",
+		"in_reply_to_user_id": 6168682,
+		"in_reply_to_user_id_str": "6168682",
+		"in_reply_to_screen_name": "michaelzimmer",
+		"user": {
+			"id": 6168682,
+			"id_str": "6168682",
+			"name": "Michael Zimmer",
+			"screen_name": "michaelzimmer",
+			"location": "Milwaukee, Wisconsin",
+			"description": "Privacy & data ethics scholar; Associate Professor @MarquetteCS @MarquetteU. Member of @PERVADE_team. I also run @ZuckerbergFiles. Opinions mine alone.",
+			"url": "https://t.co/0UCaSxpASf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0UCaSxpASf",
+							"expanded_url": "http://michaelzimmer.org",
+							"display_url": "michaelzimmer.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6453,
+			"friends_count": 1225,
+			"listed_count": 430,
+			"created_at": "Sun May 20 00:10:05 +0000 2007",
+			"favourites_count": 37331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372601495565307907/I7S0ejWS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372601495565307907/I7S0ejWS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6168682/1610566634",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@profjsg @dgolumbia @luke_stark @StevenLevy And there’s @bengrosser’s Order of Magnitude. :) \n\nhttps://t.co/TyapsAgTtT"
+	},
+	{
+		"created_at": "Sat Mar 20 14:49:39 +0000 2021",
+		"id": 1373285612959195100,
+		"id_str": "1373285612959195137",
+		"full_text": "@dgolumbia haha yeah there is a lot to piss take in that piece",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dgolumbia",
+					"name": "David \"🌷🌷🌷\" Golumbia",
+					"id": 14304930,
+					"id_str": "14304930",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373284631236186000,
+		"in_reply_to_status_id_str": "1373284631236186116",
+		"in_reply_to_user_id": 14304930,
+		"in_reply_to_user_id_str": "14304930",
+		"in_reply_to_screen_name": "dgolumbia",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 2090,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dgolumbia haha yeah there is a lot to piss take in that piece"
+	},
+	{
+		"created_at": "Sat Mar 20 14:43:07 +0000 2021",
+		"id": 1373283971484749800,
+		"id_str": "1373283971484749831",
+		"full_text": "@dgolumbia one bod used the whataboutism of car deaths in their complaint about Ethics in AI https://t.co/UVhPWOhmXK",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dgolumbia",
+					"name": "David \"🌷🌷🌷\" Golumbia",
+					"id": 14304930,
+					"id_str": "14304930",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UVhPWOhmXK",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/okboomer",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1373256921466208300,
+		"in_reply_to_status_id_str": "1373256921466208261",
+		"in_reply_to_user_id": 14304930,
+		"in_reply_to_user_id_str": "14304930",
+		"in_reply_to_screen_name": "dgolumbia",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 2090,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dgolumbia one bod used the whataboutism of car deaths in their complaint about Ethics in AI https://t.co/UVhPWOhmXK"
+	},
+	{
 		"created_at": "Fri Mar 19 19:19:50 +0000 2021",
 		"id": 1372991220746686500,
 		"id_str": "1372991220746686471",
