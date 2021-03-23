@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 22 17:55:20 +0000 2021",
+		"id": 1374057118651850800,
+		"id_str": "1374057118651850754",
+		"full_text": "@lavelledynamic Hey sorry off whatsapp, on signal",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lavelledynamic",
+					"name": "Lavelle Dynamic",
+					"id": 467634146,
+					"id_str": "467634146",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1374053339932016600,
+		"in_reply_to_status_id_str": "1374053339932016641",
+		"in_reply_to_user_id": 467634146,
+		"in_reply_to_user_id_str": "467634146",
+		"in_reply_to_screen_name": "lavelledynamic",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2057,
+			"friends_count": 2107,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lavelledynamic Hey sorry off whatsapp, on signal"
+	},
+	{
+		"created_at": "Mon Mar 22 13:14:10 +0000 2021",
+		"id": 1373983145247187000,
+		"id_str": "1373986359724113920",
+		"full_text": "On Bristol:\n\nThe left needs to stop looking on at political violence it views as \"unstrategic\" with disdain. If all we can offer is hollow parliamentary alliances and not long term political organisation, that is a failure of the left - not of those resisting. https://t.co/Qx4Ww83O7L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373971897478746000,
+					"id_str": "1373971897478746115",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373971897478746115/pu/img/W1-gVo9Xoix-OBkv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373971897478746115/pu/img/W1-gVo9Xoix-OBkv.jpg",
+					"url": "https://t.co/Qx4Ww83O7L",
+					"display_url": "pic.twitter.com/Qx4Ww83O7L",
+					"expanded_url": "https://twitter.com/annie_etc_/status/1373983145247186944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373971897478746000,
+					"id_str": "1373971897478746115",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373971897478746115/pu/img/W1-gVo9Xoix-OBkv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373971897478746115/pu/img/W1-gVo9Xoix-OBkv.jpg",
+					"url": "https://t.co/Qx4Ww83O7L",
+					"display_url": "pic.twitter.com/Qx4Ww83O7L",
+					"expanded_url": "https://twitter.com/annie_etc_/status/1373983145247186944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 49070,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373971897478746115/pu/vid/778x360/JhsYBRryyuI3Pst2.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373971897478746115/pu/vid/582x270/KqqYQ950tcMNEH_s.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1373971897478746115/pu/pl/4gOHLP-AhtgT_gG6.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373971897478746115/pu/vid/1280x592/y802t8MQTjtQ3Ydm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456175707,
+			"id_str": "456175707",
+			"name": "Black as in Revolution.",
+			"screen_name": "annie_etc_",
+			"location": "London.Lagos",
+			"description": "Thinking and writing about the theory and history of ‘Blackness’. Student of the National Liberation tradition. Mama-bear. My mum won the Jollof Wars.",
+			"url": "https://t.co/L7dCV3HQ1T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L7dCV3HQ1T",
+							"expanded_url": "https://www.youtube.com/channel/UCFv2oqtZPO3uKMbcq-ihs2g/videos",
+							"display_url": "youtube.com/channel/UCFv2o…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7129,
+			"friends_count": 612,
+			"listed_count": 25,
+			"created_at": "Thu Jan 05 23:35:18 +0000 2012",
+			"favourites_count": 5467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341623916423462912/3nnhvk-__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341623916423462912/3nnhvk-__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456175707/1409399521",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 490,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On Bristol:\n\nThe left needs to stop looking on at political violence it views as \"unstrategic\" with disdain. If all we can offer is hollow parliamentary alliances and not long term political organisation, that is a failure of the left - not of those resisting. https://t.co/Qx4Ww83O7L"
+	},
+	{
 		"created_at": "Sun Mar 21 11:35:47 +0000 2021",
 		"id": 1373599214152921000,
 		"id_str": "1373599214152921090",
