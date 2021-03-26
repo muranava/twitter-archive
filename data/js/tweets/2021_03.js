@@ -1,6 +1,1271 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 25 20:01:04 +0000 2021",
+		"id": 1375152989506261000,
+		"id_str": "1375175922232492043",
+		"full_text": "Meet @Clare2ELT this Friday to learn about creating #ELTmaterials for EAP vocabulary. Last chance to register for our free webinar tomorrow! #IATEFL #MeetMaWSIG \n https://t.co/E32vFRyFh0 https://t.co/14IA06HhJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELTmaterials",
+					"indices": [
+						52,
+						65
+					]
+				},
+				{
+					"text": "IATEFL",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "MeetMaWSIG",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Clare2ELT",
+					"name": "Clare Maas",
+					"id": 2430206497,
+					"id_str": "2430206497",
+					"indices": [
+						5,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E32vFRyFh0",
+					"expanded_url": "https://iatefl.org/events/203",
+					"display_url": "iatefl.org/events/203",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1375152985467150300,
+					"id_str": "1375152985467150336",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ExWGWrqWYAAPVPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExWGWrqWYAAPVPz.jpg",
+					"url": "https://t.co/14IA06HhJ5",
+					"display_url": "pic.twitter.com/14IA06HhJ5",
+					"expanded_url": "https://twitter.com/MaWSIG/status/1375152989506261004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 883,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1375152985467150300,
+					"id_str": "1375152985467150336",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/ExWGWrqWYAAPVPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExWGWrqWYAAPVPz.jpg",
+					"url": "https://t.co/14IA06HhJ5",
+					"display_url": "pic.twitter.com/14IA06HhJ5",
+					"expanded_url": "https://twitter.com/MaWSIG/status/1375152989506261004/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 883,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 883,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096618700,
+			"id_str": "1096618700",
+			"name": "MaWSIG",
+			"screen_name": "MaWSIG",
+			"location": "",
+			"description": "The Materials Writing SIG (MaWSIG) is one of the newest IATEFL SIGs which aims to promote best practice for ELT materials writing.",
+			"url": "https://t.co/U4heNC28EE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U4heNC28EE",
+							"expanded_url": "https://mawsig.iatefl.org/",
+							"display_url": "mawsig.iatefl.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3695,
+			"friends_count": 1698,
+			"listed_count": 97,
+			"created_at": "Wed Jan 16 23:15:51 +0000 2013",
+			"favourites_count": 4523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178912858186362881/ASmI_iWL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178912858186362881/ASmI_iWL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096618700/1569909704",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet @Clare2ELT this Friday to learn about creating #ELTmaterials for EAP vocabulary. Last chance to register for our free webinar tomorrow! #IATEFL #MeetMaWSIG \n https://t.co/E32vFRyFh0 https://t.co/14IA06HhJ5"
+	},
+	{
+		"created_at": "Thu Mar 25 20:00:06 +0000 2021",
+		"id": 1375175681118716000,
+		"id_str": "1375175681118715907",
+		"full_text": "@SeanHutchman @SLBCoop @leoselivan @Anne0Keeffe some links in this post https://t.co/eucL96YQIY",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeanHutchman",
+					"name": "Sean Hutchman",
+					"id": 2444199513,
+					"id_str": "2444199513",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "Anne0Keeffe",
+					"name": "Anne O'Keeffe",
+					"id": 310322075,
+					"id_str": "310322075",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eucL96YQIY",
+					"expanded_url": "https://eflnotes.wordpress.com/2013/09/16/getting-learner-data-for-vocabulary-activities-efcamdat/",
+					"display_url": "eflnotes.wordpress.com/2013/09/16/get…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375068052384006100,
+		"in_reply_to_status_id_str": "1375068052384006148",
+		"in_reply_to_user_id": 2444199513,
+		"in_reply_to_user_id_str": "2444199513",
+		"in_reply_to_screen_name": "SeanHutchman",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 2126,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SeanHutchman @SLBCoop @leoselivan @Anne0Keeffe some links in this post https://t.co/eucL96YQIY"
+	},
+	{
+		"created_at": "Thu Mar 25 19:37:25 +0000 2021",
+		"id": 1375169973505691600,
+		"id_str": "1375169973505691653",
+		"full_text": "@brlamb this from What Tech Calls Thinking seems relevant to one of the points Clark was making https://t.co/WpZfqrxbZm",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1375169903699837000,
+					"id_str": "1375169903699836933",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ExWVvc_WQAUMps3.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExWVvc_WQAUMps3.png",
+					"url": "https://t.co/WpZfqrxbZm",
+					"display_url": "pic.twitter.com/WpZfqrxbZm",
+					"expanded_url": "https://twitter.com/muranava/status/1375169973505691653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 736,
+							"h": 237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 237,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1375169903699837000,
+					"id_str": "1375169903699836933",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ExWVvc_WQAUMps3.png",
+					"media_url_https": "https://pbs.twimg.com/media/ExWVvc_WQAUMps3.png",
+					"url": "https://t.co/WpZfqrxbZm",
+					"display_url": "pic.twitter.com/WpZfqrxbZm",
+					"expanded_url": "https://twitter.com/muranava/status/1375169973505691653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 736,
+							"h": 237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 237,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 219,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1374846790709567500,
+		"in_reply_to_status_id_str": "1374846790709567491",
+		"in_reply_to_user_id": 745903,
+		"in_reply_to_user_id_str": "745903",
+		"in_reply_to_screen_name": "brlamb",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 2126,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@brlamb this from What Tech Calls Thinking seems relevant to one of the points Clark was making https://t.co/WpZfqrxbZm"
+	},
+	{
+		"created_at": "Thu Mar 25 15:04:55 +0000 2021",
+		"id": 1375101393619595300,
+		"id_str": "1375101393619595264",
+		"full_text": "@eltplanning @josipa74 @TeflUnion thanks Peter, one issue re good working conditions is good for who? e.g. inequalities (in pay, status) between local and non-local teachers?",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eltplanning",
+					"name": "Peter Pun 🙋🏻‍♂️",
+					"id": 1206391330575806500,
+					"id_str": "1206391330575806467",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375094151084056600,
+		"in_reply_to_status_id_str": "1375094151084056579",
+		"in_reply_to_user_id": 1206391330575806500,
+		"in_reply_to_user_id_str": "1206391330575806467",
+		"in_reply_to_screen_name": "eltplanning",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 2126,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@eltplanning @josipa74 @TeflUnion thanks Peter, one issue re good working conditions is good for who? e.g. inequalities (in pay, status) between local and non-local teachers?"
+	},
+	{
+		"created_at": "Thu Mar 25 15:01:19 +0000 2021",
+		"id": 1375094151084056600,
+		"id_str": "1375100490464301058",
+		"full_text": "@josipa74 @muranava @TeflUnion https://t.co/q4n4g3ALJa",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "muranava",
+					"name": "Mura Nava",
+					"id": 18602422,
+					"id_str": "18602422",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q4n4g3ALJa",
+					"expanded_url": "https://eltplanning.com/2019/10/09/what-are-good-working-conditions-in-elt/",
+					"display_url": "eltplanning.com/2019/10/09/wha…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1375053553472012300,
+		"in_reply_to_status_id_str": "1375053553472012294",
+		"in_reply_to_user_id": 134211317,
+		"in_reply_to_user_id_str": "134211317",
+		"in_reply_to_screen_name": "josipa74",
+		"user": {
+			"id": 1206391330575806500,
+			"id_str": "1206391330575806467",
+			"name": "Peter Pun 🙋🏻‍♂️",
+			"screen_name": "eltplanning",
+			"location": "Bangkok, Thailand",
+			"description": "#EAL teacher, #ELT author. ‘The Bergkamp of materials writing’. Blog at https://t.co/eABMmHykxF. Views my own.",
+			"url": "https://t.co/eABMmHykxF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eABMmHykxF",
+							"expanded_url": "http://eltplanning.com",
+							"display_url": "eltplanning.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eABMmHykxF",
+							"expanded_url": "http://eltplanning.com",
+							"display_url": "eltplanning.com",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 2047,
+			"listed_count": 15,
+			"created_at": "Mon Dec 16 01:51:51 +0000 2019",
+			"favourites_count": 1147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273889256935550980/QDvuwvbR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273889256935550980/QDvuwvbR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206391330575806467/1595046843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@josipa74 @muranava @TeflUnion https://t.co/q4n4g3ALJa"
+	},
+	{
+		"created_at": "Thu Mar 25 14:13:21 +0000 2021",
+		"id": 1375088419701936000,
+		"id_str": "1375088419701936131",
+		"full_text": "Problems in SLA: Is Emergentism the answer to them? https://t.co/3IrLkOgC31 via @GeoffJordan17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3IrLkOgC31",
+					"expanded_url": "https://applingtesol.wordpress.com/2021/02/28/problems-in-sla-is-emergentism-the-answer-to-them/",
+					"display_url": "applingtesol.wordpress.com/2021/02/28/pro…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 2126,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 15846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Problems in SLA: Is Emergentism the answer to them? https://t.co/3IrLkOgC31 via @GeoffJordan17"
+	},
+	{
+		"created_at": "Thu Mar 25 14:03:14 +0000 2021",
+		"id": 1375069687550259200,
+		"id_str": "1375085872866017289",
+		"full_text": "Prabhat Patnaik: “Brecht said, hungry man reach for the book. Why? Because to get rid of hunger, you have to get rid of the system that produces hunger, &amp; to get rid of that system you must understand it &amp; you can only do that by reaching for the book.” https://t.co/WHAYlyih2q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373987024546361300,
+					"id_str": "1373987024546361350",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373987024546361350/pu/img/-9EGJbFEsOpIlYDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373987024546361350/pu/img/-9EGJbFEsOpIlYDo.jpg",
+					"url": "https://t.co/WHAYlyih2q",
+					"display_url": "pic.twitter.com/WHAYlyih2q",
+					"expanded_url": "https://twitter.com/subindennis/status/1373987629679538181/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1373987629679538200,
+					"source_status_id_str": "1373987629679538181",
+					"source_user_id": 162009956,
+					"source_user_id_str": "162009956"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373987024546361300,
+					"id_str": "1373987024546361350",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1373987024546361350/pu/img/-9EGJbFEsOpIlYDo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1373987024546361350/pu/img/-9EGJbFEsOpIlYDo.jpg",
+					"url": "https://t.co/WHAYlyih2q",
+					"display_url": "pic.twitter.com/WHAYlyih2q",
+					"expanded_url": "https://twitter.com/subindennis/status/1373987629679538181/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 704,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1373987629679538200,
+					"source_status_id_str": "1373987629679538181",
+					"source_user_id": 162009956,
+					"source_user_id_str": "162009956",
+					"video_info": {
+						"aspect_ratio": [
+							639,
+							352
+						],
+						"duration_millis": 21240,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373987024546361350/pu/vid/490x270/HQjHFEko0DiXQjlB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1373987024546361350/pu/pl/94gPCOvSjv-ESJrE.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373987024546361350/pu/vid/652x360/naMs57OfqeiK9wMs.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1373987024546361350/pu/vid/1278x704/yhvpgycMwMCuRMzv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 162009956,
+							"id_str": "162009956",
+							"name": "Subin Dennis",
+							"screen_name": "subindennis",
+							"location": "Thiruvananthapuram, Kerala",
+							"description": "Economist. Researcher, Tricontinental Research. Former journalist @newsclickin. Writes on economy & politics. JNU alumnus.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4646,
+							"friends_count": 1235,
+							"listed_count": 14,
+							"created_at": "Fri Jul 02 11:02:19 +0000 2010",
+							"favourites_count": 13630,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 7690,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1196427835717476359/TWFN456B_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196427835717476359/TWFN456B_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/162009956/1585135019",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1319252039453626400,
+			"id_str": "1319252039453626368",
+			"name": "Liberated Texts",
+			"screen_name": "LiberatedTexts",
+			"location": "",
+			"description": "Independent reviews of books with ongoing relevance that have been forgotten, underappreciated, suppressed or misinterpreted in the mainstream since release.",
+			"url": "https://t.co/xUAhiGt4N6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xUAhiGt4N6",
+							"expanded_url": "https://liberatedtexts.com",
+							"display_url": "liberatedtexts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Thu Oct 22 12:19:42 +0000 2020",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1373002236763238409/TSiqGvGa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373002236763238409/TSiqGvGa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319252039453626368/1616539058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 113,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prabhat Patnaik: “Brecht said, hungry man reach for the book. Why? Because to get rid of hunger, you have to get rid of the system that produces hunger, &amp; to get rid of that system you must understand it &amp; you can only do that by reaching for the book.” https://t.co/WHAYlyih2q"
+	},
+	{
 		"created_at": "Wed Mar 24 22:41:32 +0000 2021",
 		"id": 1374853918878994400,
 		"id_str": "1374853918878994434",
