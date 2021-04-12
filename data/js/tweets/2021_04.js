@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 16:15:35 +0000 2021",
+		"id": 1381276571235975200,
+		"id_str": "1381279773599600646",
+		"full_text": "NEW VIDEO: The Banal Horror of The Tonight Show https://t.co/iMIzvYtfOK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iMIzvYtfOK",
+					"expanded_url": "https://youtu.be/zkFzirDMcnI",
+					"display_url": "youtu.be/zkFzirDMcnI",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1381276417237876700,
+		"in_reply_to_status_id_str": "1381276417237876742",
+		"in_reply_to_user_id": 464620194,
+		"in_reply_to_user_id_str": "464620194",
+		"in_reply_to_screen_name": "TheLitCritGuy",
+		"user": {
+			"id": 464620194,
+			"id_str": "464620194",
+			"name": "thelitcritguy",
+			"screen_name": "TheLitCritGuy",
+			"location": "the content mines ",
+			"description": "podcaster @horrorvanguard \nfledgling youtuber \nwriter \ngoth theologian @trschester",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27393,
+			"friends_count": 778,
+			"listed_count": 330,
+			"created_at": "Sun Jan 15 12:49:02 +0000 2012",
+			"favourites_count": 61163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367206115562426368/wP3TZwtn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367206115562426368/wP3TZwtn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/464620194/1614802313",
+			"profile_link_color": "6B9BAD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 83,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW VIDEO: The Banal Horror of The Tonight Show https://t.co/iMIzvYtfOK"
+	},
+	{
+		"created_at": "Sun Apr 11 09:30:40 +0000 2021",
+		"id": 1380887271939965000,
+		"id_str": "1381177871843131398",
+		"full_text": "@thetwerkinggirl Let's not forget his character del boy is based on a racist caricature using Romani slang. Not surprised at all.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetwerkinggirl",
+					"name": "Ava Vidal ‘Privileged POC comedian’ 🇩🇲🇧🇧",
+					"id": 1968530658,
+					"id_str": "1968530658",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1380886722897133600,
+		"in_reply_to_status_id_str": "1380886722897133568",
+		"in_reply_to_user_id": 1968530658,
+		"in_reply_to_user_id_str": "1968530658",
+		"in_reply_to_screen_name": "thetwerkinggirl",
+		"user": {
+			"id": 913661127174836200,
+			"id_str": "913661127174836229",
+			"name": "GRTSocialists (formerly LabourGRT)",
+			"screen_name": "GRTSocialists",
+			"location": "",
+			"description": "The campaign exists to fight for the welfare, equality and representation of Gypsy, Roma & Traveller communities and to educate people\n\nFounded by @LukeSmithGRT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12428,
+			"friends_count": 1985,
+			"listed_count": 30,
+			"created_at": "Fri Sep 29 07:06:02 +0000 2017",
+			"favourites_count": 44257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377995653050204166/ytt0b4hM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377995653050204166/ytt0b4hM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/913661127174836229/1617374815",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@thetwerkinggirl Let's not forget his character del boy is based on a racist caricature using Romani slang. Not surprised at all."
+	},
+	{
 		"created_at": "Sat Apr 10 14:42:02 +0000 2021",
 		"id": 1380893842417844200,
 		"id_str": "1380893842417844230",
