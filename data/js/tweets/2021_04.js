@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 17:13:11 +0000 2021",
+		"id": 1381656654639460400,
+		"id_str": "1381656654639460354",
+		"full_text": "@deonteleologist Moar labelled data for the labelled data gawds",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deonteleologist",
+					"name": "⚒ Sam Hoadley-Brill ⚒",
+					"id": 1209245247072391200,
+					"id_str": "1209245247072391168",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1381643430317592600,
+		"in_reply_to_status_id_str": "1381643430317592587",
+		"in_reply_to_user_id": 1209245247072391200,
+		"in_reply_to_user_id_str": "1209245247072391168",
+		"in_reply_to_screen_name": "deonteleologist",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2068,
+			"friends_count": 2204,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@deonteleologist Moar labelled data for the labelled data gawds"
+	},
+	{
+		"created_at": "Mon Apr 12 16:07:46 +0000 2021",
+		"id": 1381633249483624400,
+		"id_str": "1381640195892785155",
+		"full_text": "Nobody I’ve approached has been interested in publishing this story. @UKLabour seems to think that if they ignore it long enough this scandal will go away. GRT communities deserve better and so I’m self-publishing to get the word out – help by sharing it!\nhttps://t.co/e5UBI9NHma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKLabour",
+					"name": "The Labour Party",
+					"id": 14291684,
+					"id_str": "14291684",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e5UBI9NHma",
+					"expanded_url": "https://write.as/paddyelliot/calls-for-labour-expulsions-over-racist-anti-traveller-election-leaflets-l6cj",
+					"display_url": "write.as/paddyelliot/ca…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192360372331782100,
+			"id_str": "1192360372331782144",
+			"name": "Pádraig Elliot",
+			"screen_name": "PaddyElliot",
+			"location": "UK",
+			"description": "journalist | bylines @TBIJ and @thedailybeast | production credits @ITV and @AJEnglish | sometimes tweets about living with bipolar & ADHD he/him/they/them",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 444,
+			"friends_count": 1983,
+			"listed_count": 5,
+			"created_at": "Thu Nov 07 08:37:48 +0000 2019",
+			"favourites_count": 39254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345361575289507840/Dz7n3ICQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345361575289507840/Dz7n3ICQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192360372331782144/1616579432",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 238,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nobody I’ve approached has been interested in publishing this story. @UKLabour seems to think that if they ignore it long enough this scandal will go away. GRT communities deserve better and so I’m self-publishing to get the word out – help by sharing it!\nhttps://t.co/e5UBI9NHma"
+	},
+	{
+		"created_at": "Mon Apr 12 11:05:52 +0000 2021",
+		"id": 1381562808748408800,
+		"id_str": "1381564219989053440",
+		"full_text": "Anglo-British nationalism was already waning. Last week, its godfather passed away, writes @AdamRamsay. \n\nAnd once its mother has gone, who knows how long it will survive?\nhttps://t.co/gcb3EScZHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamRamsay",
+					"name": "Adam Ramsay",
+					"id": 14620853,
+					"id_str": "14620853",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gcb3EScZHw",
+					"expanded_url": "https://www.opendemocracy.net/en/opendemocracyuk/prince-philip-was-godfather-anglo-british-nationalism/",
+					"display_url": "opendemocracy.net/en/opendemocra…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.sendible.com\" rel=\"nofollow\">Sendible</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15876845,
+			"id_str": "15876845",
+			"name": "openDemocracy",
+			"screen_name": "openDemocracy",
+			"location": "London",
+			"description": "openDemocracy is an independent global media platform covering world affairs, ideas and culture. We seek to challenge power and encourage democratic debate.",
+			"url": "http://t.co/wRusa8FwTx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wRusa8FwTx",
+							"expanded_url": "http://www.opendemocracy.net",
+							"display_url": "opendemocracy.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116144,
+			"friends_count": 2583,
+			"listed_count": 2551,
+			"created_at": "Sat Aug 16 21:34:59 +0000 2008",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045229200909758464/v1ipAL-e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045229200909758464/v1ipAL-e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15876845/1617277684",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anglo-British nationalism was already waning. Last week, its godfather passed away, writes @AdamRamsay. \n\nAnd once its mother has gone, who knows how long it will survive?\nhttps://t.co/gcb3EScZHw"
+	},
+	{
 		"created_at": "Sun Apr 11 16:15:35 +0000 2021",
 		"id": 1381276571235975200,
 		"id_str": "1381279773599600646",
