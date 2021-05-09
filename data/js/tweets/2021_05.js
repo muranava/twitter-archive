@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 17:50:37 +0000 2021",
+		"id": 1390978384453320700,
+		"id_str": "1391088159744790530",
+		"full_text": "Palestinian children reportedly injured and arrested in East Jerusalem. UNICEF getting more info. Children must be protected, kept out of harm’s way and released from detention. Violence must stop and safe access of families to all places of worship should be protected",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1196069590167687200,
+			"id_str": "1196069590167687169",
+			"name": "Ted Chaiban",
+			"screen_name": "TedChaiban",
+			"location": "Amman",
+			"description": "UNICEF Regional Director for the Middle East and North Africa #ForEveryChild, 🧒👦 dignity مدير #اليونيسف في الشرق الاوسط وشمال افريقيا",
+			"url": "https://t.co/CX96XKass3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CX96XKass3",
+							"expanded_url": "http://www.unicef.org/mena",
+							"display_url": "unicef.org/mena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2290,
+			"friends_count": 744,
+			"listed_count": 18,
+			"created_at": "Sun Nov 17 14:17:43 +0000 2019",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340679301306478594/tZYRtEeP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340679301306478594/tZYRtEeP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196069590167687169/1599673941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Palestinian children reportedly injured and arrested in East Jerusalem. UNICEF getting more info. Children must be protected, kept out of harm’s way and released from detention. Violence must stop and safe access of families to all places of worship should be protected"
+	},
+	{
+		"created_at": "Sat May 08 14:33:03 +0000 2021",
+		"id": 1391038444034576400,
+		"id_str": "1391038444034576384",
+		"full_text": "@MflTransform @InMfl thanks for reading; i was going for a reducto type argument but ironically i think adding fat concordances to thin wordlists would be neat : )",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MflTransform",
+					"name": "Let's Transform MFL",
+					"id": 1009898196125061100,
+					"id_str": "1009898196125061120",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "InMfl",
+					"name": "Linguistics in MFL Project",
+					"id": 1014792211593080800,
+					"id_str": "1014792211593080832",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391023574455095300,
+		"in_reply_to_status_id_str": "1391023574455095298",
+		"in_reply_to_user_id": 1009898196125061100,
+		"in_reply_to_user_id_str": "1009898196125061120",
+		"in_reply_to_screen_name": "MflTransform",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2252,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MflTransform @InMfl thanks for reading; i was going for a reducto type argument but ironically i think adding fat concordances to thin wordlists would be neat : )"
+	},
+	{
+		"created_at": "Sat May 08 12:10:53 +0000 2021",
+		"id": 1389597752863174700,
+		"id_str": "1391002663999967235",
+		"full_text": "Join us on 9 June to learn about what’s new in #WordSmith8. An interview and webinar with @mike_lexically – the creator of #WordSmith8 - Mike will be interviewed by @MichaMahlberg #DH #digitalhumanities  #corpusling\nBook your free ticket here https://t.co/TaK3qwZvGq https://t.co/ItekJf0WTB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordSmith8",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"text": "WordSmith8",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"text": "DH",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "digitalhumanities",
+					"indices": [
+						184,
+						202
+					]
+				},
+				{
+					"text": "corpusling",
+					"indices": [
+						204,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_lexically",
+					"name": "Mike Scott",
+					"id": 3347309967,
+					"id_str": "3347309967",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "MichaMahlberg",
+					"name": "Prof Michaela Mahlberg",
+					"id": 3192599271,
+					"id_str": "3192599271",
+					"indices": [
+						165,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TaK3qwZvGq",
+					"expanded_url": "https://www.eventbrite.co.uk/e/corpus-linguistics-with-wordsmith-8-tickets-153490055889?ref=estw",
+					"display_url": "eventbrite.co.uk/e/corpus-lingu…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1389596278489813000,
+					"id_str": "1389596278489813000",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/E0jWc_CXEAgEtdT.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0jWc_CXEAgEtdT.png",
+					"url": "https://t.co/ItekJf0WTB",
+					"display_url": "pic.twitter.com/ItekJf0WTB",
+					"expanded_url": "https://twitter.com/CCR_UoB/status/1389597752863174660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389596278489813000,
+					"id_str": "1389596278489813000",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/E0jWc_CXEAgEtdT.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0jWc_CXEAgEtdT.png",
+					"url": "https://t.co/ItekJf0WTB",
+					"display_url": "pic.twitter.com/ItekJf0WTB",
+					"expanded_url": "https://twitter.com/CCR_UoB/status/1389597752863174660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707248924365561900,
+			"id_str": "707248924365561856",
+			"name": "CCR",
+			"screen_name": "CCR_UoB",
+			"location": "Birmingham, UK ",
+			"description": "Centre for Corpus Research, University of Birmingham",
+			"url": "https://t.co/a7fNlHVTzS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a7fNlHVTzS",
+							"expanded_url": "http://www.birmingham.ac.uk/research/activity/corpus/index.aspx",
+							"display_url": "birmingham.ac.uk/research/activ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1787,
+			"friends_count": 374,
+			"listed_count": 36,
+			"created_at": "Tue Mar 08 16:57:38 +0000 2016",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707251669327880192/wqoQCSb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707251669327880192/wqoQCSb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/707248924365561856/1497353515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us on 9 June to learn about what’s new in #WordSmith8. An interview and webinar with @mike_lexically – the creator of #WordSmith8 - Mike will be interviewed by @MichaMahlberg #DH #digitalhumanities  #corpusling\nBook your free ticket here https://t.co/TaK3qwZvGq https://t.co/ItekJf0WTB"
+	},
+	{
+		"created_at": "Sat May 08 11:51:14 +0000 2021",
+		"id": 1390997721591566300,
+		"id_str": "1390997721591566337",
+		"full_text": "Check out the new version of The Prime Machine concordancer, works well now on OSX; there is an ipad/iphone version now and Android on its way - concordancing on the go! https://t.co/C7rnWzXWGW #corpuslinguistics #elt #tefl #esl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						194,
+						212
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						224,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7rnWzXWGW",
+					"expanded_url": "https://www.theprimemachine.net/",
+					"display_url": "theprimemachine.net",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2252,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the new version of The Prime Machine concordancer, works well now on OSX; there is an ipad/iphone version now and Android on its way - concordancing on the go! https://t.co/C7rnWzXWGW #corpuslinguistics #elt #tefl #esl"
+	},
+	{
+		"created_at": "Sat May 08 09:51:12 +0000 2021",
+		"id": 1390967511219331000,
+		"id_str": "1390967511219331072",
+		"full_text": "@MflTransform @InMfl hi fyi here's my 2 penny on MFL proposals - Thin wordlists and fat concordances https://t.co/UM2ZTLfiXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MflTransform",
+					"name": "Let's Transform MFL",
+					"id": 1009898196125061100,
+					"id_str": "1009898196125061120",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "InMfl",
+					"name": "Linguistics in MFL Project",
+					"id": 1014792211593080800,
+					"id_str": "1014792211593080832",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UM2ZTLfiXS",
+					"expanded_url": "https://eflnotes.wordpress.com/2021/05/08/thin-word-lists-and-fat-concordances/",
+					"display_url": "eflnotes.wordpress.com/2021/05/08/thi…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1009898196125061100,
+		"in_reply_to_user_id_str": "1009898196125061120",
+		"in_reply_to_screen_name": "MflTransform",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2252,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MflTransform @InMfl hi fyi here's my 2 penny on MFL proposals - Thin wordlists and fat concordances https://t.co/UM2ZTLfiXS"
+	},
+	{
+		"created_at": "Sat May 08 09:02:08 +0000 2021",
+		"id": 1390955164601880600,
+		"id_str": "1390955164601880576",
+		"full_text": "Thin wordlists and fat concordances #mfltwitterati #tefl #elt #esl\nhttps://t.co/UM2ZTLfiXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mfltwitterati",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UM2ZTLfiXS",
+					"expanded_url": "https://eflnotes.wordpress.com/2021/05/08/thin-word-lists-and-fat-concordances/",
+					"display_url": "eflnotes.wordpress.com/2021/05/08/thi…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2252,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thin wordlists and fat concordances #mfltwitterati #tefl #elt #esl\nhttps://t.co/UM2ZTLfiXS"
+	},
+	{
+		"created_at": "Sat May 08 06:09:55 +0000 2021",
+		"id": 1390911824934080500,
+		"id_str": "1390911824934080512",
+		"full_text": "@ebefl @dr_bradfordlee So finder fee on your coauthored book sample? :)",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebefl",
+					"name": "Russ Mayne",
+					"id": 2228367554,
+					"id_str": "2228367554",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "dr_bradfordlee",
+					"name": "Dr. Bradford Lee",
+					"id": 1149529371566207000,
+					"id_str": "1149529371566206977",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1390911434922414000,
+		"in_reply_to_status_id_str": "1390911434922414086",
+		"in_reply_to_user_id": 2228367554,
+		"in_reply_to_user_id_str": "2228367554",
+		"in_reply_to_screen_name": "ebefl",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2252,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ebefl @dr_bradfordlee So finder fee on your coauthored book sample? :)"
+	},
+	{
 		"created_at": "Fri May 07 23:22:38 +0000 2021",
 		"id": 1390809328282648600,
 		"id_str": "1390809328282648583",
