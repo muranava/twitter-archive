@@ -1,6 +1,1362 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 14:42:30 +0000 2021",
+		"id": 1393209773236105200,
+		"id_str": "1393215148358242310",
+		"full_text": "Learn Spanish with your comrades! We're offering £3 Spanish classes giving you the opportunity to learn the language of UVW's founding community. Not only is learning a language fun, its also key to building solidarity and worker power! https://t.co/3xBoL5tXpM https://t.co/9Q7Lj02oO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3xBoL5tXpM",
+					"expanded_url": "https://www.uvwunion.org.uk/en/your-uvw/enrol-at-la-escuela/",
+					"display_url": "uvwunion.org.uk/en/your-uvw/en…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393209041619402800,
+					"id_str": "1393209041619402755",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WsPeeWQAMRTxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1WsPeeWQAMRTxr.jpg",
+					"url": "https://t.co/9Q7Lj02oO4",
+					"display_url": "pic.twitter.com/9Q7Lj02oO4",
+					"expanded_url": "https://twitter.com/UVWunion/status/1393209773236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393209041619402800,
+					"id_str": "1393209041619402755",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WsPeeWQAMRTxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1WsPeeWQAMRTxr.jpg",
+					"url": "https://t.co/9Q7Lj02oO4",
+					"display_url": "pic.twitter.com/9Q7Lj02oO4",
+					"expanded_url": "https://twitter.com/UVWunion/status/1393209773236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2923235807,
+			"id_str": "2923235807",
+			"name": "United Voices of the World",
+			"screen_name": "UVWunion",
+			"location": "1 Addington Square, London",
+			"description": "UVW is a members-led, campaigning trade union of migrant & precarious workers. Also @LSWUnited @unitedswers @UVW_SAW @UVW_DCW @UVW_GBV @UVW_Childcare",
+			"url": "https://t.co/J1mZ5g2mZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1mZ5g2mZD",
+							"expanded_url": "http://www.uvwunion.org.uk",
+							"display_url": "uvwunion.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15337,
+			"friends_count": 2892,
+			"listed_count": 108,
+			"created_at": "Mon Dec 15 17:18:33 +0000 2014",
+			"favourites_count": 5164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139879375774638080/SILLdA21_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2923235807/1564172431",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn Spanish with your comrades! We're offering £3 Spanish classes giving you the opportunity to learn the language of UVW's founding community. Not only is learning a language fun, its also key to building solidarity and worker power! https://t.co/3xBoL5tXpM https://t.co/9Q7Lj02oO4"
+	},
+	{
+		"created_at": "Fri May 14 14:20:51 +0000 2021",
+		"id": 1393209697306615800,
+		"id_str": "1393209697306615808",
+		"full_text": "@chiara_bruzzano p.s. i believe the blog author welcomes any questions",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chiara_bruzzano",
+					"name": "Chiara🌪️",
+					"id": 700662607733088300,
+					"id_str": "700662607733088257",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393209366795464700,
+		"in_reply_to_status_id_str": "1393209366795464709",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2079,
+			"friends_count": 2280,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chiara_bruzzano p.s. i believe the blog author welcomes any questions"
+	},
+	{
+		"created_at": "Fri May 14 14:19:32 +0000 2021",
+		"id": 1393209366795464700,
+		"id_str": "1393209366795464709",
+		"full_text": "@chiara_bruzzano can't recommend any particular resource, but am sure there will be one to fit your needs",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chiara_bruzzano",
+					"name": "Chiara🌪️",
+					"id": 700662607733088300,
+					"id_str": "700662607733088257",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393183841028825000,
+		"in_reply_to_status_id_str": "1393183841028825088",
+		"in_reply_to_user_id": 700662607733088300,
+		"in_reply_to_user_id_str": "700662607733088257",
+		"in_reply_to_screen_name": "chiara_bruzzano",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2079,
+			"friends_count": 2280,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chiara_bruzzano can't recommend any particular resource, but am sure there will be one to fit your needs"
+	},
+	{
+		"created_at": "Fri May 14 13:55:19 +0000 2021",
+		"id": 1393183338555486200,
+		"id_str": "1393203272958230528",
+		"full_text": "A Round up of what happened yesterday in #Glasgow\n\n[Please RT &amp; Follow]\n\n#GlasgowSaysLetThemGo #GlasgowWelcomesRefugees #antiraids #solidarity #Pollockshields #ACAB https://t.co/xhsykkMulI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Glasgow",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "GlasgowSaysLetThemGo",
+					"indices": [
+						77,
+						98
+					]
+				},
+				{
+					"text": "GlasgowWelcomesRefugees",
+					"indices": [
+						99,
+						123
+					]
+				},
+				{
+					"text": "antiraids",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "solidarity",
+					"indices": [
+						135,
+						146
+					]
+				},
+				{
+					"text": "Pollockshields",
+					"indices": [
+						147,
+						162
+					]
+				},
+				{
+					"text": "ACAB",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393138372751896600,
+					"id_str": "1393138372751896577",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Vr-AbXsAEkADt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Vr-AbXsAEkADt.jpg",
+					"url": "https://t.co/xhsykkMulI",
+					"display_url": "pic.twitter.com/xhsykkMulI",
+					"expanded_url": "https://twitter.com/nfa_antifascist/status/1393183338555486208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1045,
+							"h": 744,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1045,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393138372751896600,
+					"id_str": "1393138372751896577",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Vr-AbXsAEkADt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Vr-AbXsAEkADt.jpg",
+					"url": "https://t.co/xhsykkMulI",
+					"display_url": "pic.twitter.com/xhsykkMulI",
+					"expanded_url": "https://twitter.com/nfa_antifascist/status/1393183338555486208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1045,
+							"h": 744,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1045,
+							"h": 744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847542425463775200,
+			"id_str": "847542425463775232",
+			"name": "NFA-AF",
+			"screen_name": "nfa_antifascist",
+			"location": "",
+			"description": "No Fixed Abode Anti-Fascists (NFAAF) is a group of squatters, travellers and homeless people combating fascist and bailiff thuggery.",
+			"url": "https://t.co/sb1Pn6HSJa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sb1Pn6HSJa",
+							"expanded_url": "http://www.nfaaf.wordpress.com",
+							"display_url": "nfaaf.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1676,
+			"friends_count": 362,
+			"listed_count": 11,
+			"created_at": "Thu Mar 30 20:13:55 +0000 2017",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847545501163687936/vvLWdhEY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847545501163687936/vvLWdhEY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847542425463775232/1531650369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 318,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Round up of what happened yesterday in #Glasgow\n\n[Please RT &amp; Follow]\n\n#GlasgowSaysLetThemGo #GlasgowWelcomesRefugees #antiraids #solidarity #Pollockshields #ACAB https://t.co/xhsykkMulI"
+	},
+	{
+		"created_at": "Fri May 14 09:58:13 +0000 2021",
+		"id": 1392980348405944300,
+		"id_str": "1393143604810588162",
+		"full_text": "Upstairs neighbour filmed how it started this morning - growing from a wee half-dozen people to the hundreds we saw overturning the unjust, racist home office today is incredible. Pollokshields forever 💪🏻 https://t.co/MBaekJbzgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392979893407912000,
+					"id_str": "1392979893407911942",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392979893407911942/pu/img/8BKKJOOBizwmFFqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392979893407911942/pu/img/8BKKJOOBizwmFFqH.jpg",
+					"url": "https://t.co/MBaekJbzgs",
+					"display_url": "pic.twitter.com/MBaekJbzgs",
+					"expanded_url": "https://twitter.com/YesWithDex/status/1392980348405944324/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392979893407912000,
+					"id_str": "1392979893407911942",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392979893407911942/pu/img/8BKKJOOBizwmFFqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392979893407911942/pu/img/8BKKJOOBizwmFFqH.jpg",
+					"url": "https://t.co/MBaekJbzgs",
+					"display_url": "pic.twitter.com/MBaekJbzgs",
+					"expanded_url": "https://twitter.com/YesWithDex/status/1392980348405944324/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 79677,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392979893407911942/pu/vid/848x480/lXxTVzQAeORL5o0L.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392979893407911942/pu/vid/636x360/4grpi6nKRgjAqCfX.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392979893407911942/pu/vid/476x270/aQPOEgY9C-lT2pRA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1392979893407911942/pu/pl/XRxJ5qPI7P_IZbdh.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2239764900,
+			"id_str": "2239764900",
+			"name": "Declan B",
+			"screen_name": "YesWithDex",
+			"location": "Glasgow, Scotland",
+			"description": "too many books, not enough wine (he/him) EN IT NL FR DE SI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4233,
+			"friends_count": 2031,
+			"listed_count": 31,
+			"created_at": "Tue Dec 10 21:05:10 +0000 2013",
+			"favourites_count": 103493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390617887090614272/f2ir18W__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390617887090614272/f2ir18W__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239764900/1610013940",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 3112,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Upstairs neighbour filmed how it started this morning - growing from a wee half-dozen people to the hundreds we saw overturning the unjust, racist home office today is incredible. Pollokshields forever 💪🏻 https://t.co/MBaekJbzgs"
+	},
+	{
+		"created_at": "Fri May 14 09:51:31 +0000 2021",
+		"id": 1393126987405856800,
+		"id_str": "1393141917190397956",
+		"full_text": "This brilliant remote play https://t.co/7g72tYCHPP was created and performed by @amal_mukhairez  students in Gaza. It ends with the line  'One tiny action can make the world a better place' Act now!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amal_mukhairez",
+					"name": "Amal",
+					"id": 961423402102911000,
+					"id_str": "961423402102910976",
+					"indices": [
+						80,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7g72tYCHPP",
+					"expanded_url": "https://www.youtube.com/watch?v=OsFdasnN-Cw",
+					"display_url": "youtube.com/watch?v=OsFdas…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273391079,
+			"id_str": "273391079",
+			"name": "Nick Bilbrough, Founder of @HandsUpProject",
+			"screen_name": "nickbilbrough",
+			"location": "Totnes, UK",
+			"description": "#Storytelling and more with children in #refugee camps @HandsUpProject",
+			"url": "https://t.co/spueUUU41H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/spueUUU41H",
+							"expanded_url": "http://handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 981,
+			"listed_count": 16,
+			"created_at": "Mon Mar 28 12:01:33 +0000 2011",
+			"favourites_count": 681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273391079/1608149286",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This brilliant remote play https://t.co/7g72tYCHPP was created and performed by @amal_mukhairez  students in Gaza. It ends with the line  'One tiny action can make the world a better place' Act now!"
+	},
+	{
+		"created_at": "Fri May 14 09:50:45 +0000 2021",
+		"id": 1393128026431426600,
+		"id_str": "1393141727561756673",
+		"full_text": "It's published in \"Welcome to Earth\" with a foreword by @BZephaniah and can be bought here. Share it with your students today. https://t.co/vD1SCPkTX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BZephaniah",
+					"name": "Professor Benjamin Zephaniah",
+					"id": 732515900,
+					"id_str": "732515900",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vD1SCPkTX3",
+					"expanded_url": "https://www.handsupproject.org/shopresources",
+					"display_url": "handsupproject.org/shopresources",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393127328130142200,
+		"in_reply_to_status_id_str": "1393127328130142210",
+		"in_reply_to_user_id": 273391079,
+		"in_reply_to_user_id_str": "273391079",
+		"in_reply_to_screen_name": "nickbilbrough",
+		"user": {
+			"id": 273391079,
+			"id_str": "273391079",
+			"name": "Nick Bilbrough, Founder of @HandsUpProject",
+			"screen_name": "nickbilbrough",
+			"location": "Totnes, UK",
+			"description": "#Storytelling and more with children in #refugee camps @HandsUpProject",
+			"url": "https://t.co/spueUUU41H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/spueUUU41H",
+							"expanded_url": "http://handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 981,
+			"listed_count": 16,
+			"created_at": "Mon Mar 28 12:01:33 +0000 2011",
+			"favourites_count": 681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273391079/1608149286",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's published in \"Welcome to Earth\" with a foreword by @BZephaniah and can be bought here. Share it with your students today. https://t.co/vD1SCPkTX3"
+	},
+	{
+		"created_at": "Fri May 14 09:39:03 +0000 2021",
+		"id": 1393138781595832300,
+		"id_str": "1393138781595832322",
+		"full_text": "@chiara_bruzzano this post describes a way to filter such lists for say reduced forms https://t.co/0NtWQY21gZ",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chiara_bruzzano",
+					"name": "Chiara🌪️",
+					"id": 700662607733088300,
+					"id_str": "700662607733088257",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0NtWQY21gZ",
+					"expanded_url": "https://brendonalbertson.com/2021/05/04/youglish-n-grams-targeted-bottom-up-listening-practice/",
+					"display_url": "brendonalbertson.com/2021/05/04/you…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393126597180407800,
+		"in_reply_to_status_id_str": "1393126597180407813",
+		"in_reply_to_user_id": 700662607733088300,
+		"in_reply_to_user_id_str": "700662607733088257",
+		"in_reply_to_screen_name": "chiara_bruzzano",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2079,
+			"friends_count": 2280,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@chiara_bruzzano this post describes a way to filter such lists for say reduced forms https://t.co/0NtWQY21gZ"
+	},
+	{
+		"created_at": "Fri May 14 07:29:24 +0000 2021",
+		"id": 1393100945509204000,
+		"id_str": "1393106153899429888",
+		"full_text": "Daily reports from @pchrgaza document as much as possible in terms of Israeli attacks, fatalities, injuries, and damage to property. Horrific reading.\n\nhttps://t.co/D7kgFaE1vm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pchrgaza",
+					"name": "Palestinian Centre for Human Rights - PCHR",
+					"id": 102005626,
+					"id_str": "102005626",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D7kgFaE1vm",
+					"expanded_url": "https://www.pchrgaza.org/en/iof-escalate-their-offensive-on-gaza-massive-destruction-of-houses-and-infrastructure/",
+					"display_url": "pchrgaza.org/en/iof-escalat…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393099524709683200,
+		"in_reply_to_status_id_str": "1393099524709683203",
+		"in_reply_to_user_id": 248670810,
+		"in_reply_to_user_id_str": "248670810",
+		"in_reply_to_screen_name": "benabyad",
+		"user": {
+			"id": 248670810,
+			"id_str": "248670810",
+			"name": "Ben White",
+			"screen_name": "benabyad",
+			"location": "Cambridge, England",
+			"description": "Journalist, analyst, author. #Palestine #Israel Bylines include @AJENews @IndyVoices @MiddleEastEye; Contributor @AlShabaka; latest book: https://t.co/5GkEPB5arE",
+			"url": "http://t.co/CxuPnNiUXr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CxuPnNiUXr",
+							"expanded_url": "http://www.benwhite.org.uk",
+							"display_url": "benwhite.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5GkEPB5arE",
+							"expanded_url": "https://bit.ly/3dyPgn2",
+							"display_url": "bit.ly/3dyPgn2",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75765,
+			"friends_count": 7779,
+			"listed_count": 1527,
+			"created_at": "Mon Feb 07 13:51:02 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279822328336191488/bk05zNtS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279822328336191488/bk05zNtS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248670810/1593967495",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daily reports from @pchrgaza document as much as possible in terms of Israeli attacks, fatalities, injuries, and damage to property. Horrific reading.\n\nhttps://t.co/D7kgFaE1vm"
+	},
+	{
 		"created_at": "Thu May 13 19:19:17 +0000 2021",
 		"id": 1392818276883959800,
 		"id_str": "1392922412430266372",
@@ -244,7 +1600,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Stephen Paton 🌱",
 			"screen_name": "stephenpaton134",
 			"location": "Govanhill, Scotland",
-			"description": "Columnist 🗞️ | Host of State Of The Union 🎙️ | Freelance writing on Scottish politics, LGBT+ rights, environment and independence | They/Them 🏳️‍🌈 🏳️‍⚧️",
+			"description": "Columnist 🗞️ | Host of State Of The Union 🎙️ | Freelance writing on Scottish politics, LGBT+ rights, environment and independence | They/Them 🏳️🌈 🏳️⚧️",
 			"url": null,
 			"entities": {
 				"description": {
