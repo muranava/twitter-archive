@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 22:06:01 +0000 2021",
+		"id": 1393658660342149000,
+		"id_str": "1393689148096237568",
+		"full_text": "A 14 year old boy in a Manchester school has been suspended/excluded for shouting 'Free Palestine' in class. @begum_janat @TalatFarooqAwan @Channel4News @BBCNewsnight @stewartmaclean @vicderbyshire @ZubedaCFutures https://t.co/yv3F8asPEQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "begum_janat",
+					"name": "Janat Begum",
+					"id": 969313832144339000,
+					"id_str": "969313832144338944",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "TalatFarooqAwan",
+					"name": "Talat-Farooq Awan",
+					"id": 18055571,
+					"id_str": "18055571",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "Channel4News",
+					"name": "Channel 4 News",
+					"id": 14569869,
+					"id_str": "14569869",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"screen_name": "BBCNewsnight",
+					"name": "BBC Newsnight",
+					"id": 20543416,
+					"id_str": "20543416",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"screen_name": "stewartmaclean",
+					"name": "Stewart Maclean",
+					"id": 2344021,
+					"id_str": "2344021",
+					"indices": [
+						167,
+						182
+					]
+				},
+				{
+					"screen_name": "vicderbyshire",
+					"name": "Victoria Derbyshire",
+					"id": 19964034,
+					"id_str": "19964034",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"screen_name": "ZubedaCFutures",
+					"name": "Zubeda Limbada 🤷🏼‍♀️ FRSA",
+					"id": 2168607036,
+					"id_str": "2168607036",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393658112633147400,
+					"id_str": "1393658112633147394",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E1dEq2XXEAIbNcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1dEq2XXEAIbNcG.jpg",
+					"url": "https://t.co/yv3F8asPEQ",
+					"display_url": "pic.twitter.com/yv3F8asPEQ",
+					"expanded_url": "https://twitter.com/tamannarahman/status/1393658660342149123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393658112633147400,
+					"id_str": "1393658112633147394",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E1dEq2XXEAIbNcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1dEq2XXEAIbNcG.jpg",
+					"url": "https://t.co/yv3F8asPEQ",
+					"display_url": "pic.twitter.com/yv3F8asPEQ",
+					"expanded_url": "https://twitter.com/tamannarahman/status/1393658660342149123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 965,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128996771,
+			"id_str": "128996771",
+			"name": "Tamanna Rahman",
+			"screen_name": "tamannarahman",
+			"location": "London",
+			"description": "Reporter/Producer/Director. Currently making films for the BBC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1462,
+			"friends_count": 711,
+			"listed_count": 10,
+			"created_at": "Fri Apr 02 21:35:44 +0000 2010",
+			"favourites_count": 7557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307294201252581377/IB_wmSbB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307294201252581377/IB_wmSbB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128996771/1349642699",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 528,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A 14 year old boy in a Manchester school has been suspended/excluded for shouting 'Free Palestine' in class. @begum_janat @TalatFarooqAwan @Channel4News @BBCNewsnight @stewartmaclean @vicderbyshire @ZubedaCFutures https://t.co/yv3F8asPEQ"
+	},
+	{
+		"created_at": "Sat May 15 11:57:07 +0000 2021",
+		"id": 1393533200551526400,
+		"id_str": "1393535916854099968",
+		"full_text": "If you're concerned about this toxic Times article attacking Travellers, there's something you can do: https://t.co/irCtf07ktk\n\n1. Go to the article &amp; take a screenshot showing the advertiser at the top\n\n2. Tweet the screenshot to the advertiser, urging them to #StopFundingHate https://t.co/QcvIVYa815",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StopFundingHate",
+					"indices": [
+						266,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/irCtf07ktk",
+					"expanded_url": "https://www.thetimes.co.uk/article/its-time-we-stopped-pandering-to-travellers-2slbdvbvp",
+					"display_url": "thetimes.co.uk/article/its-ti…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393532887195177000,
+					"id_str": "1393532887195176963",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/E1bSxxQX0AM-T90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1bSxxQX0AM-T90.jpg",
+					"url": "https://t.co/QcvIVYa815",
+					"display_url": "pic.twitter.com/QcvIVYa815",
+					"expanded_url": "https://twitter.com/StopFundingHate/status/1393533200551526400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 747,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393532887195177000,
+					"id_str": "1393532887195176963",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/E1bSxxQX0AM-T90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1bSxxQX0AM-T90.jpg",
+					"url": "https://t.co/QcvIVYa815",
+					"display_url": "pic.twitter.com/QcvIVYa815",
+					"expanded_url": "https://twitter.com/StopFundingHate/status/1393533200551526400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 747,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754604381048344600,
+			"id_str": "754604381048344576",
+			"name": "Stop Funding Hate",
+			"screen_name": "StopFundingHate",
+			"location": "London, England",
+			"description": "Don't hate the media - change the media. We're engaging with advertisers to make media hate unprofitable. https://t.co/eERmJ7MJvW",
+			"url": "https://t.co/1Se1OH50rZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Se1OH50rZ",
+							"expanded_url": "http://facebook.com/stopfundinghate",
+							"display_url": "facebook.com/stopfundinghate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eERmJ7MJvW",
+							"expanded_url": "https://stopfundinghate.info/get-involved/",
+							"display_url": "stopfundinghate.info/get-involved/",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 119529,
+			"friends_count": 6290,
+			"listed_count": 589,
+			"created_at": "Sun Jul 17 09:11:19 +0000 2016",
+			"favourites_count": 17809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775890899234611200/Vd3a0jCp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775890899234611200/Vd3a0jCp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754604381048344576/1591026789",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 99,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're concerned about this toxic Times article attacking Travellers, there's something you can do: https://t.co/irCtf07ktk\n\n1. Go to the article &amp; take a screenshot showing the advertiser at the top\n\n2. Tweet the screenshot to the advertiser, urging them to #StopFundingHate https://t.co/QcvIVYa815"
+	},
+	{
+		"created_at": "Sat May 15 11:49:22 +0000 2021",
+		"id": 1393500712471040000,
+		"id_str": "1393533965135384578",
+		"full_text": "“What an annoying question” was such a satisfying response https://t.co/fp2b8cInoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp2b8cInoc",
+					"expanded_url": "https://twitter.com/danielghajjar/status/1393236365253484544",
+					"display_url": "twitter.com/danielghajjar/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1152693375822389200,
+			"id_str": "1152693375822389248",
+			"name": "Rawan‏𓂆روان",
+			"screen_name": "RiverToSea48",
+			"location": "Ramallah/رام الله",
+			"description": "Left-handed leftie who loves baking & cooking, and I’m the co-founder of Decolonize Palestine @decolonizeps | 🇵🇸☭|she/her | إنا نحب الورد لكنا نحب القمح اكثر",
+			"url": "https://t.co/gbIcb4QzeZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gbIcb4QzeZ",
+							"expanded_url": "http://decolonizepalestine.com",
+							"display_url": "decolonizepalestine.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18163,
+			"friends_count": 943,
+			"listed_count": 66,
+			"created_at": "Sat Jul 20 21:34:51 +0000 2019",
+			"favourites_count": 126180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385686499589595137/WU6zaYr2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385686499589595137/WU6zaYr2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152693375822389248/1620123106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393236365253484500,
+		"quoted_status_id_str": "1393236365253484544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fp2b8cInoc",
+			"expanded": "https://twitter.com/danielghajjar/status/1393236365253484544",
+			"display": "twitter.com/danielghajjar/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 14 16:06:49 +0000 2021",
+			"id": 1393236365253484500,
+			"id_str": "1393236365253484544",
+			"full_text": "Tamer Nafar, one of the co-founders of DAM, gives an incredibly honest interview here on what’s happening right now. DAM was the first hip-hop group ever in the region. Their impact on Palestinian activism is just as important as their impact on music. https://t.co/rxs6PIEbNO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1392985259751444500,
+						"id_str": "1392985259751444486",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/E1Th1VpXsAEU1w9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1Th1VpXsAEU1w9.jpg",
+						"url": "https://t.co/rxs6PIEbNO",
+						"display_url": "pic.twitter.com/rxs6PIEbNO",
+						"expanded_url": "https://twitter.com/ABCNewsLive/status/1392985553415647235/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1392985553415647200,
+						"source_status_id_str": "1392985553415647235",
+						"source_user_id": 384438102,
+						"source_user_id_str": "384438102"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392985259751444500,
+						"id_str": "1392985259751444486",
+						"indices": [
+							253,
+							276
+						],
+						"media_url": "http://pbs.twimg.com/media/E1Th1VpXsAEU1w9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1Th1VpXsAEU1w9.jpg",
+						"url": "https://t.co/rxs6PIEbNO",
+						"display_url": "pic.twitter.com/rxs6PIEbNO",
+						"expanded_url": "https://twitter.com/ABCNewsLive/status/1392985553415647235/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1392985553415647200,
+						"source_status_id_str": "1392985553415647235",
+						"source_user_id": 384438102,
+						"source_user_id_str": "384438102",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 319586,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392985259751444486/vid/1280x720/pyWQdlfMH3xWABAU.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1392985259751444486/pl/kqoa85oW6pVEChTu.m3u8?tag=14&v=ac7"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392985259751444486/vid/640x360/ahjZKr5lkYTjM2oC.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392985259751444486/vid/480x270/XRoAfYwZUIVpHECf.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 384438102,
+								"id_str": "384438102",
+								"name": "ABC News Live",
+								"screen_name": "ABCNewsLive",
+								"location": "",
+								"description": "Breaking news, context and analysis from @ABC News. Streaming now at https://t.co/D83whx7iVo or in the ABC News app on your favorite device.",
+								"url": "https://t.co/M8twTfNNPu",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/M8twTfNNPu",
+												"expanded_url": "http://ABCNews.com/live",
+												"display_url": "ABCNews.com/live",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/D83whx7iVo",
+												"expanded_url": "http://abcnews.com/live",
+												"display_url": "abcnews.com/live",
+												"indices": [
+													69,
+													92
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 78701,
+								"friends_count": 146,
+								"listed_count": 2121,
+								"created_at": "Mon Oct 03 17:47:38 +0000 2011",
+								"favourites_count": 85,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 27228,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "E9E9E9",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1224353808236666882/ixUUbdUD_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224353808236666882/ixUUbdUD_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/384438102/1580743670",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761522693682368500,
+				"id_str": "761522693682368512",
+				"name": "Danny Hajjar داني حجار",
+				"screen_name": "DanielGHajjar",
+				"location": "Beirut ✈️ Boston ✈️ DC",
+				"description": "Curator of the vibes | Current: @OxfamAmerica | @AMEJA member | Avid playlist creator | Basketball fan | My views only, RTs ≠ endorsements | يلا ماشي 🇱🇧",
+				"url": "https://t.co/NtrrMjvsTh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NtrrMjvsTh",
+								"expanded_url": "https://saalounielnas.substack.com",
+								"display_url": "saalounielnas.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4128,
+				"friends_count": 4596,
+				"listed_count": 35,
+				"created_at": "Fri Aug 05 11:22:13 +0000 2016",
+				"favourites_count": 24655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16216,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383865484450304009/lpOtwNtY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383865484450304009/lpOtwNtY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761522693682368512/1578537392",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4736,
+			"favorite_count": 10419,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5418,
+		"favorite_count": 15480,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“What an annoying question” was such a satisfying response https://t.co/fp2b8cInoc"
+	},
+	{
+		"created_at": "Sat May 15 08:48:53 +0000 2021",
+		"id": 1393483084692168700,
+		"id_str": "1393488545143214080",
+		"full_text": "Italian Dockers Stop Arms Shipment to Israel in Solidarity with Palestine https://t.co/8n76JPFnoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8n76JPFnoC",
+					"expanded_url": "https://www.leftvoice.org/italian-dockers-stop-arms-shipment-to-israel-in-solidarity-with-palestine",
+					"display_url": "leftvoice.org/italian-docker…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2823122808,
+			"id_str": "2823122808",
+			"name": "Oliver 🌹✊💚 #ClimateAction #Socialist",
+			"screen_name": "tynewrc",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Ex-Labour Eco-socialist 🔴🟢, MH veteran, sometime songwriter, retired, at risk & shielding #GTTO #BlackLivesMatter #FreePalestine\nhttps://t.co/0NcVjgmltu",
+			"url": "https://t.co/8EPIJIyZhm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8EPIJIyZhm",
+							"expanded_url": "https://leftgreen70.wordpress.com/category/boris-johnson/",
+							"display_url": "leftgreen70.wordpress.com/category/boris…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0NcVjgmltu",
+							"expanded_url": "http://youtu.be/2AGDJDrklwM",
+							"display_url": "youtu.be/2AGDJDrklwM",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11129,
+			"friends_count": 8773,
+			"listed_count": 48,
+			"created_at": "Sun Sep 21 01:45:46 +0000 2014",
+			"favourites_count": 5798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/889120664627679234/O--BCf66_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/889120664627679234/O--BCf66_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2823122808/1578221745",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 857,
+		"favorite_count": 1902,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Italian Dockers Stop Arms Shipment to Israel in Solidarity with Palestine https://t.co/8n76JPFnoC"
+	},
+	{
+		"created_at": "Sat May 15 08:18:25 +0000 2021",
+		"id": 1393480537763946500,
+		"id_str": "1393480876684611584",
+		"full_text": "You must be f*cking Blind to think that anyone has EVER pandered to Gypsies &amp; Travellers.\nIn actual fact, People like this get free reign to treat us like dogs, exploit us for entertainment, &amp; write ignorant, racist shit like this in mainstream press with zero accountability. https://t.co/sZpghBHuCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393480534374985700,
+					"id_str": "1393480534374985729",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ajKbzXsAEM3PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ajKbzXsAEM3PM.jpg",
+					"url": "https://t.co/sZpghBHuCB",
+					"display_url": "pic.twitter.com/sZpghBHuCB",
+					"expanded_url": "https://twitter.com/thatbloodyMikey/status/1393480537763946496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1078,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393480534374985700,
+					"id_str": "1393480534374985729",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ajKbzXsAEM3PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ajKbzXsAEM3PM.jpg",
+					"url": "https://t.co/sZpghBHuCB",
+					"display_url": "pic.twitter.com/sZpghBHuCB",
+					"expanded_url": "https://twitter.com/thatbloodyMikey/status/1393480537763946496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1078,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125450387,
+			"id_str": "125450387",
+			"name": "Mikey Walsh",
+			"screen_name": "thatbloodyMikey",
+			"location": "UK",
+			"description": "Gay Romany Gypsy feller, with muppet eyebrows. Author & livver of the 'Gypsy Boy' Book series. Official website below",
+			"url": "https://t.co/GYCl12Bqla",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GYCl12Bqla",
+							"expanded_url": "http://mikeywalsh.co.uk",
+							"display_url": "mikeywalsh.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19882,
+			"friends_count": 1393,
+			"listed_count": 141,
+			"created_at": "Mon Mar 22 21:33:10 +0000 2010",
+			"favourites_count": 311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358207497467817990/jYkNUHGF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358207497467817990/jYkNUHGF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125450387/1398199980",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 567,
+		"favorite_count": 1976,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You must be f*cking Blind to think that anyone has EVER pandered to Gypsies &amp; Travellers.\nIn actual fact, People like this get free reign to treat us like dogs, exploit us for entertainment, &amp; write ignorant, racist shit like this in mainstream press with zero accountability. https://t.co/sZpghBHuCB"
+	},
+	{
 		"created_at": "Fri May 14 14:42:30 +0000 2021",
 		"id": 1393209773236105200,
 		"id_str": "1393215148358242310",
