@@ -1,6 +1,1003 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 22:04:23 +0000 2021",
+		"id": 1394017956548554800,
+		"id_str": "1394051127528853509",
+		"full_text": "Skills gap discourse is back. https://t.co/izyUTI5Lyi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izyUTI5Lyi",
+					"expanded_url": "https://twitter.com/annasmee1/status/1394003013312909314",
+					"display_url": "twitter.com/annasmee1/stat…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4449471987,
+			"id_str": "4449471987",
+			"name": "Sonia",
+			"screen_name": "yet_so_far",
+			"location": "Ireland",
+			"description": "Combinatorics, communism, cooking. (she/അവൾ)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4187,
+			"friends_count": 4091,
+			"listed_count": 37,
+			"created_at": "Fri Dec 11 15:05:20 +0000 2015",
+			"favourites_count": 143517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337702629128990722/Z7wWQ-Zj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337702629128990722/Z7wWQ-Zj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4449471987/1592744695",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394003013312909300,
+		"quoted_status_id_str": "1394003013312909314",
+		"quoted_status_permalink": {
+			"url": "https://t.co/izyUTI5Lyi",
+			"expanded": "https://twitter.com/annasmee1/status/1394003013312909314",
+			"display": "twitter.com/annasmee1/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 16 18:53:12 +0000 2021",
+			"id": 1394003013312909300,
+			"id_str": "1394003013312909314",
+			"full_text": "“16 million UK workers with low numeracy skills could earn an extra £1600 a year if they improved” - Andy Haldane @bankofengland @thetimes https://t.co/8jT7LTULGQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bankofengland",
+						"name": "Bank of England",
+						"id": 18938646,
+						"id_str": "18938646",
+						"indices": [
+							114,
+							128
+						]
+					},
+					{
+						"screen_name": "thetimes",
+						"name": "The Times",
+						"id": 6107422,
+						"id_str": "6107422",
+						"indices": [
+							129,
+							138
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394002999547150300,
+						"id_str": "1394002999547150346",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/E1h-V6PWQAolZlE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1h-V6PWQAolZlE.jpg",
+						"url": "https://t.co/8jT7LTULGQ",
+						"display_url": "pic.twitter.com/8jT7LTULGQ",
+						"expanded_url": "https://twitter.com/AnnaSmee1/status/1394003013312909314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1013,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1728,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394002999547150300,
+						"id_str": "1394002999547150346",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/E1h-V6PWQAolZlE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1h-V6PWQAolZlE.jpg",
+						"url": "https://t.co/8jT7LTULGQ",
+						"display_url": "pic.twitter.com/8jT7LTULGQ",
+						"expanded_url": "https://twitter.com/AnnaSmee1/status/1394003013312909314/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1013,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1728,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595648489,
+				"id_str": "595648489",
+				"name": "Anna Smee",
+				"screen_name": "AnnaSmee1",
+				"location": "London and across the UK",
+				"description": "CEO @YF_Foundation Passionate about supporting #youngpeople to overcome #discrimination and #disadvantage. #SocialCEO #KiteSurf All views my own.",
+				"url": "https://t.co/nIjOXzk9ED",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nIjOXzk9ED",
+								"expanded_url": "http://www.ukyouth.org",
+								"display_url": "ukyouth.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5443,
+				"friends_count": 3492,
+				"listed_count": 99,
+				"created_at": "Thu May 31 17:01:16 +0000 2012",
+				"favourites_count": 14401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319773454858674177/UNSItjeo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319773454858674177/UNSItjeo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595648489/1603493487",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Skills gap discourse is back. https://t.co/izyUTI5Lyi"
+	},
+	{
+		"created_at": "Sun May 16 21:35:56 +0000 2021",
+		"id": 1394043965754724400,
+		"id_str": "1394043965754724360",
+		"full_text": "@SpaJw https://t.co/cOkLLRSWAP https://t.co/RNWWzjZbOn",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpaJw",
+					"name": "JWExTheSpa",
+					"id": 2755983617,
+					"id_str": "2755983617",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cOkLLRSWAP",
+					"expanded_url": "https://www.jlpartners.co.uk/local-elections",
+					"display_url": "jlpartners.co.uk/local-elections",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394043916018720800,
+					"id_str": "1394043916018720769",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ijjj-XIAEmOk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ijjj-XIAEmOk0.jpg",
+					"url": "https://t.co/RNWWzjZbOn",
+					"display_url": "pic.twitter.com/RNWWzjZbOn",
+					"expanded_url": "https://twitter.com/muranava/status/1394043965754724360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394043916018720800,
+					"id_str": "1394043916018720769",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ijjj-XIAEmOk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ijjj-XIAEmOk0.jpg",
+					"url": "https://t.co/RNWWzjZbOn",
+					"display_url": "pic.twitter.com/RNWWzjZbOn",
+					"expanded_url": "https://twitter.com/muranava/status/1394043965754724360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 975,
+							"h": 601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 975,
+							"h": 601,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393818466528997400,
+		"in_reply_to_status_id_str": "1393818466528997377",
+		"in_reply_to_user_id": 2755983617,
+		"in_reply_to_user_id_str": "2755983617",
+		"in_reply_to_screen_name": "SpaJw",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2284,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@SpaJw https://t.co/cOkLLRSWAP https://t.co/RNWWzjZbOn"
+	},
+	{
+		"created_at": "Sun May 16 19:20:50 +0000 2021",
+		"id": 1394009966403534800,
+		"id_str": "1394009966403534848",
+		"full_text": "\"Corpus findings are proletarian. They cannot be crafted to serve pagan power.\" Bill Louw (2017) #corpuslinguistics",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						97,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2284,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Corpus findings are proletarian. They cannot be crafted to serve pagan power.\" Bill Louw (2017) #corpuslinguistics"
+	},
+	{
+		"created_at": "Sun May 16 09:49:19 +0000 2021",
+		"id": 1393864833733382100,
+		"id_str": "1393866140640763907",
+		"full_text": "If you ever wanted to know why studying language is important, watch this video. The prof lays out two wars: 1.military 2.language. https://t.co/KQCIXgkRFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQCIXgkRFN",
+					"expanded_url": "https://twitter.com/m7mdkurd/status/1393848301779312640",
+					"display_url": "twitter.com/m7mdkurd/statu…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 930760814906298400,
+			"id_str": "930760814906298368",
+			"name": "Kamran Khan",
+			"screen_name": "securityling",
+			"location": "The Corridor of Uncertainty",
+			"description": "Birmingham born| Post-doc in Barcelona\nAuthor of 'Becoming a Citizen’ \nSociolinguistics|Citizenship|Security|Race\nElite Mateship",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1983,
+			"friends_count": 3118,
+			"listed_count": 9,
+			"created_at": "Wed Nov 15 11:34:05 +0000 2017",
+			"favourites_count": 23816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218953423430791169/IgcdoGBD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218953423430791169/IgcdoGBD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/930760814906298368/1615808694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393848301779312600,
+		"quoted_status_id_str": "1393848301779312640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KQCIXgkRFN",
+			"expanded": "https://twitter.com/m7mdkurd/status/1393848301779312640",
+			"display": "twitter.com/m7mdkurd/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 16 08:38:26 +0000 2021",
+			"id": 1393848301779312600,
+			"id_str": "1393848301779312640",
+			"full_text": "Omfg. https://t.co/xUyNhKub3n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1393845224934412300,
+						"id_str": "1393845224934412290",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1393845224934412290/pu/img/waTyZbfyzLKHsNJ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1393845224934412290/pu/img/waTyZbfyzLKHsNJ-.jpg",
+						"url": "https://t.co/xUyNhKub3n",
+						"display_url": "pic.twitter.com/xUyNhKub3n",
+						"expanded_url": "https://twitter.com/PartTimeNeuroDr/status/1393845415129272321/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1393845415129272300,
+						"source_status_id_str": "1393845415129272321",
+						"source_user_id": 2169535068,
+						"source_user_id_str": "2169535068"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1393845224934412300,
+						"id_str": "1393845224934412290",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1393845224934412290/pu/img/waTyZbfyzLKHsNJ-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1393845224934412290/pu/img/waTyZbfyzLKHsNJ-.jpg",
+						"url": "https://t.co/xUyNhKub3n",
+						"display_url": "pic.twitter.com/xUyNhKub3n",
+						"expanded_url": "https://twitter.com/PartTimeNeuroDr/status/1393845415129272321/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1393845415129272300,
+						"source_status_id_str": "1393845415129272321",
+						"source_user_id": 2169535068,
+						"source_user_id_str": "2169535068",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1393845224934412290/pu/pl/hDqeZD9Ko6ddo5da.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393845224934412290/pu/vid/480x270/FAQnNQFy5HzX6Lkc.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393845224934412290/pu/vid/640x360/aI3oJ7mJqQuwqB_N.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1393845224934412290/pu/vid/960x540/br-veU-H3jN8Kz-c.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2169535068,
+								"id_str": "2169535068",
+								"name": "Dr. Sam Loomis",
+								"screen_name": "PartTimeNeuroDr",
+								"location": "Across the Veil.",
+								"description": "Ask not for whom the bell tolls, it tolls for thee.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1337,
+								"friends_count": 2571,
+								"listed_count": 53,
+								"created_at": "Sat Nov 02 04:06:19 +0000 2013",
+								"favourites_count": 70943,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 44063,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "DD2E44",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1393489396293378048/hLR1dfWW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393489396293378048/hLR1dfWW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2169535068/1621068573",
+								"profile_link_color": "981CEB",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1328835121970110500,
+				"id_str": "1328835121970110472",
+				"name": "mohammed el-kurd",
+				"screen_name": "m7mdkurd",
+				"location": "Sheikh Jarrah / New York",
+				"description": "Writer from Jerusalem, occupied Palestine. Preorder RIFQA (@HaymarketBooks Oct ‘21)",
+				"url": "https://t.co/Yc0dzNk9bY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yc0dzNk9bY",
+								"expanded_url": "https://bookshop.org/books/rifqa/9781642595864",
+								"display_url": "bookshop.org/books/rifqa/97…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121488,
+				"friends_count": 242,
+				"listed_count": 359,
+				"created_at": "Tue Nov 17 22:59:36 +0000 2020",
+				"favourites_count": 2500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1393914729597489152/x0q3Zy5I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393914729597489152/x0q3Zy5I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1328835121970110472/1605654351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1676,
+			"favorite_count": 3823,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 31,
+		"favorite_count": 96,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you ever wanted to know why studying language is important, watch this video. The prof lays out two wars: 1.military 2.language. https://t.co/KQCIXgkRFN"
+	},
+	{
 		"created_at": "Sat May 15 22:06:01 +0000 2021",
 		"id": 1393658660342149000,
 		"id_str": "1393689148096237568",
@@ -76,7 +1073,7 @@ Grailbird.data.tweets_2021_05 =
 				},
 				{
 					"screen_name": "ZubedaCFutures",
-					"name": "Zubeda Limbada 🤷🏼‍♀️ FRSA",
+					"name": "Zubeda Limbada 🤷🏼♀️ FRSA",
 					"id": 2168607036,
 					"id_str": "2168607036",
 					"indices": [
@@ -471,7 +1468,7 @@ Grailbird.data.tweets_2021_05 =
 		"user": {
 			"id": 1152693375822389200,
 			"id_str": "1152693375822389248",
-			"name": "Rawan‏𓂆روان",
+			"name": "Rawan𓂆روان",
 			"screen_name": "RiverToSea48",
 			"location": "Ramallah/رام الله",
 			"description": "Left-handed leftie who loves baking & cooking, and I’m the co-founder of Decolonize Palestine @decolonizeps | 🇵🇸☭|she/her | إنا نحب الورد لكنا نحب القمح اكثر",
