@@ -1,6 +1,1767 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 20:31:31 +0000 2021",
+		"id": 1394327873088000000,
+		"id_str": "1394390144518692865",
+		"full_text": "🎇 Victory at Go North West as Unite defeats #fireandrehire to end strike ✊✊\n\n\"This is a tremendous victory by Unite’s members who, through their dedication, solidarity and commitment, have defeated the attempt to #fireandrehire them\" @LenMcCluskey \n\nhttps://t.co/E2nxFG3geV https://t.co/0FMFqc9QQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fireandrehire",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"text": "fireandrehire",
+					"indices": [
+						213,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LenMcCluskey",
+					"name": "Len McCluskey",
+					"id": 885800909581815800,
+					"id_str": "885800909581815808",
+					"indices": [
+						234,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E2nxFG3geV",
+					"expanded_url": "https://www.unitetheunion.org/news-events/news/2021/may/huge-victory-at-manchester-go-north-west-as-unite-defeats-fire-and-rehire-to-end-strike/",
+					"display_url": "unitetheunion.org/news-events/ne…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387314804382175200,
+					"id_str": "1387314804382175232",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1387314804382175232/img/Y_sTWbXlyXe6u2Lg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1387314804382175232/img/Y_sTWbXlyXe6u2Lg.jpg",
+					"url": "https://t.co/0FMFqc9QQM",
+					"display_url": "pic.twitter.com/0FMFqc9QQM",
+					"expanded_url": "https://twitter.com/unitetheunion/status/1394327873088000004/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387314804382175200,
+					"id_str": "1387314804382175232",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1387314804382175232/img/Y_sTWbXlyXe6u2Lg.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1387314804382175232/img/Y_sTWbXlyXe6u2Lg.jpg",
+					"url": "https://t.co/0FMFqc9QQM",
+					"display_url": "pic.twitter.com/0FMFqc9QQM",
+					"expanded_url": "https://twitter.com/unitetheunion/status/1394327873088000004/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							67
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1387314804382175232/vid/644x360/u8KG1_ZYJbZ1d0ls.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1387314804382175232/vid/482x270/X6la2I8U15dz3dpY.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1387314804382175232/pl/3zH5auGS1K2sOed5.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1387314804382175232/vid/1200x670/X0WAp-80Fn2BgiDm.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20593641,
+			"id_str": "20593641",
+			"name": "Unite the union: join a union",
+			"screen_name": "unitetheunion",
+			"location": "UK and Ireland",
+			"description": "The UK and Ireland's largest trade union. Join at: https://t.co/3RlYkjTbig",
+			"url": "https://t.co/9Q4AobkKxh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Q4AobkKxh",
+							"expanded_url": "http://www.unitetheunion.org",
+							"display_url": "unitetheunion.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3RlYkjTbig",
+							"expanded_url": "http://unitetheunion.org/join",
+							"display_url": "unitetheunion.org/join",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 83007,
+			"friends_count": 1102,
+			"listed_count": 909,
+			"created_at": "Wed Feb 11 14:41:22 +0000 2009",
+			"favourites_count": 3507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765488789028865/E-A2AB-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765488789028865/E-A2AB-8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20593641/1589200851",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "E31620",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "1B2146",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 245,
+		"favorite_count": 521,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎇 Victory at Go North West as Unite defeats #fireandrehire to end strike ✊✊\n\n\"This is a tremendous victory by Unite’s members who, through their dedication, solidarity and commitment, have defeated the attempt to #fireandrehire them\" @LenMcCluskey \n\nhttps://t.co/E2nxFG3geV https://t.co/0FMFqc9QQM"
+	},
+	{
+		"created_at": "Mon May 17 16:24:00 +0000 2021",
+		"id": 1393977432181551000,
+		"id_str": "1394327853559341058",
+		"full_text": "Probably the best news you've heard in a while: Palestinian filmmaker Elia Suleiman to stream all his films for free https://t.co/M7kOZBCwiA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7kOZBCwiA",
+					"expanded_url": "https://www.esquireme.com/content/52487-palestinian-filmmaker-elia-suleiman-to-stream-all-his-films-for-free",
+					"display_url": "esquireme.com/content/52487-…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2349053509,
+			"id_str": "2349053509",
+			"name": "Yotam Gidron",
+			"screen_name": "GidronYotam",
+			"location": "London / Gambella / Tel Aviv",
+			"description": "Researcher｜PhD from @durham_uni on Nuer law & Evangelical Christianity in Ethiopia’s western borderlands｜Author: Israel in Africa (@ZedBooks)",
+			"url": "https://t.co/UjXOpA8FJq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UjXOpA8FJq",
+							"expanded_url": "https://yotamgidron.com",
+							"display_url": "yotamgidron.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 1074,
+			"listed_count": 60,
+			"created_at": "Mon Feb 17 20:43:38 +0000 2014",
+			"favourites_count": 3993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740781078689001472/fxZuZT6s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740781078689001472/fxZuZT6s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2349053509/1567971447",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Probably the best news you've heard in a while: Palestinian filmmaker Elia Suleiman to stream all his films for free https://t.co/M7kOZBCwiA"
+	},
+	{
+		"created_at": "Mon May 17 15:32:28 +0000 2021",
+		"id": 1394311614569058300,
+		"id_str": "1394314886453370881",
+		"full_text": "As Palestinians call a general strike against Israeli crimes, workers in Britain should take the solidarity movement into their workplaces. Here is what you can do:\n\nhttps://t.co/lduCFIErHI\n\n#GazaUnderAttack #SaveSheikhJarrah #PalestineOnStrike",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GazaUnderAttack",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"text": "SaveSheikhJarrah",
+					"indices": [
+						208,
+						225
+					]
+				},
+				{
+					"text": "PalestineOnStrike",
+					"indices": [
+						226,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lduCFIErHI",
+					"expanded_url": "https://notesfrombelow.org/article/solidarity-palestinian-general-strike",
+					"display_url": "notesfrombelow.org/article/solida…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910476378755276800,
+			"id_str": "910476378755276800",
+			"name": "Notes from Below",
+			"screen_name": "NotesFrom_Below",
+			"location": "London, England",
+			"description": "Socialism 🚩✊\nWorkers' Inquiry 🔎📕 \nClass Power ⚒️ 💪\n\nSubscribe to our newsletter: https://t.co/MYqDWos7VO\nSupport us: https://t.co/NDx0ssSv2E",
+			"url": "https://t.co/d2A23LfZB2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2A23LfZB2",
+							"expanded_url": "http://notesfrombelow.org",
+							"display_url": "notesfrombelow.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MYqDWos7VO",
+							"expanded_url": "http://tinyletter.com/notesfrombelow",
+							"display_url": "tinyletter.com/notesfrombelow",
+							"indices": [
+								81,
+								104
+							]
+						},
+						{
+							"url": "https://t.co/NDx0ssSv2E",
+							"expanded_url": "http://patreon.com/notesfrombelow",
+							"display_url": "patreon.com/notesfrombelow",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5129,
+			"friends_count": 227,
+			"listed_count": 44,
+			"created_at": "Wed Sep 20 12:10:59 +0000 2017",
+			"favourites_count": 1043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957949412088664065/hXoe4Yah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957949412088664065/hXoe4Yah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910476378755276800/1602163660",
+			"profile_link_color": "F62811",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As Palestinians call a general strike against Israeli crimes, workers in Britain should take the solidarity movement into their workplaces. Here is what you can do:\n\nhttps://t.co/lduCFIErHI\n\n#GazaUnderAttack #SaveSheikhJarrah #PalestineOnStrike"
+	},
+	{
+		"created_at": "Mon May 17 11:08:18 +0000 2021",
+		"id": 1394247356376309800,
+		"id_str": "1394248404155371524",
+		"full_text": "Breaking tragic news! Please share widely. The school where the children who made this play go to is about to be destroyed by Israel.  https://t.co/OOXLrdI0pz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OOXLrdI0pz",
+					"expanded_url": "https://www.youtube.com/watch?v=KKd8WXahJLs&t=210s",
+					"display_url": "youtube.com/watch?v=KKd8WX…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273391079,
+			"id_str": "273391079",
+			"name": "Nick Bilbrough, Founder of @HandsUpProject",
+			"screen_name": "nickbilbrough",
+			"location": "Totnes, UK",
+			"description": "#Storytelling and more with children in #refugee camps @HandsUpProject",
+			"url": "https://t.co/spueUUU41H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/spueUUU41H",
+							"expanded_url": "http://handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1154,
+			"friends_count": 985,
+			"listed_count": 17,
+			"created_at": "Mon Mar 28 12:01:33 +0000 2011",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339328990394408963/4EcxRm0G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273391079/1608149286",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking tragic news! Please share widely. The school where the children who made this play go to is about to be destroyed by Israel.  https://t.co/OOXLrdI0pz"
+	},
+	{
+		"created_at": "Mon May 17 11:07:33 +0000 2021",
+		"id": 1394246599367438300,
+		"id_str": "1394248217529921536",
+		"full_text": "\"La mission pour sauver Sci-Hub est lancée\" https://t.co/AUHotUVa4f https://t.co/BuFgkizZZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AUHotUVa4f",
+					"expanded_url": "https://korben.info/mission-sauvetage-sci-hub.html",
+					"display_url": "korben.info/mission-sauvet…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394246592228638700,
+					"id_str": "1394246592228638723",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E1lb43sWQAMAJ6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1lb43sWQAMAJ6h.jpg",
+					"url": "https://t.co/BuFgkizZZj",
+					"display_url": "pic.twitter.com/BuFgkizZZj",
+					"expanded_url": "https://twitter.com/freakonometrics/status/1394246599367438338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394246592228638700,
+					"id_str": "1394246592228638723",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E1lb43sWQAMAJ6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1lb43sWQAMAJ6h.jpg",
+					"url": "https://t.co/BuFgkizZZj",
+					"display_url": "pic.twitter.com/BuFgkizZZj",
+					"expanded_url": "https://twitter.com/freakonometrics/status/1394246599367438338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105530526,
+			"id_str": "105530526",
+			"name": "Arthur Charpentier",
+			"screen_name": "freakonometrics",
+			"location": "Montréal, Québec",
+			"description": "Artisan de la donnée. Surreptitious economist & born-again mathematician. Fellow actuary & data addict.  Professor & researcher, full of 'satiable curtiosity",
+			"url": "https://t.co/8buwwGQdVr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8buwwGQdVr",
+							"expanded_url": "http://freakonometrics.hypotheses.org/",
+							"display_url": "freakonometrics.hypotheses.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28092,
+			"friends_count": 14959,
+			"listed_count": 1209,
+			"created_at": "Sat Jan 16 16:46:15 +0000 2010",
+			"favourites_count": 30641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "554E5C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947792239501160448/HUFZgVrV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947792239501160448/HUFZgVrV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105530526/1590863362",
+			"profile_link_color": "587D83",
+			"profile_sidebar_border_color": "F4F3C8",
+			"profile_sidebar_fill_color": "A8CFB9",
+			"profile_text_color": "5BABAA",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"La mission pour sauver Sci-Hub est lancée\" https://t.co/AUHotUVa4f https://t.co/BuFgkizZZj"
+	},
+	{
+		"created_at": "Mon May 17 11:02:56 +0000 2021",
+		"id": 1394013327240663000,
+		"id_str": "1394247056206794754",
+		"full_text": "This is my mum a matter of weeks after her assessment, they stopped her benefits, took a month to respond to a ds1500, she died the same day. The assessor described her as slim build, she weighed 32kg, they fined her, tried to claw back overpayments, ignored doctor letters https://t.co/S1OFJhy8Rb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394013324984131600,
+					"id_str": "1394013324984131592",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iHu7fXIAgRB6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iHu7fXIAgRB6k.jpg",
+					"url": "https://t.co/S1OFJhy8Rb",
+					"display_url": "pic.twitter.com/S1OFJhy8Rb",
+					"expanded_url": "https://twitter.com/michell24823204/status/1394013327240663051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394013324984131600,
+					"id_str": "1394013324984131592",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iHu7fXIAgRB6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iHu7fXIAgRB6k.jpg",
+					"url": "https://t.co/S1OFJhy8Rb",
+					"display_url": "pic.twitter.com/S1OFJhy8Rb",
+					"expanded_url": "https://twitter.com/michell24823204/status/1394013327240663051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 375,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2340448776,
+			"id_str": "2340448776",
+			"name": "michelle",
+			"screen_name": "michell24823204",
+			"location": "Dumfries, Scotland",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 163,
+			"listed_count": 1,
+			"created_at": "Wed Feb 12 14:43:40 +0000 2014",
+			"favourites_count": 794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637920320929794/XbyeHOi4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637920320929794/XbyeHOi4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2340448776/1614706121",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6411,
+		"favorite_count": 20244,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my mum a matter of weeks after her assessment, they stopped her benefits, took a month to respond to a ds1500, she died the same day. The assessor described her as slim build, she weighed 32kg, they fined her, tried to claw back overpayments, ignored doctor letters https://t.co/S1OFJhy8Rb"
+	},
+	{
+		"created_at": "Mon May 17 11:00:12 +0000 2021",
+		"id": 1394243631112933400,
+		"id_str": "1394246369393664001",
+		"full_text": "My piece for @guardianmusic on the Au Pairs' 'Playing With a Different Sex' which is 40 years old this month. Thanks to @ben_bt for edits.  https://t.co/vbcaWmO473",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardianmusic",
+					"name": "Guardian music",
+					"id": 15178186,
+					"id_str": "15178186",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "ben_bt",
+					"name": "Ben Beaumont-Thomas",
+					"id": 24179002,
+					"id_str": "24179002",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vbcaWmO473",
+					"expanded_url": "https://www.theguardian.com/music/2021/may/17/post-punk-band-au-pairs-the-thatcher-years-gave-us-plenty-of-material",
+					"display_url": "theguardian.com/music/2021/may…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @redpeppermag\n@opendemocracy @ROAR_Magazine @bellacaledonia (views personal)",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 4965,
+			"listed_count": 54,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 6510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335661930296512512/gO1c0ACy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335661930296512512/gO1c0ACy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My piece for @guardianmusic on the Au Pairs' 'Playing With a Different Sex' which is 40 years old this month. Thanks to @ben_bt for edits.  https://t.co/vbcaWmO473"
+	},
+	{
+		"created_at": "Mon May 17 10:44:51 +0000 2021",
+		"id": 1394242503176560600,
+		"id_str": "1394242503176560643",
+		"full_text": "@JWGrieve @congabonga : ) fyi BootCamp Debate - https://t.co/4Eapf0GACe",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "congabonga",
+					"name": "Costas Gabrielatos",
+					"id": 187484412,
+					"id_str": "187484412",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Eapf0GACe",
+					"expanded_url": "https://benjamins.com/catalog/ijcl.15.3",
+					"display_url": "benjamins.com/catalog/ijcl.1…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394241800559337500,
+		"in_reply_to_status_id_str": "1394241800559337474",
+		"in_reply_to_user_id": 2950391813,
+		"in_reply_to_user_id_str": "2950391813",
+		"in_reply_to_screen_name": "JWGrieve",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2285,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JWGrieve @congabonga : ) fyi BootCamp Debate - https://t.co/4Eapf0GACe"
+	},
+	{
+		"created_at": "Mon May 17 10:35:34 +0000 2021",
+		"id": 1394240168924692500,
+		"id_str": "1394240168924692482",
+		"full_text": "@JWGrieve @congabonga ah ok i think i see connection; re religious aspect Louw has commented on \"broad church\" views of #corpuslinguistics - \"Ecumenism is respectful of differences but intolerent of heresy\" (in the BootCamp Debate)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						120,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "congabonga",
+					"name": "Costas Gabrielatos",
+					"id": 187484412,
+					"id_str": "187484412",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394235997785895000,
+		"in_reply_to_status_id_str": "1394235997785894912",
+		"in_reply_to_user_id": 2950391813,
+		"in_reply_to_user_id_str": "2950391813",
+		"in_reply_to_screen_name": "JWGrieve",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2285,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWGrieve @congabonga ah ok i think i see connection; re religious aspect Louw has commented on \"broad church\" views of #corpuslinguistics - \"Ecumenism is respectful of differences but intolerent of heresy\" (in the BootCamp Debate)"
+	},
+	{
+		"created_at": "Mon May 17 10:02:40 +0000 2021",
+		"id": 1394231888500465700,
+		"id_str": "1394231888500465666",
+		"full_text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic - ​ \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\"",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "congabonga",
+					"name": "Costas Gabrielatos",
+					"id": 187484412,
+					"id_str": "187484412",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394229711270785000,
+		"in_reply_to_status_id_str": "1394229711270785024",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2285,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic - ​ \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\""
+	},
+	{
+		"created_at": "Mon May 17 09:54:01 +0000 2021",
+		"id": 1394229711270785000,
+		"id_str": "1394229711270785024",
+		"full_text": "@congabonga It's from \"Uneasy Humour as Discovery: Collocation and Empathy as Whewellian Consilience\"; I read \"pagan\" as powers that be who promote mentalism, &amp; \"proletarian\" as empiricism?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "congabonga",
+					"name": "Costas Gabrielatos",
+					"id": 187484412,
+					"id_str": "187484412",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394204810308722700,
+		"in_reply_to_status_id_str": "1394204810308722691",
+		"in_reply_to_user_id": 187484412,
+		"in_reply_to_user_id_str": "187484412",
+		"in_reply_to_screen_name": "congabonga",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2285,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@congabonga It's from \"Uneasy Humour as Discovery: Collocation and Empathy as Whewellian Consilience\"; I read \"pagan\" as powers that be who promote mentalism, &amp; \"proletarian\" as empiricism?"
+	},
+	{
+		"created_at": "Mon May 17 06:24:16 +0000 2021",
+		"id": 1394176924579213300,
+		"id_str": "1394176924579213314",
+		"full_text": "@SpaJw Yes and Hartlepool 2021 comes after 2019",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpaJw",
+					"name": "JWExTheSpa",
+					"id": 2755983617,
+					"id_str": "2755983617",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394175693815226400,
+		"in_reply_to_status_id_str": "1394175693815226369",
+		"in_reply_to_user_id": 2755983617,
+		"in_reply_to_user_id_str": "2755983617",
+		"in_reply_to_screen_name": "SpaJw",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2285,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SpaJw Yes and Hartlepool 2021 comes after 2019"
+	},
+	{
 		"created_at": "Sun May 16 22:04:23 +0000 2021",
 		"id": 1394017956548554800,
 		"id_str": "1394051127528853509",
