@@ -1,6 +1,2109 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 21:18:15 +0000 2021",
+		"id": 1394596279037141000,
+		"id_str": "1394764294068350980",
+		"full_text": "Haifa sings to Ramallah during today’s Palestinian general strike, in Wadi Nisnas, Haifa. https://t.co/xL2FMyWcFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394593191228215300,
+					"id_str": "1394593191228215299",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394593191228215299/pu/img/YAt2FvVnwGaXS7ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394593191228215299/pu/img/YAt2FvVnwGaXS7ll.jpg",
+					"url": "https://t.co/xL2FMyWcFY",
+					"display_url": "pic.twitter.com/xL2FMyWcFY",
+					"expanded_url": "https://twitter.com/aj_iraqi/status/1394596279037140992/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394593191228215300,
+					"id_str": "1394593191228215299",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394593191228215299/pu/img/YAt2FvVnwGaXS7ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394593191228215299/pu/img/YAt2FvVnwGaXS7ll.jpg",
+					"url": "https://t.co/xL2FMyWcFY",
+					"display_url": "pic.twitter.com/xL2FMyWcFY",
+					"expanded_url": "https://twitter.com/aj_iraqi/status/1394596279037140992/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30562,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1394593191228215299/pu/vid/1280x720/oJ_SmEsQfUAprkQx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1394593191228215299/pu/pl/EGdSE2ZWpbTHDA8y.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1394593191228215299/pu/vid/480x270/HoMCFGTCiAp_QmOh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1394593191228215299/pu/vid/640x360/AhcqY1CO1QzsJVxj.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3387140470,
+			"id_str": "3387140470",
+			"name": "Amjad Iraqi",
+			"screen_name": "aj_iraqi",
+			"location": "Haifa, Israel-Palestine",
+			"description": "Editor @972mag | Policy Analyst @AlShabaka | Former Advocacy Coordinator @AdalahEnglish | Bylines @LRB, @guardian, @Monde_diplo, @PalStudies, others.",
+			"url": "https://t.co/KmG5wfUSE1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KmG5wfUSE1",
+							"expanded_url": "http://972mag.com/author/amjad/",
+							"display_url": "972mag.com/author/amjad/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4996,
+			"friends_count": 890,
+			"listed_count": 97,
+			"created_at": "Wed Jul 22 10:22:06 +0000 2015",
+			"favourites_count": 2579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174662888113475584/rcJItshr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174662888113475584/rcJItshr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3387140470/1437565465",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1318,
+		"favorite_count": 3858,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Haifa sings to Ramallah during today’s Palestinian general strike, in Wadi Nisnas, Haifa. https://t.co/xL2FMyWcFY"
+	},
+	{
+		"created_at": "Tue May 18 21:16:20 +0000 2021",
+		"id": 1394746615446085600,
+		"id_str": "1394763810133659649",
+		"full_text": "The Met Police was created in part to break up pickets &amp; strikes as well as intimidate workers into subservience. And here they are\n\nSolidarity with the workers, down with the cops. https://t.co/WA6E7OvPyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WA6E7OvPyE",
+					"expanded_url": "https://twitter.com/MPSRTPC/status/1394638311919128576",
+					"display_url": "twitter.com/MPSRTPC/status…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4765348675,
+			"id_str": "4765348675",
+			"name": "Ilyas Nagdee",
+			"screen_name": "ilyas_nagdee",
+			"location": ".",
+			"description": "abolition is a global struggle // words in @guardian @independent @tribunemagazine etc // has opinions, sometimes tweets them",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7501,
+			"friends_count": 1900,
+			"listed_count": 29,
+			"created_at": "Fri Jan 15 23:42:37 +0000 2016",
+			"favourites_count": 4952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280855356177108995/PFz95QWM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280855356177108995/PFz95QWM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4765348675/1621290129",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394638311919128600,
+		"quoted_status_id_str": "1394638311919128576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WA6E7OvPyE",
+			"expanded": "https://twitter.com/MPSRTPC/status/1394638311919128576",
+			"display": "twitter.com/MPSRTPC/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 12:57:39 +0000 2021",
+			"id": 1394638311919128600,
+			"id_str": "1394638311919128576",
+			"full_text": "Following numerous complaints about fast food delivery riders we conducted an operation in #tooting this afternoon with immigration enforcement.\nIn 90 mins we stopped\n48 bikes.\n2 were seized for no insurance \n3 riders reported for offences\n2 x arrests for immigration offences https://t.co/nOOBMlY1Xl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tooting",
+						"indices": [
+							91,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394638285390110700,
+						"id_str": "1394638285390110723",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E1rAIabWYAM0RxW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1rAIabWYAM0RxW.jpg",
+						"url": "https://t.co/nOOBMlY1Xl",
+						"display_url": "pic.twitter.com/nOOBMlY1Xl",
+						"expanded_url": "https://twitter.com/MPSRTPC/status/1394638311919128576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394638285390110700,
+						"id_str": "1394638285390110723",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E1rAIabWYAM0RxW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1rAIabWYAM0RxW.jpg",
+						"url": "https://t.co/nOOBMlY1Xl",
+						"display_url": "pic.twitter.com/nOOBMlY1Xl",
+						"expanded_url": "https://twitter.com/MPSRTPC/status/1394638311919128576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1394638298040131600,
+						"id_str": "1394638298040131584",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/E1rAJJjWYAAEENe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1rAJJjWYAAEENe.jpg",
+						"url": "https://t.co/nOOBMlY1Xl",
+						"display_url": "pic.twitter.com/nOOBMlY1Xl",
+						"expanded_url": "https://twitter.com/MPSRTPC/status/1394638311919128576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 437442034,
+				"id_str": "437442034",
+				"name": "Roads&Transport MPS",
+				"screen_name": "MPSRTPC",
+				"location": "London",
+				"description": "Updates from MPS Roads & Transport Policing Command. Don't report crime or traffic incidents here, call 101 or 999 or online. This site is not monitored 24/7.",
+				"url": "https://t.co/YG2IIbXiFx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YG2IIbXiFx",
+								"expanded_url": "http://bit.ly/1UwoNZ9",
+								"display_url": "bit.ly/1UwoNZ9",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38001,
+				"friends_count": 160,
+				"listed_count": 377,
+				"created_at": "Thu Dec 15 12:06:43 +0000 2011",
+				"favourites_count": 4089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12957,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000099",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383705018876850182/L94j4N-o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383705018876850182/L94j4N-o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437442034/1618735961",
+				"profile_link_color": "000099",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "460c5314e8a33c64",
+				"url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json",
+				"place_type": "city",
+				"name": "Wandsworth",
+				"full_name": "Wandsworth, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.259465,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.486036
+							],
+							[
+								-0.259465,
+								51.486036
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 286,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 58,
+		"favorite_count": 150,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Met Police was created in part to break up pickets &amp; strikes as well as intimidate workers into subservience. And here they are\n\nSolidarity with the workers, down with the cops. https://t.co/WA6E7OvPyE"
+	},
+	{
+		"created_at": "Tue May 18 21:14:01 +0000 2021",
+		"id": 1394749243647275000,
+		"id_str": "1394763227385454592",
+		"full_text": "This is a @taw_sig interview with Nick Bilbrough of the Hands Up Project and Palestinian teacher Ashraf Kuhail, on the situation in Gaza right now. Please share! #elt #tefl #efl #tesol https://t.co/2xT4pCf7Jt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "elt",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "efl",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "tesol",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taw_sig",
+					"name": "teachers_as_workers",
+					"id": 3152637711,
+					"id_str": "3152637711",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2xT4pCf7Jt",
+					"expanded_url": "https://www.teachersasworkers.org/israel-is-using-intensive-violence-against-civilians-voices-from-inside-gaza/",
+					"display_url": "teachersasworkers.org/israel-is-usin…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker / bylines: @guardian\n@artmonthly @tribunemagazine @redpeppermag\n@opendemocracy @ROAR_Magazine @bellacaledonia (views personal)",
+			"url": "https://t.co/0wx2uSf84O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0wx2uSf84O",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 4965,
+			"listed_count": 54,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 6514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335661930296512512/gO1c0ACy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335661930296512512/gO1c0ACy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a @taw_sig interview with Nick Bilbrough of the Hands Up Project and Palestinian teacher Ashraf Kuhail, on the situation in Gaza right now. Please share! #elt #tefl #efl #tesol https://t.co/2xT4pCf7Jt"
+	},
+	{
+		"created_at": "Tue May 18 21:13:53 +0000 2021",
+		"id": 1394758659087929300,
+		"id_str": "1394763192123936769",
+		"full_text": "People under attack and suffering in Gaza need our support and the Hands Up project is one way to do it. Profits from their books are going to medical aid.\n\nInaction because 'it's complicated' is a truly untenable position.\n\nhttps://t.co/uDTFCt6gXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uDTFCt6gXl",
+					"expanded_url": "https://www.teachersasworkers.org/israel-is-using-intensive-violence-against-civilians-voices-from-inside-gaza/",
+					"display_url": "teachersasworkers.org/israel-is-usin…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60425505,
+			"id_str": "60425505",
+			"name": "Neil McMillan",
+			"screen_name": "neil_mcm",
+			"location": "Barcelona, Catalonia",
+			"description": "English teacher, teacher educator, writer. Current president of @SLBCoop and collaborating professor at the Universitat Oberta de Catalunya @UOCartshum",
+			"url": "https://t.co/Q2teorqXQL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q2teorqXQL",
+							"expanded_url": "https://learn.slb.coop",
+							"display_url": "learn.slb.coop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 899,
+			"listed_count": 22,
+			"created_at": "Sun Jul 26 23:32:26 +0000 2009",
+			"favourites_count": 5488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114195322023088128/xb-Cz5N0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114195322023088128/xb-Cz5N0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60425505/1574587578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People under attack and suffering in Gaza need our support and the Hands Up project is one way to do it. Profits from their books are going to medical aid.\n\nInaction because 'it's complicated' is a truly untenable position.\n\nhttps://t.co/uDTFCt6gXl"
+	},
+	{
+		"created_at": "Tue May 18 15:39:59 +0000 2021",
+		"id": 1394678912995655700,
+		"id_str": "1394679163290886147",
+		"full_text": "https://t.co/hjgC1aUDOV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hjgC1aUDOV",
+					"expanded_url": "https://www.youtube.com/watch?v=K4WvRdxCT98",
+					"display_url": "youtube.com/watch?v=K4WvRd…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106411207,
+			"id_str": "106411207",
+			"name": "Tom Mullaney",
+			"screen_name": "tsmullaney",
+			"location": "Palo Alto, CA",
+			"description": "@Stanford 💻🔥https://t.co/UXBnO6cfmI Chinese Typewriter https://t.co/8unn6lwAjm @GuggFellows @KlugeCtr🪑firstgen 🎥 https://t.co/0UCbt3cWty he/him",
+			"url": "https://t.co/OfKYBoDSZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfKYBoDSZO",
+							"expanded_url": "https://history.stanford.edu/people/thomas-mullaney",
+							"display_url": "history.stanford.edu/people/thomas-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXBnO6cfmI",
+							"expanded_url": "http://bit.ly/computerfire",
+							"display_url": "bit.ly/computerfire",
+							"indices": [
+								12,
+								35
+							]
+						},
+						{
+							"url": "https://t.co/8unn6lwAjm",
+							"expanded_url": "http://bit.ly/ctypewriter",
+							"display_url": "bit.ly/ctypewriter",
+							"indices": [
+								55,
+								78
+							]
+						},
+						{
+							"url": "https://t.co/0UCbt3cWty",
+							"expanded_url": "http://youtube.com/tommullaney",
+							"display_url": "youtube.com/tommullaney",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9153,
+			"friends_count": 5982,
+			"listed_count": 179,
+			"created_at": "Tue Jan 19 13:35:03 +0000 2010",
+			"favourites_count": 7129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275799534015143936/gl-lk14C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275799534015143936/gl-lk14C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106411207/1606626996",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/hjgC1aUDOV"
+	},
+	{
+		"created_at": "Tue May 18 15:34:11 +0000 2021",
+		"id": 1394671212043833300,
+		"id_str": "1394677707477291016",
+		"full_text": "This is absolutely amazing! People are now using dotless Arabic script to defy and outsmart biased algorithms that are actively censoring Palestinian content.\n\nWe are so resilient and creative, to echo what @monakareem just said: I love us! https://t.co/JS6FKbdLXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "monakareem",
+					"name": "Dr. Kareem",
+					"id": 165972024,
+					"id_str": "165972024",
+					"indices": [
+						207,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JS6FKbdLXE",
+					"expanded_url": "https://twitter.com/MadaMasr/status/1394630967311183877",
+					"display_url": "twitter.com/MadaMasr/statu…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861184801,
+			"id_str": "861184801",
+			"name": "Marwa Fatafta // مروة فطافطة #SaveSheikhJarrah",
+			"screen_name": "marwasf",
+			"location": "Ramallah - Berlin",
+			"description": "Palestinian feminist made in Saudi | MENA Policy Manager @AccessNow | Policy Analyst @AlShabaka | Politics, art, tech & human rights | views here are all mine",
+			"url": "https://t.co/zjlMnCMly7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjlMnCMly7",
+							"expanded_url": "https://www.accessnow.org/profile/marwa-fatafta/",
+							"display_url": "accessnow.org/profile/marwa-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12072,
+			"friends_count": 1780,
+			"listed_count": 149,
+			"created_at": "Thu Oct 04 10:26:47 +0000 2012",
+			"favourites_count": 16398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385640366993444866/O-XxXx4u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385640366993444866/O-XxXx4u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861184801/1596966577",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394630967311184000,
+		"quoted_status_id_str": "1394630967311183877",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JS6FKbdLXE",
+			"expanded": "https://twitter.com/MadaMasr/status/1394630967311183877",
+			"display": "twitter.com/MadaMasr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 12:28:28 +0000 2021",
+			"id": 1394630967311184000,
+			"id_str": "1394630967311183877",
+			"full_text": "ىمکٮٮا الاسٮسلام لهده الاله ٮکل عٮاىها وٮحىراٮها وعدم ٯدرٮها على الٮمىىر ٮىں اٮٮهاکاٮ الاحٮلال ومسروعىه مٯاومٮه.\nاو رٮما ىمکٮٮا الٮدء ڡى الکٮاٮه دوں ٮٯاط.\nواصل الٯراءه عں طرىٯ الراٮط الٮالى: https://t.co/xMzEHp9Fr0 https://t.co/hdznP1q7dP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xMzEHp9Fr0",
+						"expanded_url": "https://bit.ly/2SQxMNe",
+						"display_url": "bit.ly/2SQxMNe",
+						"indices": [
+							191,
+							214
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1394630898189054000,
+						"id_str": "1394630898189053954",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/E1q5aa9XsAItg4B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1q5aa9XsAItg4B.jpg",
+						"url": "https://t.co/hdznP1q7dP",
+						"display_url": "pic.twitter.com/hdznP1q7dP",
+						"expanded_url": "https://twitter.com/MadaMasr/status/1394630967311183877/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394630898189054000,
+						"id_str": "1394630898189053954",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/E1q5aa9XsAItg4B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1q5aa9XsAItg4B.jpg",
+						"url": "https://t.co/hdznP1q7dP",
+						"display_url": "pic.twitter.com/hdznP1q7dP",
+						"expanded_url": "https://twitter.com/MadaMasr/status/1394630967311183877/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1523486522,
+				"id_str": "1523486522",
+				"name": "Mada Masr مدى مصر",
+				"screen_name": "MadaMasr",
+				"location": "Egypt",
+				"description": "صحافة مستقلة وحرة. تغطية إخبارية عميقة من داخل مصر.\n Independent, free & critical news coverage of Egypt\nادعم مدى: :Support Mada\nhttps://t.co/tSmnEo6Lu1",
+				"url": "https://t.co/XivHvROLOU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XivHvROLOU",
+								"expanded_url": "http://www.madamasr.com",
+								"display_url": "madamasr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tSmnEo6Lu1",
+								"expanded_url": "http://bit.ly/SupportMada1",
+								"display_url": "bit.ly/SupportMada1",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 194681,
+				"friends_count": 77,
+				"listed_count": 1212,
+				"created_at": "Sun Jun 16 23:39:27 +0000 2013",
+				"favourites_count": 130,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D4F0F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1071749830614106113/coo1H3F4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071749830614106113/coo1H3F4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1523486522/1593525784",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 209,
+			"favorite_count": 655,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ur"
+		},
+		"retweet_count": 143,
+		"favorite_count": 334,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is absolutely amazing! People are now using dotless Arabic script to defy and outsmart biased algorithms that are actively censoring Palestinian content.\n\nWe are so resilient and creative, to echo what @monakareem just said: I love us! https://t.co/JS6FKbdLXE"
+	},
+	{
+		"created_at": "Tue May 18 15:05:34 +0000 2021",
+		"id": 1394670501906292700,
+		"id_str": "1394670501906292739",
+		"full_text": "@JPBGerald @Vijay_Ramjattan @ScottStillar i just commented on \"incomprehensible\" point",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "ScottStillar",
+					"name": "Scott Stillar",
+					"id": 465358033,
+					"id_str": "465358033",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394665371173539800,
+		"in_reply_to_status_id_str": "1394665371173539852",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald @Vijay_Ramjattan @ScottStillar i just commented on \"incomprehensible\" point"
+	},
+	{
+		"created_at": "Tue May 18 14:45:33 +0000 2021",
+		"id": 1394648866931290000,
+		"id_str": "1394665467340541956",
+		"full_text": "@GioFassetta now begins her talk on the role of stories in the design of an online language course: reflections on capabilities, identity and representation, with reference to an Online Arabic language course for beginners, aiming to give opportunities for remote work",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GioFassetta",
+					"name": "Giovanna Fassetta",
+					"id": 479081743,
+					"id_str": "479081743",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 479081743,
+		"in_reply_to_user_id_str": "479081743",
+		"in_reply_to_screen_name": "GioFassetta",
+		"user": {
+			"id": 1031860801798328300,
+			"id_str": "1031860801798328320",
+			"name": "Centre for Language Education Research",
+			"screen_name": "CLER_Leeds",
+			"location": "Leeds, England",
+			"description": "Centre for Language Education Research (CLER), University of Leeds",
+			"url": "https://t.co/6GUNHqQWYz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6GUNHqQWYz",
+							"expanded_url": "https://cler.leeds.ac.uk/",
+							"display_url": "cler.leeds.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 170,
+			"listed_count": 8,
+			"created_at": "Tue Aug 21 11:09:20 +0000 2018",
+			"favourites_count": 374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036242298143748096/OHlE34Xr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036242298143748096/OHlE34Xr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031860801798328320/1534851845",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@GioFassetta now begins her talk on the role of stories in the design of an online language course: reflections on capabilities, identity and representation, with reference to an Online Arabic language course for beginners, aiming to give opportunities for remote work"
+	},
+	{
+		"created_at": "Tue May 18 14:43:15 +0000 2021",
+		"id": 1394664887834587100,
+		"id_str": "1394664887834587137",
+		"full_text": "@JPBGerald @Vijay_Ramjattan @ScottStillar Yes! Maybe assuming standardized written language is used by capital in its constant accumulation there's room for manoeuvre for non-written language?",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "ScottStillar",
+					"name": "Scott Stillar",
+					"id": 465358033,
+					"id_str": "465358033",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394644248897757200,
+		"in_reply_to_status_id_str": "1394644248897757193",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald @Vijay_Ramjattan @ScottStillar Yes! Maybe assuming standardized written language is used by capital in its constant accumulation there's room for manoeuvre for non-written language?"
+	},
+	{
+		"created_at": "Tue May 18 13:17:38 +0000 2021",
+		"id": 1394643342730961000,
+		"id_str": "1394643342730960907",
+		"full_text": "@Vijay_Ramjattan @JPBGerald @ScottStillar It's a difficult question and be worthwhile to get some handle on it",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "ScottStillar",
+					"name": "Scott Stillar",
+					"id": 465358033,
+					"id_str": "465358033",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394635604277796900,
+		"in_reply_to_status_id_str": "1394635604277796865",
+		"in_reply_to_user_id": 1041441864786763800,
+		"in_reply_to_user_id_str": "1041441864786763776",
+		"in_reply_to_screen_name": "Vijay_Ramjattan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Vijay_Ramjattan @JPBGerald @ScottStillar It's a difficult question and be worthwhile to get some handle on it"
+	},
+	{
+		"created_at": "Tue May 18 12:14:43 +0000 2021",
+		"id": 1394627507178066000,
+		"id_str": "1394627507178065922",
+		"full_text": "@JPBGerald @Vijay_Ramjattan @ScottStillar ok so if we take standardized writing, will oncoming parts tackle at all standardized writers own role in its reproduction and dissemination (after O'Regan 2021)?",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "ScottStillar",
+					"name": "Scott Stillar",
+					"id": 465358033,
+					"id_str": "465358033",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394624858710020000,
+		"in_reply_to_status_id_str": "1394624858710020101",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald @Vijay_Ramjattan @ScottStillar ok so if we take standardized writing, will oncoming parts tackle at all standardized writers own role in its reproduction and dissemination (after O'Regan 2021)?"
+	},
+	{
+		"created_at": "Tue May 18 11:56:13 +0000 2021",
+		"id": 1394622851198726100,
+		"id_str": "1394622851198726146",
+		"full_text": "@JPBGerald @Vijay_Ramjattan @ScottStillar thanks! it's not clear in article if you see standard langauge as an issue in speech, writing or both?",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JPBGerald",
+					"name": "JPB Gerald",
+					"id": 23435297,
+					"id_str": "23435297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "ScottStillar",
+					"name": "Scott Stillar",
+					"id": 465358033,
+					"id_str": "465358033",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394491712077242400,
+		"in_reply_to_status_id_str": "1394491712077242368",
+		"in_reply_to_user_id": 23435297,
+		"in_reply_to_user_id_str": "23435297",
+		"in_reply_to_screen_name": "JPBGerald",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2073,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JPBGerald @Vijay_Ramjattan @ScottStillar thanks! it's not clear in article if you see standard langauge as an issue in speech, writing or both?"
+	},
+	{
 		"created_at": "Mon May 17 20:31:31 +0000 2021",
 		"id": 1394327873088000000,
 		"id_str": "1394390144518692865",
@@ -1387,7 +3490,7 @@ Grailbird.data.tweets_2021_05 =
 		"created_at": "Mon May 17 10:02:40 +0000 2021",
 		"id": 1394231888500465700,
 		"id_str": "1394231888500465666",
-		"full_text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic - ​ \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\"",
+		"full_text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic -  \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\"",
 		"truncated": false,
 		"display_text_range": [
 			12,
@@ -1507,7 +3610,7 @@ Grailbird.data.tweets_2021_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic - ​ \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\""
+		"text": "@congabonga thought would try a Louw subtext search on \"cannot be * to\" and lol at one example from BNC Academic -  \"Nevertheless, although generalizations arrived at by legitimate inductions cannot be guaranteed to be perfectly true, they are probably true.\""
 	},
 	{
 		"created_at": "Mon May 17 09:54:01 +0000 2021",
