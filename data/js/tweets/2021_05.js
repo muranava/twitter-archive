@@ -1,6 +1,1181 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 20:19:57 +0000 2021",
+		"id": 1395112007641219000,
+		"id_str": "1395112007641219073",
+		"full_text": "@ElenLeFoll apparently no joke! the \"English Only\" movement in USA is pretty whacko",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElenLeFoll",
+					"name": "Elen Le Foll 🇫🇷 🇬🇧 🇩🇪 🇪🇺",
+					"id": 1007347536716234800,
+					"id_str": "1007347536716234752",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395111465397506000,
+		"in_reply_to_status_id_str": "1395111465397506057",
+		"in_reply_to_user_id": 1007347536716234800,
+		"in_reply_to_user_id_str": "1007347536716234752",
+		"in_reply_to_screen_name": "ElenLeFoll",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ElenLeFoll apparently no joke! the \"English Only\" movement in USA is pretty whacko"
+	},
+	{
+		"created_at": "Wed May 19 20:04:59 +0000 2021",
+		"id": 1395108242099949600,
+		"id_str": "1395108242099949569",
+		"full_text": "\"On two occasions I have read articles in which the writers object to the use of the phrase ‘English as a second language.’ The argument presented in both cases was that English is the greatest language on earth and therefore second to none.\" Cardenas(1992) quoted in Milroy(1999)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2076,
+			"friends_count": 2288,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"On two occasions I have read articles in which the writers object to the use of the phrase ‘English as a second language.’ The argument presented in both cases was that English is the greatest language on earth and therefore second to none.\" Cardenas(1992) quoted in Milroy(1999)"
+	},
+	{
+		"created_at": "Wed May 19 11:14:26 +0000 2021",
+		"id": 1394972784934129700,
+		"id_str": "1394974726565646343",
+		"full_text": "Well done, Aaron Mate. Unlike you, the western media either deny Hamas any chance to explain its actions or interrupt its spokespeople so aggressively nothing can be heard or learnt. We need to know more than one side of the narrative, Israel's, before we can judge both https://t.co/AvrMlBbNn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AvrMlBbNn8",
+					"expanded_url": "https://twitter.com/aaronjmate/status/1394797311994351618",
+					"display_url": "twitter.com/aaronjmate/sta…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2459644405,
+			"id_str": "2459644405",
+			"name": "Jonathan Cook",
+			"screen_name": "Jonathan_K_Cook",
+			"location": "Nazareth",
+			"description": "Journalist covering Israel-Palestine, self-appointed media critic. Winner of the Martha Gellhorn Special Prize for Journalism\nhttps://t.co/74qI4sqyOH",
+			"url": "https://t.co/INAsP2RSNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INAsP2RSNA",
+							"expanded_url": "https://www.jonathan-cook.net",
+							"display_url": "jonathan-cook.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/74qI4sqyOH",
+							"expanded_url": "https://paypal.me/cookjournalist",
+							"display_url": "paypal.me/cookjournalist",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43640,
+			"friends_count": 60,
+			"listed_count": 576,
+			"created_at": "Wed Apr 23 12:07:16 +0000 2014",
+			"favourites_count": 5894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2459644405/1398257807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394797311994351600,
+		"quoted_status_id_str": "1394797311994351618",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AvrMlBbNn8",
+			"expanded": "https://twitter.com/aaronjmate/status/1394797311994351618",
+			"display": "twitter.com/aaronjmate/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 23:29:27 +0000 2021",
+			"id": 1394797311994351600,
+			"id_str": "1394797311994351618",
+			"full_text": "I asked Hamas official Basem Naim about criticism of Hamas' decision to fire rockets in response to Israeli home thefts and attacks on worshippers in Jerusalem. \n\nThis is his response: (1/2) https://t.co/xZru9B8qn4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394796902420525000,
+						"id_str": "1394796902420525057",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394796902420525057/pu/img/7FOeHo5_96amu2kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394796902420525057/pu/img/7FOeHo5_96amu2kx.jpg",
+						"url": "https://t.co/xZru9B8qn4",
+						"display_url": "pic.twitter.com/xZru9B8qn4",
+						"expanded_url": "https://twitter.com/aaronjmate/status/1394797311994351618/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394796902420525000,
+						"id_str": "1394796902420525057",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394796902420525057/pu/img/7FOeHo5_96amu2kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394796902420525057/pu/img/7FOeHo5_96amu2kx.jpg",
+						"url": "https://t.co/xZru9B8qn4",
+						"display_url": "pic.twitter.com/xZru9B8qn4",
+						"expanded_url": "https://twitter.com/aaronjmate/status/1394797311994351618/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								107,
+								60
+							],
+							"duration_millis": 134884,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1394796902420525057/pu/vid/642x360/fhJgy4B5Kl9U1cUG.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1394796902420525057/pu/pl/C8z1-a_rewDr2knR.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1394796902420525057/pu/vid/480x270/kDy8_hrZHBbUyHIu.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1394796902420525057/pu/vid/1284x720/lvTj7C66ESFUfOFh.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1394791422671396900,
+			"in_reply_to_status_id_str": "1394791422671396870",
+			"in_reply_to_user_id": 153517357,
+			"in_reply_to_user_id_str": "153517357",
+			"in_reply_to_screen_name": "aaronjmate",
+			"user": {
+				"id": 153517357,
+				"id_str": "153517357",
+				"name": "Aaron Maté",
+				"screen_name": "aaronjmate",
+				"location": "Brooklyn, NY",
+				"description": "Host, @PushbackShow @TheGrayzoneNews. Coming soon: https://t.co/E8200HFqqS  aaronmate@protonmail.com",
+				"url": "https://t.co/PffUBjfRzS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PffUBjfRzS",
+								"expanded_url": "http://patreon.com/aaronmate",
+								"display_url": "patreon.com/aaronmate",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/E8200HFqqS",
+								"expanded_url": "https://mate.substack.com/",
+								"display_url": "mate.substack.com",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 133363,
+				"friends_count": 2675,
+				"listed_count": 1398,
+				"created_at": "Tue Jun 08 19:30:09 +0000 2010",
+				"favourites_count": 20618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32095,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291905873938448384/gnjEYxct_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291905873938448384/gnjEYxct_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153517357/1506268592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 250,
+			"favorite_count": 528,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 156,
+		"favorite_count": 308,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done, Aaron Mate. Unlike you, the western media either deny Hamas any chance to explain its actions or interrupt its spokespeople so aggressively nothing can be heard or learnt. We need to know more than one side of the narrative, Israel's, before we can judge both https://t.co/AvrMlBbNn8"
+	},
+	{
+		"created_at": "Wed May 19 11:12:14 +0000 2021",
+		"id": 1394964915455242200,
+		"id_str": "1394974173550845952",
+		"full_text": "The Fire Brigade have now officially left the scene. Global solidarity at work as @LeicsFBU join the ranks of the Italian dockworkers, Palestinian general strikers, and Palestine Action in expressing their solidarity through action #DirectActionGetsTheGoods https://t.co/xgqrBZPvyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DirectActionGetsTheGoods",
+					"indices": [
+						232,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeicsFBU",
+					"name": "Leicestershire FBU",
+					"id": 2421803904,
+					"id_str": "2421803904",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xgqrBZPvyy",
+					"expanded_url": "https://twitter.com/Pal_action/status/1394931342035542017",
+					"display_url": "twitter.com/Pal_action/sta…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288252277187371000,
+			"id_str": "1288252277187371012",
+			"name": "Palestine Action",
+			"screen_name": "Pal_action",
+			"location": "",
+			"description": "A direct action network demanding an end to UK complicity with Israeli apartheid #ShutElbitDown",
+			"url": "https://t.co/TU8dkuMcaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TU8dkuMcaK",
+							"expanded_url": "https://bit.ly/JoinResist",
+							"display_url": "bit.ly/JoinResist",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12000,
+			"friends_count": 275,
+			"listed_count": 65,
+			"created_at": "Tue Jul 28 23:17:42 +0000 2020",
+			"favourites_count": 3978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288252277187371012/1607279419",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394931342035542000,
+		"quoted_status_id_str": "1394931342035542017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xgqrBZPvyy",
+			"expanded": "https://twitter.com/Pal_action/status/1394931342035542017",
+			"display": "twitter.com/Pal_action/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 19 08:22:03 +0000 2021",
+			"id": 1394931342035542000,
+			"id_str": "1394931342035542017",
+			"full_text": "Fire engines on the ground to assist police, but the Fire Brigade Union @LeicsFBU are intervening to prevent their members removing activists &amp; enabling Israel's arms production in #Leicester. Solidarity with the #PalestineStrike now! https://t.co/vCMl9UDiYf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Leicester",
+						"indices": [
+							185,
+							195
+						]
+					},
+					{
+						"text": "PalestineStrike",
+						"indices": [
+							217,
+							233
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeicsFBU",
+						"name": "Leicestershire FBU",
+						"id": 2421803904,
+						"id_str": "2421803904",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1394931252843663400,
+						"id_str": "1394931252843663360",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/E1vKlXPWUAAX0wr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1vKlXPWUAAX0wr.jpg",
+						"url": "https://t.co/vCMl9UDiYf",
+						"display_url": "pic.twitter.com/vCMl9UDiYf",
+						"expanded_url": "https://twitter.com/Pal_action/status/1394931342035542017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394931252843663400,
+						"id_str": "1394931252843663360",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/E1vKlXPWUAAX0wr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1vKlXPWUAAX0wr.jpg",
+						"url": "https://t.co/vCMl9UDiYf",
+						"display_url": "pic.twitter.com/vCMl9UDiYf",
+						"expanded_url": "https://twitter.com/Pal_action/status/1394931342035542017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1288252277187371000,
+				"id_str": "1288252277187371012",
+				"name": "Palestine Action",
+				"screen_name": "Pal_action",
+				"location": "",
+				"description": "A direct action network demanding an end to UK complicity with Israeli apartheid #ShutElbitDown",
+				"url": "https://t.co/TU8dkuMcaK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TU8dkuMcaK",
+								"expanded_url": "https://bit.ly/JoinResist",
+								"display_url": "bit.ly/JoinResist",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12000,
+				"friends_count": 275,
+				"listed_count": 65,
+				"created_at": "Tue Jul 28 23:17:42 +0000 2020",
+				"favourites_count": 3978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 820,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288252277187371012/1607279419",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 840,
+			"favorite_count": 2231,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 409,
+		"favorite_count": 942,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Fire Brigade have now officially left the scene. Global solidarity at work as @LeicsFBU join the ranks of the Italian dockworkers, Palestinian general strikers, and Palestine Action in expressing their solidarity through action #DirectActionGetsTheGoods https://t.co/xgqrBZPvyy"
+	},
+	{
+		"created_at": "Wed May 19 11:01:43 +0000 2021",
+		"id": 1394880194972881000,
+		"id_str": "1394971525976150019",
+		"full_text": "Breaking: Palestine Action scales Elbit's UAV Tactical Systems site in #Leicester. Site occupied: Israel's arms production is now officially halted #ShutElbitDown https://t.co/riQo0vbHvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Leicester",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "ShutElbitDown",
+					"indices": [
+						148,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394880090580865000,
+					"id_str": "1394880090580865031",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ucDU9WUAc1CJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ucDU9WUAc1CJ6.jpg",
+					"url": "https://t.co/riQo0vbHvj",
+					"display_url": "pic.twitter.com/riQo0vbHvj",
+					"expanded_url": "https://twitter.com/Pal_action/status/1394880194972880900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394880090580865000,
+					"id_str": "1394880090580865031",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ucDU9WUAc1CJ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ucDU9WUAc1CJ6.jpg",
+					"url": "https://t.co/riQo0vbHvj",
+					"display_url": "pic.twitter.com/riQo0vbHvj",
+					"expanded_url": "https://twitter.com/Pal_action/status/1394880194972880900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394880090610311200,
+					"id_str": "1394880090610311168",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ucDVEXoAAMdKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ucDVEXoAAMdKK.jpg",
+					"url": "https://t.co/riQo0vbHvj",
+					"display_url": "pic.twitter.com/riQo0vbHvj",
+					"expanded_url": "https://twitter.com/Pal_action/status/1394880194972880900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394880090790576000,
+					"id_str": "1394880090790576130",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ucDVvWQAIPaOk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ucDVvWQAIPaOk.jpg",
+					"url": "https://t.co/riQo0vbHvj",
+					"display_url": "pic.twitter.com/riQo0vbHvj",
+					"expanded_url": "https://twitter.com/Pal_action/status/1394880194972880900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288252277187371000,
+			"id_str": "1288252277187371012",
+			"name": "Palestine Action",
+			"screen_name": "Pal_action",
+			"location": "",
+			"description": "A direct action network demanding an end to UK complicity with Israeli apartheid #ShutElbitDown",
+			"url": "https://t.co/TU8dkuMcaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TU8dkuMcaK",
+							"expanded_url": "https://bit.ly/JoinResist",
+							"display_url": "bit.ly/JoinResist",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12000,
+			"friends_count": 275,
+			"listed_count": 65,
+			"created_at": "Tue Jul 28 23:17:42 +0000 2020",
+			"favourites_count": 3978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288252277187371012/1607279419",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1996,
+		"favorite_count": 4320,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Breaking: Palestine Action scales Elbit's UAV Tactical Systems site in #Leicester. Site occupied: Israel's arms production is now officially halted #ShutElbitDown https://t.co/riQo0vbHvj"
+	},
+	{
 		"created_at": "Tue May 18 21:18:15 +0000 2021",
 		"id": 1394596279037141000,
 		"id_str": "1394764294068350980",
