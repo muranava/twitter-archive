@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 19:20:28 +0000 2021",
+		"id": 1395459427487072300,
+		"id_str": "1395459427487072258",
+		"full_text": "@MflTransform hi FYI people from NCELP who designed vocab syllabus be talking next Thursday 27 https://t.co/dgmIBrcap9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MflTransform",
+					"name": "Let's Transform MFL",
+					"id": 1009898196125061100,
+					"id_str": "1009898196125061120",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dgmIBrcap9",
+					"expanded_url": "https://drive.google.com/file/d/10YJ92ZSCRCGfKgnL6qA9ypy8KTf9tbOT/view",
+					"display_url": "drive.google.com/file/d/10YJ92Z…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1009898196125061100,
+		"in_reply_to_user_id_str": "1009898196125061120",
+		"in_reply_to_screen_name": "MflTransform",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2293,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MflTransform hi FYI people from NCELP who designed vocab syllabus be talking next Thursday 27 https://t.co/dgmIBrcap9"
+	},
+	{
+		"created_at": "Thu May 20 16:40:23 +0000 2021",
+		"id": 1395415341845647400,
+		"id_str": "1395419141021052929",
+		"full_text": "Jeremy telling it exactly like it is. \n\n“Underneath it all, the *real opposition* was to our international agenda that I put forward.” \n\nSome more from #SwindonAsksCorbyn ❤️ https://t.co/Bc7A81uZ55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SwindonAsksCorbyn",
+					"indices": [
+						152,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395415142591045600,
+					"id_str": "1395415142591045633",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395415142591045633/pu/img/aIJbJPqvxOYG_c_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395415142591045633/pu/img/aIJbJPqvxOYG_c_A.jpg",
+					"url": "https://t.co/Bc7A81uZ55",
+					"display_url": "pic.twitter.com/Bc7A81uZ55",
+					"expanded_url": "https://twitter.com/Rachael_Swindon/status/1395415341845647361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395415142591045600,
+					"id_str": "1395415142591045633",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395415142591045633/pu/img/aIJbJPqvxOYG_c_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395415142591045633/pu/img/aIJbJPqvxOYG_c_A.jpg",
+					"url": "https://t.co/Bc7A81uZ55",
+					"display_url": "pic.twitter.com/Bc7A81uZ55",
+					"expanded_url": "https://twitter.com/Rachael_Swindon/status/1395415341845647361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 109333,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395415142591045633/pu/vid/1280x720/3enrf9hVcz3wEJy0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395415142591045633/pu/vid/640x360/Ob_JtLzIlqg26D05.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395415142591045633/pu/vid/480x270/GflKp4nZsdqKC1SS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1395415142591045633/pu/pl/A_7XqxbkodK7s8a5.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2870848881,
+			"id_str": "2870848881",
+			"name": "Rachael Swindon",
+			"screen_name": "Rachael_Swindon",
+			"location": "Plague Island",
+			"description": "Mum | “The Woman Leading Jeremy Corbyn’s Twitter Army” - Buzzfeed | This space is for hire | #GTTO 🇵🇸 https://t.co/1SghrFLKIO",
+			"url": "https://t.co/GISHFhPhV9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GISHFhPhV9",
+							"expanded_url": "https://www.paypal.me/Rachael236",
+							"display_url": "paypal.me/Rachael236",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1SghrFLKIO",
+							"expanded_url": "https://rachaelswindon.blogspot.com",
+							"display_url": "rachaelswindon.blogspot.com",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81048,
+			"friends_count": 4619,
+			"listed_count": 503,
+			"created_at": "Mon Nov 10 17:29:10 +0000 2014",
+			"favourites_count": 212673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394814631579951109/siw94MqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394814631579951109/siw94MqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870848881/1619902504",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 337,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jeremy telling it exactly like it is. \n\n“Underneath it all, the *real opposition* was to our international agenda that I put forward.” \n\nSome more from #SwindonAsksCorbyn ❤️ https://t.co/Bc7A81uZ55"
+	},
+	{
+		"created_at": "Thu May 20 14:16:44 +0000 2021",
+		"id": 1395351826149556200,
+		"id_str": "1395382991397048323",
+		"full_text": "The #Palestinian Ministry of Education: 46 of the public schools in #Gaza were damaged by the Israeli Air Forces",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Palestinian",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"text": "Gaza",
+					"indices": [
+						68,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819895142,
+			"id_str": "819895142",
+			"name": "Alaa Daraghme",
+			"screen_name": "AlaaDaraghme",
+			"location": "Palestine - Ramallah",
+			"description": "Journalist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4028,
+			"friends_count": 1516,
+			"listed_count": 60,
+			"created_at": "Wed Sep 12 16:32:21 +0000 2012",
+			"favourites_count": 1301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232337313499357189/CeIzWgid_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232337313499357189/CeIzWgid_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819895142/1512560249",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 712,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The #Palestinian Ministry of Education: 46 of the public schools in #Gaza were damaged by the Israeli Air Forces"
+	},
+	{
+		"created_at": "Thu May 20 14:10:05 +0000 2021",
+		"id": 1395379566844252200,
+		"id_str": "1395381316561027075",
+		"full_text": "SATAWU are against these acts of provocation&amp;slaughter by a state intent on recreating neo-colonial conditions by borrowing the repertories of apartheid...The actions of apartheid-Israel must be met with equal resistance&amp;condemnation that was part&amp;parcel of the antiapartheid movt https://t.co/FfrBb8lVS4 https://t.co/T3Z8ZcEBOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			316
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfrBb8lVS4",
+					"expanded_url": "https://twitter.com/marcusbarnett_/status/1395376053984628739",
+					"display_url": "twitter.com/marcusbarnett_…",
+					"indices": [
+						293,
+						316
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395379513585016800,
+					"id_str": "1395379513585016849",
+					"indices": [
+						317,
+						340
+					],
+					"media_url": "http://pbs.twimg.com/media/E11iRkoXoBEBYsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11iRkoXoBEBYsA.jpg",
+					"url": "https://t.co/T3Z8ZcEBOw",
+					"display_url": "pic.twitter.com/T3Z8ZcEBOw",
+					"expanded_url": "https://twitter.com/ilyas_nagdee/status/1395379566844252164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395379513585016800,
+					"id_str": "1395379513585016849",
+					"indices": [
+						317,
+						340
+					],
+					"media_url": "http://pbs.twimg.com/media/E11iRkoXoBEBYsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11iRkoXoBEBYsA.jpg",
+					"url": "https://t.co/T3Z8ZcEBOw",
+					"display_url": "pic.twitter.com/T3Z8ZcEBOw",
+					"expanded_url": "https://twitter.com/ilyas_nagdee/status/1395379566844252164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 1012,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1012,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395379525475782700,
+					"id_str": "1395379525475782660",
+					"indices": [
+						317,
+						340
+					],
+					"media_url": "http://pbs.twimg.com/media/E11iSQ7WUAQzg6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11iSQ7WUAQzg6h.jpg",
+					"url": "https://t.co/T3Z8ZcEBOw",
+					"display_url": "pic.twitter.com/T3Z8ZcEBOw",
+					"expanded_url": "https://twitter.com/ilyas_nagdee/status/1395379566844252164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 657,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395379537651937300,
+					"id_str": "1395379537651937292",
+					"indices": [
+						317,
+						340
+					],
+					"media_url": "http://pbs.twimg.com/media/E11iS-SXsAwQsqJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11iS-SXsAwQsqJ.jpg",
+					"url": "https://t.co/T3Z8ZcEBOw",
+					"display_url": "pic.twitter.com/T3Z8ZcEBOw",
+					"expanded_url": "https://twitter.com/ilyas_nagdee/status/1395379566844252164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1564,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395379551337865200,
+					"id_str": "1395379551337865216",
+					"indices": [
+						317,
+						340
+					],
+					"media_url": "http://pbs.twimg.com/media/E11iTxRWYAAGgsx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11iTxRWYAAGgsx.jpg",
+					"url": "https://t.co/T3Z8ZcEBOw",
+					"display_url": "pic.twitter.com/T3Z8ZcEBOw",
+					"expanded_url": "https://twitter.com/ilyas_nagdee/status/1395379566844252164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 823,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4765348675,
+			"id_str": "4765348675",
+			"name": "Ilyas Nagdee",
+			"screen_name": "ilyas_nagdee",
+			"location": ".",
+			"description": "abolition is a global struggle // words in @guardian @independent @tribunemagazine etc // has opinions, sometimes tweets them",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7550,
+			"friends_count": 1906,
+			"listed_count": 29,
+			"created_at": "Fri Jan 15 23:42:37 +0000 2016",
+			"favourites_count": 5044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280855356177108995/PFz95QWM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280855356177108995/PFz95QWM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4765348675/1621290129",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395376053984628700,
+		"quoted_status_id_str": "1395376053984628739",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FfrBb8lVS4",
+			"expanded": "https://twitter.com/marcusbarnett_/status/1395376053984628739",
+			"display": "twitter.com/marcusbarnett_…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 20 13:49:10 +0000 2021",
+			"id": 1395376053984628700,
+			"id_str": "1395376053984628739",
+			"full_text": "Solidarity to the dockers of Durban, South Africa, who are refusing to unload goods from a ship owned by the Israeli state - a people who know what apartheid looks like, and continue to resist it.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1928654744,
+				"id_str": "1928654744",
+				"name": "Marcus Barnett",
+				"screen_name": "marcusbarnett_",
+				"location": "",
+				"description": "Because things are the way they are, things won't stay the way they are. Work for @CWUnews and associate editor @tribunemagazine. Opinions entirely my own!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15339,
+				"friends_count": 4188,
+				"listed_count": 56,
+				"created_at": "Thu Oct 03 00:02:46 +0000 2013",
+				"favourites_count": 34875,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1385254859969028101/VHHNtrzL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385254859969028101/VHHNtrzL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1928654744/1617809730",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2409,
+			"favorite_count": 9746,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SATAWU are against these acts of provocation&amp;slaughter by a state intent on recreating neo-colonial conditions by borrowing the repertories of apartheid...The actions of apartheid-Israel must be met with equal resistance&amp;condemnation that was part&amp;parcel of the antiapartheid movt https://t.co/FfrBb8lVS4 https://t.co/T3Z8ZcEBOw"
+	},
+	{
+		"created_at": "Thu May 20 11:43:25 +0000 2021",
+		"id": 1395344406429974500,
+		"id_str": "1395344406429974536",
+		"full_text": "A knowledge-based vocabulary list based on demonstrated knowledge of vocabulary https://t.co/yQgalibDxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yQgalibDxn",
+					"expanded_url": "https://sites.google.com/sheffield.ac.uk/baalvocabulary/presentations/schmitt-osullivan-anthony-dunn-and-kremmel?authuser=0#h.co9ftocfg4z2",
+					"display_url": "sites.google.com/sheffield.ac.u…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 2293,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A knowledge-based vocabulary list based on demonstrated knowledge of vocabulary https://t.co/yQgalibDxn"
+	},
+	{
 		"created_at": "Wed May 19 20:19:57 +0000 2021",
 		"id": 1395112007641219000,
 		"id_str": "1395112007641219073",
