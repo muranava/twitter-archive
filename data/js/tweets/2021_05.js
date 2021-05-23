@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 19:34:13 +0000 2021",
+		"id": 1396187661388468200,
+		"id_str": "1396187661388468229",
+		"full_text": "When it's not passive, but it *feels* passive https://t.co/CujioLrRQW via @Futurealisreal",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Futurealisreal",
+					"name": "Mark Makino",
+					"id": 1740448560,
+					"id_str": "1740448560",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CujioLrRQW",
+					"expanded_url": "https://futurealisreal.wordpress.com/2021/05/17/when-its-not-passive-but-it-feels-passive/",
+					"display_url": "futurealisreal.wordpress.com/2021/05/17/whe…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2078,
+			"friends_count": 2304,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When it's not passive, but it *feels* passive https://t.co/CujioLrRQW via @Futurealisreal"
+	},
+	{
+		"created_at": "Sat May 22 13:27:10 +0000 2021",
+		"id": 1396095291946938400,
+		"id_str": "1396095291946938368",
+		"full_text": "@efficiencyanado @ELTResearch How would that moderate the later graph showing no correlation between receptive (form-recognition) knowledge &amp; productive (form-recall) knowledge?",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "efficiencyanado",
+					"name": "Dónal Fogarty",
+					"id": 1284187082,
+					"id_str": "1284187082",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ELTResearch",
+					"name": "Chris Jones",
+					"id": 3308043417,
+					"id_str": "3308043417",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1396094305408888800,
+		"in_reply_to_status_id_str": "1396094305408888836",
+		"in_reply_to_user_id": 1284187082,
+		"in_reply_to_user_id_str": "1284187082",
+		"in_reply_to_screen_name": "efficiencyanado",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2078,
+			"friends_count": 2304,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@efficiencyanado @ELTResearch How would that moderate the later graph showing no correlation between receptive (form-recognition) knowledge &amp; productive (form-recall) knowledge?"
+	},
+	{
+		"created_at": "Sat May 22 12:53:45 +0000 2021",
+		"id": 1395986894681305000,
+		"id_str": "1396086882409369600",
+		"full_text": "He is the father of hybrid rice which helped ppl no longer suffer from famine.\nIt's growing in China, Africa, Vietnam, Indonesia, The Philippines, the US.\nHis dream was to benefit all mankind.\nToday, he passed away. \nWe'll forever remember ur contribution, RIP, Mr Yuan Longping. https://t.co/oz2QuKUK92",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395984578947403800,
+					"id_str": "1395984578947403781",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E1-IlAwVUAU3xCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1-IlAwVUAU3xCG.jpg",
+					"url": "https://t.co/oz2QuKUK92",
+					"display_url": "pic.twitter.com/oz2QuKUK92",
+					"expanded_url": "https://twitter.com/Jingjing_Li/status/1395986894681305090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395984578947403800,
+					"id_str": "1395984578947403781",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E1-IlAwVUAU3xCG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1-IlAwVUAU3xCG.jpg",
+					"url": "https://t.co/oz2QuKUK92",
+					"display_url": "pic.twitter.com/oz2QuKUK92",
+					"expanded_url": "https://twitter.com/Jingjing_Li/status/1395986894681305090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 868,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 352561706,
+			"id_str": "352561706",
+			"name": "Jingjing Li 李菁菁",
+			"screen_name": "Jingjing_Li",
+			"location": "Beijing, China",
+			"description": "A traveler, a journalist, a Chinese and a lie-debunker! Anti-war, anti-racism, anti-bias. Views are my own. YT: Jingjing Li, FB: Talk It Out with Li Jingjing",
+			"url": "https://t.co/JJgL42kmox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JJgL42kmox",
+							"expanded_url": "http://www.youtube.com/c/JingjingLi_China",
+							"display_url": "youtube.com/c/JingjingLi_C…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20550,
+			"friends_count": 480,
+			"listed_count": 119,
+			"created_at": "Wed Aug 10 20:01:24 +0000 2011",
+			"favourites_count": 2852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1375994670212247554/Y9kVvTkG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375994670212247554/Y9kVvTkG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/352561706/1597878854",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 927,
+		"favorite_count": 4158,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "He is the father of hybrid rice which helped ppl no longer suffer from famine.\nIt's growing in China, Africa, Vietnam, Indonesia, The Philippines, the US.\nHis dream was to benefit all mankind.\nToday, he passed away. \nWe'll forever remember ur contribution, RIP, Mr Yuan Longping. https://t.co/oz2QuKUK92"
+	},
+	{
+		"created_at": "Sat May 22 12:43:54 +0000 2021",
+		"id": 1396078670943510500,
+		"id_str": "1396084404959780867",
+		"full_text": "I've been thinking about the differences between how Conor Friedersdorf and Adam Serwer, both writers at The Atlantic, approached the refusal of tenure for Nikole Hannah-Jones by the UNC Board of Governors. They're good examples to help students see how writers make choices.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136277952,
+			"id_str": "136277952",
+			"name": "John Warner",
+			"screen_name": "biblioracle",
+			"location": "South Carolina",
+			"description": "WHY THEY CAN'T WRITE & THE WRITER'S PRACTICE, both on sale everywhere. Soon: SUSTAINABLE. RESILIENT. FREE: THE FUTURE OF PUBLIC HIGHER EDUCATION.",
+			"url": "https://t.co/hZw4o3lZJc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZw4o3lZJc",
+							"expanded_url": "https://www.johnwarnerwriter.com",
+							"display_url": "johnwarnerwriter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15806,
+			"friends_count": 2484,
+			"listed_count": 325,
+			"created_at": "Fri Apr 23 13:47:49 +0000 2010",
+			"favourites_count": 23991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322180726029225988/M8pkpubc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322180726029225988/M8pkpubc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136277952/1604067385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 1411,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I've been thinking about the differences between how Conor Friedersdorf and Adam Serwer, both writers at The Atlantic, approached the refusal of tenure for Nikole Hannah-Jones by the UNC Board of Governors. They're good examples to help students see how writers make choices."
+	},
+	{
+		"created_at": "Sat May 22 08:16:27 +0000 2021",
+		"id": 1395849693700231200,
+		"id_str": "1396017098833465346",
+		"full_text": "La France : Pays des Devoirs de l'Homme\nhttps://t.co/ggSjv6Pt59 https://t.co/CmG4c5pdHM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ggSjv6Pt59",
+					"expanded_url": "https://twitter.com/BFMTV/status/1395812493201657857",
+					"display_url": "twitter.com/BFMTV/status/1…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395849659554451500,
+					"id_str": "1395849659554451460",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E18N3q2X0AQ0whk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18N3q2X0AQ0whk.jpg",
+					"url": "https://t.co/CmG4c5pdHM",
+					"display_url": "pic.twitter.com/CmG4c5pdHM",
+					"expanded_url": "https://twitter.com/caissesdegreve/status/1395849693700231169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395849659554451500,
+					"id_str": "1395849659554451460",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E18N3q2X0AQ0whk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18N3q2X0AQ0whk.jpg",
+					"url": "https://t.co/CmG4c5pdHM",
+					"display_url": "pic.twitter.com/CmG4c5pdHM",
+					"expanded_url": "https://twitter.com/caissesdegreve/status/1395849693700231169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1209456196916301800,
+			"id_str": "1209456196916301824",
+			"name": "Caisses de grève",
+			"screen_name": "caissesdegreve",
+			"location": "",
+			"description": "Recensement des caisses de grève en ligne et vidéos diverses",
+			"url": "https://t.co/lsI5MvKPZd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lsI5MvKPZd",
+							"expanded_url": "http://caissesdegreve.fr",
+							"display_url": "caissesdegreve.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8869,
+			"friends_count": 212,
+			"listed_count": 50,
+			"created_at": "Tue Dec 24 12:50:13 +0000 2019",
+			"favourites_count": 5006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239891411564191745/s1D9fg4W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239891411564191745/s1D9fg4W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1209456196916301824/1577199552",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395812493201657900,
+		"quoted_status_id_str": "1395812493201657857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ggSjv6Pt59",
+			"expanded": "https://twitter.com/BFMTV/status/1395812493201657857",
+			"display": "twitter.com/BFMTV/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 18:43:25 +0000 2021",
+			"id": 1395812493201657900,
+			"id_str": "1395812493201657857",
+			"full_text": "Emmanuel Macron aux sans papiers: \"Vous avez des devoirs avant d'avoir des droits\"\nhttps://t.co/EUykl8PlZW https://t.co/YcneS08U3b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EUykl8PlZW",
+						"expanded_url": "https://www.bfmtv.com/politique/emmanuel-macron-aux-sans-papiers-vous-avez-des-devoirs-avant-d-avoir-des-droits_AD-202105210439.html",
+						"display_url": "bfmtv.com/politique/emma…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1395812485068992500,
+						"id_str": "1395812485068992516",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/E17sD1GXsAQp3Lr.png",
+						"media_url_https": "https://pbs.twimg.com/media/E17sD1GXsAQp3Lr.png",
+						"url": "https://t.co/YcneS08U3b",
+						"display_url": "pic.twitter.com/YcneS08U3b",
+						"expanded_url": "https://twitter.com/BFMTV/status/1395812493201657857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395812485068992500,
+						"id_str": "1395812485068992516",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/E17sD1GXsAQp3Lr.png",
+						"media_url_https": "https://pbs.twimg.com/media/E17sD1GXsAQp3Lr.png",
+						"url": "https://t.co/YcneS08U3b",
+						"display_url": "pic.twitter.com/YcneS08U3b",
+						"expanded_url": "https://twitter.com/BFMTV/status/1395812493201657857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133663801,
+				"id_str": "133663801",
+				"name": "BFMTV",
+				"screen_name": "BFMTV",
+				"location": "France",
+				"description": "Première sur l'info. Retrouvez-nous sur Snapchat/Instagram ➡ bfmtv",
+				"url": "https://t.co/Mjm8y6dGAC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mjm8y6dGAC",
+								"expanded_url": "http://www.bfmtv.com",
+								"display_url": "bfmtv.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3070292,
+				"friends_count": 581,
+				"listed_count": 9564,
+				"created_at": "Fri Apr 16 09:55:26 +0000 2010",
+				"favourites_count": 793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 536092,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1277C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165822715732930565/uz3J1eOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133663801/1620635028",
+				"profile_link_color": "1277C9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 231,
+			"favorite_count": 1131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 250,
+		"favorite_count": 631,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "La France : Pays des Devoirs de l'Homme\nhttps://t.co/ggSjv6Pt59 https://t.co/CmG4c5pdHM"
+	},
+	{
 		"created_at": "Fri May 21 18:38:10 +0000 2021",
 		"id": 1395811168653021200,
 		"id_str": "1395811168653021187",
