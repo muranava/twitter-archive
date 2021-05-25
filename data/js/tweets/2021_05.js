@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 24 17:33:09 +0000 2021",
+		"id": 1396878482546823200,
+		"id_str": "1396881971981209603",
+		"full_text": "Activists from @Pal_action force shutdown of Israeli weapons factory in UK -- @MElmaazi https://t.co/zP4gv1ajEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pal_action",
+					"name": "Palestine Action",
+					"id": 1288252277187371000,
+					"id_str": "1288252277187371012",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "MElmaazi",
+					"name": "Mohamed Elmaazi",
+					"id": 2748355923,
+					"id_str": "2748355923",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zP4gv1ajEO",
+					"expanded_url": "https://electronicintifada.net/content/activists-force-shutdown-israeli-weapons-factory-uk/33221",
+					"display_url": "electronicintifada.net/content/activi…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75033178,
+			"id_str": "75033178",
+			"name": "Asa Winstanley",
+			"screen_name": "AsaWinstanley",
+			"location": "London, UK",
+			"description": "Investigative journalist & podcaster with @Intifada • \"Narrative dominance\" - the CST • https://t.co/75ZE7qx7TM • https://t.co/SKGXsVRwIG",
+			"url": "https://t.co/OFDQOi3fKW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFDQOi3fKW",
+							"expanded_url": "https://asawinstanley.substack.com",
+							"display_url": "asawinstanley.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/75ZE7qx7TM",
+							"expanded_url": "http://asawinstanley.com",
+							"display_url": "asawinstanley.com",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/SKGXsVRwIG",
+							"expanded_url": "https://electronicintifada.net/people/asa-winstanley",
+							"display_url": "electronicintifada.net/people/asa-win…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 52735,
+			"friends_count": 2316,
+			"listed_count": 845,
+			"created_at": "Thu Sep 17 15:06:25 +0000 2009",
+			"favourites_count": 5641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768804969415864320/yPKHEE6W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768804969415864320/yPKHEE6W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75033178/1617467150",
+			"profile_link_color": "08088A",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 465,
+		"favorite_count": 947,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Activists from @Pal_action force shutdown of Israeli weapons factory in UK -- @MElmaazi https://t.co/zP4gv1ajEO"
+	},
+	{
+		"created_at": "Mon May 24 11:17:40 +0000 2021",
+		"id": 1396655947678818300,
+		"id_str": "1396787479152406528",
+		"full_text": "Should our teaching practices be based on research? I speak with @ebefl to find out about #evidencebased and #evidenceinformed language teaching\nhttps://t.co/1mwXIBVTuG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "evidencebased",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"text": "evidenceinformed",
+					"indices": [
+						109,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebefl",
+					"name": "Russ Mayne",
+					"id": 2228367554,
+					"id_str": "2228367554",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1mwXIBVTuG",
+					"expanded_url": "https://www.tefltraininginstitute.com/podcast/2021/4/2/using-research-to-improve-teaching-with-russ-mayne",
+					"display_url": "tefltraininginstitute.com/podcast/2021/4…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3153403829,
+			"id_str": "3153403829",
+			"name": "Ross Thorburn",
+			"screen_name": "ross_thorburn",
+			"location": "Shanghai, China",
+			"description": "ELT trainer, manager and podcaster living in China",
+			"url": "https://t.co/qss1OhMkTB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qss1OhMkTB",
+							"expanded_url": "http://www.tefltraininginstitute.com",
+							"display_url": "tefltraininginstitute.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938,
+			"friends_count": 645,
+			"listed_count": 7,
+			"created_at": "Fri Apr 10 10:08:09 +0000 2015",
+			"favourites_count": 184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/696871960366620672/cZ-VtjAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/696871960366620672/cZ-VtjAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3153403829/1602471646",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should our teaching practices be based on research? I speak with @ebefl to find out about #evidencebased and #evidenceinformed language teaching\nhttps://t.co/1mwXIBVTuG"
+	},
+	{
 		"created_at": "Sun May 23 17:30:18 +0000 2021",
 		"id": 1396518865144791000,
 		"id_str": "1396518865144791040",
