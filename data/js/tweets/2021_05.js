@@ -1,6 +1,755 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 18:48:17 +0000 2021",
+		"id": 1397988045085982700,
+		"id_str": "1397988045085982721",
+		"full_text": "@JWGrieve @lexicoj0hn @tovelarsson1 Yes; re sample &amp; representation, I like Bill Louw stating that a more exciting project is Can a corpus ever be too representative? : ) he uses the Sizewell B corpus as revealing too much ideology about courtrooms &amp; negotiation",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "lexicoj0hn",
+					"name": "John X Williams",
+					"id": 4008981801,
+					"id_str": "4008981801",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "tovelarsson1",
+					"name": "Tove Larsson",
+					"id": 564888944,
+					"id_str": "564888944",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1397980897031381000,
+		"in_reply_to_status_id_str": "1397980897031381002",
+		"in_reply_to_user_id": 2950391813,
+		"in_reply_to_user_id_str": "2950391813",
+		"in_reply_to_screen_name": "JWGrieve",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2323,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWGrieve @lexicoj0hn @tovelarsson1 Yes; re sample &amp; representation, I like Bill Louw stating that a more exciting project is Can a corpus ever be too representative? : ) he uses the Sizewell B corpus as revealing too much ideology about courtrooms &amp; negotiation"
+	},
+	{
+		"created_at": "Thu May 27 18:04:22 +0000 2021",
+		"id": 1397976990662152200,
+		"id_str": "1397976990662152195",
+		"full_text": "@JWGrieve @tovelarsson1 Collection is broader than sample? E.g. we have a collection of Shakespeare texts not a sample?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tovelarsson1",
+					"name": "Tove Larsson",
+					"id": 564888944,
+					"id_str": "564888944",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1397968598962954200,
+		"in_reply_to_status_id_str": "1397968598962954244",
+		"in_reply_to_user_id": 2950391813,
+		"in_reply_to_user_id_str": "2950391813",
+		"in_reply_to_screen_name": "JWGrieve",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2323,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JWGrieve @tovelarsson1 Collection is broader than sample? E.g. we have a collection of Shakespeare texts not a sample?"
+	},
+	{
+		"created_at": "Thu May 27 13:01:23 +0000 2021",
+		"id": 1397899170107822000,
+		"id_str": "1397900742174838786",
+		"full_text": "The police may try and intimidate us with fictitious charges of “blackmail”, but nothing will stop the movement to #ShutElbitDown https://t.co/YnBnClg10N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShutElbitDown",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397899034296258600,
+					"id_str": "1397899034296258560",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397899034296258560/pu/img/qUlTEQ3I6P7UP6oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397899034296258560/pu/img/qUlTEQ3I6P7UP6oo.jpg",
+					"url": "https://t.co/YnBnClg10N",
+					"display_url": "pic.twitter.com/YnBnClg10N",
+					"expanded_url": "https://twitter.com/Pal_action/status/1397899170107822083/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397899034296258600,
+					"id_str": "1397899034296258560",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397899034296258560/pu/img/qUlTEQ3I6P7UP6oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397899034296258560/pu/img/qUlTEQ3I6P7UP6oo.jpg",
+					"url": "https://t.co/YnBnClg10N",
+					"display_url": "pic.twitter.com/YnBnClg10N",
+					"expanded_url": "https://twitter.com/Pal_action/status/1397899170107822083/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45002,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397899034296258560/pu/vid/480x270/-0oRVYthWV-qc9DV.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397899034296258560/pu/vid/640x360/rW41MQY73BejPP6r.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1397899034296258560/pu/pl/nPvwUv5MlPIW5yDz.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288252277187371000,
+			"id_str": "1288252277187371012",
+			"name": "Palestine Action",
+			"screen_name": "Pal_action",
+			"location": "",
+			"description": "A direct action network demanding an end to UK complicity with Israeli apartheid #ShutElbitDown",
+			"url": "https://t.co/TU8dkuMcaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TU8dkuMcaK",
+							"expanded_url": "https://bit.ly/JoinResist",
+							"display_url": "bit.ly/JoinResist",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16563,
+			"friends_count": 287,
+			"listed_count": 80,
+			"created_at": "Tue Jul 28 23:17:42 +0000 2020",
+			"favourites_count": 4068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344678880523771906/JDNolOpI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288252277187371012/1607279419",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 903,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The police may try and intimidate us with fictitious charges of “blackmail”, but nothing will stop the movement to #ShutElbitDown https://t.co/YnBnClg10N"
+	},
+	{
+		"created_at": "Thu May 27 10:25:39 +0000 2021",
+		"id": 1397844334221926400,
+		"id_str": "1397861549323268097",
+		"full_text": "NEW: Trade union membership among employees has risen for four years in a row.\n\nUp by 118,000 over the past year. And over 328,000 over the past four years.\n\nThe last time four years of growth happened was the late 1970s.\n\n🧵... https://t.co/h7o1ralA12",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397842371405045800,
+					"id_str": "1397842371405045761",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E2YiOw-WYAEbcOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2YiOw-WYAEbcOM.jpg",
+					"url": "https://t.co/h7o1ralA12",
+					"display_url": "pic.twitter.com/h7o1ralA12",
+					"expanded_url": "https://twitter.com/dan_tomlinson_/status/1397844334221926400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397842371405045800,
+					"id_str": "1397842371405045761",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E2YiOw-WYAEbcOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2YiOw-WYAEbcOM.jpg",
+					"url": "https://t.co/h7o1ralA12",
+					"display_url": "pic.twitter.com/h7o1ralA12",
+					"expanded_url": "https://twitter.com/dan_tomlinson_/status/1397844334221926400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21243066,
+			"id_str": "21243066",
+			"name": "Daniel Tomlinson",
+			"screen_name": "dan_tomlinson_",
+			"location": "Tower Hamlets",
+			"description": "Senior Economist @resfoundation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2735,
+			"friends_count": 1740,
+			"listed_count": 35,
+			"created_at": "Wed Feb 18 21:29:01 +0000 2009",
+			"favourites_count": 1276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229768634211368961/RWQbMMuR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229768634211368961/RWQbMMuR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21243066/1404905989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 200,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: Trade union membership among employees has risen for four years in a row.\n\nUp by 118,000 over the past year. And over 328,000 over the past four years.\n\nThe last time four years of growth happened was the late 1970s.\n\n🧵... https://t.co/h7o1ralA12"
+	},
+	{
+		"created_at": "Thu May 27 08:05:16 +0000 2021",
+		"id": 1397468485597515800,
+		"id_str": "1397826224454606849",
+		"full_text": "As Saint Dom offers his unique brand of self-exculpatory truth to the country today, a reminder that his self-interest and wholesale ignorance of the rule of law posed a very real threat to our justice system during his fifteen minutes of power. [THREAD]\n\n👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3297800601,
+			"id_str": "3297800601",
+			"name": "The Secret Barrister",
+			"screen_name": "BarristerSecret",
+			"location": "The Criminal Courts",
+			"description": "Wears a black cape and fights crime. Not Batman. • Author of award-winning No.1 bestseller The Secret Barrister. New Sunday Times bestseller, #FakeLaw, out now.",
+			"url": "https://t.co/mBqX1Ish90",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mBqX1Ish90",
+							"expanded_url": "http://www.thesecretbarrister.com",
+							"display_url": "thesecretbarrister.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441914,
+			"friends_count": 1017,
+			"listed_count": 1259,
+			"created_at": "Mon May 25 14:21:29 +0000 2015",
+			"favourites_count": 69063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021151407045595136/okNMGQCU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021151407045595136/okNMGQCU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3297800601/1622067795",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1276,
+		"favorite_count": 4324,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As Saint Dom offers his unique brand of self-exculpatory truth to the country today, a reminder that his self-interest and wholesale ignorance of the rule of law posed a very real threat to our justice system during his fifteen minutes of power. [THREAD]\n\n👇"
+	},
+	{
 		"created_at": "Wed May 26 18:41:16 +0000 2021",
 		"id": 1397565631055253500,
 		"id_str": "1397623887513497611",
