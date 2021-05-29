@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 19:05:41 +0000 2021",
+		"id": 1398353701299966000,
+		"id_str": "1398354809032429572",
+		"full_text": "Lord Geidt secretly sat on the Privy Council of a Gulf regime, which has spent the last 6 days stamping out popular protests against corruption. But you'll struggle to find any reference to Geidt's seat, or the protests, in Britain's fearless free press. \n\nhttps://t.co/yFnZi5vvE2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397481008098861000,
+					"id_str": "1397481008098861057",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E2TbE3kWUAQlrJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2TbE3kWUAQlrJv.jpg",
+					"url": "https://t.co/yFnZi5vvE2",
+					"display_url": "pic.twitter.com/yFnZi5vvE2",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1397484875960160256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1397484875960160300,
+					"source_status_id_str": "1397484875960160256",
+					"source_user_id": 1084523178444099600,
+					"source_user_id_str": "1084523178444099584"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397481008098861000,
+					"id_str": "1397481008098861057",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E2TbE3kWUAQlrJv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2TbE3kWUAQlrJv.jpg",
+					"url": "https://t.co/yFnZi5vvE2",
+					"display_url": "pic.twitter.com/yFnZi5vvE2",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1397484875960160256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1397484875960160300,
+					"source_status_id_str": "1397484875960160256",
+					"source_user_id": 1084523178444099600,
+					"source_user_id_str": "1084523178444099584",
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							329
+						],
+						"duration_millis": 139840,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1397481008098861057/vid/294x270/TIlVYxie9fyGRmvM.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1397481008098861057/vid/720x658/e9xrbP_yFqw7oWbL.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1397481008098861057/vid/392x360/AFEukQv2zfUDWzEU.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1397481008098861057/pl/hnrmLJD_GkC0KWx-.m3u8?tag=14&v=9d7"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Oman rises up",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1084523178444099600,
+							"id_str": "1084523178444099584",
+							"name": "Declassified UK",
+							"screen_name": "declassifiedUK",
+							"location": "United Kingdom",
+							"description": "Uncovering Britain's role in the world. Public service journalism investigating UK foreign, military, intelligence & economic policies. Edited by @MarkCurtis30",
+							"url": "https://t.co/LuLfFeMKvi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/LuLfFeMKvi",
+											"expanded_url": "https://linktr.ee/DeclassifiedUK",
+											"display_url": "linktr.ee/DeclassifiedUK",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 55062,
+							"friends_count": 547,
+							"listed_count": 368,
+							"created_at": "Sun Jan 13 18:50:50 +0000 2019",
+							"favourites_count": 1462,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2930,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1313032041617817600/8FKh5TW4_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313032041617817600/8FKh5TW4_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084523178444099584/1601879931",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594641380,
+			"id_str": "2594641380",
+			"name": "Phil Miller",
+			"screen_name": "pmillerinfo",
+			"location": "",
+			"description": "Staff reporter for @DeclassifiedUK - covering protests in Oman.\n*To contact me securely* please use Protonmail and email: phil@declassifieduk.org",
+			"url": "https://t.co/2j7BzQuhQv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2j7BzQuhQv",
+							"expanded_url": "http://www.philmiller.info/about",
+							"display_url": "philmiller.info/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10793,
+			"friends_count": 1336,
+			"listed_count": 70,
+			"created_at": "Sun Jun 29 11:32:29 +0000 2014",
+			"favourites_count": 1314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594641380/1608646463",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lord Geidt secretly sat on the Privy Council of a Gulf regime, which has spent the last 6 days stamping out popular protests against corruption. But you'll struggle to find any reference to Geidt's seat, or the protests, in Britain's fearless free press. \n\nhttps://t.co/yFnZi5vvE2"
+	},
+	{
+		"created_at": "Fri May 28 09:20:04 +0000 2021",
+		"id": 1398207435479867400,
+		"id_str": "1398207435479867392",
+		"full_text": "@leoselivan some interesting stuff in the Composition 1 &amp;\nComposition 2 links here - https://t.co/O1h0rPdOzt",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leoselivan",
+					"name": "Lexical Leo",
+					"id": 408365496,
+					"id_str": "408365496",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O1h0rPdOzt",
+					"expanded_url": "https://papyr.com/",
+					"display_url": "papyr.com",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1397129700489715700,
+		"in_reply_to_status_id_str": "1397129700489715715",
+		"in_reply_to_user_id": 408365496,
+		"in_reply_to_user_id_str": "408365496",
+		"in_reply_to_screen_name": "leoselivan",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2327,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@leoselivan some interesting stuff in the Composition 1 &amp;\nComposition 2 links here - https://t.co/O1h0rPdOzt"
+	},
+	{
+		"created_at": "Fri May 28 08:17:59 +0000 2021",
+		"id": 1398191811559149600,
+		"id_str": "1398191811559149569",
+		"full_text": "@lexicoj0hn @JWGrieve @tovelarsson1 lol yes i would imagine Louw would link that Kafka story to his ideas on subtext?",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexicoj0hn",
+					"name": "John X Williams",
+					"id": 4008981801,
+					"id_str": "4008981801",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JWGrieve",
+					"name": "Jack Grieve",
+					"id": 2950391813,
+					"id_str": "2950391813",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "tovelarsson1",
+					"name": "Tove Larsson",
+					"id": 564888944,
+					"id_str": "564888944",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1398002229404225500,
+		"in_reply_to_status_id_str": "1398002229404225549",
+		"in_reply_to_user_id": 4008981801,
+		"in_reply_to_user_id_str": "4008981801",
+		"in_reply_to_screen_name": "lexicoj0hn",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2327,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 16981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lexicoj0hn @JWGrieve @tovelarsson1 lol yes i would imagine Louw would link that Kafka story to his ideas on subtext?"
+	},
+	{
+		"created_at": "Fri May 28 07:36:07 +0000 2021",
+		"id": 1398007186148806700,
+		"id_str": "1398181275257745412",
+		"full_text": "My latest: Dominic Cummings is the Machiavelli of our time. His self-serving honesty and self-criticism were perfectly calibrated to rehabilitate his image, win over doubters and stick the knife more deeply into Boris Johnson https://t.co/9lccsR0xVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9lccsR0xVi",
+					"expanded_url": "https://www.jonathan-cook.net/blog/2021-05-27/dominic-cummings-brexit-lies-boris/",
+					"display_url": "jonathan-cook.net/blog/2021-05-2…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2459644405,
+			"id_str": "2459644405",
+			"name": "Jonathan Cook",
+			"screen_name": "Jonathan_K_Cook",
+			"location": "Nazareth",
+			"description": "Journalist covering Israel-Palestine, self-appointed media critic. Winner of the Martha Gellhorn Special Prize for Journalism\nhttps://t.co/74qI4sqyOH",
+			"url": "https://t.co/INAsP2RSNA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INAsP2RSNA",
+							"expanded_url": "https://www.jonathan-cook.net",
+							"display_url": "jonathan-cook.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/74qI4sqyOH",
+							"expanded_url": "https://paypal.me/cookjournalist",
+							"display_url": "paypal.me/cookjournalist",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44472,
+			"friends_count": 60,
+			"listed_count": 587,
+			"created_at": "Wed Apr 23 12:07:16 +0000 2014",
+			"favourites_count": 5975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458948119749619713/8ed1EDoY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2459644405/1398257807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 233,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest: Dominic Cummings is the Machiavelli of our time. His self-serving honesty and self-criticism were perfectly calibrated to rehabilitate his image, win over doubters and stick the knife more deeply into Boris Johnson https://t.co/9lccsR0xVi"
+	},
+	{
 		"created_at": "Thu May 27 18:48:17 +0000 2021",
 		"id": 1397988045085982700,
 		"id_str": "1397988045085982721",
