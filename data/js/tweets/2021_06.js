@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 15:08:36 +0000 2021",
+		"id": 1400373615162445800,
+		"id_str": "1400469474449379331",
+		"full_text": "\"The overt form of #LinguisticRacism can involve deliberate belittling or #shaming, such as 'ethnic-accent bullying' ... Or it can be more covert, like the unwitting social #exclusion of people with foreign-accented English\"\nhttps://t.co/od5oZFejCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LinguisticRacism",
+					"indices": [
+						19,
+						36
+					]
+				},
+				{
+					"text": "shaming",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "exclusion",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/od5oZFejCy",
+					"expanded_url": "https://www.bbc.com/worklife/article/20210528-the-pervasive-problem-of-linguistic-racism",
+					"display_url": "bbc.com/worklife/artic…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873673040130977800,
+			"id_str": "873673040130977792",
+			"name": "Ruth Kircher",
+			"screen_name": "ruth_kircher",
+			"location": "Leeuwarden/Ljouwert, Nederland",
+			"description": "Sociolinguist @MercatorCentre/@FryskeAkademy | Multilingualism | Minorities | Migration | Attitudes | LPP | All things Canadian, Yiddish & Frisian | views = own",
+			"url": "https://t.co/aKndAA5j5H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aKndAA5j5H",
+							"expanded_url": "http://www.fryske-akademy.nl/~rkircher",
+							"display_url": "fryske-akademy.nl/~rkircher",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 990,
+			"friends_count": 746,
+			"listed_count": 9,
+			"created_at": "Sat Jun 10 22:47:39 +0000 2017",
+			"favourites_count": 18277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194954792059244546/TKfI33Cs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194954792059244546/TKfI33Cs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873673040130977792/1573734399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The overt form of #LinguisticRacism can involve deliberate belittling or #shaming, such as 'ethnic-accent bullying' ... Or it can be more covert, like the unwitting social #exclusion of people with foreign-accented English\"\nhttps://t.co/od5oZFejCy"
+	},
+	{
 		"created_at": "Wed Jun 02 20:54:32 +0000 2021",
 		"id": 1400194141506707500,
 		"id_str": "1400194141506707463",
