@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 20:45:56 +0000 2021",
+		"id": 1400110314163691500,
+		"id_str": "1400916753069359104",
+		"full_text": "My latest project with @tegabrain is Synthetic Messenger: it's a botnet that artificially inflates the value of climate news. https://t.co/5hAWEVw428",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tegabrain",
+					"name": "brain",
+					"id": 14843055,
+					"id_str": "14843055",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5hAWEVw428",
+					"expanded_url": "https://syntheticmessenger.labr.io/",
+					"display_url": "syntheticmessenger.labr.io",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6428702,
+			"id_str": "6428702",
+			"name": "Sam Lavigne",
+			"screen_name": "sam_lavigne",
+			"location": "brooklyn",
+			"description": "🕳️",
+			"url": "https://t.co/EGYPYEFCpi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EGYPYEFCpi",
+							"expanded_url": "https://lav.io",
+							"display_url": "lav.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5843,
+			"friends_count": 881,
+			"listed_count": 138,
+			"created_at": "Wed May 30 00:49:55 +0000 2007",
+			"favourites_count": 2556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141414",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1371335987914285057/4Oo7wHwD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371335987914285057/4Oo7wHwD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6428702/1615787183",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "D1D1D1",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 292,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest project with @tegabrain is Synthetic Messenger: it's a botnet that artificially inflates the value of climate news. https://t.co/5hAWEVw428"
+	},
+	{
 		"created_at": "Thu Jun 03 15:08:36 +0000 2021",
 		"id": 1400373615162445800,
 		"id_str": "1400469474449379331",
