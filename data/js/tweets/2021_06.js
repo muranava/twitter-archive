@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 05 22:11:17 +0000 2021",
+		"id": 1401265584193654800,
+		"id_str": "1401300619076452361",
+		"full_text": "Wrote a guest post for @deonteleologist 's blog looking at wether the Dog Park paper from #SokalSquared is all its authors claim using statistical analysis from a simulated dataset based on the paper. Plus I get to combine philosophy of science and stats!\nhttps://t.co/M6llLGJMi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SokalSquared",
+					"indices": [
+						90,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deonteleologist",
+					"name": "⚒ Sam Hoadley-Brill ⚒",
+					"id": 1209245247072391200,
+					"id_str": "1209245247072391168",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M6llLGJMi9",
+					"expanded_url": "https://conceptualdisinformation.substack.com/p/anti-science-humping-in-the-dog-park",
+					"display_url": "conceptualdisinformation.substack.com/p/anti-science…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38750364,
+			"id_str": "38750364",
+			"name": "Ṅ̮̖̦̬̬̬̼̓͊͂̾̂͆é͆ṡ͍̼̱̜̦̋̀t̡̯̭̝̮̍͑̐̽o̺͎͐ͫ̅̉͒̑̚r̋ͮ͗",
+			"screen_name": "nestor_d",
+			"location": "",
+			"description": "- Catador profesional de galletas y caldos.\n-MA Social Sciences, PhD Paper Planes, but mostly philosophy\n-Spanglish https://t.co/2Hmj5AvTd4",
+			"url": "https://t.co/KaUfwrSu3Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KaUfwrSu3Y",
+							"expanded_url": "http://mensmusic.bandcamp.com/",
+							"display_url": "mensmusic.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2Hmj5AvTd4",
+							"expanded_url": "https://merionwest.com/author/nestor-de-buen",
+							"display_url": "merionwest.com/author/nestor-…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 765,
+			"listed_count": 21,
+			"created_at": "Fri May 08 23:52:35 +0000 2009",
+			"favourites_count": 7514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347888379/Narvpjedi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347888379/Narvpjedi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38750364/1603050612",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wrote a guest post for @deonteleologist 's blog looking at wether the Dog Park paper from #SokalSquared is all its authors claim using statistical analysis from a simulated dataset based on the paper. Plus I get to combine philosophy of science and stats!\nhttps://t.co/M6llLGJMi9"
+	},
+	{
 		"created_at": "Fri Jun 04 20:45:56 +0000 2021",
 		"id": 1400110314163691500,
 		"id_str": "1400916753069359104",
