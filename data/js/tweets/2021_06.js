@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 11:57:19 +0000 2021",
+		"id": 1401508500094730200,
+		"id_str": "1401508500094730241",
+		"full_text": "@neilturkewitz @DorotheaBaur @katecrawford @ubiquity75 @C2i2_UCLA @hypervisible Interesting title \"Microsoft's\"...",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neilturkewitz",
+					"name": "neil turkewitz",
+					"id": 2468094146,
+					"id_str": "2468094146",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "DorotheaBaur",
+					"name": "Dr. Dorothea Baur",
+					"id": 966263603576889300,
+					"id_str": "966263603576889345",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "katecrawford",
+					"name": "Dr. Kate Crawford",
+					"id": 19968025,
+					"id_str": "19968025",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "ubiquity75",
+					"name": "Dr. Sarah T. Roberts",
+					"id": 23451153,
+					"id_str": "23451153",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "C2i2_UCLA",
+					"name": "UCLA Center for Critical Internet Inquiry",
+					"id": 1268867998867128300,
+					"id_str": "1268867998867128321",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "hypervisible",
+					"name": "file under “anti-surveillance”",
+					"id": 175292337,
+					"id_str": "175292337",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401508130836652000,
+		"in_reply_to_status_id_str": "1401508130836652033",
+		"in_reply_to_user_id": 2468094146,
+		"in_reply_to_user_id_str": "2468094146",
+		"in_reply_to_screen_name": "neilturkewitz",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2084,
+			"friends_count": 2334,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neilturkewitz @DorotheaBaur @katecrawford @ubiquity75 @C2i2_UCLA @hypervisible Interesting title \"Microsoft's\"..."
+	},
+	{
 		"created_at": "Sat Jun 05 22:11:17 +0000 2021",
 		"id": 1401265584193654800,
 		"id_str": "1401300619076452361",
