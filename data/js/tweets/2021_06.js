@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 11:23:42 +0000 2021",
+		"id": 1402587204128542700,
+		"id_str": "1402587204128542726",
+		"full_text": "@raciolinguistic am wondering about comparison of ableist vocabulary to medical vocabulary from https://t.co/KM08r1kqSt https://t.co/X5aNRWKW2G",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raciolinguistic",
+					"name": "Kelly 🔥 By Any Means 🔥 Wright",
+					"id": 937706373877567500,
+					"id_str": "937706373877567494",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KM08r1kqSt",
+					"expanded_url": "http://dariuszgalasinski.com/2018/04/30/how-does-language-matter/",
+					"display_url": "dariuszgalasinski.com/2018/04/30/how…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402586986037321700,
+					"id_str": "1402586986037321728",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E3b9br1XIAAKSkZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3b9br1XIAAKSkZ.png",
+					"url": "https://t.co/X5aNRWKW2G",
+					"display_url": "pic.twitter.com/X5aNRWKW2G",
+					"expanded_url": "https://twitter.com/muranava/status/1402587204128542726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 714,
+							"h": 197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 197,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402586986037321700,
+					"id_str": "1402586986037321728",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E3b9br1XIAAKSkZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3b9br1XIAAKSkZ.png",
+					"url": "https://t.co/X5aNRWKW2G",
+					"display_url": "pic.twitter.com/X5aNRWKW2G",
+					"expanded_url": "https://twitter.com/muranava/status/1402587204128542726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 714,
+							"h": 197,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 197,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 188,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1402585059857768400,
+		"in_reply_to_status_id_str": "1402585059857768453",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2090,
+			"friends_count": 2341,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@raciolinguistic am wondering about comparison of ableist vocabulary to medical vocabulary from https://t.co/KM08r1kqSt https://t.co/X5aNRWKW2G"
+	},
+	{
 		"created_at": "Mon Jun 07 20:51:39 +0000 2021",
 		"id": 1402005357833113600,
 		"id_str": "1402005357833113610",
