@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 11:08:54 +0000 2021",
+		"id": 1403274781374431200,
+		"id_str": "1403308252004241411",
+		"full_text": "Well done to the TEFL Workers' Union for supporting a teacher whose mental health has been adversely affected by the unreasonable demands of his employers &amp; who's been discriminated against for mental health issues &amp; for raising awareness of disability discrimination in ELT. #ELT https://t.co/vUEwBEJSXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						284,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vUEwBEJSXw",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1403260847053586434",
+					"display_url": "twitter.com/TeflUnion/stat…",
+					"indices": [
+						289,
+						312
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135272434,
+			"id_str": "135272434",
+			"name": "Kieran Donaghy",
+			"screen_name": "kierandonaghy",
+			"location": "Barcelona",
+			"description": "Award-winning writer, speaker & trainer. Author of books for students & teachers of English. Founder of The School for Training, a specialist training institute",
+			"url": "https://t.co/Rxl0HhVRfm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rxl0HhVRfm",
+							"expanded_url": "https://theschoolfortraining.com/",
+							"display_url": "theschoolfortraining.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5814,
+			"friends_count": 2407,
+			"listed_count": 191,
+			"created_at": "Tue Apr 20 20:56:19 +0000 2010",
+			"favourites_count": 6735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182318987314712576/vrAnvchW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182318987314712576/vrAnvchW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135272434/1567975437",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403260847053586400,
+		"quoted_status_id_str": "1403260847053586434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vUEwBEJSXw",
+			"expanded": "https://twitter.com/TeflUnion/status/1403260847053586434",
+			"display": "twitter.com/TeflUnion/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 08:00:31 +0000 2021",
+			"id": 1403260847053586400,
+			"id_str": "1403260847053586434",
+			"full_text": "We know our TEFL heroes have got Mike's back, too!\n\n@thornburyscott @hughdellar @kierandonaghy @jimscriv @skrashen @HancockMcDonald Please help spread the word!\n\nhttps://t.co/7NxV0BTLRn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thornburyscott",
+						"name": "Scott Thornbury",
+						"id": 23090474,
+						"id_str": "23090474",
+						"indices": [
+							52,
+							67
+						]
+					},
+					{
+						"screen_name": "hughdellar",
+						"name": "hugh dellar",
+						"id": 88202140,
+						"id_str": "88202140",
+						"indices": [
+							68,
+							79
+						]
+					},
+					{
+						"screen_name": "kierandonaghy",
+						"name": "Kieran Donaghy",
+						"id": 135272434,
+						"id_str": "135272434",
+						"indices": [
+							80,
+							94
+						]
+					},
+					{
+						"screen_name": "jimscriv",
+						"name": "Jim Scrivener 💙 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺",
+						"id": 130149739,
+						"id_str": "130149739",
+						"indices": [
+							95,
+							104
+						]
+					},
+					{
+						"screen_name": "skrashen",
+						"name": "Stephen Krashen",
+						"id": 25624708,
+						"id_str": "25624708",
+						"indices": [
+							105,
+							114
+						]
+					},
+					{
+						"screen_name": "HancockMcDonald",
+						"name": "Hancock McDonald ELT",
+						"id": 552929354,
+						"id_str": "552929354",
+						"indices": [
+							115,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7NxV0BTLRn",
+						"expanded_url": "https://iww.org.uk/news/say-no-to-disability-discrimination-in-tefl-the-iww-stands-with-mike/",
+						"display_url": "iww.org.uk/news/say-no-to…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1130578765472501800,
+				"id_str": "1130578765472501760",
+				"name": "TEFL Workers' Union",
+				"screen_name": "TeflUnion",
+				"location": "London",
+				"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+				"url": "https://t.co/ngblfDEBVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ngblfDEBVd",
+								"expanded_url": "https://www.facebook.com/teflworkers/",
+								"display_url": "facebook.com/teflworkers/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1730,
+				"friends_count": 149,
+				"listed_count": 13,
+				"created_at": "Mon May 20 20:59:17 +0000 2019",
+				"favourites_count": 506,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done to the TEFL Workers' Union for supporting a teacher whose mental health has been adversely affected by the unreasonable demands of his employers &amp; who's been discriminated against for mental health issues &amp; for raising awareness of disability discrimination in ELT. #ELT https://t.co/vUEwBEJSXw"
+	},
+	{
 		"created_at": "Thu Jun 10 18:04:23 +0000 2021",
 		"id": 1403050423938912300,
 		"id_str": "1403050423938912268",
