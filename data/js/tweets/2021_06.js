@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 16:08:55 +0000 2021",
+		"id": 1404831203371409400,
+		"id_str": "1404833305917263876",
+		"full_text": "A week after @DominicRaab was filmed meeting Mohammed bin Salman, Saudi authorities have executed Mustafa al-Darwish for participating in protests when he was a teenager https://t.co/nj4xAp87hs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DominicRaab",
+					"name": "Dominic Raab",
+					"id": 4764882552,
+					"id_str": "4764882552",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404827176143257600,
+					"id_str": "1404827176143257601",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1404827176143257601/pu/img/hL8MU79LAwMLA1HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1404827176143257601/pu/img/hL8MU79LAwMLA1HV.jpg",
+					"url": "https://t.co/nj4xAp87hs",
+					"display_url": "pic.twitter.com/nj4xAp87hs",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1404831203371409411/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404827176143257600,
+					"id_str": "1404827176143257601",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1404827176143257601/pu/img/hL8MU79LAwMLA1HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1404827176143257601/pu/img/hL8MU79LAwMLA1HV.jpg",
+					"url": "https://t.co/nj4xAp87hs",
+					"display_url": "pic.twitter.com/nj4xAp87hs",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1404831203371409411/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25860,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404827176143257601/pu/vid/480x270/ayRIwtKpkAhDMq-I.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404827176143257601/pu/vid/1280x720/KzWtrpbMEsdHK6p9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1404827176143257601/pu/pl/vMUijiFtSdDjnXf4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404827176143257601/pu/vid/640x360/7m6vwVzLoMIrmMVz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594641380,
+			"id_str": "2594641380",
+			"name": "Phil Miller",
+			"screen_name": "pmillerinfo",
+			"location": "",
+			"description": "Chief reporter and videos for @DeclassifiedUK.\n*To contact me securely* please use Protonmail and email: phil@declassifieduk.org",
+			"url": "https://t.co/2j7BzQuhQv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2j7BzQuhQv",
+							"expanded_url": "http://www.philmiller.info/about",
+							"display_url": "philmiller.info/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10856,
+			"friends_count": 1350,
+			"listed_count": 72,
+			"created_at": "Sun Jun 29 11:32:29 +0000 2014",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594641380/1608646463",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 133,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A week after @DominicRaab was filmed meeting Mohammed bin Salman, Saudi authorities have executed Mustafa al-Darwish for participating in protests when he was a teenager https://t.co/nj4xAp87hs"
+	},
+	{
 		"created_at": "Sat Jun 12 08:57:47 +0000 2021",
 		"id": 1403268373018972200,
 		"id_str": "1403637643175514114",
