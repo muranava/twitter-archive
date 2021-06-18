@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 18:19:52 +0000 2021",
+		"id": 1405591035007406000,
+		"id_str": "1405591035007406080",
+		"full_text": "Comments on Chomsky &amp; Krashen 7-6-2021 video https://t.co/DDfAJYZmfd #tefl #efl #tesol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tefl",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "efl",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "tesol",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DDfAJYZmfd",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/Krashen",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 2348,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Comments on Chomsky &amp; Krashen 7-6-2021 video https://t.co/DDfAJYZmfd #tefl #efl #tesol"
+	},
+	{
+		"created_at": "Thu Jun 17 10:27:41 +0000 2021",
+		"id": 1405431765242630100,
+		"id_str": "1405472206122008576",
+		"full_text": "Labour: “the problem is the government left borders open, yes the foreigners with their diseases, did we mention borders?” What actually happened… https://t.co/onzRBE8y9g https://t.co/2DtSn8u9Nm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/onzRBE8y9g",
+					"expanded_url": "https://www.politico.eu/newsletter/london-playbook/politico-london-playbook-sick-pay-shocker-delta-data-its-by-election-day/",
+					"display_url": "politico.eu/newsletter/lon…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405431730912256000,
+					"id_str": "1405431730912256004",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E4EYtoUWYAQGK_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4EYtoUWYAQGK_Y.jpg",
+					"url": "https://t.co/2DtSn8u9Nm",
+					"display_url": "pic.twitter.com/2DtSn8u9Nm",
+					"expanded_url": "https://twitter.com/Tom_Gann/status/1405431765242630150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1188,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1255,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405431730912256000,
+					"id_str": "1405431730912256004",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E4EYtoUWYAQGK_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4EYtoUWYAQGK_Y.jpg",
+					"url": "https://t.co/2DtSn8u9Nm",
+					"display_url": "pic.twitter.com/2DtSn8u9Nm",
+					"expanded_url": "https://twitter.com/Tom_Gann/status/1405431765242630150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1188,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1255,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145767790,
+			"id_str": "145767790",
+			"name": "Tom Gann",
+			"screen_name": "Tom_Gann",
+			"location": "London",
+			"description": "Editor @NewSocialistUK. \"If there's been a way to build it, There'll be a way to destroy it, Things are not all that out of control.\"",
+			"url": "https://t.co/lb0pNL1CDk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lb0pNL1CDk",
+							"expanded_url": "https://newsocialist.org.uk/author/tom",
+							"display_url": "newsocialist.org.uk/author/tom",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14131,
+			"friends_count": 2282,
+			"listed_count": 131,
+			"created_at": "Wed May 19 20:47:54 +0000 2010",
+			"favourites_count": 58368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193993099338551296/tvi8RsiX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193993099338551296/tvi8RsiX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145767790/1352747571",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 153,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Labour: “the problem is the government left borders open, yes the foreigners with their diseases, did we mention borders?” What actually happened… https://t.co/onzRBE8y9g https://t.co/2DtSn8u9Nm"
+	},
+	{
 		"created_at": "Wed Jun 16 20:02:32 +0000 2021",
 		"id": 1405254485748949000,
 		"id_str": "1405254485748948993",
