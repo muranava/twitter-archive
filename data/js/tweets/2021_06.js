@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 11:35:36 +0000 2021",
+		"id": 1406210815544500200,
+		"id_str": "1406214074241884160",
+		"full_text": "Many claims about \"exponential\" technological progress aren’t nearly as meaningful as they sound. | with @AgarNicholas @LAReviewofBooks https://t.co/2tAFzebjob",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgarNicholas",
+					"name": "Nicholas Agar",
+					"id": 629231255,
+					"id_str": "629231255",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"screen_name": "LAReviewofBooks",
+					"name": "LA Review of Books (LARB)",
+					"id": 124087958,
+					"id_str": "124087958",
+					"indices": [
+						119,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2tAFzebjob",
+					"expanded_url": "https://www.lareviewofbooks.org/article/the-inflection-pointillists/",
+					"display_url": "lareviewofbooks.org/article/the-in…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1339261248,
+			"id_str": "1339261248",
+			"name": "Stuart Whatley",
+			"screen_name": "StuartWhatley",
+			"location": "",
+			"description": "Senior Editor, @prosyn | Twitter is The Zahir.",
+			"url": "https://t.co/y9liAKOTgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y9liAKOTgP",
+							"expanded_url": "http://muckrack.com/stuart-whatley",
+							"display_url": "muckrack.com/stuart-whatley",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1102,
+			"friends_count": 1932,
+			"listed_count": 27,
+			"created_at": "Tue Apr 09 14:01:31 +0000 2013",
+			"favourites_count": 378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030303",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3498545047/4ccb5e04003bb73e35f059ba1ae25d79_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3498545047/4ccb5e04003bb73e35f059ba1ae25d79_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339261248/1464267659",
+			"profile_link_color": "16282E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many claims about \"exponential\" technological progress aren’t nearly as meaningful as they sound. | with @AgarNicholas @LAReviewofBooks https://t.co/2tAFzebjob"
+	},
+	{
+		"created_at": "Sat Jun 19 11:16:05 +0000 2021",
+		"id": 1406209165182312400,
+		"id_str": "1406209165182312448",
+		"full_text": "@LukasMukasPukas funniest Chomsky rebuke recently: \nChomsky: The level of reading has very sharply declined..\nKrashen: If this is true it's a recent phenomenon...my last paper was 10 years ago and the title of the paper was \"Stop scolding teenagers\"",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LukasMukasPukas",
+					"name": "Luke",
+					"id": 423617694,
+					"id_str": "423617694",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1406199280554160000,
+		"in_reply_to_status_id_str": "1406199280554160134",
+		"in_reply_to_user_id": 423617694,
+		"in_reply_to_user_id_str": "423617694",
+		"in_reply_to_screen_name": "LukasMukasPukas",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 2356,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LukasMukasPukas funniest Chomsky rebuke recently: \nChomsky: The level of reading has very sharply declined..\nKrashen: If this is true it's a recent phenomenon...my last paper was 10 years ago and the title of the paper was \"Stop scolding teenagers\""
+	},
+	{
+		"created_at": "Sat Jun 19 09:22:30 +0000 2021",
+		"id": 1406159916012814300,
+		"id_str": "1406180579926757378",
+		"full_text": "@IATEFL might be able to help you improve your teaching, but they're not going to help you improve your working conditions. For that, we need unions .\n\nHear what #ELT unions have been doing lately to protect us as #TEFL workers:\n\nhttps://t.co/ZJ6G7qZCBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iatefl",
+					"name": "IATEFL",
+					"id": 85042286,
+					"id_str": "85042286",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZJ6G7qZCBe",
+					"expanded_url": "https://notesfrombelow.org/article/elt-worker-issue-6",
+					"display_url": "notesfrombelow.org/article/elt-wo…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 85042286,
+		"in_reply_to_user_id_str": "85042286",
+		"in_reply_to_screen_name": "iatefl",
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1749,
+			"friends_count": 154,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@IATEFL might be able to help you improve your teaching, but they're not going to help you improve your working conditions. For that, we need unions .\n\nHear what #ELT unions have been doing lately to protect us as #TEFL workers:\n\nhttps://t.co/ZJ6G7qZCBe"
+	},
+	{
 		"created_at": "Fri Jun 18 21:22:11 +0000 2021",
 		"id": 1405999306310570000,
 		"id_str": "1405999306310569987",
