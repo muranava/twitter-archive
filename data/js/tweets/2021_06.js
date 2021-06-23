@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 15:17:41 +0000 2021",
+		"id": 1407357126863986700,
+		"id_str": "1407357126863986701",
+		"full_text": "@nimorapi i liked way Krashen rebukes Chomsky's alarmism about reading standards : ) https://t.co/DDfAJYZmfd",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nimorapi",
+					"name": "Robert J. Lowe",
+					"id": 824919639394185200,
+					"id_str": "824919639394185219",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DDfAJYZmfd",
+					"expanded_url": "https://nextcloud.englishup.me/sites/rethunk/Krashen",
+					"display_url": "nextcloud.englishup.me/sites/rethunk/…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407352610416431000,
+		"in_reply_to_status_id_str": "1407352610416431111",
+		"in_reply_to_user_id": 824919639394185200,
+		"in_reply_to_user_id_str": "824919639394185219",
+		"in_reply_to_screen_name": "nimorapi",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 2357,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@nimorapi i liked way Krashen rebukes Chomsky's alarmism about reading standards : ) https://t.co/DDfAJYZmfd"
+	},
+	{
+		"created_at": "Tue Jun 22 10:08:12 +0000 2021",
+		"id": 1407011373213794300,
+		"id_str": "1407279243319521280",
+		"full_text": "🗣“Founé Diawara was 15 years old when she was first told she could not wear her hijab in a football match.”\n\nA piece about the ban on French 🇫🇷 Muslim women wearing the hijab in football. Which is defacto a ban on Muslim women playing football.\n\nhttps://t.co/xVZCnzIywm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVZCnzIywm",
+					"expanded_url": "https://www.theguardian.com/global-development/2021/jun/21/les-hijabeuses-the-female-footballers-tackling-frances-on-pitch-hijab-ban",
+					"display_url": "theguardian.com/global-develop…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37901637,
+			"id_str": "37901637",
+			"name": "Fare",
+			"screen_name": "farenet",
+			"location": "Join the movement",
+			"description": "Football, anti-discrimination, social inclusion. Network active in 40+ countries. info@farenet.org",
+			"url": "https://t.co/grjYI61hnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/grjYI61hnf",
+							"expanded_url": "http://farenet.org",
+							"display_url": "farenet.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11193,
+			"friends_count": 1003,
+			"listed_count": 188,
+			"created_at": "Tue May 05 11:06:36 +0000 2009",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277968483137929219/9MTbvj9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277968483137929219/9MTbvj9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37901637/1590675664",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗣“Founé Diawara was 15 years old when she was first told she could not wear her hijab in a football match.”\n\nA piece about the ban on French 🇫🇷 Muslim women wearing the hijab in football. Which is defacto a ban on Muslim women playing football.\n\nhttps://t.co/xVZCnzIywm"
+	},
+	{
+		"created_at": "Tue Jun 22 10:05:32 +0000 2021",
+		"id": 1407278573568856000,
+		"id_str": "1407278573568856064",
+		"full_text": "@unbrokencocoon @nathanoseroff this nonsense deserves a collective raspberry as analyst John Morrison put it regarding intelligence for the Iraq war",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "unbrokencocoon",
+					"name": "Thomas 'pronouns in bio' C (he/him)🌈",
+					"id": 847627044112416800,
+					"id_str": "847627044112416769",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "nathanoseroff",
+					"name": "Nathan Oseroff-Spicer",
+					"id": 2768346873,
+					"id_str": "2768346873",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407259228209823700,
+		"in_reply_to_status_id_str": "1407259228209823746",
+		"in_reply_to_user_id": 847627044112416800,
+		"in_reply_to_user_id_str": "847627044112416769",
+		"in_reply_to_screen_name": "unbrokencocoon",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 2357,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@unbrokencocoon @nathanoseroff this nonsense deserves a collective raspberry as analyst John Morrison put it regarding intelligence for the Iraq war"
+	},
+	{
 		"created_at": "Mon Jun 21 15:13:57 +0000 2021",
 		"id": 1406993801915347000,
 		"id_str": "1406993801915346948",
