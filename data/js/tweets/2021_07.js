@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 06:34:11 +0000 2021",
+		"id": 1412285028269236200,
+		"id_str": "1412298816921948162",
+		"full_text": "Debra Myhill's article critiques the crude 'what works?' discourse in education research, drawing on her own extensive research around grammar and 'choice'. It's a brilliant summary of her nuanced work in writing pedagogies and language ed. Open access. https://t.co/ly4tr86LIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ly4tr86LIS",
+					"expanded_url": "https://doi.org/10.1080/04250494.2021.1885975",
+					"display_url": "doi.org/10.1080/042504…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412285026453102600,
+		"in_reply_to_status_id_str": "1412285026453102593",
+		"in_reply_to_user_id": 4135124181,
+		"in_reply_to_user_id_str": "4135124181",
+		"in_reply_to_screen_name": "ian_cushing",
+		"user": {
+			"id": 4135124181,
+			"id_str": "4135124181",
+			"name": "Ian Cushing",
+			"screen_name": "ian_cushing",
+			"location": "Tooting, London",
+			"description": "Lecturer in Education; Brunel University London. Educational sociolinguistics; critical language policy; language surveillance and stigma in schools.",
+			"url": "https://t.co/8ZxtXrEDFS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8ZxtXrEDFS",
+							"expanded_url": "https://www.brunel.ac.uk/people/ian-cushing/",
+							"display_url": "brunel.ac.uk/people/ian-cus…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6010,
+			"friends_count": 5615,
+			"listed_count": 33,
+			"created_at": "Sat Nov 07 15:46:57 +0000 2015",
+			"favourites_count": 11632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405515442865717249/MkUXgw6m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405515442865717249/MkUXgw6m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4135124181/1606385442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Debra Myhill's article critiques the crude 'what works?' discourse in education research, drawing on her own extensive research around grammar and 'choice'. It's a brilliant summary of her nuanced work in writing pedagogies and language ed. Open access. https://t.co/ly4tr86LIS"
+	},
+	{
 		"created_at": "Mon Jul 05 21:32:04 +0000 2021",
 		"id": 1412162387424252000,
 		"id_str": "1412162387424251909",
