@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 11:01:07 +0000 2021",
+		"id": 1417436022426816500,
+		"id_str": "1417439421905973251",
+		"full_text": "@whales_english Part 2: https://t.co/kZ199VIkIM\n\n@HSeslteacher @LRedSchoolHouse @hkuchah1 @thornburyscott @eve_elt @teacherphili @josipa74 @EAP_in_Ireland  @abruzos @ProfesionELE @sbrowntweets @dermotbryers @EapForSJ @kierandonaghy @jimscriv @Vijay_Ramjattan @HelenTeachesEng @raiseupforelt",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whales_english",
+					"name": "Whales English",
+					"id": 1220300106722947000,
+					"id_str": "1220300106722947072",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "HSeslteacher",
+					"name": "Shaeley Santiago",
+					"id": 314775551,
+					"id_str": "314775551",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"screen_name": "LRedSchoolHouse",
+					"name": "LRSH - Education Podcast",
+					"id": 1114354203135180800,
+					"id_str": "1114354203135180800",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "hkuchah1",
+					"name": "Harry Kuchah Kuchah",
+					"id": 2827793584,
+					"id_str": "2827793584",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "thornburyscott",
+					"name": "Scott Thornbury",
+					"id": 23090474,
+					"id_str": "23090474",
+					"indices": [
+						90,
+						105
+					]
+				},
+				{
+					"screen_name": "eve_elt",
+					"name": "Equal Voices in ELT",
+					"id": 962261919762706400,
+					"id_str": "962261919762706434",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"screen_name": "teacherphili",
+					"name": "Phil Longwell",
+					"id": 67863264,
+					"id_str": "67863264",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"screen_name": "EAP_in_Ireland",
+					"name": "EAP in Ireland",
+					"id": 917352653671288800,
+					"id_str": "917352653671288834",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "abruzos",
+					"name": "𝗔𝗹𝗯𝗲𝗿𝘁𝗼 𝗕𝗿𝘂𝘇𝗼𝘀",
+					"id": 150242940,
+					"id_str": "150242940",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"screen_name": "ProfesionELE",
+					"name": "Profesión ELE",
+					"id": 984366613137887200,
+					"id_str": "984366613137887233",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"screen_name": "sbrowntweets",
+					"name": "Steve Brown",
+					"id": 885343459,
+					"id_str": "885343459",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"screen_name": "dermotbryers",
+					"name": "Dermot Bryers",
+					"id": 140014781,
+					"id_str": "140014781",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"screen_name": "EapForSJ",
+					"name": "EAP4SocialJustice@baleap.org",
+					"id": 1238123681571881000,
+					"id_str": "1238123681571880965",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"screen_name": "kierandonaghy",
+					"name": "Kieran Donaghy",
+					"id": 135272434,
+					"id_str": "135272434",
+					"indices": [
+						217,
+						231
+					]
+				},
+				{
+					"screen_name": "jimscriv",
+					"name": "Jim Scrivener 💙 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺",
+					"id": 130149739,
+					"id_str": "130149739",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"screen_name": "Vijay_Ramjattan",
+					"name": "Vijay Ramjattan",
+					"id": 1041441864786763800,
+					"id_str": "1041441864786763776",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"screen_name": "HelenTeachesEng",
+					"name": "Mx Helen S",
+					"id": 1087009341172006900,
+					"id_str": "1087009341172006920",
+					"indices": [
+						259,
+						275
+					]
+				},
+				{
+					"screen_name": "raiseupforelt",
+					"name": "Raise Up!",
+					"id": 1205928780470075400,
+					"id_str": "1205928780470075392",
+					"indices": [
+						276,
+						290
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kZ199VIkIM",
+					"expanded_url": "https://www.youtube.com/watch?v=iPSbWPSWJCE",
+					"display_url": "youtube.com/watch?v=iPSbWP…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": 1417434833077391400,
+		"in_reply_to_status_id_str": "1417434833077391376",
+		"in_reply_to_user_id": 1130578765472501800,
+		"in_reply_to_user_id_str": "1130578765472501760",
+		"in_reply_to_screen_name": "TeflUnion",
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1809,
+			"friends_count": 158,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@whales_english Part 2: https://t.co/kZ199VIkIM\n\n@HSeslteacher @LRedSchoolHouse @hkuchah1 @thornburyscott @eve_elt @teacherphili @josipa74 @EAP_in_Ireland  @abruzos @ProfesionELE @sbrowntweets @dermotbryers @EapForSJ @kierandonaghy @jimscriv @Vijay_Ramjattan @HelenTeachesEng @raiseupforelt"
+	},
+	{
+		"created_at": "Tue Jul 20 11:01:02 +0000 2021",
+		"id": 1417434833077391400,
+		"id_str": "1417439400192102401",
+		"full_text": "Hear directly from Amina, the worker at the centre of our dispute over #NativeSpeakerism at @whales_english.\n\nWe want to thank her for speaking out so powerfully. Please share to let her know that you've got her back.\n\nPart 1: https://t.co/X6bGr87icY\n\n#TEFL #ELT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NativeSpeakerism",
+					"indices": [
+						71,
+						88
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						258,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "whales_english",
+					"name": "Whales English",
+					"id": 1220300106722947000,
+					"id_str": "1220300106722947072",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X6bGr87icY",
+					"expanded_url": "https://www.youtube.com/watch?v=U93jVHUIFaE",
+					"display_url": "youtube.com/watch?v=U93jVH…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1809,
+			"friends_count": 158,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hear directly from Amina, the worker at the centre of our dispute over #NativeSpeakerism at @whales_english.\n\nWe want to thank her for speaking out so powerfully. Please share to let her know that you've got her back.\n\nPart 1: https://t.co/X6bGr87icY\n\n#TEFL #ELT"
+	},
+	{
 		"created_at": "Mon Jul 19 17:40:50 +0000 2021",
 		"id": 1417177624162492400,
 		"id_str": "1417177624162492424",
