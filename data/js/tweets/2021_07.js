@@ -1,6 +1,850 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 23:29:18 +0000 2021",
+		"id": 1417982784132423700,
+		"id_str": "1417990096708673540",
+		"full_text": "We are back to Square 1, or 2, or some version of 2 and 3. Kim Huat is tired. https://t.co/XZnJugC9x9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417979410016133000,
+					"id_str": "1417979410016133120",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E62vwQlVIAMqgQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E62vwQlVIAMqgQV.jpg",
+					"url": "https://t.co/XZnJugC9x9",
+					"display_url": "pic.twitter.com/XZnJugC9x9",
+					"expanded_url": "https://twitter.com/mrbrown/status/1417982784132423685/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417979410016133000,
+					"id_str": "1417979410016133120",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E62vwQlVIAMqgQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E62vwQlVIAMqgQV.jpg",
+					"url": "https://t.co/XZnJugC9x9",
+					"display_url": "pic.twitter.com/XZnJugC9x9",
+					"expanded_url": "https://twitter.com/mrbrown/status/1417982784132423685/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 134680,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417979410016133120/vid/320x568/a7E8Ps5xRaPcN6jd.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417979410016133120/vid/720x1280/-K5TzsVgIq5L0E7v.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417979410016133120/pl/-30kThitx4U-Oa10.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417979410016133120/vid/480x852/vJShCYbGVD23gA90.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Kim Huat and the KTV Cluster 3",
+						"description": "We are back to Square 1, or 2, or some version of 2 and 3. Kim Huat is tired.\n\na production of https://mrbrown.com",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 574253,
+			"id_str": "574253",
+			"name": "mrbrown",
+			"screen_name": "mrbrown",
+			"location": "Singapore",
+			"description": "mrbrown aka LEE Kin Mun, Blogfather of Singapore, satirist, writer, lyricist, traveler, photographer, cyclist, gamer, and podcaster. Papa of Faith, Isaac & Joy.",
+			"url": "https://t.co/0nZxSNjQuM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0nZxSNjQuM",
+							"expanded_url": "http://mrbrown.com",
+							"display_url": "mrbrown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400570,
+			"friends_count": 7592,
+			"listed_count": 1265,
+			"created_at": "Fri Jan 05 10:18:24 +0000 2007",
+			"favourites_count": 25334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963343848343678976/BRaq7rdU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963343848343678976/BRaq7rdU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/574253/1427685165",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 101,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are back to Square 1, or 2, or some version of 2 and 3. Kim Huat is tired. https://t.co/XZnJugC9x9"
+	},
+	{
+		"created_at": "Wed Jul 21 22:47:18 +0000 2021",
+		"id": 1417979527565807600,
+		"id_str": "1417979527565807617",
+		"full_text": "@Cole_Therapy_Ed an awesome film, i particularly liked this cheeky chappie https://t.co/rrsW72IRur",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cole_Therapy_Ed",
+					"name": "Michael",
+					"id": 1280075155,
+					"id_str": "1280075155",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rrsW72IRur",
+					"expanded_url": "https://twitter.com/muranava/status/1411631830797885444?s=20",
+					"display_url": "twitter.com/muranava/statu…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417978078442233900,
+		"in_reply_to_status_id_str": "1417978078442233858",
+		"in_reply_to_user_id": 1280075155,
+		"in_reply_to_user_id_str": "1280075155",
+		"in_reply_to_screen_name": "Cole_Therapy_Ed",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2089,
+			"friends_count": 2371,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1411631830797885400,
+		"quoted_status_id_str": "1411631830797885444",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rrsW72IRur",
+			"expanded": "https://twitter.com/muranava/status/1411631830797885444?s=20",
+			"display": "twitter.com/muranava/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 04 10:23:49 +0000 2021",
+			"id": 1411631830797885400,
+			"id_str": "1411631830797885444",
+			"full_text": "My kind of centrist #SummerOfSoul https://t.co/w1IhiqBPNf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SummerOfSoul",
+						"indices": [
+							20,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1411631807477522400,
+						"id_str": "1411631807477522433",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/E5cfplZXIAE23tn.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5cfplZXIAE23tn.png",
+						"url": "https://t.co/w1IhiqBPNf",
+						"display_url": "pic.twitter.com/w1IhiqBPNf",
+						"expanded_url": "https://twitter.com/muranava/status/1411631830797885444/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 791,
+								"h": 817,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 658,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 791,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1411631807477522400,
+						"id_str": "1411631807477522433",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/E5cfplZXIAE23tn.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5cfplZXIAE23tn.png",
+						"url": "https://t.co/w1IhiqBPNf",
+						"display_url": "pic.twitter.com/w1IhiqBPNf",
+						"expanded_url": "https://twitter.com/muranava/status/1411631830797885444/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 791,
+								"h": 817,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 658,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 791,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1411631807477567500,
+						"id_str": "1411631807477567492",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/E5cfplZX0AQ1FYa.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5cfplZX0AQ1FYa.png",
+						"url": "https://t.co/w1IhiqBPNf",
+						"display_url": "pic.twitter.com/w1IhiqBPNf",
+						"expanded_url": "https://twitter.com/muranava/status/1411631830797885444/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 721,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 602,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 721,
+								"h": 814,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1411631807498526700,
+						"id_str": "1411631807498526723",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/E5cfpleXoAMhmS_.png",
+						"media_url_https": "https://pbs.twimg.com/media/E5cfpleXoAMhmS_.png",
+						"url": "https://t.co/w1IhiqBPNf",
+						"display_url": "pic.twitter.com/w1IhiqBPNf",
+						"expanded_url": "https://twitter.com/muranava/status/1411631830797885444/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 651,
+								"h": 812,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 651,
+								"h": 812,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18602422,
+				"id_str": "18602422",
+				"name": "Mura Nava",
+				"screen_name": "muranava",
+				"location": "Paris, France",
+				"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+				"url": "http://t.co/efJ8SaX9fj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/efJ8SaX9fj",
+								"expanded_url": "http://eflnotes.wordpress.com/",
+								"display_url": "eflnotes.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/e8kZronG5C",
+								"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+								"display_url": "eflnotes.wordpress.com/the-shed/",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/5QyzQm27Ej",
+								"expanded_url": "https://www.smashwords.com/books/view/618387",
+								"display_url": "smashwords.com/books/view/618…",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2089,
+				"friends_count": 2371,
+				"listed_count": 101,
+				"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+				"favourites_count": 17447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 699,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+				"profile_link_color": "08780E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Cole_Therapy_Ed an awesome film, i particularly liked this cheeky chappie https://t.co/rrsW72IRur"
+	},
+	{
+		"created_at": "Wed Jul 21 22:30:09 +0000 2021",
+		"id": 1417975212235235300,
+		"id_str": "1417975212235235329",
+		"full_text": "@flying_rodent https://t.co/TSlcJTlzxn",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flying_rodent",
+					"name": "Flying_Rodent",
+					"id": 91556288,
+					"id_str": "91556288",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417975204412805000,
+					"id_str": "1417975204412805122",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E62o74dWUAI3Ts2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E62o74dWUAI3Ts2.jpg",
+					"url": "https://t.co/TSlcJTlzxn",
+					"display_url": "pic.twitter.com/TSlcJTlzxn",
+					"expanded_url": "https://twitter.com/muranava/status/1417975212235235329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417975204412805000,
+					"id_str": "1417975204412805122",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E62o74dWUAI3Ts2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E62o74dWUAI3Ts2.jpg",
+					"url": "https://t.co/TSlcJTlzxn",
+					"display_url": "pic.twitter.com/TSlcJTlzxn",
+					"expanded_url": "https://twitter.com/muranava/status/1417975212235235329/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							149
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E62o74dWUAI3Ts2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417972932706455600,
+		"in_reply_to_status_id_str": "1417972932706455554",
+		"in_reply_to_user_id": 91556288,
+		"in_reply_to_user_id_str": "91556288",
+		"in_reply_to_screen_name": "flying_rodent",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2089,
+			"friends_count": 2371,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1801295431/wnw_sprite_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@flying_rodent https://t.co/TSlcJTlzxn"
+	},
+	{
 		"created_at": "Tue Jul 20 11:01:07 +0000 2021",
 		"id": 1417436022426816500,
 		"id_str": "1417439421905973251",
