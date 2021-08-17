@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 17:04:55 +0000 2021",
+		"id": 1427282596740878300,
+		"id_str": "1427315447549079560",
+		"full_text": "SLB: Task-Based Language Teaching Course No. 4 https://t.co/OUpfq1fdVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OUpfq1fdVv",
+					"expanded_url": "https://applingtesol.wordpress.com/2021/08/16/slb-task-based-language-teaching-course-no-4/",
+					"display_url": "applingtesol.wordpress.com/2021/08/16/slb…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373330979239116800,
+			"id_str": "1373330979239116804",
+			"name": "Geoff Jordan",
+			"screen_name": "GeoffJordan16",
+			"location": "Girona, Cataluña. ",
+			"description": "Ph.D. in SLA. Interested in the philosophy of science. There's an asymmetry between truth and falsehood. \nAnarchist. The State can't fix it.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 308,
+			"listed_count": 0,
+			"created_at": "Sat Mar 20 17:51:06 +0000 2021",
+			"favourites_count": 1266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374119373166813184/qn3XJip0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374119373166813184/qn3XJip0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SLB: Task-Based Language Teaching Course No. 4 https://t.co/OUpfq1fdVv"
+	},
+	{
 		"created_at": "Sat Aug 14 09:16:35 +0000 2021",
 		"id": 1426472812613673000,
 		"id_str": "1426472812613672960",
