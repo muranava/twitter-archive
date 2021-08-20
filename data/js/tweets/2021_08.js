@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 14:50:32 +0000 2021",
+		"id": 1428368793294688300,
+		"id_str": "1428368793294688268",
+		"full_text": "@mixedlinguist @sociolinguista Bookmarking to add to That Chomsky gets around https://t.co/2H804pO9JA later",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mixedlinguist",
+					"name": "Nicole Holliday",
+					"id": 107269285,
+					"id_str": "107269285",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "sociolinguista",
+					"name": "Sylvia Sierra",
+					"id": 322933176,
+					"id_str": "322933176",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2H804pO9JA",
+					"expanded_url": "https://eflnotes.wordpress.com/that-chomsky-gets-around/",
+					"display_url": "eflnotes.wordpress.com/that-chomsky-g…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 355483492844453900,
+		"in_reply_to_status_id_str": "355483492844453888",
+		"in_reply_to_user_id": 107269285,
+		"in_reply_to_user_id_str": "107269285",
+		"in_reply_to_screen_name": "mixedlinguist",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2089,
+			"friends_count": 2388,
+			"listed_count": 0,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mixedlinguist @sociolinguista Bookmarking to add to That Chomsky gets around https://t.co/2H804pO9JA later"
+	},
+	{
+		"created_at": "Thu Aug 19 08:25:30 +0000 2021",
+		"id": 1428267114553610200,
+		"id_str": "1428271896961986564",
+		"full_text": "Save British Council Educators from the Taliban - ¡Firma la petición! https://t.co/7uJEhli1NO via @change_es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "change_es",
+					"name": "Change.org España",
+					"id": 134857150,
+					"id_str": "134857150",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7uJEhli1NO",
+					"expanded_url": "http://chng.it/vXnPVCpb",
+					"display_url": "chng.it/vXnPVCpb",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1373330979239116800,
+			"id_str": "1373330979239116804",
+			"name": "Geoff Jordan",
+			"screen_name": "GeoffJordan16",
+			"location": "Girona, Cataluña. ",
+			"description": "Ph.D. in SLA. Interested in the philosophy of science. There's an asymmetry between truth and falsehood. \nAnarchist. The State can't fix it.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 308,
+			"listed_count": 0,
+			"created_at": "Sat Mar 20 17:51:06 +0000 2021",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374119373166813184/qn3XJip0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374119373166813184/qn3XJip0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ca",
+		"text": "Save British Council Educators from the Taliban - ¡Firma la petición! https://t.co/7uJEhli1NO via @change_es"
+	},
+	{
 		"created_at": "Tue Aug 17 17:17:26 +0000 2021",
 		"id": 1427680983030145000,
 		"id_str": "1427680983030145027",
