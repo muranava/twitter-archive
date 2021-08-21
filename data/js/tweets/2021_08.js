@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 21:16:27 +0000 2021",
+		"id": 1428828297593606100,
+		"id_str": "1428828297593606148",
+		"full_text": "@TheRedsRCumming @lastpositivist Yes reading Althusser at mo, he  classes state ownership, self-management, economic democracy, workers' power in same situation as co-ops",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheRedsRCumming",
+					"name": "Our Friend in The North",
+					"id": 1418098288251728000,
+					"id_str": "1418098288251727880",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "lastpositivist",
+					"name": "Liam Bright",
+					"id": 294710260,
+					"id_str": "294710260",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428827205623189500,
+		"in_reply_to_status_id_str": "1428827205623189504",
+		"in_reply_to_user_id": 1418098288251728000,
+		"in_reply_to_user_id_str": "1418098288251727880",
+		"in_reply_to_screen_name": "TheRedsRCumming",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2088,
+			"friends_count": 2389,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheRedsRCumming @lastpositivist Yes reading Althusser at mo, he  classes state ownership, self-management, economic democracy, workers' power in same situation as co-ops"
+	},
+	{
+		"created_at": "Fri Aug 20 21:07:41 +0000 2021",
+		"id": 1428826091905593300,
+		"id_str": "1428826091905593356",
+		"full_text": "@shaunsweeney78 @clcsimon @educatoral @mmap73 @Miss_E_Fleming @CharlotteSENCo @MissRosieGraham @Helena_McDon @MissLHouston @GaryTibbett @MrStanleyPE @MissC_EY @jodie_teaches @JessBCN @GerardMcLo @rachel_tsateri @AnthonyGaughan @dublintefl @SLBCoop @MargariVicky @HancockMcDonald @TeresaBestwick Cheers, Hope you are having a good Friday as well Shaun!",
+		"truncated": false,
+		"display_text_range": [
+			295,
+			351
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shaunsweeney78",
+					"name": "shaun sweeney",
+					"id": 520666284,
+					"id_str": "520666284",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "clcsimon",
+					"name": "Simon Johnson 🙋‍♂️",
+					"id": 551974058,
+					"id_str": "551974058",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "educatoral",
+					"name": "Alfonso Gonzalez",
+					"id": 48627481,
+					"id_str": "48627481",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "mmap73",
+					"name": "Michele Pikunic",
+					"id": 534195386,
+					"id_str": "534195386",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"screen_name": "Miss_E_Fleming",
+					"name": "Elaine Fleming",
+					"id": 1182019203018174500,
+					"id_str": "1182019203018174466",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "CharlotteSENCo",
+					"name": "Charlotte Littlewood",
+					"id": 1060211182299164700,
+					"id_str": "1060211182299164672",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"screen_name": "MissRosieGraham",
+					"name": "Rosie Graham",
+					"id": 271005053,
+					"id_str": "271005053",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "Helena_McDon",
+					"name": "Helena",
+					"id": 182784632,
+					"id_str": "182784632",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "MissLHouston",
+					"name": "Miss L.Houston",
+					"id": 1045667404162969600,
+					"id_str": "1045667404162969600",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "GaryTibbett",
+					"name": "Gary Tibbett",
+					"id": 3301669167,
+					"id_str": "3301669167",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"screen_name": "MrStanleyPE",
+					"name": "Mr Stanley",
+					"id": 1196069342758260700,
+					"id_str": "1196069342758260737",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "MissC_EY",
+					"name": "Miss C",
+					"id": 1160131207088279600,
+					"id_str": "1160131207088279554",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"screen_name": "jodie_teaches",
+					"name": "Mrs White - Trainee Primary School Teacher",
+					"id": 1035779959648936000,
+					"id_str": "1035779959648935936",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"screen_name": "JessBCN",
+					"name": "Jessica Mackay",
+					"id": 21786136,
+					"id_str": "21786136",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"screen_name": "GerardMcLo",
+					"name": "Gerard McLoughlin",
+					"id": 258415298,
+					"id_str": "258415298",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"screen_name": "rachel_tsateri",
+					"name": "Rachel Tsateri",
+					"id": 794906206649413600,
+					"id_str": "794906206649413632",
+					"indices": [
+						195,
+						210
+					]
+				},
+				{
+					"screen_name": "AnthonyGaughan",
+					"name": "Anthony Gaughan",
+					"id": 245975798,
+					"id_str": "245975798",
+					"indices": [
+						211,
+						226
+					]
+				},
+				{
+					"screen_name": "dublintefl",
+					"name": "dublintefl",
+					"id": 1311433438453477400,
+					"id_str": "1311433438453477376",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"screen_name": "SLBCoop",
+					"name": "Serveis Lingüístics de Barcelona",
+					"id": 2365399801,
+					"id_str": "2365399801",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"screen_name": "MargariVicky",
+					"name": "Vicky Margari",
+					"id": 430204770,
+					"id_str": "430204770",
+					"indices": [
+						248,
+						261
+					]
+				},
+				{
+					"screen_name": "HancockMcDonald",
+					"name": "Hancock McDonald ELT",
+					"id": 552929354,
+					"id_str": "552929354",
+					"indices": [
+						262,
+						278
+					]
+				},
+				{
+					"screen_name": "TeresaBestwick",
+					"name": "Teresa Bestwick",
+					"id": 3030671547,
+					"id_str": "3030671547",
+					"indices": [
+						279,
+						294
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428822772285902800,
+		"in_reply_to_status_id_str": "1428822772285902857",
+		"in_reply_to_user_id": 520666284,
+		"in_reply_to_user_id_str": "520666284",
+		"in_reply_to_screen_name": "shaunsweeney78",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2088,
+			"friends_count": 2389,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 17672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shaunsweeney78 @clcsimon @educatoral @mmap73 @Miss_E_Fleming @CharlotteSENCo @MissRosieGraham @Helena_McDon @MissLHouston @GaryTibbett @MrStanleyPE @MissC_EY @jodie_teaches @JessBCN @GerardMcLo @rachel_tsateri @AnthonyGaughan @dublintefl @SLBCoop @MargariVicky @HancockMcDonald @TeresaBestwick Cheers, Hope you are having a good Friday as well Shaun!"
+	},
+	{
 		"created_at": "Thu Aug 19 14:50:32 +0000 2021",
 		"id": 1428368793294688300,
 		"id_str": "1428368793294688268",
