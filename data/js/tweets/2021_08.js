@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 15:37:47 +0000 2021",
+		"id": 1431015847099764700,
+		"id_str": "1431642174433726465",
+		"full_text": "\"If my mother tongue is shaking the foundations of your state, it probably means you built your state on my land.\" https://t.co/rIne4DkGVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIne4DkGVS",
+					"expanded_url": "https://twitter.com/KawsachunNews/status/1430966252235862018",
+					"display_url": "twitter.com/KawsachunNews/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24090523,
+			"id_str": "24090523",
+			"name": "Ógra Shinn Féin",
+			"screen_name": "Ogra_SF",
+			"location": "Éire/Ireland",
+			"description": "Ireland's largest youth wing Poblachtánach🇮🇪 Sóisialach🚩 Feimineach♀️ Timpeallachtach♻️ Idirnáisiúnach🌍 Press Enquiries: sfry@sinnfein.ie",
+			"url": "https://t.co/3VNRIs2CvU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3VNRIs2CvU",
+							"expanded_url": "http://sinnfein.ie/join",
+							"display_url": "sinnfein.ie/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16603,
+			"friends_count": 32,
+			"listed_count": 74,
+			"created_at": "Fri Mar 13 01:02:45 +0000 2009",
+			"favourites_count": 7116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403682234377379841/37J6CBtq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403682234377379841/37J6CBtq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24090523/1606209125",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1430966252235862000,
+		"quoted_status_id_str": "1430966252235862018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rIne4DkGVS",
+			"expanded": "https://twitter.com/KawsachunNews/status/1430966252235862018",
+			"display": "twitter.com/KawsachunNews/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 26 18:51:55 +0000 2021",
+			"id": 1430966252235862000,
+			"id_str": "1430966252235862018",
+			"full_text": "Peru's Prime Minister addressed Congress today in Quechua, but the right-wing representatives shouted him down because they don't understand it.\n\nHe reminds them that it's his constitutional right to speak his own language. https://t.co/axy2m0INes",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1430965894075846700,
+						"id_str": "1430965894075846656",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430965894075846656/pu/img/34Vw3ZfEIEAS9BoK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430965894075846656/pu/img/34Vw3ZfEIEAS9BoK.jpg",
+						"url": "https://t.co/axy2m0INes",
+						"display_url": "pic.twitter.com/axy2m0INes",
+						"expanded_url": "https://twitter.com/KawsachunNews/status/1430966252235862018/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 658,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1430965894075846700,
+						"id_str": "1430965894075846656",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430965894075846656/pu/img/34Vw3ZfEIEAS9BoK.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430965894075846656/pu/img/34Vw3ZfEIEAS9BoK.jpg",
+						"url": "https://t.co/axy2m0INes",
+						"display_url": "pic.twitter.com/axy2m0INes",
+						"expanded_url": "https://twitter.com/KawsachunNews/status/1430966252235862018/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 702,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 658,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								640,
+								351
+							],
+							"duration_millis": 83233,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430965894075846656/pu/vid/492x270/TsW82AYfOKfsQyQx.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430965894075846656/pu/vid/656x360/lcMzo6sb7GfQVO_f.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1430965894075846656/pu/vid/1280x702/au-zpBOPZmXYcnq4.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1430965894075846656/pu/pl/zwLsxowCg5xjV3c_.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1255473748700024800,
+				"id_str": "1255473748700024837",
+				"name": "Kawsachun News",
+				"screen_name": "KawsachunNews",
+				"location": "Trópico de Cochabamba, Bolivia",
+				"description": "News and analysis from Bolivia. The English language service of @KawsachunCoca, official station of the 6 Federations, at the service of the social movements.",
+				"url": "https://t.co/GuLpqWKRqN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GuLpqWKRqN",
+								"expanded_url": "https://www.patreon.com/KawsachunNews",
+								"display_url": "patreon.com/KawsachunNews",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41470,
+				"friends_count": 9,
+				"listed_count": 329,
+				"created_at": "Wed Apr 29 12:27:39 +0000 2020",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2308,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1289760820742807552/ypZPVAMq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289760820742807552/ypZPVAMq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255473748700024837/1594745607",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1254,
+			"favorite_count": 4777,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3375,
+		"favorite_count": 13495,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"If my mother tongue is shaking the foundations of your state, it probably means you built your state on my land.\" https://t.co/rIne4DkGVS"
+	},
+	{
 		"created_at": "Fri Aug 27 15:23:31 +0000 2021",
 		"id": 1431276196621344800,
 		"id_str": "1431276196621344768",
