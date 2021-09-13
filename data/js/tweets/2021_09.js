@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 19:47:08 +0000 2021",
+		"id": 1437029402873790500,
+		"id_str": "1437140740665118721",
+		"full_text": "Do you research and/or teach listening? Do you have something that you want to submit to a journal? Do you want a supportive peer-review experience? @jaltorg  Listening SIG, has a call for papers in our journal - The Listening Post. 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaltorg",
+					"name": "JALT",
+					"id": 57333991,
+					"id_str": "57333991",
+					"indices": [
+						149,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1014494170839306200,
+			"id_str": "1014494170839306240",
+			"name": "marcjonestyo",
+			"screen_name": "marcjonestyo",
+			"location": "Tokyo",
+			"description": "English Language teaching & research in Tokyo. Listening/phonology & Task-Based teaching. ❤️ open research and education.",
+			"url": "https://t.co/GXBHQaJRAL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GXBHQaJRAL",
+							"expanded_url": "http://marcjones.tokyo/",
+							"display_url": "marcjones.tokyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986,
+			"friends_count": 937,
+			"listed_count": 6,
+			"created_at": "Wed Jul 04 13:00:33 +0000 2018",
+			"favourites_count": 1514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495687633862656/0gR-9Z9f_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Do you research and/or teach listening? Do you have something that you want to submit to a journal? Do you want a supportive peer-review experience? @jaltorg  Listening SIG, has a call for papers in our journal - The Listening Post. 🧵"
+	},
+	{
 		"created_at": "Fri Sep 10 18:36:14 +0000 2021",
 		"id": 1436398125393064000,
 		"id_str": "1436398125393063939",
