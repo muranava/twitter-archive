@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 15:20:13 +0000 2021",
+		"id": 1438445630284869600,
+		"id_str": "1438523123758866437",
+		"full_text": "“Associates of the Battersea MP claim the party failed to put her on a single ‘media round’ during 17 months in the job, &amp; that she was offered just five minutes speaking time at Labour’s annual conference, which takes place next week.”\n\nTough reading. https://t.co/tBaGatMuNs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tBaGatMuNs",
+					"expanded_url": "https://www.voice-online.co.uk/news/2021/09/16/labour-nothing-to-say-on-racial-justice/",
+					"display_url": "voice-online.co.uk/news/2021/09/1…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63082578,
+			"id_str": "63082578",
+			"name": "Aaron Bastani",
+			"screen_name": "AaronBastani",
+			"location": "England, United Kingdom",
+			"description": "Author of FULLY AUTOMATED LUXURY COMMUNISM. Writer / Journalist / Broadcaster. Co-Founder @novaramedia (He/Him)",
+			"url": "https://t.co/oRUGZExM66",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRUGZExM66",
+							"expanded_url": "https://www.versobooks.com/books/3156-fully-automated-luxury-communism",
+							"display_url": "versobooks.com/books/3156-ful…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93807,
+			"friends_count": 1634,
+			"listed_count": 965,
+			"created_at": "Wed Aug 05 09:12:55 +0000 2009",
+			"favourites_count": 96259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDDEE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238129881269051393/5Wu3KtXX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238129881269051393/5Wu3KtXX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63082578/1631221570",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4C90D4",
+			"profile_text_color": "080707",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 683,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Associates of the Battersea MP claim the party failed to put her on a single ‘media round’ during 17 months in the job, &amp; that she was offered just five minutes speaking time at Labour’s annual conference, which takes place next week.”\n\nTough reading. https://t.co/tBaGatMuNs"
+	},
+	{
 		"created_at": "Wed Sep 15 10:50:09 +0000 2021",
 		"id": 1438092769982046200,
 		"id_str": "1438092769982046209",
