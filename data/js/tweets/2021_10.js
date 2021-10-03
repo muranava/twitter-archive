@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 08:21:36 +0000 2021",
+		"id": 1444047861575000000,
+		"id_str": "1444215978242592768",
+		"full_text": "Cultural capital and #cogsci. Cognitive scientists sometimes say that deprived children lack the background knowledge that other children acquire at home, and so the aim of education should be to even this out. 1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cogsci",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2201030595,
+			"id_str": "2201030595",
+			"name": "Naomi Fisher",
+			"screen_name": "naomicfisher",
+			"location": "Hove, England",
+			"description": "Clinical Psychologist. Author of Changing our Minds. https://t.co/dt6KDDbLtB. Looking at education through a psychological lens.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dt6KDDbLtB",
+							"expanded_url": "https://tinyurl.com/Changing-our-minds",
+							"display_url": "tinyurl.com/Changing-our-m…",
+							"indices": [
+								53,
+								76
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1735,
+			"friends_count": 752,
+			"listed_count": 23,
+			"created_at": "Fri Nov 29 22:42:15 +0000 2013",
+			"favourites_count": 685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359529515035357184/8z_8Uo5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359529515035357184/8z_8Uo5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2201030595/1613229100",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 141,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Cultural capital and #cogsci. Cognitive scientists sometimes say that deprived children lack the background knowledge that other children acquire at home, and so the aim of education should be to even this out. 1/"
+	},
+	{
 		"created_at": "Fri Oct 01 21:45:39 +0000 2021",
 		"id": 1444055938265227300,
 		"id_str": "1444055938265227268",
