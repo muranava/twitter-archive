@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 10:05:44 +0000 2021",
+		"id": 1443957595388137500,
+		"id_str": "1444604575529553921",
+		"full_text": "Let's talk about the 1919 Elaine Massacre.\n\nIn Arkansas, hundreds of Black folks were murdered by white mobs in one of the bloodiest racial conflicts in U.S. history. \n\nIt was also one of the bloodiest labor conflicts in U.S. history. \n\nIt all started with a union meeting. 🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15814350,
+			"id_str": "15814350",
+			"name": "Kim Kelly",
+			"screen_name": "GrimKim",
+			"location": "South Philly",
+			"description": "‘FIGHT LIKE HELL: The Untold History of American Labor’ out 4/26/22 @onesignalpub /  @teenvogue labor column, @therealnews contributor / kimkellywrites@gmail 🏴",
+			"url": "https://t.co/gnqY1EMPbs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gnqY1EMPbs",
+							"expanded_url": "https://linktr.ee/kimkellywrites",
+							"display_url": "linktr.ee/kimkellywrites",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110499,
+			"friends_count": 9718,
+			"listed_count": 907,
+			"created_at": "Mon Aug 11 21:47:25 +0000 2008",
+			"favourites_count": 117034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 73846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428148634038718465/xcP0MbcZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428148634038718465/xcP0MbcZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15814350/1626363282",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3083,
+		"favorite_count": 7719,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Let's talk about the 1919 Elaine Massacre.\n\nIn Arkansas, hundreds of Black folks were murdered by white mobs in one of the bloodiest racial conflicts in U.S. history. \n\nIt was also one of the bloodiest labor conflicts in U.S. history. \n\nIt all started with a union meeting. 🧵"
+	},
+	{
 		"created_at": "Sat Oct 02 08:21:36 +0000 2021",
 		"id": 1444047861575000000,
 		"id_str": "1444215978242592768",
