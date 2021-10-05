@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 10:28:01 +0000 2021",
+		"id": 1444957250460737500,
+		"id_str": "1444972571422830595",
+		"full_text": "Something about 'tax justice' politics and reporting when there is not a single mention of Britain's colonial history in Bahrain or the very recent accusations of torture (both in the UK under Blair with extraordinary rendition and in Bahrain). https://t.co/yxwe4nHgMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yxwe4nHgMo",
+					"expanded_url": "https://twitter.com/BBCBreaking/status/1444706846128889860",
+					"display_url": "twitter.com/BBCBreaking/st…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "Petrograd",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/xiOWJ610Vk",
+			"url": "https://t.co/NisDMEzbCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NisDMEzbCY",
+							"expanded_url": "http://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xiOWJ610Vk",
+							"expanded_url": "https://www.patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59587,
+			"friends_count": 2694,
+			"listed_count": 0,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 20420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112721713341652992/_GzRKcFy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1587570116",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444706846128889900,
+		"quoted_status_id_str": "1444706846128889860",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yxwe4nHgMo",
+			"expanded": "https://twitter.com/BBCBreaking/status/1444706846128889860",
+			"display": "twitter.com/BBCBreaking/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 03 16:52:08 +0000 2021",
+			"id": 1444706846128889900,
+			"id_str": "1444706846128889860",
+			"full_text": "Former UK Prime Minister Tony Blair and his wife Cherie saved £312,000 in stamp duty when buying a £6.45m London townhouse by buying an offshore company which owned the house, leaked documents from the Pandora Papers show\n\nhttps://t.co/6KgpUNvBDG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6KgpUNvBDG",
+						"expanded_url": "https://bbc.in/3mnSkYu",
+						"display_url": "bbc.in/3mnSkYu",
+						"indices": [
+							223,
+							246
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5402612,
+				"id_str": "5402612",
+				"name": "BBC Breaking News",
+				"screen_name": "BBCBreaking",
+				"location": "London, UK",
+				"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+				"url": "http://t.co/vBzl7LOaso",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vBzl7LOaso",
+								"expanded_url": "http://www.bbc.co.uk/news",
+								"display_url": "bbc.co.uk/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48283130,
+				"friends_count": 3,
+				"listed_count": 142986,
+				"created_at": "Sun Apr 22 14:42:37 +0000 2007",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37526,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1621582419",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3105,
+			"favorite_count": 5982,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Something about 'tax justice' politics and reporting when there is not a single mention of Britain's colonial history in Bahrain or the very recent accusations of torture (both in the UK under Blair with extraordinary rendition and in Bahrain). https://t.co/yxwe4nHgMo"
+	},
+	{
 		"created_at": "Sun Oct 03 10:05:44 +0000 2021",
 		"id": 1443957595388137500,
 		"id_str": "1444604575529553921",
