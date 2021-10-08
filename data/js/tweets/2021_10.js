@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 14:53:49 +0000 2021",
+		"id": 1445737271706013700,
+		"id_str": "1446126625364463626",
+		"full_text": "[New Bridge Resource]\n\nWe've just published our factsheet on French President #EmmanuelMacron.\n\nhttps://t.co/QrI3aZ1Ouq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EmmanuelMacron",
+					"indices": [
+						78,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QrI3aZ1Ouq",
+					"expanded_url": "https://bridge.georgetown.edu/research/factsheet-emmanuel-macron/",
+					"display_url": "bridge.georgetown.edu/research/facts…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096718263,
+			"id_str": "3096718263",
+			"name": "The Bridge Initiative",
+			"screen_name": "bridgeinit",
+			"location": "Washington, DC",
+			"description": "A Georgetown University research project that extends information about Islamophobia to the public. RT ≠ endorsement. ❤ ≠ like. Website: https://t.co/MuhmgtmYVO",
+			"url": "https://t.co/MuhmgtmYVO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MuhmgtmYVO",
+							"expanded_url": "http://bridge.georgetown.edu",
+							"display_url": "bridge.georgetown.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MuhmgtmYVO",
+							"expanded_url": "http://bridge.georgetown.edu",
+							"display_url": "bridge.georgetown.edu",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30526,
+			"friends_count": 691,
+			"listed_count": 159,
+			"created_at": "Thu Mar 19 13:17:27 +0000 2015",
+			"favourites_count": 6285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194650275304181760/65bnrt58_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194650275304181760/65bnrt58_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096718263/1545589911",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[New Bridge Resource]\n\nWe've just published our factsheet on French President #EmmanuelMacron.\n\nhttps://t.co/QrI3aZ1Ouq"
+	},
+	{
 		"created_at": "Mon Oct 04 10:28:01 +0000 2021",
 		"id": 1444957250460737500,
 		"id_str": "1444972571422830595",
