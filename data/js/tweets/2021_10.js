@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 15:30:44 +0000 2021",
+		"id": 1448870280932233200,
+		"id_str": "1449035016764280840",
+		"full_text": "New @RedSailsOrg!\n\nFor some time now I've been skeptical of how fascism is presented as a potential future, or a cautionary tale.\n\nIn this essay I pit Nietzsche against Marx in order to explain just how co-constitutive fascism and capitalism really are.\nhttps://t.co/6hxeIpw0eb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RedSailsOrg",
+					"name": "RedSailsOrg",
+					"id": 1322579552976199700,
+					"id_str": "1322579552976199686",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6hxeIpw0eb",
+					"expanded_url": "https://redsails.org/really-existing-fascism/",
+					"display_url": "redsails.org/really-existin…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255362817,
+			"id_str": "255362817",
+			"name": "Roderic Day",
+			"screen_name": "RodericDay",
+			"location": "Marxist-Leninist",
+			"description": "first world bourgeoisie with no class consciousness and bad taste",
+			"url": "https://t.co/8HEjKnivoz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8HEjKnivoz",
+							"expanded_url": "https://RedSails.org",
+							"display_url": "RedSails.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17302,
+			"friends_count": 523,
+			"listed_count": 81,
+			"created_at": "Mon Feb 21 06:00:43 +0000 2011",
+			"favourites_count": 57448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11D94A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372588999878017024/sNn80thd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372588999878017024/sNn80thd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255362817/1430108773",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 150,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New @RedSailsOrg!\n\nFor some time now I've been skeptical of how fascism is presented as a potential future, or a cautionary tale.\n\nIn this essay I pit Nietzsche against Marx in order to explain just how co-constitutive fascism and capitalism really are.\nhttps://t.co/6hxeIpw0eb"
+	},
+	{
 		"created_at": "Thu Oct 14 19:18:49 +0000 2021",
 		"id": 1448661549506171000,
 		"id_str": "1448730029609922564",
