@@ -1,6 +1,919 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 16:52:21 +0000 2021",
+		"id": 1451229882504126500,
+		"id_str": "1451229882504126471",
+		"full_text": "@Prof_F_Henshaw @spsmith45 is it possbile to dissolve research-practice in contrast to bridging it?",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_F_Henshaw",
+					"name": "Florencia Henshaw",
+					"id": 1358031459278344200,
+					"id_str": "1358031459278344193",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "spsmith45",
+					"name": "Steve Smith 🇪🇺",
+					"id": 303905601,
+					"id_str": "303905601",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451229278062977000,
+		"in_reply_to_status_id_str": "1451229278062977027",
+		"in_reply_to_user_id": 1358031459278344200,
+		"in_reply_to_user_id_str": "1358031459278344193",
+		"in_reply_to_screen_name": "Prof_F_Henshaw",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 2458,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Prof_F_Henshaw @spsmith45 is it possbile to dissolve research-practice in contrast to bridging it?"
+	},
+	{
+		"created_at": "Thu Oct 21 15:34:40 +0000 2021",
+		"id": 1451210334925164500,
+		"id_str": "1451210334925164553",
+		"full_text": "@timhampson I like it",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timhampson",
+					"name": "Tim Hampson",
+					"id": 19422628,
+					"id_str": "19422628",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451209571394019300,
+		"in_reply_to_status_id_str": "1451209571394019334",
+		"in_reply_to_user_id": 19422628,
+		"in_reply_to_user_id_str": "19422628",
+		"in_reply_to_screen_name": "timhampson",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 2458,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timhampson I like it"
+	},
+	{
+		"created_at": "Thu Oct 21 14:11:20 +0000 2021",
+		"id": 1451189364025741300,
+		"id_str": "1451189364025741324",
+		"full_text": "@philipseargeant OK thanks",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philipseargeant",
+					"name": "Philip Seargeant",
+					"id": 2605136016,
+					"id_str": "2605136016",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451093489987555300,
+		"in_reply_to_status_id_str": "1451093489987555331",
+		"in_reply_to_user_id": 2605136016,
+		"in_reply_to_user_id_str": "2605136016",
+		"in_reply_to_screen_name": "philipseargeant",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 2458,
+			"listed_count": 102,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@philipseargeant OK thanks"
+	},
+	{
+		"created_at": "Thu Oct 21 09:22:17 +0000 2021",
+		"id": 1450956292789608400,
+		"id_str": "1451116619023978506",
+		"full_text": "First pub from the homie @lmvWrites. Really boundary-breaking work on metaphors of care and how that intersects with education, anarchism, and challing oppression. Bravo, and, everyone else, read and share post haste.\n\nhttps://t.co/EyIiwclGNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lmvWrites",
+					"name": "🔪lydia killaronga🍷",
+					"id": 727896528212332500,
+					"id_str": "727896528212332547",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EyIiwclGNb",
+					"expanded_url": "https://traue.commons.gc.cuny.edu/everything-is-a-metaphor-care-as-praxis/?fbclid=IwAR0fimnSRqT9Idu7jEaGjq9PnMVL0foWTTHgIJ36z-VXoGayJaubDXhE7yo",
+					"display_url": "traue.commons.gc.cuny.edu/everything-is-…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23435297,
+			"id_str": "23435297",
+			"name": "JPB Gerald",
+			"screen_name": "JPBGerald",
+			"location": "NYC/Lenape and Canarsie land",
+			"description": "Black+neurodivergent (ADHD) EdD candidate,\nPod @UnstandardizedE,\nHusband/dad/dog dad/runner,\nScholar of whiteness/race/language/ability,\nTalks out of turn\n🤛🏿",
+			"url": "https://t.co/y2NaKdY1yO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y2NaKdY1yO",
+							"expanded_url": "https://jpbgerald.com/",
+							"display_url": "jpbgerald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4681,
+			"friends_count": 4971,
+			"listed_count": 35,
+			"created_at": "Mon Mar 09 13:36:17 +0000 2009",
+			"favourites_count": 43972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1371211256808476674/EHysSMYw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371211256808476674/EHysSMYw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23435297/1615757214",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First pub from the homie @lmvWrites. Really boundary-breaking work on metaphors of care and how that intersects with education, anarchism, and challing oppression. Bravo, and, everyone else, read and share post haste.\n\nhttps://t.co/EyIiwclGNb"
+	},
+	{
+		"created_at": "Thu Oct 21 08:59:27 +0000 2021",
+		"id": 1450852291603484700,
+		"id_str": "1451110872529752066",
+		"full_text": "Today the French Home Secretary announced the dissolution of yet another Muslim organisation fighting Islamophobia, the @CRI_France \n\n🧵 Here’s a thread explaining the context and implications. https://t.co/qTYOmjjsa6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CRI_France",
+					"name": "CRI",
+					"id": 324576820,
+					"id_str": "324576820",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qTYOmjjsa6",
+					"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894",
+					"display_url": "twitter.com/GDarmanin/stat…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108664025,
+			"id_str": "108664025",
+			"name": "CAGE",
+			"screen_name": "UK_CAGE",
+			"location": "London, UK",
+			"description": "Working to empower communities impacted by the War on Terror. CITIZENS not SUBJECTS.",
+			"url": "https://t.co/0Hm00EwI7T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hm00EwI7T",
+							"expanded_url": "https://www.20yearsofwar.com/",
+							"display_url": "20yearsofwar.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34271,
+			"friends_count": 1799,
+			"listed_count": 274,
+			"created_at": "Tue Jan 26 17:28:37 +0000 2010",
+			"favourites_count": 30399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395074349103726597/ffxyXrCV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395074349103726597/ffxyXrCV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108664025/1633535287",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F89509",
+			"profile_text_color": "090909",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450770385511846000,
+		"quoted_status_id_str": "1450770385511845894",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qTYOmjjsa6",
+			"expanded": "https://twitter.com/GDarmanin/status/1450770385511845894",
+			"display": "twitter.com/GDarmanin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 10:26:28 +0000 2021",
+			"id": 1450770385511846000,
+			"id_str": "1450770385511845894",
+			"full_text": "L’association « Coordination contre le racisme et l’islamophobie » a été dissoute en conseil des ministres, conformément aux instructions du Président de la République. \nComme le détaille le décret que j’ai présenté, elle appelait à la haine, à la violence et à la discrimination: https://t.co/5giwOcQEfC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450770368235548700,
+						"id_str": "1450770368235548692",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FCIr9qFXsBQU33G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCIr9qFXsBQU33G.jpg",
+						"url": "https://t.co/5giwOcQEfC",
+						"display_url": "pic.twitter.com/5giwOcQEfC",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450770368235548700,
+						"id_str": "1450770368235548692",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FCIr9qFXsBQU33G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCIr9qFXsBQU33G.jpg",
+						"url": "https://t.co/5giwOcQEfC",
+						"display_url": "pic.twitter.com/5giwOcQEfC",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 904,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1450770368243933200,
+						"id_str": "1450770368243933198",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FCIr9qHXoA4m3-M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCIr9qHXoA4m3-M.jpg",
+						"url": "https://t.co/5giwOcQEfC",
+						"display_url": "pic.twitter.com/5giwOcQEfC",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 904,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1450770368239702000,
+						"id_str": "1450770368239702026",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FCIr9qGXEAoXstT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCIr9qGXEAoXstT.jpg",
+						"url": "https://t.co/5giwOcQEfC",
+						"display_url": "pic.twitter.com/5giwOcQEfC",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 904,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1450770368252219400,
+						"id_str": "1450770368252219394",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FCIr9qJWEAIakGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCIr9qJWEAIakGS.jpg",
+						"url": "https://t.co/5giwOcQEfC",
+						"display_url": "pic.twitter.com/5giwOcQEfC",
+						"expanded_url": "https://twitter.com/GDarmanin/status/1450770385511845894/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 607,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1071,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1142,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209825928,
+				"id_str": "209825928",
+				"name": "Gérald DARMANIN",
+				"screen_name": "GDarmanin",
+				"location": "France",
+				"description": "Ministre de l’Intérieur 🇫🇷",
+				"url": "https://t.co/ijGtCuUD3h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ijGtCuUD3h",
+								"expanded_url": "https://instagram.com/gerald_darmanin?utm_source=ig_profile_share&igshid=1uc0uhbj47e7b",
+								"display_url": "instagram.com/gerald_darmani…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 279755,
+				"friends_count": 1129,
+				"listed_count": 1508,
+				"created_at": "Sat Oct 30 00:30:43 +0000 2010",
+				"favourites_count": 788,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18395,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369363441689968640/4Bl_temn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369363441689968640/4Bl_temn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209825928/1594399389",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 292,
+			"favorite_count": 984,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 56,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today the French Home Secretary announced the dissolution of yet another Muslim organisation fighting Islamophobia, the @CRI_France \n\n🧵 Here’s a thread explaining the context and implications. https://t.co/qTYOmjjsa6"
+	},
+	{
 		"created_at": "Wed Oct 20 22:59:53 +0000 2021",
 		"id": 1450959990408241200,
 		"id_str": "1450959990408241159",
