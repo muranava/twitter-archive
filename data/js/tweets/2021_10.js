@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 27 10:42:10 +0000 2021",
+		"id": 1453290240626540500,
+		"id_str": "1453311053383802887",
+		"full_text": "“This judgment is a game changer. It means employers cannot ignore legally established collective bargaining rights just because they choose to ignore them. Every worker should now realise that it’s in their interest to be a union member.” @UniteSharon \n\nhttps://t.co/jxeKpuAV6J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniteSharon",
+					"name": "Sharon Graham",
+					"id": 1341712914160496600,
+					"id_str": "1341712914160496640",
+					"indices": [
+						240,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jxeKpuAV6J",
+					"expanded_url": "https://www.unitetheunion.org/news-events/news/2021/october/union-heralds-historic-legal-judgment-at-supreme-court-on-collective-bargaining-in-kostal-case/",
+					"display_url": "unitetheunion.org/news-events/ne…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20593641,
+			"id_str": "20593641",
+			"name": "Unite the union: join a union",
+			"screen_name": "unitetheunion",
+			"location": "UK and Ireland",
+			"description": "The UK and Ireland's largest trade union. Join at: https://t.co/3RlYkjTbig\n\nOur Twitter team cannot give employment rights advice.",
+			"url": "https://t.co/9Q4AobkKxh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Q4AobkKxh",
+							"expanded_url": "http://www.unitetheunion.org",
+							"display_url": "unitetheunion.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3RlYkjTbig",
+							"expanded_url": "http://unitetheunion.org/join",
+							"display_url": "unitetheunion.org/join",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86011,
+			"friends_count": 1130,
+			"listed_count": 920,
+			"created_at": "Wed Feb 11 14:41:22 +0000 2009",
+			"favourites_count": 4262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876765488789028865/E-A2AB-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765488789028865/E-A2AB-8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20593641/1632831038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "E31620",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "1B2146",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 327,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“This judgment is a game changer. It means employers cannot ignore legally established collective bargaining rights just because they choose to ignore them. Every worker should now realise that it’s in their interest to be a union member.” @UniteSharon \n\nhttps://t.co/jxeKpuAV6J"
+	},
+	{
 		"created_at": "Tue Oct 26 10:25:40 +0000 2021",
 		"id": 1452944512112906200,
 		"id_str": "1452944512112906241",
