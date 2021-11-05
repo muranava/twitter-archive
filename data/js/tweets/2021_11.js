@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 14:15:49 +0000 2021",
+		"id": 1456011559893876700,
+		"id_str": "1456263920386068481",
+		"full_text": "when you sit at the Ku Klux Klan funded table, you are providing an air of legitimacy to a network of white supremacists who are playing a long game- who see an opportunity in data and tech policy to re-enact what they’ve been able to do for climate science-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456011558283272200,
+		"in_reply_to_status_id_str": "1456011558283272193",
+		"in_reply_to_user_id": 861277840020471800,
+		"in_reply_to_user_id_str": "861277840020471808",
+		"in_reply_to_screen_name": "UpFromTheCracks",
+		"user": {
+			"id": 861277840020471800,
+			"id_str": "861277840020471808",
+			"name": "Khadijah",
+			"screen_name": "UpFromTheCracks",
+			"location": "United States",
+			"description": "Got my education Pullman Porter Style. Always down to discuss @WeBeImagining #AI #Mycelium #Virology #Abolish (Prisons, ACS, ICE, The State)",
+			"url": "https://t.co/pjmkcazGQ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjmkcazGQ9",
+							"expanded_url": "https://americanassembly.org/we-be-imagining",
+							"display_url": "americanassembly.org/we-be-imagining",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7382,
+			"friends_count": 3586,
+			"listed_count": 62,
+			"created_at": "Sun May 07 17:53:33 +0000 2017",
+			"favourites_count": 25517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417913783905828866/dbRNxqHW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417913783905828866/dbRNxqHW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861277840020471808/1635897832",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "when you sit at the Ku Klux Klan funded table, you are providing an air of legitimacy to a network of white supremacists who are playing a long game- who see an opportunity in data and tech policy to re-enact what they’ve been able to do for climate science-"
+	},
+	{
 		"created_at": "Wed Nov 03 18:28:10 +0000 2021",
 		"id": 1455965038293000200,
 		"id_str": "1455965038293000195",
