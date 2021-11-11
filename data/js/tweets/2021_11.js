@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 12:50:19 +0000 2021",
+		"id": 1452912131859525600,
+		"id_str": "1458416729344909312",
+		"full_text": "Mon documentaire #LaParisienneDemystifiee est toujours disponible en replay sur ➡️📲https://t.co/2sF0o58BML\nMerci à vous toutes et tous qui l’avez d’ores et déjà visionné ainsi qu’aux médias qui en ont fait la critique. https://t.co/hq6uUufJrU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LaParisienneDemystifiee",
+					"indices": [
+						17,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2sF0o58BML",
+					"expanded_url": "https://www.france.tv/documentaires/societe/2804821-la-france-en-vrai-la-parisienne-demystifiee.html",
+					"display_url": "france.tv/documentaires/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1452912128336318500,
+					"id_str": "1452912128336318470",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FCnH4gNX0AY4d0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCnH4gNX0AY4d0-.jpg",
+					"url": "https://t.co/hq6uUufJrU",
+					"display_url": "pic.twitter.com/hq6uUufJrU",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1452912131859525634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452912128336318500,
+					"id_str": "1452912128336318470",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FCnH4gNX0AY4d0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCnH4gNX0AY4d0-.jpg",
+					"url": "https://t.co/hq6uUufJrU",
+					"display_url": "pic.twitter.com/hq6uUufJrU",
+					"expanded_url": "https://twitter.com/RokhayaDiallo/status/1452912131859525634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46375782,
+			"id_str": "46375782",
+			"name": "Rokhaya Diallo",
+			"screen_name": "RokhayaDiallo",
+			"location": "Paris",
+			"description": "Writer, journalist & filmmaker | Opinions @postopinions | Podcaster @kiffetarace | Researcher in Residence @Georgetown @GUGenderJustice #NeRestePasATaPlace",
+			"url": "https://t.co/vUofLZ6CWA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUofLZ6CWA",
+							"expanded_url": "http://www.rokhayadiallo.com",
+							"display_url": "rokhayadiallo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 182204,
+			"friends_count": 5717,
+			"listed_count": 1011,
+			"created_at": "Thu Jun 11 12:29:34 +0000 2009",
+			"favourites_count": 53224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1456950847645130756/ocRK6LpX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456950847645130756/ocRK6LpX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46375782/1539281156",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 376,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Mon documentaire #LaParisienneDemystifiee est toujours disponible en replay sur ➡️📲https://t.co/2sF0o58BML\nMerci à vous toutes et tous qui l’avez d’ores et déjà visionné ainsi qu’aux médias qui en ont fait la critique. https://t.co/hq6uUufJrU"
+	},
+	{
 		"created_at": "Tue Nov 09 09:42:31 +0000 2021",
 		"id": 1458007082335096800,
 		"id_str": "1458007082335096835",
