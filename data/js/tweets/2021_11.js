@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 10:32:14 +0000 2021",
+		"id": 1458809416845873200,
+		"id_str": "1459831531703357446",
+		"full_text": "A 14 year old boy froze to death at the Poland-Belarus border.\n\nLast week, I met a Syrian boy of the same age, who managed to reach Poland despite illegal pushbacks. He told me he saw corpses, lying face down in swamps.\n\nChildren, among other people, are at risk of dying there.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2342106512,
+			"id_str": "2342106512",
+			"name": "Emmanuelle Chaze",
+			"screen_name": "EmmanuelleChaze",
+			"location": "🇩🇪, via 🇫🇷 and 🇮🇪 : 🇪🇺",
+			"description": "Journalist FR-EN-DE-ES. Political correspondent/reporter @France24, @DeutscheWelle. An eye on the Mediterranean, & a book on refugees in EU https://t.co/oNAxevwz7X.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oNAxevwz7X",
+							"expanded_url": "http://amzn.to/32gZeVX",
+							"display_url": "amzn.to/32gZeVX",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7062,
+			"friends_count": 5268,
+			"listed_count": 101,
+			"created_at": "Thu Feb 13 14:57:05 +0000 2014",
+			"favourites_count": 16933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396408494845276163/HVMnXtMc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396408494845276163/HVMnXtMc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2342106512/1613472048",
+			"profile_link_color": "138D75",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1121,
+		"favorite_count": 2670,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A 14 year old boy froze to death at the Poland-Belarus border.\n\nLast week, I met a Syrian boy of the same age, who managed to reach Poland despite illegal pushbacks. He told me he saw corpses, lying face down in swamps.\n\nChildren, among other people, are at risk of dying there."
+	},
+	{
 		"created_at": "Sat Nov 13 15:52:58 +0000 2021",
 		"id": 1459549858596020200,
 		"id_str": "1459549858596020227",
