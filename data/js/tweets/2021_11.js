@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 16:27:49 +0000 2021",
+		"id": 1461350669252657200,
+		"id_str": "1461370571065892869",
+		"full_text": "It must have taken enormous restraint for @zarahsultana to choose 'dodgy' over all the other things you can call Tories.\n\nAnd she was told off by the deputy speaker for doing so 🙃 https://t.co/v9Y33AEoXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zarahsultana",
+					"name": "Zarah Sultana MP",
+					"id": 3056307455,
+					"id_str": "3056307455",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461346892340551700,
+					"id_str": "1461346892340551690",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1461346892340551690/img/pvNgR2jqz9zkEcX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1461346892340551690/img/pvNgR2jqz9zkEcX1.jpg",
+					"url": "https://t.co/v9Y33AEoXu",
+					"display_url": "pic.twitter.com/v9Y33AEoXu",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1461350669252657156/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461346892340551700,
+					"id_str": "1461346892340551690",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1461346892340551690/img/pvNgR2jqz9zkEcX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1461346892340551690/img/pvNgR2jqz9zkEcX1.jpg",
+					"url": "https://t.co/v9Y33AEoXu",
+					"display_url": "pic.twitter.com/v9Y33AEoXu",
+					"expanded_url": "https://twitter.com/PoliticsJOE_UK/status/1461350669252657156/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 1854580777,
+					"source_user_id_str": "1854580777",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 132880,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461346892340551690/vid/540x540/_dGPllHP9iLQAo_n.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461346892340551690/vid/320x320/RrHgIE4QhjBn4Zuh.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461346892340551690/vid/720x720/mqDsxuRQW7WnsHac.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1461346892340551690/pl/YBvjN-ONuoYue-JZ.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Zarah Sultana refuses to take back comment that government is \"dodgy\"",
+						"description": "It must have taken enormous restraint for @zarahsultana to choose 'dodgy' over all the other things you can call Tories.\n\nAnd she was told off by the deputy speaker for doing so.\n",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1854580777,
+							"id_str": "1854580777",
+							"name": "JOE",
+							"screen_name": "JOE_co_uk",
+							"location": "United Kingdom",
+							"description": "@FootballJOE - @PoliticsJOE_UK - @SportsJOE_UK - @RugbyJOE_UK",
+							"url": "https://t.co/Icas2ov3WT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Icas2ov3WT",
+											"expanded_url": "http://JOE.co.uk",
+											"display_url": "JOE.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 230150,
+							"friends_count": 1093,
+							"listed_count": 781,
+							"created_at": "Wed Sep 11 14:50:02 +0000 2013",
+							"favourites_count": 8977,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 122093,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192034846442438656/sd7Y6qgd_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854580777/1573571129",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840502412842541000,
+			"id_str": "840502412842541056",
+			"name": "PoliticsJOE",
+			"screen_name": "PoliticsJOE_UK",
+			"location": "United Kingdom",
+			"description": "@JOE_co_uk approve this message. Follow https://t.co/SJzghivE3Y",
+			"url": "https://t.co/OrEs66qsMV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OrEs66qsMV",
+							"expanded_url": "https://www.youtube.com/PoliticsJOE",
+							"display_url": "youtube.com/PoliticsJOE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SJzghivE3Y",
+							"expanded_url": "http://instagram.com/PoliticsJOE",
+							"display_url": "instagram.com/PoliticsJOE",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 145276,
+			"friends_count": 844,
+			"listed_count": 564,
+			"created_at": "Sat Mar 11 09:59:25 +0000 2017",
+			"favourites_count": 3338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084583351854551043/lVu9S5aX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840502412842541056/1611334418",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 591,
+		"favorite_count": 2403,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It must have taken enormous restraint for @zarahsultana to choose 'dodgy' over all the other things you can call Tories.\n\nAnd she was told off by the deputy speaker for doing so 🙃 https://t.co/v9Y33AEoXu"
+	},
+	{
+		"created_at": "Thu Nov 18 14:38:02 +0000 2021",
+		"id": 1461342942883299300,
+		"id_str": "1461342942883299331",
+		"full_text": "@GeoffJordan16 OK thx",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1373330979239116800,
+					"id_str": "1373330979239116804",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1461340436648263700,
+		"in_reply_to_status_id_str": "1461340436648263680",
+		"in_reply_to_user_id": 1373330979239116800,
+		"in_reply_to_user_id_str": "1373330979239116804",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2102,
+			"friends_count": 2485,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 OK thx"
+	},
+	{
 		"created_at": "Wed Nov 17 11:29:27 +0000 2021",
 		"id": 1460895692189311000,
 		"id_str": "1460933096421965830",
