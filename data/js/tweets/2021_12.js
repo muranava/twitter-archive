@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 10:23:22 +0000 2021",
+		"id": 1468888999884435500,
+		"id_str": "1468888999884435457",
+		"full_text": "great vid &amp; nice channel thx; i guess linguists would balk at the metaphorical uses of nouns/verbs : ) https://t.co/M2QfzVsfg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M2QfzVsfg1",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1468883196536410114",
+					"display_url": "twitter.com/TeflUnion/stat…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2099,
+			"friends_count": 2504,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468883196536410000,
+		"quoted_status_id_str": "1468883196536410114",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M2QfzVsfg1",
+			"expanded": "https://twitter.com/TeflUnion/status/1468883196536410114",
+			"display": "twitter.com/TeflUnion/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 10:00:19 +0000 2021",
+			"id": 1468883196536410000,
+			"id_str": "1468883196536410114",
+			"full_text": "This is absolutely amazing - a #TEFL teacher's explanation of capitalism!  Well done to @ftermathematics for bringing together this brilliant little piece of art and analysis. #elt \n\nhttps://t.co/vrUCxhedNB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TEFL",
+						"indices": [
+							31,
+							36
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							176,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ftermathematics",
+						"name": "Aftermathematics",
+						"id": 1272551806317596700,
+						"id_str": "1272551806317596673",
+						"indices": [
+							88,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vrUCxhedNB",
+						"expanded_url": "https://www.youtube.com/watch?v=4IK9lc3iOQw",
+						"display_url": "youtube.com/watch?v=4IK9lc…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1130578765472501800,
+				"id_str": "1130578765472501760",
+				"name": "TEFL Workers' Union",
+				"screen_name": "TeflUnion",
+				"location": "London",
+				"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+				"url": "https://t.co/ngblfDEBVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ngblfDEBVd",
+								"expanded_url": "https://www.facebook.com/teflworkers/",
+								"display_url": "facebook.com/teflworkers/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1994,
+				"friends_count": 196,
+				"listed_count": 11,
+				"created_at": "Mon May 20 20:59:17 +0000 2019",
+				"favourites_count": 927,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great vid &amp; nice channel thx; i guess linguists would balk at the metaphorical uses of nouns/verbs : ) https://t.co/M2QfzVsfg1"
+	},
+	{
 		"created_at": "Tue Dec 07 17:56:39 +0000 2021",
 		"id": 1468278296827908000,
 		"id_str": "1468278296827908123",
@@ -596,7 +861,7 @@ Grailbird.data.tweets_2021_12 =
 			"created_at": "Tue Dec 07 11:07:38 +0000 2021",
 			"id": 1468175360869408800,
 			"id_str": "1468175360869408769",
-			"full_text": "In 2021, black people were seven times more likely to be stopped than white people...which is why we're preparing kids early 😊👮🏽‍♀️\n\nEpisode 1 of Race Around Britain ft @yungfilly1 is out now!\nhttps://t.co/NZ6K4WNzTm @YouTube #RaceAroundBritain https://t.co/2C2kygVWSc",
+			"full_text": "In 2021, black people were seven times more likely to be stopped than white people...which is why we're preparing kids early 😊👮🏽♀️\n\nEpisode 1 of Race Around Britain ft @yungfilly1 is out now!\nhttps://t.co/NZ6K4WNzTm @YouTube #RaceAroundBritain https://t.co/2C2kygVWSc",
 			"truncated": false,
 			"display_text_range": [
 				0,
