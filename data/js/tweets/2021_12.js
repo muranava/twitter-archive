@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 09:12:23 +0000 2021",
+		"id": 1469300986799865900,
+		"id_str": "1469595911634530308",
+		"full_text": "Well of course the High Court accepted assurances from the US that they will treat Julian Assange well. It's not like they secretly plotted to assassinate him or anything, is it?... Is it? Oh. It is.\n\n@StellaMoris1, Julian's fiancée, is very powerful in this clip. https://t.co/t42MSDWenQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StellaMoris1",
+					"name": "Stella Moris #FreeAssangeNOW",
+					"id": 1246440482760085500,
+					"id_str": "1246440482760085504",
+					"indices": [
+						201,
+						214
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469287389118054400,
+					"id_str": "1469287389118054400",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469287389118054400/pu/img/UXOTPl5Lpi7bYCE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469287389118054400/pu/img/UXOTPl5Lpi7bYCE1.jpg",
+					"url": "https://t.co/t42MSDWenQ",
+					"display_url": "pic.twitter.com/t42MSDWenQ",
+					"expanded_url": "https://twitter.com/alexnunns/status/1469300986799865865/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469287389118054400,
+					"id_str": "1469287389118054400",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469287389118054400/pu/img/UXOTPl5Lpi7bYCE1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469287389118054400/pu/img/UXOTPl5Lpi7bYCE1.jpg",
+					"url": "https://t.co/t42MSDWenQ",
+					"display_url": "pic.twitter.com/t42MSDWenQ",
+					"expanded_url": "https://twitter.com/alexnunns/status/1469300986799865865/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1022,
+							571
+						],
+						"duration_millis": 128638,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469287389118054400/pu/vid/644x360/pcEU0oitmMm1w28A.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469287389118054400/pu/pl/aOsmGgWlHERU30_c.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469287389118054400/pu/vid/1020x570/z1kDDesciC8xG1D-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469287389118054400/pu/vid/482x270/KUiy9T07WQcSetbz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103709540,
+			"id_str": "103709540",
+			"name": "Alex Nunns",
+			"screen_name": "alexnunns",
+			"location": "London",
+			"description": "I am fewer than 280 characters. Previously Jeremy Corbyn's speechwriter and I also wrote this book: https://t.co/iD5oLaJbT7",
+			"url": "https://t.co/ukqG3FIIiE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ukqG3FIIiE",
+							"expanded_url": "http://orbooks.com/catalog/the-candidate/",
+							"display_url": "orbooks.com/catalog/the-ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iD5oLaJbT7",
+							"expanded_url": "http://www.orbooks.com/catalog/candidate-alex-nunns-2nd-edition",
+							"display_url": "orbooks.com/catalog/candid…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39296,
+			"friends_count": 3840,
+			"listed_count": 224,
+			"created_at": "Mon Jan 11 00:41:29 +0000 2010",
+			"favourites_count": 15272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156668575182204928/7I1kfxd6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156668575182204928/7I1kfxd6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103709540/1627326396",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1787,
+		"favorite_count": 3403,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well of course the High Court accepted assurances from the US that they will treat Julian Assange well. It's not like they secretly plotted to assassinate him or anything, is it?... Is it? Oh. It is.\n\n@StellaMoris1, Julian's fiancée, is very powerful in this clip. https://t.co/t42MSDWenQ"
+	},
+	{
 		"created_at": "Thu Dec 09 10:23:22 +0000 2021",
 		"id": 1468888999884435500,
 		"id_str": "1468888999884435457",
