@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 09:58:39 +0000 2021",
+		"id": 1471418345744486400,
+		"id_str": "1471419492790116357",
+		"full_text": "New on my blog. I recorded a 60’ conversation lesson, read the transcript and evaluated my teacher talk. Hope you find it interesting! https://t.co/cLXxvobnAw #selfobservation #ELT #reflectivepractice #teachertalk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "selfobservation",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "reflectivepractice",
+					"indices": [
+						181,
+						200
+					]
+				},
+				{
+					"text": "teachertalk",
+					"indices": [
+						201,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cLXxvobnAw",
+					"expanded_url": "https://teflzoneracheltsateri.wordpress.com/2021/12/15/analysing-my-teacher-talk/",
+					"display_url": "teflzoneracheltsateri.wordpress.com/2021/12/15/ana…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794906206649413600,
+			"id_str": "794906206649413632",
+			"name": "Rachel Tsateri",
+			"screen_name": "rachel_tsateri",
+			"location": "Pforzheim, Deutschland",
+			"description": "Delta-qualified teacher, blogger and volunteer trainer. Studying @NILE_ELT. @PronSIG Social media assistant. @IATEFL, @ELTAS13 and @tesolgreece member.",
+			"url": "https://t.co/pSSafx26ox",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSSafx26ox",
+							"expanded_url": "https://teflzoneracheltsateri.wordpress.com",
+							"display_url": "teflzoneracheltsateri.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1117,
+			"listed_count": 21,
+			"created_at": "Sat Nov 05 14:16:23 +0000 2016",
+			"favourites_count": 3285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419795651433574404/h7V8E30A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419795651433574404/h7V8E30A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794906206649413632/1633272504",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New on my blog. I recorded a 60’ conversation lesson, read the transcript and evaluated my teacher talk. Hope you find it interesting! https://t.co/cLXxvobnAw #selfobservation #ELT #reflectivepractice #teachertalk"
+	},
+	{
+		"created_at": "Thu Dec 16 09:30:44 +0000 2021",
+		"id": 1471412469629427700,
+		"id_str": "1471412469629427714",
+		"full_text": "Soulful Critical Thought: bell hooks and the Making of a DJ Scholar https://t.co/dCGO2tSq8J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dCGO2tSq8J",
+					"expanded_url": "https://www.podomatic.com/podcasts/djlynneedenise/episodes/2014-04-20T10_38_19-07_00",
+					"display_url": "podomatic.com/podcasts/djlyn…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 2506,
+			"listed_count": 101,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 18870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Soulful Critical Thought: bell hooks and the Making of a DJ Scholar https://t.co/dCGO2tSq8J"
+	},
+	{
 		"created_at": "Wed Dec 15 11:01:55 +0000 2021",
 		"id": 1471073025168654300,
 		"id_str": "1471073025168654336",
