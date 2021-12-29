@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 09:09:43 +0000 2021",
+		"id": 1473603684990963700,
+		"id_str": "1475755835196334082",
+		"full_text": "Official medical guidance is determined by the needs of businesses. It is revised and relaxed, requiring workers to be less cautious with risks to their health, to meet employers' staffing needs. https://t.co/841gDgbQAC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473603682252083200,
+					"id_str": "1473603682252083203",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FHNKvdRX0AMWLTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHNKvdRX0AMWLTO.jpg",
+					"url": "https://t.co/841gDgbQAC",
+					"display_url": "pic.twitter.com/841gDgbQAC",
+					"expanded_url": "https://twitter.com/MediocreDave/status/1473603684990963719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473603682252083200,
+					"id_str": "1473603682252083203",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/FHNKvdRX0AMWLTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHNKvdRX0AMWLTO.jpg",
+					"url": "https://t.co/841gDgbQAC",
+					"display_url": "pic.twitter.com/841gDgbQAC",
+					"expanded_url": "https://twitter.com/MediocreDave/status/1473603684990963719/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1473602342641614800,
+		"in_reply_to_status_id_str": "1473602342641614850",
+		"in_reply_to_user_id": 141188735,
+		"in_reply_to_user_id_str": "141188735",
+		"in_reply_to_screen_name": "MediocreDave",
+		"user": {
+			"id": 141188735,
+			"id_str": "141188735",
+			"name": "Necronomicron",
+			"screen_name": "MediocreDave",
+			"location": "London",
+			"description": "Theatre dwelling communist.\n\nhe/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12400,
+			"friends_count": 2072,
+			"listed_count": 193,
+			"created_at": "Fri May 07 11:51:23 +0000 2010",
+			"favourites_count": 60628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 173789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641920374255538176/jo20t5hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141188735/1478886150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Official medical guidance is determined by the needs of businesses. It is revised and relaxed, requiring workers to be less cautious with risks to their health, to meet employers' staffing needs. https://t.co/841gDgbQAC"
+	},
+	{
 		"created_at": "Fri Dec 24 10:28:00 +0000 2021",
 		"id": 1474325981930344400,
 		"id_str": "1474325981930344448",
