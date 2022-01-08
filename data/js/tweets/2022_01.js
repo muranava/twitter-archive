@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 07:35:14 +0000 2022",
+		"id": 1479174043488055300,
+		"id_str": "1479355933641875459",
+		"full_text": "By analyzing Paul Virilio's work, @libshipwreck asks \"what future wrecks are being overlooked today amidst the excited chatter about AI, the metaverse, and all things crypto?\"\n(This essay is a nice companion piece for folks teaching speed theory this term) https://t.co/PFKRuVmtcI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libshipwreck",
+					"name": "Librarianshipwreck",
+					"id": 1143288666,
+					"id_str": "1143288666",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PFKRuVmtcI",
+					"expanded_url": "https://reallifemag.com/inventing-the-shipwreck/",
+					"display_url": "reallifemag.com/inventing-the-…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185095184,
+			"id_str": "2185095184",
+			"name": "Tamara Kneese",
+			"screen_name": "tamigraph",
+			"location": "Oakland, CA",
+			"description": "Sustainability researcher @intel | Assistant Prof of Media Studies @usfca | PhD from @mccNYU | Death, labor + technology, not necessarily in that order. She/her",
+			"url": "https://t.co/aVPOqcokDH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aVPOqcokDH",
+							"expanded_url": "http://www.tamarakneese.com/",
+							"display_url": "tamarakneese.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4442,
+			"friends_count": 3033,
+			"listed_count": 50,
+			"created_at": "Sun Nov 17 20:50:25 +0000 2013",
+			"favourites_count": 28036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362089605428776964/YV1fja4y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362089605428776964/YV1fja4y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185095184/1397076548",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By analyzing Paul Virilio's work, @libshipwreck asks \"what future wrecks are being overlooked today amidst the excited chatter about AI, the metaverse, and all things crypto?\"\n(This essay is a nice companion piece for folks teaching speed theory this term) https://t.co/PFKRuVmtcI"
+	},
+	{
 		"created_at": "Wed Jan 05 11:18:54 +0000 2022",
 		"id": 1478687447810777000,
 		"id_str": "1478687447810777090",
