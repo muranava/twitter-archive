@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 13:27:29 +0000 2022",
+		"id": 1479805512325685200,
+		"id_str": "1479806967321350145",
+		"full_text": "\"More lethal and more diverse\" 😂 https://t.co/U2t8xm1EkH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479805505501606000,
+					"id_str": "1479805505501605890",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FIlTRFQXMAIGbMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIlTRFQXMAIGbMp.jpg",
+					"url": "https://t.co/U2t8xm1EkH",
+					"display_url": "pic.twitter.com/U2t8xm1EkH",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1479805512325685256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479805505501606000,
+					"id_str": "1479805505501605890",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FIlTRFQXMAIGbMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIlTRFQXMAIGbMp.jpg",
+					"url": "https://t.co/U2t8xm1EkH",
+					"display_url": "pic.twitter.com/U2t8xm1EkH",
+					"expanded_url": "https://twitter.com/pmillerinfo/status/1479805512325685256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1129,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594641380,
+			"id_str": "2594641380",
+			"name": "Phil Miller",
+			"screen_name": "pmillerinfo",
+			"location": "",
+			"description": "Chief reporter and videos for @DeclassifiedUK.\n*To contact me securely* please use Protonmail and email: phil@declassifieduk.org",
+			"url": "https://t.co/nVdP30pKUG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nVdP30pKUG",
+							"expanded_url": "https://declassifieduk.org/author/phil-miller/",
+							"display_url": "declassifieduk.org/author/phil-mi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12959,
+			"friends_count": 1455,
+			"listed_count": 87,
+			"created_at": "Sun Jun 29 11:32:29 +0000 2014",
+			"favourites_count": 1545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397879910711111683/NWWoT9gX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594641380/1631725270",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 200,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"More lethal and more diverse\" 😂 https://t.co/U2t8xm1EkH"
+	},
+	{
 		"created_at": "Fri Jan 07 07:35:14 +0000 2022",
 		"id": 1479174043488055300,
 		"id_str": "1479355933641875459",
