@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 09:40:16 +0000 2022",
+		"id": 1480826901354721300,
+		"id_str": "1480836949762052096",
+		"full_text": "Shoutout to #IWW member @blairteacher for all the hard work on helping to get our website up to scratch!  It's looking sharp  - have a look for yourself!\n\nhttps://t.co/qVhCzAkgCV\n\n#tefl #elt #eap #esol #tesol #UKELT #MakeTEFLaCareer #union",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IWW",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "tesol",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "UKELT",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "MakeTEFLaCareer",
+					"indices": [
+						216,
+						232
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						233,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blairteacher",
+					"name": "Blair Teacher",
+					"id": 20932918,
+					"id_str": "20932918",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qVhCzAkgCV",
+					"expanded_url": "https://teflworkersunion.org",
+					"display_url": "teflworkersunion.org",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2022,
+			"friends_count": 200,
+			"listed_count": 11,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shoutout to #IWW member @blairteacher for all the hard work on helping to get our website up to scratch!  It's looking sharp  - have a look for yourself!\n\nhttps://t.co/qVhCzAkgCV\n\n#tefl #elt #eap #esol #tesol #UKELT #MakeTEFLaCareer #union"
+	},
+	{
 		"created_at": "Mon Jan 10 14:28:05 +0000 2022",
 		"id": 1480542942506930200,
 		"id_str": "1480546994091401217",
