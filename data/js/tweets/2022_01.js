@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 22:28:13 +0000 2022",
+		"id": 1483929316635332600,
+		"id_str": "1483929316635332610",
+		"full_text": "@UpFromTheCracks ok thanks for looking into it",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UpFromTheCracks",
+					"name": "Khadijah",
+					"id": 861277840020471800,
+					"id_str": "861277840020471808",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483914126653108200,
+		"in_reply_to_status_id_str": "1483914126653108230",
+		"in_reply_to_user_id": 861277840020471800,
+		"in_reply_to_user_id_str": "861277840020471808",
+		"in_reply_to_screen_name": "UpFromTheCracks",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 2530,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UpFromTheCracks ok thanks for looking into it"
+	},
+	{
+		"created_at": "Wed Jan 19 20:25:30 +0000 2022",
+		"id": 1483898433165529000,
+		"id_str": "1483898433165529091",
+		"full_text": "@UpFromTheCracks e.g - https://t.co/pEf2q8XWho\n\nhttps://t.co/TJOBb1MzqP",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UpFromTheCracks",
+					"name": "Khadijah",
+					"id": 861277840020471800,
+					"id_str": "861277840020471808",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pEf2q8XWho",
+					"expanded_url": "https://twitter.com/NeeNeinNyetNo/status/1483531846822637571?s=20",
+					"display_url": "twitter.com/NeeNeinNyetNo/…",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/TJOBb1MzqP",
+					"expanded_url": "https://twitter.com/revdefeat/status/1483511201137307650?s=20",
+					"display_url": "twitter.com/revdefeat/stat…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483895251274289200,
+		"in_reply_to_status_id_str": "1483895251274289161",
+		"in_reply_to_user_id": 861277840020471800,
+		"in_reply_to_user_id_str": "861277840020471808",
+		"in_reply_to_screen_name": "UpFromTheCracks",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 2530,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483511201137307600,
+		"quoted_status_id_str": "1483511201137307650",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TJOBb1MzqP",
+			"expanded": "https://twitter.com/revdefeat/status/1483511201137307650?s=20",
+			"display": "twitter.com/revdefeat/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 18 18:46:47 +0000 2022",
+			"id": 1483511201137307600,
+			"id_str": "1483511201137307650",
+			"full_text": "Lausan teams up w/zionist darling Alex Reid Ross to uncover that Singham donates to BDS, Ppls Forum &amp; Codepink while investing in Israeli companies. Should we demand he end this hypocrisy &amp; divest? Def. But this is an attack from zionists on BDS activists.\nhttps://t.co/9FjXqHNpRo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9FjXqHNpRo",
+						"expanded_url": "https://twitter.com/promiseli_/status/1483507230288744451",
+						"display_url": "twitter.com/promiseli_/sta…",
+						"indices": [
+							265,
+							288
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3196244211,
+				"id_str": "3196244211",
+				"name": "revolutionary defeatism ☭ 🇵🇸",
+				"screen_name": "revdefeat",
+				"location": "Hà Nội ☭",
+				"description": "anti-Democracy Activist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2416,
+				"friends_count": 1915,
+				"listed_count": 9,
+				"created_at": "Wed Apr 22 22:49:15 +0000 2015",
+				"favourites_count": 35902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1479154108158205957/OdZdxD0f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479154108158205957/OdZdxD0f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3196244211/1641492864",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1483507230288744400,
+			"quoted_status_id_str": "1483507230288744451",
+			"quoted_status_permalink": {
+				"url": "https://t.co/9FjXqHNpRo",
+				"expanded": "https://twitter.com/promiseli_/status/1483507230288744451",
+				"display": "twitter.com/promiseli_/sta…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@UpFromTheCracks e.g - https://t.co/pEf2q8XWho\n\nhttps://t.co/TJOBb1MzqP"
+	},
+	{
 		"created_at": "Fri Jan 14 13:05:52 +0000 2022",
 		"id": 1481975854246895600,
 		"id_str": "1481975854246895626",
