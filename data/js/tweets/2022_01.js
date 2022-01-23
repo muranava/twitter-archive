@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 13:59:04 +0000 2022",
+		"id": 1484888348443525000,
+		"id_str": "1484888348443525130",
+		"full_text": "@tomgoldsteincs what do you think of critics like Yarden Katz who claims in Artificial Whiteness that AI \"winters\" framings don't follow DARPA funding for AI? thx https://t.co/uOk7Uv4w3j",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomgoldsteincs",
+					"name": "Tom Goldstein",
+					"id": 1086729872305766400,
+					"id_str": "1086729872305766401",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484888316113821700,
+					"id_str": "1484888316113821699",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtiDmUXoAMd9Bn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJtiDmUXoAMd9Bn.png",
+					"url": "https://t.co/uOk7Uv4w3j",
+					"display_url": "pic.twitter.com/uOk7Uv4w3j",
+					"expanded_url": "https://twitter.com/muranava/status/1484888348443525130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 888,
+							"h": 695,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 695,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484888316113821700,
+					"id_str": "1484888316113821699",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtiDmUXoAMd9Bn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJtiDmUXoAMd9Bn.png",
+					"url": "https://t.co/uOk7Uv4w3j",
+					"display_url": "pic.twitter.com/uOk7Uv4w3j",
+					"expanded_url": "https://twitter.com/muranava/status/1484888348443525130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 888,
+							"h": 695,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 888,
+							"h": 695,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1484609313947725800,
+		"in_reply_to_status_id_str": "1484609313947725827",
+		"in_reply_to_user_id": 1086729872305766400,
+		"in_reply_to_user_id_str": "1086729872305766401",
+		"in_reply_to_screen_name": "tomgoldsteincs",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 2530,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tomgoldsteincs what do you think of critics like Yarden Katz who claims in Artificial Whiteness that AI \"winters\" framings don't follow DARPA funding for AI? thx https://t.co/uOk7Uv4w3j"
+	},
+	{
 		"created_at": "Wed Jan 19 22:28:13 +0000 2022",
 		"id": 1483929316635332600,
 		"id_str": "1483929316635332610",
