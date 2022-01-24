@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 17:27:39 +0000 2022",
+		"id": 1484526199250595800,
+		"id_str": "1485303227113512962",
+		"full_text": "#NEWEPISODE 📢\nAnd we're talking about what English-language testing for the purposes of immigration and citizenship tell us about Britishness today with @securityling, how national security was introduced into citizenship legislation and much more ... \nhttps://t.co/JVwZfLFyAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWEPISODE",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "securityling",
+					"name": "Kamran Khan",
+					"id": 930760814906298400,
+					"id_str": "930760814906298368",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JVwZfLFyAK",
+					"expanded_url": "https://pod.link/1587138535/episode/632e0f7107d05b32ac86b9bc90b53de2",
+					"display_url": "pod.link/1587138535/epi…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1430930861466214400,
+			"id_str": "1430930861466214401",
+			"name": "Who do we think we are? with Prof Michaela Benson",
+			"screen_name": "AbtCitizenship",
+			"location": "",
+			"description": "The podcast making sense of #citizenship #migration and #belonging in Britain today | Presenter/Producer @michaelacbenson | Cover art George Kalivis",
+			"url": "https://t.co/GUFs68ADFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GUFs68ADFn",
+							"expanded_url": "https://linktr.ee/AbtCitizenship",
+							"display_url": "linktr.ee/AbtCitizenship",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 1520,
+			"listed_count": 2,
+			"created_at": "Thu Aug 26 16:31:26 +0000 2021",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432674600119410688/0c9mghCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432674600119410688/0c9mghCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1430930861466214401/1630411199",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NEWEPISODE 📢\nAnd we're talking about what English-language testing for the purposes of immigration and citizenship tell us about Britishness today with @securityling, how national security was introduced into citizenship legislation and much more ... \nhttps://t.co/JVwZfLFyAK"
+	},
+	{
+		"created_at": "Sun Jan 23 12:57:44 +0000 2022",
+		"id": 1485235298476908500,
+		"id_str": "1485235298476908549",
+		"full_text": "h/t https://t.co/anjCF17Cgc https://t.co/p9XLHOkLCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anjCF17Cgc",
+					"expanded_url": "https://redsails.org/losurdo-and-roberts/",
+					"display_url": "redsails.org/losurdo-and-ro…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485234938265968600,
+					"id_str": "1485234938265968647",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FJydTqdXoAc14MH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJydTqdXoAc14MH.png",
+					"url": "https://t.co/p9XLHOkLCg",
+					"display_url": "pic.twitter.com/p9XLHOkLCg",
+					"expanded_url": "https://twitter.com/muranava/status/1485235298476908549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 846,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485234938265968600,
+					"id_str": "1485234938265968647",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FJydTqdXoAc14MH.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJydTqdXoAc14MH.png",
+					"url": "https://t.co/p9XLHOkLCg",
+					"display_url": "pic.twitter.com/p9XLHOkLCg",
+					"expanded_url": "https://twitter.com/muranava/status/1485235298476908549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 846,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2101,
+			"friends_count": 2533,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "h/t https://t.co/anjCF17Cgc https://t.co/p9XLHOkLCg"
+	},
+	{
+		"created_at": "Sun Jan 23 12:13:54 +0000 2022",
+		"id": 1485224267134509000,
+		"id_str": "1485224267134509061",
+		"full_text": "@GeoffJordan16 A lot of interesting reading on that site",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1373330979239116800,
+					"id_str": "1373330979239116804",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1485222388287647700,
+		"in_reply_to_status_id_str": "1485222388287647744",
+		"in_reply_to_user_id": 1373330979239116800,
+		"in_reply_to_user_id_str": "1373330979239116804",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/e8kZronG5C   Quick Cups of COCA ebook:https://t.co/5QyzQm27Ej",
+			"url": "http://t.co/efJ8SaX9fj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/efJ8SaX9fj",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8kZronG5C",
+							"expanded_url": "https://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/5QyzQm27Ej",
+							"expanded_url": "https://www.smashwords.com/books/view/618387",
+							"display_url": "smashwords.com/books/view/618…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2101,
+			"friends_count": 2533,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1456265654",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 A lot of interesting reading on that site"
+	},
+	{
 		"created_at": "Sat Jan 22 13:59:04 +0000 2022",
 		"id": 1484888348443525000,
 		"id_str": "1484888348443525130",
