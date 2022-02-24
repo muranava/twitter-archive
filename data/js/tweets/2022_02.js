@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 21:12:16 +0000 2022",
+		"id": 1496264422427345000,
+		"id_str": "1496593775220690952",
+		"full_text": "Since people are talking about Lenin/Stalin again would just like to plug this excellent interview with the latter, which is the closest thing you'll see to a \"pure\" high minded ideological debate between a liberal and a socialist as you'll ever find https://t.co/4PFY9e1qMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4PFY9e1qMY",
+					"expanded_url": "https://redsails.org/stalin-and-wells/",
+					"display_url": "redsails.org/stalin-and-wel…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15314062,
+			"id_str": "15314062",
+			"name": "Carlo",
+			"screen_name": "jcfrancisco",
+			"location": "Havana Syndrome Ward, Mt Sinai",
+			"description": "Please consider the environment before printing this timeline.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 923,
+			"listed_count": 39,
+			"created_at": "Fri Jul 04 00:59:53 +0000 2008",
+			"favourites_count": 59000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3D3D3D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1435912859331010560/8t6euTyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1435912859331010560/8t6euTyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15314062/1370357635",
+			"profile_link_color": "E62027",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since people are talking about Lenin/Stalin again would just like to plug this excellent interview with the latter, which is the closest thing you'll see to a \"pure\" high minded ideological debate between a liberal and a socialist as you'll ever find https://t.co/4PFY9e1qMY"
+	},
+	{
+		"created_at": "Wed Feb 23 16:51:00 +0000 2022",
+		"id": 1496409596893839400,
+		"id_str": "1496528029157310481",
+		"full_text": "\"It was teachers who first experienced the cold winds of the free market.\" \n\nWith #strike action looming at the @BritishCouncil, we hear what it's like working at the BC and place it in the context of  UK colonialism and global neoliberalism.\n\nhttps://t.co/9Z1jwlLfVN\n\n#tefl #elt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "strike",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						269,
+						274
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						275,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Z1jwlLfVN",
+					"expanded_url": "https://teflworkersunion.org/the-british-council-and-the-pcs/",
+					"display_url": "teflworkersunion.org/the-british-co…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2052,
+			"friends_count": 209,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"It was teachers who first experienced the cold winds of the free market.\" \n\nWith #strike action looming at the @BritishCouncil, we hear what it's like working at the BC and place it in the context of  UK colonialism and global neoliberalism.\n\nhttps://t.co/9Z1jwlLfVN\n\n#tefl #elt"
+	},
+	{
 		"created_at": "Tue Feb 22 23:16:37 +0000 2022",
 		"id": 1496262683737440300,
 		"id_str": "1496262683737440257",
