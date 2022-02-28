@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 09:48:02 +0000 2022",
+		"id": 1497719135320645600,
+		"id_str": "1497871136146796548",
+		"full_text": "A war that we are not only failing to stop, but which we actively support. Close to 400,000 deaths and the largest outbreak of cholera in modern history (2.5 million cases). https://t.co/QUkC8aG7xi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QUkC8aG7xi",
+					"expanded_url": "https://twitter.com/ahmadalgohbary/status/1497694605046915077",
+					"display_url": "twitter.com/ahmadalgohbary…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63082578,
+			"id_str": "63082578",
+			"name": "Aaron Bastani",
+			"screen_name": "AaronBastani",
+			"location": "South coast, England",
+			"description": "Socialist abundance. Co-Founder @novaramedia, Author of Fully Automated Luxury Communism. Writing a book on the politics of ageing & life extension (He/Him)",
+			"url": "https://t.co/oRUGZExM66",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRUGZExM66",
+							"expanded_url": "https://www.versobooks.com/books/3156-fully-automated-luxury-communism",
+							"display_url": "versobooks.com/books/3156-ful…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97819,
+			"friends_count": 1693,
+			"listed_count": 1002,
+			"created_at": "Wed Aug 05 09:12:55 +0000 2009",
+			"favourites_count": 108869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 147574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDDEE0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497940091674714118/-xJuJ9R-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497940091674714118/-xJuJ9R-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63082578/1631221570",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "4C90D4",
+			"profile_text_color": "080707",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1497694605046915000,
+		"quoted_status_id_str": "1497694605046915077",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QUkC8aG7xi",
+			"expanded": "https://twitter.com/ahmadalgohbary/status/1497694605046915077",
+			"display": "twitter.com/ahmadalgohbary…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 26 22:06:34 +0000 2022",
+			"id": 1497694605046915000,
+			"id_str": "1497694605046915077",
+			"full_text": "#Breaking: #Saudi &amp; #UAE fighter jets are bombing Sana'a international airport. #Yemen.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Breaking",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "Saudi",
+						"indices": [
+							11,
+							17
+						]
+					},
+					{
+						"text": "UAE",
+						"indices": [
+							24,
+							28
+						]
+					},
+					{
+						"text": "Yemen",
+						"indices": [
+							84,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2843218126,
+				"id_str": "2843218126",
+				"name": "Ahmad Algohbary",
+				"screen_name": "AhmadAlgohbary",
+				"location": "Sana'a - Yemen",
+				"description": "Yemeni freelance journalist based in the capital Sana'a, Yemen. Nominated for Emmy @TheEmmys 2019. Appalled by rampant hunger, I founded @hope_relief charity.",
+				"url": "https://t.co/KExZdN0t9L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KExZdN0t9L",
+								"expanded_url": "http://yemenhopeandrelief.org",
+								"display_url": "yemenhopeandrelief.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20149,
+				"friends_count": 3118,
+				"listed_count": 303,
+				"created_at": "Sat Oct 25 01:38:51 +0000 2014",
+				"favourites_count": 17810,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13012,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1490461150936457217/UdKZZX32_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1490461150936457217/UdKZZX32_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2843218126/1639952998",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1499,
+			"favorite_count": 2369,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 529,
+		"favorite_count": 1141,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A war that we are not only failing to stop, but which we actively support. Close to 400,000 deaths and the largest outbreak of cholera in modern history (2.5 million cases). https://t.co/QUkC8aG7xi"
+	},
+	{
 		"created_at": "Fri Feb 25 15:53:36 +0000 2022",
 		"id": 1497238356614422500,
 		"id_str": "1497238356614422531",
