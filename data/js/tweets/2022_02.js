@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 17:47:49 +0000 2022",
+		"id": 1498344952736141300,
+		"id_str": "1498354264250494980",
+		"full_text": "Lol. #TodayWeAreAllHypocrites\n\nWoodward has been defending the Saudi war in #Yemen on behalf of the UK for the last two years. https://t.co/LNjCXXGwrL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TodayWeAreAllHypocrites",
+					"indices": [
+						5,
+						29
+					]
+				},
+				{
+					"text": "Yemen",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LNjCXXGwrL",
+					"expanded_url": "https://twitter.com/BWoodward_UN/status/1498325142941966350",
+					"display_url": "twitter.com/BWoodward_UN/s…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2278053312,
+			"id_str": "2278053312",
+			"name": "Mark Curtis",
+			"screen_name": "markcurtis30",
+			"location": "Oxford, England",
+			"description": "Co-founder/editor @DeclassifiedUK. Analyst of UK foreign policy. Books: Secret Affairs, Web of Deceit, Unpeople, The Great Deception, Ambiguities of Power",
+			"url": "https://t.co/6QVH5EBFf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6QVH5EBFf7",
+							"expanded_url": "http://www.markcurtis.info",
+							"display_url": "markcurtis.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60438,
+			"friends_count": 1437,
+			"listed_count": 605,
+			"created_at": "Sun Jan 05 20:16:24 +0000 2014",
+			"favourites_count": 20064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1486388194157473800/oZtjsfJY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486388194157473800/oZtjsfJY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2278053312/1469811188",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498325142941966300,
+		"quoted_status_id_str": "1498325142941966350",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LNjCXXGwrL",
+			"expanded": "https://twitter.com/BWoodward_UN/status/1498325142941966350",
+			"display": "twitter.com/BWoodward_UN/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 15:52:06 +0000 2022",
+			"id": 1498325142941966300,
+			"id_str": "1498325142941966350",
+			"full_text": "#TodayWeAreAllUkraine \n\n🇺🇦🇺🇳🇬🇧\n\n📌 In 🇺🇳 General Assembly for historic emergency special session on #Ukraine | #СьогодниМиВсiУкраїа https://t.co/Pcnii5ZKw1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TodayWeAreAllUkraine",
+						"indices": [
+							0,
+							21
+						]
+					},
+					{
+						"text": "Ukraine",
+						"indices": [
+							99,
+							107
+						]
+					},
+					{
+						"text": "СьогодниМиВсiУкраїа",
+						"indices": [
+							110,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1498322344594612200,
+						"id_str": "1498322344594612228",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FMscO-SXoAQcHqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMscO-SXoAQcHqf.jpg",
+						"url": "https://t.co/Pcnii5ZKw1",
+						"display_url": "pic.twitter.com/Pcnii5ZKw1",
+						"expanded_url": "https://twitter.com/BWoodward_UN/status/1498325142941966350/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1458,
+								"h": 1458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498322344594612200,
+						"id_str": "1498322344594612228",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/media/FMscO-SXoAQcHqf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMscO-SXoAQcHqf.jpg",
+						"url": "https://t.co/Pcnii5ZKw1",
+						"display_url": "pic.twitter.com/Pcnii5ZKw1",
+						"expanded_url": "https://twitter.com/BWoodward_UN/status/1498325142941966350/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1458,
+								"h": 1458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1329536963356090400,
+				"id_str": "1329536963356090369",
+				"name": "Ambassador Barbara Woodward",
+				"screen_name": "BWoodward_UN",
+				"location": "New York",
+				"description": "UK Permanent Representative to the United Nations, New York.\nWorking with @UKUN_NewYork team to build the future we want, the @UN we need.\n\nFormerly @UKinChina.",
+				"url": "https://t.co/Dm7nUXCZCJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm7nUXCZCJ",
+								"expanded_url": "https://www.gov.uk/world/uk-mission-to-the-united-nations-new-york/news",
+								"display_url": "gov.uk/world/uk-missi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16359,
+				"friends_count": 536,
+				"listed_count": 73,
+				"created_at": "Thu Nov 19 21:28:24 +0000 2020",
+				"favourites_count": 330,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496906317725900805/qenECZIq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496906317725900805/qenECZIq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1329536963356090369/1645806477",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 248,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 139,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lol. #TodayWeAreAllHypocrites\n\nWoodward has been defending the Saudi war in #Yemen on behalf of the UK for the last two years. https://t.co/LNjCXXGwrL"
+	},
+	{
 		"created_at": "Sun Feb 27 09:48:02 +0000 2022",
 		"id": 1497719135320645600,
 		"id_str": "1497871136146796548",
