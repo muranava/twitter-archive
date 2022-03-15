@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 15:59:03 +0000 2022",
+		"id": 1503308104401928200,
+		"id_str": "1503400325063102472",
+		"full_text": "Russian oligarchs: You occupy Ukraine, We Occupy You!\n\nStatement from the occupied mansion: https://t.co/5uLL54mN3D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503307719486419000,
+					"id_str": "1503307719486418947",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FNzSZ_AXMAMdDx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNzSZ_AXMAMdDx-.jpg",
+					"url": "https://t.co/5uLL54mN3D",
+					"display_url": "pic.twitter.com/5uLL54mN3D",
+					"expanded_url": "https://twitter.com/resist_london/status/1503308104401928196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 971,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503307719486419000,
+					"id_str": "1503307719486418947",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FNzSZ_AXMAMdDx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNzSZ_AXMAMdDx-.jpg",
+					"url": "https://t.co/5uLL54mN3D",
+					"display_url": "pic.twitter.com/5uLL54mN3D",
+					"expanded_url": "https://twitter.com/resist_london/status/1503308104401928196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 971,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1403318824326385700,
+			"id_str": "1403318824326385673",
+			"name": "resistlondon",
+			"screen_name": "resist_london",
+			"location": "",
+			"description": "Part of a new network... more info coming soon!\nresist-london(at)riseup(dot)net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2779,
+			"friends_count": 114,
+			"listed_count": 17,
+			"created_at": "Fri Jun 11 11:52:22 +0000 2021",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405154089541931014/A3RqegiZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405154089541931014/A3RqegiZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1403318824326385673/1633433378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2032,
+		"favorite_count": 6715,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Russian oligarchs: You occupy Ukraine, We Occupy You!\n\nStatement from the occupied mansion: https://t.co/5uLL54mN3D"
+	},
+	{
+		"created_at": "Mon Mar 14 14:09:05 +0000 2022",
+		"id": 1503295192144748500,
+		"id_str": "1503372647140409352",
+		"full_text": "Out now...knowledge-based vocabulary lists https://t.co/POEIsc34a3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/POEIsc34a3",
+					"expanded_url": "https://www.britishcouncil.org/exam/aptis/aptis-expertise/knowledge-based-vocabulary-lists-kvl",
+					"display_url": "britishcouncil.org/exam/aptis/apt…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1461468906,
+			"id_str": "1461468906",
+			"name": "Phil Durrant",
+			"screen_name": "p_durrant",
+			"location": "",
+			"description": "Applied linguist at University of Exeter",
+			"url": "https://t.co/XEh0uxC0q4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XEh0uxC0q4",
+							"expanded_url": "https://phildurrant.net",
+							"display_url": "phildurrant.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 100,
+			"listed_count": 2,
+			"created_at": "Mon May 27 07:24:14 +0000 2013",
+			"favourites_count": 1539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348656744159993864/Y8Ufaf4a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348656744159993864/Y8Ufaf4a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Out now...knowledge-based vocabulary lists https://t.co/POEIsc34a3"
+	},
+	{
+		"created_at": "Mon Mar 14 13:36:59 +0000 2022",
+		"id": 1503362329387405300,
+		"id_str": "1503364569066098694",
+		"full_text": "The rights of property or solidarity with Ukraine?\n\nIn the blink of an eye, the state take sides https://t.co/5DWEqZduOr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5DWEqZduOr",
+					"expanded_url": "https://twitter.com/JessicaFKeyes/status/1503346888715771904",
+					"display_url": "twitter.com/JessicaFKeyes/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 519917596,
+			"id_str": "519917596",
+			"name": "David Renton",
+			"screen_name": "Livesrunning",
+			"location": "London",
+			"description": "Barrister at Garden Court. Professor of Practice at SOAS. I also tweet about law as @dkrenton. All tweets are in a personal capacity.",
+			"url": "https://t.co/zlb7XDVvBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zlb7XDVvBu",
+							"expanded_url": "https://livesrunning.wordpress.com/",
+							"display_url": "livesrunning.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2690,
+			"friends_count": 100,
+			"listed_count": 34,
+			"created_at": "Fri Mar 09 23:31:26 +0000 2012",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2104460313/running_cover_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2104460313/running_cover_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/519917596/1646122889",
+			"profile_link_color": "B30024",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1503346888715772000,
+		"quoted_status_id_str": "1503346888715771904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5DWEqZduOr",
+			"expanded": "https://twitter.com/JessicaFKeyes/status/1503346888715771904",
+			"display": "twitter.com/JessicaFKeyes/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 14 12:26:43 +0000 2022",
+			"id": 1503346888715772000,
+			"id_str": "1503346888715771904",
+			"full_text": "Riot police have arrived https://t.co/pxTm1ROOdc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				24
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1503346753977868300,
+						"id_str": "1503346753977868294",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503346753977868294/pu/img/aKp2C2IqXPfvF4_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503346753977868294/pu/img/aKp2C2IqXPfvF4_B.jpg",
+						"url": "https://t.co/pxTm1ROOdc",
+						"display_url": "pic.twitter.com/pxTm1ROOdc",
+						"expanded_url": "https://twitter.com/JessicaFKeyes/status/1503346888715771904/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1503346753977868300,
+						"id_str": "1503346753977868294",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1503346753977868294/pu/img/aKp2C2IqXPfvF4_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1503346753977868294/pu/img/aKp2C2IqXPfvF4_B.jpg",
+						"url": "https://t.co/pxTm1ROOdc",
+						"display_url": "pic.twitter.com/pxTm1ROOdc",
+						"expanded_url": "https://twitter.com/JessicaFKeyes/status/1503346888715771904/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 44999,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1503346753977868294/pu/vid/640x360/nJPf6vpU71LuZXoJ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1503346753977868294/pu/pl/i8O8dKv039yWJTLk.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1503346753977868294/pu/vid/1280x720/qAd8tsi4504TG2cf.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1503346753977868294/pu/vid/480x270/Tvy7Iip95XdLTB_D.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1503346369586733000,
+			"in_reply_to_status_id_str": "1503346369586733060",
+			"in_reply_to_user_id": 479918839,
+			"in_reply_to_user_id_str": "479918839",
+			"in_reply_to_screen_name": "JessicaFKeyes",
+			"user": {
+				"id": 479918839,
+				"id_str": "479918839",
+				"name": "Jessica Frank-Keyes",
+				"screen_name": "JessicaFKeyes",
+				"location": "London, England",
+				"description": "Senior reporter @LondonWorldCom | prev @PA, @EDP24, @uniofeastanglia | views (still) mine. story? 📧 jessica.frank-keyes@londonworld.com",
+				"url": "https://t.co/rXWMCwNae7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rXWMCwNae7",
+								"expanded_url": "https://www.londonworld.com/",
+								"display_url": "londonworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2733,
+				"friends_count": 2032,
+				"listed_count": 30,
+				"created_at": "Tue Jan 31 22:41:25 +0000 2012",
+				"favourites_count": 5122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1459580704854003712/CVYdGI2W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459580704854003712/CVYdGI2W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/479918839/1636826133",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 625,
+			"favorite_count": 1840,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The rights of property or solidarity with Ukraine?\n\nIn the blink of an eye, the state take sides https://t.co/5DWEqZduOr"
+	},
+	{
 		"created_at": "Sun Mar 13 13:59:58 +0000 2022",
 		"id": 1503007966840209400,
 		"id_str": "1503007966840209415",
