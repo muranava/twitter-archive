@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 12:15:55 +0000 2022",
+		"id": 1503428406947504000,
+		"id_str": "1503706557623771140",
+		"full_text": "The secret to really understanding capitalism and liberalism is to grasp that \"conspiracy,\" though often real, actually plays a very, very minor role.\n\nMost liberals aren't \"hypocrites,\" they simply have an extremely hierarchical and self-centering theory of who counts as human. https://t.co/AEMtrqJ5HS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503428042814857200,
+					"id_str": "1503428042814857221",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FN0_1uVXIAU4if3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FN0_1uVXIAU4if3.png",
+					"url": "https://t.co/AEMtrqJ5HS",
+					"display_url": "pic.twitter.com/AEMtrqJ5HS",
+					"expanded_url": "https://twitter.com/RodericDay/status/1503428406947504131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503428042814857200,
+					"id_str": "1503428042814857221",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FN0_1uVXIAU4if3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FN0_1uVXIAU4if3.png",
+					"url": "https://t.co/AEMtrqJ5HS",
+					"display_url": "pic.twitter.com/AEMtrqJ5HS",
+					"expanded_url": "https://twitter.com/RodericDay/status/1503428406947504131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 443,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1503428081905774600,
+					"id_str": "1503428081905774597",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FN0_3_9XMAUVouD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FN0_3_9XMAUVouD.png",
+					"url": "https://t.co/AEMtrqJ5HS",
+					"display_url": "pic.twitter.com/AEMtrqJ5HS",
+					"expanded_url": "https://twitter.com/RodericDay/status/1503428406947504131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 445,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255362817,
+			"id_str": "255362817",
+			"name": "Roderic Day",
+			"screen_name": "RodericDay",
+			"location": "Marxist-Leninist",
+			"description": "first world bourgeoisie with no class consciousness and bad taste",
+			"url": "https://t.co/fib8v9uxhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fib8v9uxhO",
+							"expanded_url": "https://redsails.org/@roderic",
+							"display_url": "redsails.org/@roderic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22571,
+			"friends_count": 507,
+			"listed_count": 91,
+			"created_at": "Mon Feb 21 06:00:43 +0000 2011",
+			"favourites_count": 70708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11D94A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255362817/1430108773",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 121,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The secret to really understanding capitalism and liberalism is to grasp that \"conspiracy,\" though often real, actually plays a very, very minor role.\n\nMost liberals aren't \"hypocrites,\" they simply have an extremely hierarchical and self-centering theory of who counts as human. https://t.co/AEMtrqJ5HS"
+	},
+	{
 		"created_at": "Mon Mar 14 15:59:03 +0000 2022",
 		"id": 1503308104401928200,
 		"id_str": "1503400325063102472",
