@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 13:44:27 +0000 2022",
+		"id": 1506261404088733700,
+		"id_str": "1506265553438138368",
+		"full_text": "Sending thousands of high-tech missiles and training dozens of battalions of troops *is* getting involved. If you mean impose a no-fly zone and directly attack Russian forces, then, yes, let’s applaud everyone who is a coward in the face of a nuclear holocaust. 👏👏👏👏👏👏👏👏👏 https://t.co/8JUW5jONny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JUW5jONny",
+					"expanded_url": "https://twitter.com/piersmorgan/status/1506258955089203201",
+					"display_url": "twitter.com/piersmorgan/st…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6531902,
+			"id_str": "6531902",
+			"name": "Media Lens",
+			"screen_name": "medialens",
+			"location": "",
+			"description": "Correcting for the distorted vision of the corporate media",
+			"url": "http://t.co/V3VFtcaKKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/V3VFtcaKKN",
+							"expanded_url": "http://www.medialens.org",
+							"display_url": "medialens.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67241,
+			"friends_count": 1385,
+			"listed_count": 1362,
+			"created_at": "Sat Jun 02 23:55:42 +0000 2007",
+			"favourites_count": 23010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128585209245511680/coXwQI9Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128585209245511680/coXwQI9Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6531902/1460124517",
+			"profile_link_color": "FF7B00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506258955089203200,
+		"quoted_status_id_str": "1506258955089203201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8JUW5jONny",
+			"expanded": "https://twitter.com/piersmorgan/status/1506258955089203201",
+			"display": "twitter.com/piersmorgan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 22 13:18:14 +0000 2022",
+			"id": 1506258955089203200,
+			"id_str": "1506258955089203201",
+			"full_text": "Yet still we just watch these atrocities happen &amp; refuse to get involved. Shameful moral cowardice. https://t.co/pExJ75CCQd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pExJ75CCQd",
+						"expanded_url": "https://twitter.com/billneelyreport/status/1506238246178721799",
+						"display_url": "twitter.com/billneelyrepor…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216299334,
+				"id_str": "216299334",
+				"name": "Piers Morgan",
+				"screen_name": "piersmorgan",
+				"location": "London, Newick, LA.",
+				"description": "'One day you're cock of the walk, the next a feather duster’ - Margot Barber.",
+				"url": "https://t.co/NJKBsKlpfy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NJKBsKlpfy",
+								"expanded_url": "https://smarturl.it/WakeUpPbk",
+								"display_url": "smarturl.it/WakeUpPbk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7965906,
+				"friends_count": 1995,
+				"listed_count": 0,
+				"created_at": "Tue Nov 16 09:37:44 +0000 2010",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 146881,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBC1CB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377917571069063169/yaOlvfak_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377917571069063169/yaOlvfak_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216299334/1612283407",
+				"profile_link_color": "B30024",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1506238246178721800,
+			"quoted_status_id_str": "1506238246178721799",
+			"quoted_status_permalink": {
+				"url": "https://t.co/pExJ75CCQd",
+				"expanded": "https://twitter.com/billneelyreport/status/1506238246178721799",
+				"display": "twitter.com/billneelyrepor…"
+			},
+			"retweet_count": 80,
+			"favorite_count": 866,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sending thousands of high-tech missiles and training dozens of battalions of troops *is* getting involved. If you mean impose a no-fly zone and directly attack Russian forces, then, yes, let’s applaud everyone who is a coward in the face of a nuclear holocaust. 👏👏👏👏👏👏👏👏👏 https://t.co/8JUW5jONny"
+	},
+	{
 		"created_at": "Sun Mar 20 10:21:07 +0000 2022",
 		"id": 1505483656000946200,
 		"id_str": "1505489605033959426",
