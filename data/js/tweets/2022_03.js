@@ -1,6 +1,1475 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 20:21:20 +0000 2022",
+		"id": 1507090205441933300,
+		"id_str": "1507090205441933317",
+		"full_text": "@mccormick_ted maybe next go they could play an Enlightenment/Not Enlightenment game like this fella https://t.co/MMHE6uAz7T",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mccormick_ted",
+					"name": "Ted McCormick",
+					"id": 4828068038,
+					"id_str": "4828068038",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MMHE6uAz7T",
+					"expanded_url": "https://twitter.com/Paul_Elek/status/1506222076910264325?s=20&t=gWC9QcLlDDhKWPrX4VVHYQ",
+					"display_url": "twitter.com/Paul_Elek/stat…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1507086631374831600,
+		"in_reply_to_status_id_str": "1507086631374831623",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 2577,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506222076910264300,
+		"quoted_status_id_str": "1506222076910264325",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MMHE6uAz7T",
+			"expanded": "https://twitter.com/Paul_Elek/status/1506222076910264325?s=20&t=gWC9QcLlDDhKWPrX4VVHYQ",
+			"display": "twitter.com/Paul_Elek/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 22 10:51:42 +0000 2022",
+			"id": 1506222076910264300,
+			"id_str": "1506222076910264325",
+			"full_text": "Dans la série « dinguerie » de #Roussel2022, ne loupez pas la séance « Staline, camarade ou pas camarade ? » expliqué aux enfants. #camaradeStaline \n(PS : Oui Cnews c'est une chaîne de faf) https://t.co/ZIhlk2UKzB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Roussel2022",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"text": "camaradeStaline",
+						"indices": [
+							131,
+							147
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1506219721703792600,
+						"id_str": "1506219721703792652",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506219721703792652/pu/img/YjTSRBc51q4OIB6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506219721703792652/pu/img/YjTSRBc51q4OIB6q.jpg",
+						"url": "https://t.co/ZIhlk2UKzB",
+						"display_url": "pic.twitter.com/ZIhlk2UKzB",
+						"expanded_url": "https://twitter.com/Paul_Elek/status/1506222076910264325/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1506219721703792600,
+						"id_str": "1506219721703792652",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1506219721703792652/pu/img/YjTSRBc51q4OIB6q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1506219721703792652/pu/img/YjTSRBc51q4OIB6q.jpg",
+						"url": "https://t.co/ZIhlk2UKzB",
+						"display_url": "pic.twitter.com/ZIhlk2UKzB",
+						"expanded_url": "https://twitter.com/Paul_Elek/status/1506222076910264325/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 56266,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1506219721703792652/pu/vid/480x270/vLY07GBybvX_7hK5.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1506219721703792652/pu/vid/1280x720/rl1PpfhU2Gaomipn.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1506219721703792652/pu/pl/ED5hBY2Vz5XO4_xT.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1506219721703792652/pu/vid/640x360/HX-eohfmopaORM9P.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276689206,
+				"id_str": "276689206",
+				"name": "Paul Elek",
+				"screen_name": "Paul_Elek",
+				"location": "Paris",
+				"description": "Ex-collaborateur parlementaire. « En politique indifférent veut dire satisfait. » P.Nizan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1115,
+				"friends_count": 1089,
+				"listed_count": 16,
+				"created_at": "Sun Apr 03 21:51:59 +0000 2011",
+				"favourites_count": 1506,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478415863820783626/Z6kAPGhk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478415863820783626/Z6kAPGhk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/276689206/1643575099",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 412,
+			"favorite_count": 1399,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mccormick_ted maybe next go they could play an Enlightenment/Not Enlightenment game like this fella https://t.co/MMHE6uAz7T"
+	},
+	{
+		"created_at": "Thu Mar 24 20:07:07 +0000 2022",
+		"id": 1507086631374831600,
+		"id_str": "1507086631374831623",
+		"full_text": "@mccormick_ted i have just started reading War and Revolution: Rethinking the Twentieth Century by D Losurdo which is a look at the more (relatively) sophisticated historical revisionists, casts an interesting light on this particular news",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mccormick_ted",
+					"name": "Ted McCormick",
+					"id": 4828068038,
+					"id_str": "4828068038",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1507083925767790600,
+		"in_reply_to_status_id_str": "1507083925767790595",
+		"in_reply_to_user_id": 4828068038,
+		"in_reply_to_user_id_str": "4828068038",
+		"in_reply_to_screen_name": "mccormick_ted",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 2577,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mccormick_ted i have just started reading War and Revolution: Rethinking the Twentieth Century by D Losurdo which is a look at the more (relatively) sophisticated historical revisionists, casts an interesting light on this particular news"
+	},
+	{
+		"created_at": "Thu Mar 24 13:02:13 +0000 2022",
+		"id": 1506737981083816000,
+		"id_str": "1506979702191366148",
+		"full_text": "\"[W]e stop being effective educators after six years\" say management. @Za_Maikeru on labor massacres, contracts, and #precarity at a Japanese university #esl #tefl #elt https://t.co/yVheqMLMc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "precarity",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Za_Maikeru",
+					"name": "Michael Brown",
+					"id": 703598479944208400,
+					"id_str": "703598479944208384",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yVheqMLMc7",
+					"expanded_url": "https://www.teachersasworkers.org/a-winter-strike-in-japan/",
+					"display_url": "teachersasworkers.org/a-winter-strik…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134211317,
+			"id_str": "134211317",
+			"name": "paulwalsh",
+			"screen_name": "josipa74",
+			"location": "berlin",
+			"description": "writer-teacher-precarious worker in berlin  / bylines: @guardian\n@artmonthly @tribunemagazine @redpeppermag\n@opendemocracy @bellacaledonia (views personal)",
+			"url": "https://t.co/GY6bManGNg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GY6bManGNg",
+							"expanded_url": "https://www.paulwalshwriting.com/",
+							"display_url": "paulwalshwriting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2155,
+			"friends_count": 4979,
+			"listed_count": 54,
+			"created_at": "Sat Apr 17 19:24:28 +0000 2010",
+			"favourites_count": 7820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419255682151456768/xsd9hhVg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419255682151456768/xsd9hhVg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134211317/1427244606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"[W]e stop being effective educators after six years\" say management. @Za_Maikeru on labor massacres, contracts, and #precarity at a Japanese university #esl #tefl #elt https://t.co/yVheqMLMc7"
+	},
+	{
+		"created_at": "Thu Mar 24 13:01:30 +0000 2022",
+		"id": 1506933925419143200,
+		"id_str": "1506979519340716032",
+		"full_text": "Today!\n\nIf you're in Dublin, join your fellow #ELT teachers to show some #solidarity with the @POferries workers and the @RMTunion. \n\n#tefl #eap @DP_World @Union_NewsUK @labourstart  @StrikeMapUK #SaveOurSeafarers\n \nhttps://t.co/XdCg8gsuBc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "solidarity",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "SaveOurSeafarers",
+					"indices": [
+						196,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "POferries",
+					"name": "P&O Ferries",
+					"id": 154494287,
+					"id_str": "154494287",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "RMTunion",
+					"name": "RMT",
+					"id": 26020906,
+					"id_str": "26020906",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"screen_name": "DP_World",
+					"name": "DP World",
+					"id": 159153710,
+					"id_str": "159153710",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"screen_name": "Union_NewsUK",
+					"name": "UnionNewsUK",
+					"id": 293402908,
+					"id_str": "293402908",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"screen_name": "labourstart",
+					"name": "LabourStart",
+					"id": 15144122,
+					"id_str": "15144122",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "StrikeMapUK",
+					"name": "Strike Map UK",
+					"id": 1340665162831945700,
+					"id_str": "1340665162831945729",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XdCg8gsuBc",
+					"expanded_url": "https://twitter.com/ELTUnite/status/1506737321344999427",
+					"display_url": "twitter.com/ELTUnite/statu…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2096,
+			"friends_count": 221,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506737321344999400,
+		"quoted_status_id_str": "1506737321344999427",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XdCg8gsuBc",
+			"expanded": "https://twitter.com/ELTUnite/status/1506737321344999427",
+			"display": "twitter.com/ELTUnite/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 23 20:59:05 +0000 2022",
+			"id": 1506737321344999400,
+			"id_str": "1506737321344999427",
+			"full_text": "Join us in solidarity with the P&amp;O workers this Friday! #solidarity #workersrights #jointheunion https://t.co/YDnzLVpQHd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "solidarity",
+						"indices": [
+							60,
+							71
+						]
+					},
+					{
+						"text": "workersrights",
+						"indices": [
+							72,
+							86
+						]
+					},
+					{
+						"text": "jointheunion",
+						"indices": [
+							87,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1506737318836777000,
+						"id_str": "1506737318836776966",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/FOkBm8MXMAYW8gx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOkBm8MXMAYW8gx.jpg",
+						"url": "https://t.co/YDnzLVpQHd",
+						"display_url": "pic.twitter.com/YDnzLVpQHd",
+						"expanded_url": "https://twitter.com/ELTUnite/status/1506737321344999427/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 802,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1506737318836777000,
+						"id_str": "1506737318836776966",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/FOkBm8MXMAYW8gx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOkBm8MXMAYW8gx.jpg",
+						"url": "https://t.co/YDnzLVpQHd",
+						"display_url": "pic.twitter.com/YDnzLVpQHd",
+						"expanded_url": "https://twitter.com/ELTUnite/status/1506737321344999427/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 802,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1180961573457801200,
+				"id_str": "1180961573457801222",
+				"name": "English Language Teachers Branch - Unite the Union",
+				"screen_name": "ELTUnite",
+				"location": "The Republic of Ireland",
+				"description": "Established in 2017. Working for better working conditions and standards within the English Language Education sector",
+				"url": "https://t.co/VgCroDOT4o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VgCroDOT4o",
+								"expanded_url": "https://eltunite.com/",
+								"display_url": "eltunite.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 87,
+				"listed_count": 3,
+				"created_at": "Sun Oct 06 21:42:56 +0000 2019",
+				"favourites_count": 140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180963318758068224/qZefQ-4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180963318758068224/qZefQ-4q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180961573457801222/1570398486",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today!\n\nIf you're in Dublin, join your fellow #ELT teachers to show some #solidarity with the @POferries workers and the @RMTunion. \n\n#tefl #eap @DP_World @Union_NewsUK @labourstart  @StrikeMapUK #SaveOurSeafarers\n \nhttps://t.co/XdCg8gsuBc"
+	},
+	{
+		"created_at": "Thu Mar 24 09:26:23 +0000 2022",
+		"id": 1506903842109206500,
+		"id_str": "1506925382620098560",
+		"full_text": "It's no secret that we think the @BritishCouncil has nothing to offer #tefl workers.\n\nBut when BC staff #strike against redundancies &amp; privatisation, we  know whose side we're on! #solidarity\n\n#Union statement here: https://t.co/V5WWQkjH5w\n\n#elt #HandsOffBritishCouncil @pcs_union",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tefl",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "strike",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "solidarity",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "Union",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						245,
+						249
+					]
+				},
+				{
+					"text": "HandsOffBritishCouncil",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "pcs_union",
+					"name": "PCS Union",
+					"id": 35718588,
+					"id_str": "35718588",
+					"indices": [
+						274,
+						284
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V5WWQkjH5w",
+					"expanded_url": "https://teflworkersunion.org/solidarity-with-british-council-staff/",
+					"display_url": "teflworkersunion.org/solidarity-wit…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2096,
+			"friends_count": 221,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's no secret that we think the @BritishCouncil has nothing to offer #tefl workers.\n\nBut when BC staff #strike against redundancies &amp; privatisation, we  know whose side we're on! #solidarity\n\n#Union statement here: https://t.co/V5WWQkjH5w\n\n#elt #HandsOffBritishCouncil @pcs_union"
+	},
+	{
+		"created_at": "Thu Mar 24 09:25:27 +0000 2022",
+		"id": 1506925148489851000,
+		"id_str": "1506925148489850887",
+		"full_text": "As the late union leader Bob Crow reminds us - If you fight you won't always win. But if you don't fight you will always lose https://t.co/o8LEQhhem1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o8LEQhhem1",
+					"expanded_url": "https://twitter.com/Za_Maikeru/status/1506771405484224514",
+					"display_url": "twitter.com/Za_Maikeru/sta…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 2577,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506771405484224500,
+		"quoted_status_id_str": "1506771405484224514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o8LEQhhem1",
+			"expanded": "https://twitter.com/Za_Maikeru/status/1506771405484224514",
+			"display": "twitter.com/Za_Maikeru/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 23 23:14:32 +0000 2022",
+			"id": 1506771405484224500,
+			"id_str": "1506771405484224514",
+			"full_text": "I'm very grateful to the folks at @taw_sig, in particular @muranava and @josipa74, for allowing me to write &amp; share this piece about our union's fight for job security.\n\nA Winter Strike in Japan https://t.co/VBnBPjdMNU via @taw_sig",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "taw_sig",
+						"name": "teachers_as_workers",
+						"id": 3152637711,
+						"id_str": "3152637711",
+						"indices": [
+							34,
+							42
+						]
+					},
+					{
+						"screen_name": "muranava",
+						"name": "Mura Nava",
+						"id": 18602422,
+						"id_str": "18602422",
+						"indices": [
+							58,
+							67
+						]
+					},
+					{
+						"screen_name": "josipa74",
+						"name": "paulwalsh",
+						"id": 134211317,
+						"id_str": "134211317",
+						"indices": [
+							72,
+							81
+						]
+					},
+					{
+						"screen_name": "taw_sig",
+						"name": "teachers_as_workers",
+						"id": 3152637711,
+						"id_str": "3152637711",
+						"indices": [
+							227,
+							235
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VBnBPjdMNU",
+						"expanded_url": "https://www.teachersasworkers.org/a-winter-strike-in-japan/",
+						"display_url": "teachersasworkers.org/a-winter-strik…",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 703598479944208400,
+				"id_str": "703598479944208384",
+				"name": "Michael Brown",
+				"screen_name": "Za_Maikeru",
+				"location": "Tokyo",
+				"description": "Lecturer at 駒沢女子大学 (from April) | language ed/variation/change | ecolinguistics | climate organizing | labor union exec | he/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 433,
+				"friends_count": 760,
+				"listed_count": 12,
+				"created_at": "Sat Feb 27 15:12:04 +0000 2016",
+				"favourites_count": 23891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2150,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489424276620939266/inQSznSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489424276620939266/inQSznSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/703598479944208384/1600736856",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the late union leader Bob Crow reminds us - If you fight you won't always win. But if you don't fight you will always lose https://t.co/o8LEQhhem1"
+	},
+	{
 		"created_at": "Wed Mar 23 22:08:24 +0000 2022",
 		"id": 1506754765308543000,
 		"id_str": "1506754765308542977",
