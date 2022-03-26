@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 13:26:59 +0000 2022",
+		"id": 1507334126721974300,
+		"id_str": "1507348321916047368",
+		"full_text": "Just 😘👌You will not get a better illustration of the way these aging weirdos have deranged their own and each other’s brains over drivel and no non-scandals, all over the world. And to be clear: Vlad is pitching to the same market that Johnson and Starmer are here. https://t.co/kL8xZq09uC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1507334122729087000,
+					"id_str": "1507334122729086981",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FOsgZf8XoAUayIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOsgZf8XoAUayIj.jpg",
+					"url": "https://t.co/kL8xZq09uC",
+					"display_url": "pic.twitter.com/kL8xZq09uC",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1507334126721974272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1507334122729087000,
+					"id_str": "1507334122729086981",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FOsgZf8XoAUayIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOsgZf8XoAUayIj.jpg",
+					"url": "https://t.co/kL8xZq09uC",
+					"display_url": "pic.twitter.com/kL8xZq09uC",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1507334126721974272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 723,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91556288,
+			"id_str": "91556288",
+			"name": "Flying_Rodent",
+			"screen_name": "flying_rodent",
+			"location": "Fife 4 Life yo",
+			"description": "General smartarse cracks wise in assault-proof environment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12792,
+			"friends_count": 854,
+			"listed_count": 112,
+			"created_at": "Sat Nov 21 11:46:41 +0000 2009",
+			"favourites_count": 61136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91556288/1501182277",
+			"profile_link_color": "000FB8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 141,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just 😘👌You will not get a better illustration of the way these aging weirdos have deranged their own and each other’s brains over drivel and no non-scandals, all over the world. And to be clear: Vlad is pitching to the same market that Johnson and Starmer are here. https://t.co/kL8xZq09uC"
+	},
+	{
 		"created_at": "Thu Mar 24 20:21:20 +0000 2022",
 		"id": 1507090205441933300,
 		"id_str": "1507090205441933317",
