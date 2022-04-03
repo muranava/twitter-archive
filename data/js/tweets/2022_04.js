@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 02 07:23:50 +0000 2022",
+		"id": 1510151341250859000,
+		"id_str": "1510156033070702595",
+		"full_text": "“I pretty much flipped my whole department. What I’ll do is study a group of friends and go to the leader of the pack. Whatever the leader says, the rest of the group is going to do.” https://t.co/mQXVzqwbtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mQXVzqwbtX",
+					"expanded_url": "https://www.labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory",
+					"display_url": "labornotes.org/2022/04/amazon…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/K0RBermo13",
+			"url": "https://t.co/BDdntITzo7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDdntITzo7",
+							"expanded_url": "https://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K0RBermo13",
+							"expanded_url": "http://patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62271,
+			"friends_count": 2706,
+			"listed_count": 772,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 21974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509916344434802688/EcZNIPrr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509916344434802688/EcZNIPrr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1648814491",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I pretty much flipped my whole department. What I’ll do is study a group of friends and go to the leader of the pack. Whatever the leader says, the rest of the group is going to do.” https://t.co/mQXVzqwbtX"
+	},
+	{
 		"created_at": "Fri Apr 01 20:47:12 +0000 2022",
 		"id": 1509971892257632300,
 		"id_str": "1509995821852471299",
