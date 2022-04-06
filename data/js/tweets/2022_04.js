@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 17:35:10 +0000 2022",
+		"id": 1511397045814374400,
+		"id_str": "1511397045814374410",
+		"full_text": "to limit 1.5 celsius rise by year 2100 we are expecting capitalism to walk away from approx 200 TRILLION dollars - what are the chances of that  :/ https://t.co/XTeDmTEqTD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XTeDmTEqTD",
+					"expanded_url": "https://twitter.com/taddelay/status/1511113393813573645",
+					"display_url": "twitter.com/taddelay/statu…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 2591,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511113393813573600,
+		"quoted_status_id_str": "1511113393813573645",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XTeDmTEqTD",
+			"expanded": "https://twitter.com/taddelay/status/1511113393813573645",
+			"display": "twitter.com/taddelay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 22:48:02 +0000 2022",
+			"id": 1511113393813573600,
+			"id_str": "1511113393813573645",
+			"full_text": "Denial Futures at @salvagedotzone \n\nFirst essay I’ve published in a year and a preview of my next book. Grim pairing with the latest IPCC report\n\nhttps://t.co/jAu8bKx6jT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "salvagedotzone",
+						"name": "Salvage",
+						"id": 3099294717,
+						"id_str": "3099294717",
+						"indices": [
+							18,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jAu8bKx6jT",
+						"expanded_url": "https://salvage.zone/denial-futures/",
+						"display_url": "salvage.zone/denial-futures/",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117637560,
+				"id_str": "117637560",
+				"name": "Tad DeLay",
+				"screen_name": "taddelay",
+				"location": "Baltimore, MD",
+				"description": "Author of a few books on religion and psychoanalysis | assistant professor of philosophy | writing on climate with Verso",
+				"url": "https://t.co/c5PHeuUCk0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c5PHeuUCk0",
+								"expanded_url": "http://taddelay.com",
+								"display_url": "taddelay.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2122,
+				"friends_count": 754,
+				"listed_count": 45,
+				"created_at": "Fri Feb 26 04:08:48 +0000 2010",
+				"favourites_count": 5751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314236796272664577/U3nemDp1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314236796272664577/U3nemDp1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117637560/1609795049",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "to limit 1.5 celsius rise by year 2100 we are expecting capitalism to walk away from approx 200 TRILLION dollars - what are the chances of that  :/ https://t.co/XTeDmTEqTD"
+	},
+	{
 		"created_at": "Mon Apr 04 13:23:28 +0000 2022",
 		"id": 1510828862598434800,
 		"id_str": "1510971314974216197",
