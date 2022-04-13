@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 17:20:09 +0000 2022",
+		"id": 1513928962547802000,
+		"id_str": "1513929980593553408",
+		"full_text": "\"Our families died in the most public and horrific way possible and here we are five years later with no arrests, no accountability but yet the ones who were involved have been able to prosper since the fire.\"\n\nKarim Mussilhy at the Grenfell Inquiry\n\n https://t.co/iOpfjQhzbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1513860167493955600,
+					"id_str": "1513860167493955585",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513860167493955585/pu/img/reWZr4gtyVDTB55c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513860167493955585/pu/img/reWZr4gtyVDTB55c.jpg",
+					"url": "https://t.co/iOpfjQhzbM",
+					"display_url": "pic.twitter.com/iOpfjQhzbM",
+					"expanded_url": "https://twitter.com/theipaper/status/1513865373191483396/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1513865373191483400,
+					"source_status_id_str": "1513865373191483396",
+					"source_user_id": 205770556,
+					"source_user_id_str": "205770556"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1513860167493955600,
+					"id_str": "1513860167493955585",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513860167493955585/pu/img/reWZr4gtyVDTB55c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513860167493955585/pu/img/reWZr4gtyVDTB55c.jpg",
+					"url": "https://t.co/iOpfjQhzbM",
+					"display_url": "pic.twitter.com/iOpfjQhzbM",
+					"expanded_url": "https://twitter.com/theipaper/status/1513865373191483396/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1513865373191483400,
+					"source_status_id_str": "1513865373191483396",
+					"source_user_id": 205770556,
+					"source_user_id_str": "205770556",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 139680,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1513860167493955585/pu/pl/wafUvYk7Q0zuck4w.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513860167493955585/pu/vid/720x720/mChp1PV7f6UqojFi.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513860167493955585/pu/vid/320x320/IjpR-bqKGkyhS_Ix.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1513860167493955585/pu/vid/540x540/kIT_oZjL9K_Wolbc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 205770556,
+							"id_str": "205770556",
+							"name": "i newspaper",
+							"screen_name": "theipaper",
+							"location": "",
+							"description": "Your essential daily briefing. Follow us @ipaperviews🗣️ @ipapersport🏉 @ipapermoney📈 @iPaperTravel✈️\nSign up for exclusive journalism 📨 https://t.co/U5x0DplGeO",
+							"url": "https://t.co/s9Rj8uSJsl",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/s9Rj8uSJsl",
+											"expanded_url": "http://www.inews.co.uk",
+											"display_url": "inews.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/U5x0DplGeO",
+											"expanded_url": "http://inews.co.uk/subscribe",
+											"display_url": "inews.co.uk/subscribe",
+											"indices": [
+												135,
+												158
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 129724,
+							"friends_count": 4214,
+							"listed_count": 2062,
+							"created_at": "Thu Oct 21 15:30:14 +0000 2010",
+							"favourites_count": 3731,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 250848,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1332292729657815040/Ghi84urE_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332292729657815040/Ghi84urE_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/205770556/1641048030",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024352074048434200,
+			"id_str": "1024352074048434177",
+			"name": "Lowkey",
+			"screen_name": "Lowkey0nline",
+			"location": "",
+			"description": "Host of 'The Watchdog' podcast on @MintPressNews for enquiries: lowkeyonlinemanagement@gmail.com",
+			"url": "https://t.co/Nzi8wSH9sq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nzi8wSH9sq",
+							"expanded_url": "https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY?nd=1",
+							"display_url": "open.spotify.com/artist/7lNJ1ZV…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113548,
+			"friends_count": 4172,
+			"listed_count": 294,
+			"created_at": "Tue Jul 31 17:52:20 +0000 2018",
+			"favourites_count": 9452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292913404722794496/56ES811B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292913404722794496/56ES811B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024352074048434177/1645442267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 376,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Our families died in the most public and horrific way possible and here we are five years later with no arrests, no accountability but yet the ones who were involved have been able to prosper since the fire.\"\n\nKarim Mussilhy at the Grenfell Inquiry\n\n https://t.co/iOpfjQhzbM"
+	},
+	{
+		"created_at": "Tue Apr 12 15:13:24 +0000 2022",
+		"id": 1513898082563412000,
+		"id_str": "1513898082563411968",
+		"full_text": "@GeoffJordan16 yes, (though how actual points in paper may apply to your issues with raciolinguistics/translanguaging is another question) - i thought the Oz phrase used is evocative",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1373330979239116800,
+					"id_str": "1373330979239116804",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1513881426495737900,
+		"in_reply_to_status_id_str": "1513881426495737861",
+		"in_reply_to_user_id": 1373330979239116800,
+		"in_reply_to_user_id_str": "1373330979239116804",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2593,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 19938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 yes, (though how actual points in paper may apply to your issues with raciolinguistics/translanguaging is another question) - i thought the Oz phrase used is evocative"
+	},
+	{
 		"created_at": "Mon Apr 11 20:32:27 +0000 2022",
 		"id": 1513615986032889900,
 		"id_str": "1513615986032889857",
