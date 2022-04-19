@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 08:29:56 +0000 2022",
+		"id": 1515963395580776400,
+		"id_str": "1515970872527437825",
+		"full_text": "Yes!!! Our @Kaplan_Workers  campaign spreading the word that there's a #union out there that's got our back!\n\nIf you work in any part of any #ELT company (no managers please!) and you want to make your job better, you know where to go! \n\n#TEFL #UKELT #EAP\n\nhttps://t.co/G8ct5461PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "union",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "UKELT",
+					"indices": [
+						244,
+						250
+					]
+				},
+				{
+					"text": "EAP",
+					"indices": [
+						251,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaplan_Workers",
+					"name": "KaplanWorkers",
+					"id": 1493242480363462700,
+					"id_str": "1493242480363462657",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G8ct5461PM",
+					"expanded_url": "https://twitter.com/Kaplan_Workers/status/1514539232811003911",
+					"display_url": "twitter.com/Kaplan_Workers…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2112,
+			"friends_count": 225,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514539232811004000,
+		"quoted_status_id_str": "1514539232811003911",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G8ct5461PM",
+			"expanded": "https://twitter.com/Kaplan_Workers/status/1514539232811003911",
+			"display": "twitter.com/Kaplan_Workers…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 14 09:41:06 +0000 2022",
+			"id": 1514539232811004000,
+			"id_str": "1514539232811003911",
+			"full_text": "Here are our leaflets on Uni campuses that outsource courses to @KaplanPathways... #lookinggood👌😎\n\n#tefl #elt #eap #esol #UKELT #TeflWorkersUnion #IWW #KaplanUK #KaplanNews #KaplanPathways #KaplanLife #StrongerTogether https://t.co/BYtp9alp4n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lookinggood",
+						"indices": [
+							83,
+							95
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							99,
+							104
+						]
+					},
+					{
+						"text": "elt",
+						"indices": [
+							105,
+							109
+						]
+					},
+					{
+						"text": "eap",
+						"indices": [
+							110,
+							114
+						]
+					},
+					{
+						"text": "esol",
+						"indices": [
+							115,
+							120
+						]
+					},
+					{
+						"text": "UKELT",
+						"indices": [
+							121,
+							127
+						]
+					},
+					{
+						"text": "TeflWorkersUnion",
+						"indices": [
+							128,
+							145
+						]
+					},
+					{
+						"text": "IWW",
+						"indices": [
+							146,
+							150
+						]
+					},
+					{
+						"text": "KaplanUK",
+						"indices": [
+							151,
+							160
+						]
+					},
+					{
+						"text": "KaplanNews",
+						"indices": [
+							161,
+							172
+						]
+					},
+					{
+						"text": "KaplanPathways",
+						"indices": [
+							173,
+							188
+						]
+					},
+					{
+						"text": "KaplanLife",
+						"indices": [
+							189,
+							200
+						]
+					},
+					{
+						"text": "StrongerTogether",
+						"indices": [
+							201,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KaplanPathways",
+						"name": "Kaplan International Pathways",
+						"id": 270301793,
+						"id_str": "270301793",
+						"indices": [
+							64,
+							79
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1514536258843955200,
+						"id_str": "1514536258843955200",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FQS2s_vX0AAUjLO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQS2s_vX0AAUjLO.jpg",
+						"url": "https://t.co/BYtp9alp4n",
+						"display_url": "pic.twitter.com/BYtp9alp4n",
+						"expanded_url": "https://twitter.com/Kaplan_Workers/status/1514539232811003911/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1514536258843955200,
+						"id_str": "1514536258843955200",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FQS2s_vX0AAUjLO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQS2s_vX0AAUjLO.jpg",
+						"url": "https://t.co/BYtp9alp4n",
+						"display_url": "pic.twitter.com/BYtp9alp4n",
+						"expanded_url": "https://twitter.com/Kaplan_Workers/status/1514539232811003911/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1514536258835562500,
+						"id_str": "1514536258835562498",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FQS2s_tXwAIXErf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQS2s_tXwAIXErf.jpg",
+						"url": "https://t.co/BYtp9alp4n",
+						"display_url": "pic.twitter.com/BYtp9alp4n",
+						"expanded_url": "https://twitter.com/Kaplan_Workers/status/1514539232811003911/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1599,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 901,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1493242480363462700,
+				"id_str": "1493242480363462657",
+				"name": "KaplanWorkers",
+				"screen_name": "Kaplan_Workers",
+				"location": "",
+				"description": "Campaigning for better working conditions for Kaplan workers. Work at Kaplan? Problems at work? DM us! Account run by @TeflUnion. Not run or endorsed by Kaplan.",
+				"url": "https://t.co/fezhIo5LVJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fezhIo5LVJ",
+								"expanded_url": "http://teflworkersunion.org",
+								"display_url": "teflworkersunion.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106,
+				"friends_count": 164,
+				"listed_count": 0,
+				"created_at": "Mon Feb 14 15:16:07 +0000 2022",
+				"favourites_count": 822,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 309,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1493242854294142989/5pFKL0eJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493242854294142989/5pFKL0eJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493242480363462657/1644852191",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes!!! Our @Kaplan_Workers  campaign spreading the word that there's a #union out there that's got our back!\n\nIf you work in any part of any #ELT company (no managers please!) and you want to make your job better, you know where to go! \n\n#TEFL #UKELT #EAP\n\nhttps://t.co/G8ct5461PM"
+	},
+	{
 		"created_at": "Sun Apr 17 14:40:00 +0000 2022",
 		"id": 1515701617173143600,
 		"id_str": "1515701617173143555",
