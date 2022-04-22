@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 13:18:11 +0000 2022",
+		"id": 1517053966663577600,
+		"id_str": "1517130579371859968",
+		"full_text": "\"Until recent years, EAP tended to be delivered directly by universities. In such cases teachers were usually employed directly.\"\n\nNew series of articles on the political economy of #EAP - and how we can fight to make it better. #tefl #elt\n\nhttps://t.co/MOlA1IzWOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EAP",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						235,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MOlA1IzWOP",
+					"expanded_url": "https://teflworkersunion.org/organising-tefl-part-1-eap/",
+					"display_url": "teflworkersunion.org/organising-tef…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 225,
+			"listed_count": 13,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Until recent years, EAP tended to be delivered directly by universities. In such cases teachers were usually employed directly.\"\n\nNew series of articles on the political economy of #EAP - and how we can fight to make it better. #tefl #elt\n\nhttps://t.co/MOlA1IzWOP"
+	},
+	{
+		"created_at": "Thu Apr 21 10:49:52 +0000 2022",
+		"id": 1517093253069348900,
+		"id_str": "1517093253069348866",
+		"full_text": "the free bigbluebutton video conferencing option is nice - limited to 60 mins and 25  people",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517082806819733500,
+		"in_reply_to_status_id_str": "1517082806819733504",
+		"in_reply_to_user_id": 18602422,
+		"in_reply_to_user_id_str": "18602422",
+		"in_reply_to_screen_name": "muranava",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 2602,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "the free bigbluebutton video conferencing option is nice - limited to 60 mins and 25  people"
+	},
+	{
+		"created_at": "Thu Apr 21 10:40:59 +0000 2022",
+		"id": 1517091016972587000,
+		"id_str": "1517091016972587012",
+		"full_text": "@RemivanTrijp I read yr opening tweet afterwards and saw yr concern was directed at twitter discourse - Pinker's citation count as recorded by Google shows arguably no effect of this discourse : )",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemivanTrijp",
+					"name": "Remi van Trijp",
+					"id": 2707625906,
+					"id_str": "2707625906",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517087461473669000,
+		"in_reply_to_status_id_str": "1517087461473669121",
+		"in_reply_to_user_id": 2707625906,
+		"in_reply_to_user_id_str": "2707625906",
+		"in_reply_to_screen_name": "RemivanTrijp",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 2602,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RemivanTrijp I read yr opening tweet afterwards and saw yr concern was directed at twitter discourse - Pinker's citation count as recorded by Google shows arguably no effect of this discourse : )"
+	},
+	{
+		"created_at": "Thu Apr 21 10:08:21 +0000 2022",
+		"id": 1517082806819733500,
+		"id_str": "1517082806819733504",
+		"full_text": "though not used moodle in a while just checked out moodle 4.0 -  has v nice clean interface",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 2602,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "though not used moodle in a while just checked out moodle 4.0 -  has v nice clean interface"
+	},
+	{
+		"created_at": "Thu Apr 21 08:38:43 +0000 2022",
+		"id": 1517060247206178800,
+		"id_str": "1517060247206178816",
+		"full_text": "@RemivanTrijp are you referring to something in particular? history has shown states certainly do make most of all \"truths\" whatever the politics are e.g. famous operation Paperclip of Nazi scientists",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemivanTrijp",
+					"name": "Remi van Trijp",
+					"id": 2707625906,
+					"id_str": "2707625906",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517059040999788500,
+		"in_reply_to_status_id_str": "1517059040999788545",
+		"in_reply_to_user_id": 2707625906,
+		"in_reply_to_user_id_str": "2707625906",
+		"in_reply_to_screen_name": "RemivanTrijp",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 2602,
+			"listed_count": 100,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419958763172282377/IOhC2pAI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RemivanTrijp are you referring to something in particular? history has shown states certainly do make most of all \"truths\" whatever the politics are e.g. famous operation Paperclip of Nazi scientists"
+	},
+	{
+		"created_at": "Thu Apr 21 08:34:25 +0000 2022",
+		"id": 1517055928687902700,
+		"id_str": "1517059165251846144",
+		"full_text": "CLR James on the British government's plan to resettle Jewish refugees from Nazi Germany in Kenya, 1938.\n\nhttps://t.co/bw5uqLTCwi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bw5uqLTCwi",
+					"expanded_url": "https://libcom.org/article/african-homeland-jewish-refugees-clr-james",
+					"display_url": "libcom.org/article/africa…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 69545227,
+			"id_str": "69545227",
+			"name": "libcom.org",
+			"screen_name": "libcomorg",
+			"location": "",
+			"description": "Massive and free online archive of working class history and communist/anarchist literature. Tweets in individual capacity. https://t.co/K0RBermo13",
+			"url": "https://t.co/BDdntITzo7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDdntITzo7",
+							"expanded_url": "https://libcom.org",
+							"display_url": "libcom.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K0RBermo13",
+							"expanded_url": "http://patreon.com/libcom",
+							"display_url": "patreon.com/libcom",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62459,
+			"friends_count": 2703,
+			"listed_count": 766,
+			"created_at": "Fri Aug 28 09:07:32 +0000 2009",
+			"favourites_count": 22146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDE9E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509916344434802688/EcZNIPrr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509916344434802688/EcZNIPrr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69545227/1648814491",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCAE5B",
+			"profile_text_color": "0D0C0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CLR James on the British government's plan to resettle Jewish refugees from Nazi Germany in Kenya, 1938.\n\nhttps://t.co/bw5uqLTCwi"
+	},
+	{
 		"created_at": "Wed Apr 20 18:34:42 +0000 2022",
 		"id": 1516726739413749800,
 		"id_str": "1516847843054698499",
