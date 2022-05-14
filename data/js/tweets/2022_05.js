@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 21:01:52 +0000 2022",
+		"id": 1525114366403743700,
+		"id_str": "1525219802846994432",
+		"full_text": "The closest video of the #Israeli police suppressing the funeral procession of Shireen Abu Aqleh as the coffin was leaving the French hospital towards the cemetery https://t.co/TaOsvCUUCd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Israeli",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525114145087045600,
+					"id_str": "1525114145087045637",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+					"url": "https://t.co/TaOsvCUUCd",
+					"display_url": "pic.twitter.com/TaOsvCUUCd",
+					"expanded_url": "https://twitter.com/Rushdibbc/status/1525114366403743744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525114145087045600,
+					"id_str": "1525114145087045637",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525114145087045637/pu/img/cUwDrk_wHF3zACik.jpg",
+					"url": "https://t.co/TaOsvCUUCd",
+					"display_url": "pic.twitter.com/TaOsvCUUCd",
+					"expanded_url": "https://twitter.com/Rushdibbc/status/1525114366403743744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/320x568/OdEhvs3JWpq8eGot.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/480x852/YXl4uPbKbbpjzHXr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/pl/uQEz0Fydwkr_Bz88.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525114145087045637/pu/vid/720x1280/52b8XE5kTVlSCpKq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136776767,
+			"id_str": "136776767",
+			"name": "Rushdi Abualouf",
+			"screen_name": "Rushdibbc",
+			"location": "Gaza غزة",
+			"description": "#Palestinian journalist based in #Gaza , work for the #BBC what is written here represents my own views صحفي #فلسطيني #غزة#",
+			"url": "https://t.co/TLHT7IdYf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TLHT7IdYf7",
+							"expanded_url": "http://www.bbcnews.com",
+							"display_url": "bbcnews.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13659,
+			"friends_count": 561,
+			"listed_count": 532,
+			"created_at": "Sat Apr 24 22:17:47 +0000 2010",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1404288449386008580/WNlG-dvj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404288449386008580/WNlG-dvj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136776767/1623643436",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49800,
+		"favorite_count": 86751,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The closest video of the #Israeli police suppressing the funeral procession of Shireen Abu Aqleh as the coffin was leaving the French hospital towards the cemetery https://t.co/TaOsvCUUCd"
+	},
+	{
 		"created_at": "Thu May 12 15:00:30 +0000 2022",
 		"id": 1524766471834017800,
 		"id_str": "1524766471834017792",
