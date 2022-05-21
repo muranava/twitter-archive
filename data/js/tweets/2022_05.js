@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 06:27:42 +0000 2022",
+		"id": 1527254160445423600,
+		"id_str": "1527536526279811075",
+		"full_text": "Tackling the rise of really extreme far right conspiracy theories in British politics is going to require some very Important blue ticks admitting they’ve helped to legitimise and launder those ideas, and that the awful lefties may have a point. So it is not ever going to happen. https://t.co/Uy5LqBs5P1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527254155030569000,
+					"id_str": "1527254155030568967",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHlj_BWIAcp3VM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHlj_BWIAcp3VM.jpg",
+					"url": "https://t.co/Uy5LqBs5P1",
+					"display_url": "pic.twitter.com/Uy5LqBs5P1",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1527254160445423616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1031,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1031,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527254155030569000,
+					"id_str": "1527254155030568967",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHlj_BWIAcp3VM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHlj_BWIAcp3VM.jpg",
+					"url": "https://t.co/Uy5LqBs5P1",
+					"display_url": "pic.twitter.com/Uy5LqBs5P1",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1527254160445423616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1031,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1031,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527254155038949400,
+					"id_str": "1527254155038949377",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FTHlj_DWAAEUUXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTHlj_DWAAEUUXe.jpg",
+					"url": "https://t.co/Uy5LqBs5P1",
+					"display_url": "pic.twitter.com/Uy5LqBs5P1",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1527254160445423616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1018,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91556288,
+			"id_str": "91556288",
+			"name": "Flying_Rodent",
+			"screen_name": "flying_rodent",
+			"location": "Fife 4 Life yo",
+			"description": "General smartarse cracks wise in assault-proof environment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13722,
+			"friends_count": 871,
+			"listed_count": 116,
+			"created_at": "Sat Nov 21 11:46:41 +0000 2009",
+			"favourites_count": 65223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91556288/1501182277",
+			"profile_link_color": "000FB8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 136,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tackling the rise of really extreme far right conspiracy theories in British politics is going to require some very Important blue ticks admitting they’ve helped to legitimise and launder those ideas, and that the awful lefties may have a point. So it is not ever going to happen. https://t.co/Uy5LqBs5P1"
+	},
+	{
 		"created_at": "Tue May 17 06:42:46 +0000 2022",
 		"id": 1526453154220585000,
 		"id_str": "1526453154220584960",
