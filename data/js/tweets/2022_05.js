@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 09:38:09 +0000 2022",
+		"id": 1528932824073777200,
+		"id_str": "1529758781839708162",
+		"full_text": "New article in Applied Linguistics with Chris Jenks. We look at how language teachers brand themselves on online tutoring platforms. https://t.co/Cdx4vNtvuY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cdx4vNtvuY",
+					"expanded_url": "http://secure-web.cisco.com/1WnynD7NRa9HSzFcGvk3Fk1hvIwWJx0oRIXCci13V0wpbZPeInWC-r_faIH_iDQmfygYTYFeUc98Yyy0pWUYP1aORzVbM2QcHSt073GXRXAtJ1MT0ImKL6HAJRT9rxFtUiZQ8BLxJR_VfcUVgJ8WOZFhDfEBY4-DGCrCX-TLNdhXv7SMahIaStVhIJraFy9DusPyq_CFIwCYpopzsqNJxETKfo4ERk7u8czslUaaLBMxxu2_Bqoe9uMAtFjiWN0SbjX8LJ6Rz8MhyyjMpEW0SXQJv6I6hF0ZJsUCN5BJZje0KwWM8URwUlQDXNrue79dX/http%3A%2F%2Ftrack.smtpsendmail.com%2F9032119%2Fc%3Fp%3Dgxd2maeYgwFyi_MdjVm3lbkHpGMa5qgjAMgJPjLT032fbZLAJIdYIWvb4dg_8NHCF_2nJ7ecSD5ZQt5wBzMgfjn7MKGBo3MK-Zw0qwU6G-MdmL5_HzivkotKmdmuAFE3hK1AdNOdRLnfkbyAEZ6mtrrk58309Qob3ho2AHz0_4zY_KCXW1ivr9s5tvbo6IU9Vr0h9awaHCBNsU6yYIzk0RJYvI6COzoSBY8PV4ZTXNztacUhuC8Dq8dVxpRNKs3deAde-Aq9565gIQ2fhcA62w%3D%3D",
+					"display_url": "secure-web.cisco.com/1WnynD7NRa9HSz…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1087428755025322000,
+			"id_str": "1087428755025321984",
+			"name": "Ming Curran",
+			"screen_name": "mingthingz",
+			"location": "",
+			"description": "Assistant Professor in Hong Kong. Intercultural communication, language learning, gig economy, Korea. PhD in 2020 from @USCAnnenberg.",
+			"url": "https://t.co/mNRZRiEc0A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mNRZRiEc0A",
+							"expanded_url": "http://mingcurran.com",
+							"display_url": "mingcurran.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 440,
+			"listed_count": 1,
+			"created_at": "Mon Jan 21 19:16:33 +0000 2019",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347798530115596290/Pd-JQ3gp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347798530115596290/Pd-JQ3gp_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New article in Applied Linguistics with Chris Jenks. We look at how language teachers brand themselves on online tutoring platforms. https://t.co/Cdx4vNtvuY"
+	},
+	{
 		"created_at": "Wed May 25 22:37:42 +0000 2022",
 		"id": 1529592571068047400,
 		"id_str": "1529592571068047364",
