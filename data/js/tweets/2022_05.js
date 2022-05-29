@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 20:35:18 +0000 2022",
+		"id": 1530646287988707300,
+		"id_str": "1530648931490840577",
+		"full_text": "France being granted the Champions League Final instead of the ostensibly barbarous Russia and then tear gassing the fans attending it en masse says quite a lot about liberal delusions of “civilised” society.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240631273,
+			"id_str": "240631273",
+			"name": "Louis Allday",
+			"screen_name": "Louis_Allday",
+			"location": "",
+			"description": "It's a silent S. Founding Editor, @LiberatedTexts",
+			"url": "https://t.co/feGM5bVhNp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/feGM5bVhNp",
+							"expanded_url": "https://louisallday.wordpress.com",
+							"display_url": "louisallday.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33742,
+			"friends_count": 1587,
+			"listed_count": 275,
+			"created_at": "Thu Jan 20 11:04:43 +0000 2011",
+			"favourites_count": 28014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1400105057123721218/cdH0kqVm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400105057123721218/cdH0kqVm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240631273/1613557816",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 273,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "France being granted the Champions League Final instead of the ostensibly barbarous Russia and then tear gassing the fans attending it en masse says quite a lot about liberal delusions of “civilised” society."
+	},
+	{
 		"created_at": "Fri May 27 12:05:48 +0000 2022",
 		"id": 1530158323953066000,
 		"id_str": "1530158323953065986",
