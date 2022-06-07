@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 21:44:47 +0000 2022",
+		"id": 1531154654519648300,
+		"id_str": "1533927911446745091",
+		"full_text": "Interview with Geoff Jordan Part II https://t.co/zjbApyvpfO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjbApyvpfO",
+					"expanded_url": "https://www.teachersasworkers.org/interview-with-geoff-jordan-part-ii/",
+					"display_url": "teachersasworkers.org/interview-with…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3152637711,
+			"id_str": "3152637711",
+			"name": "teachers_as_workers",
+			"screen_name": "taw_sig",
+			"location": "everywhere",
+			"description": "The mind is not a vessel that needs filling, but wood that needs igniting.(Plutarch)",
+			"url": "https://t.co/m5fCLqrXgN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m5fCLqrXgN",
+							"expanded_url": "http://www.teachersasworkers.org",
+							"display_url": "teachersasworkers.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1797,
+			"friends_count": 1068,
+			"listed_count": 24,
+			"created_at": "Thu Apr 09 20:23:00 +0000 2015",
+			"favourites_count": 253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/586464982428069888/7tz5UtJi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3152637711/1428611383",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interview with Geoff Jordan Part II https://t.co/zjbApyvpfO"
+	},
+	{
 		"created_at": "Thu Jun 02 16:25:39 +0000 2022",
 		"id": 1532314079628517400,
 		"id_str": "1532398046679556097",
@@ -521,7 +628,7 @@ Grailbird.data.tweets_2022_06 =
 			"created_at": "Thu Jun 02 11:31:18 +0000 2022",
 			"id": 1532323969642143700,
 			"id_str": "1532323969642143750",
-			"full_text": "The year is 2022… and a BBC presenter and someone from the British Army are explaining why “micks” actually isn’t an offensive term for Irish people… 🙄🤦‍♂️ https://t.co/OZpfwOmAAP",
+			"full_text": "The year is 2022… and a BBC presenter and someone from the British Army are explaining why “micks” actually isn’t an offensive term for Irish people… 🙄🤦♂️ https://t.co/OZpfwOmAAP",
 			"truncated": false,
 			"display_text_range": [
 				0,
