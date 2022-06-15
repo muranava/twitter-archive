@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 16:33:16 +0000 2022",
+		"id": 1536682414520643600,
+		"id_str": "1536748618719305729",
+		"full_text": "Nobody chooses to be a refugee.  Watch our play \"One World, Different Stories\" written and acted by young people from Palestine &amp; Germany.\n@RefugeeWeek @refugeeEd_ #Refugee #RefugeesWelcome \nhttps://t.co/PeuqvUWsJ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Refugee",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "RefugeesWelcome",
+					"indices": [
+						177,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RefugeeWeek",
+					"name": "Refugee Week",
+					"id": 39963353,
+					"id_str": "39963353",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"screen_name": "refugeeEd_",
+					"name": "refugeeEd",
+					"id": 950417872412606500,
+					"id_str": "950417872412606465",
+					"indices": [
+						156,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PeuqvUWsJ9",
+					"expanded_url": "https://youtu.be/znYYmoRwVb4",
+					"display_url": "youtu.be/znYYmoRwVb4",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028389409400528900,
+			"id_str": "1028389409400528896",
+			"name": "The Hands Up Project",
+			"screen_name": "HandsUpProject",
+			"location": "Totnes, England",
+			"description": "Charity trust connecting children around the world with young people in Palestine. Online drama & storytelling activities in English to break down barriers.",
+			"url": "https://t.co/CBDU2x4JEm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CBDU2x4JEm",
+							"expanded_url": "https://www.handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 1271,
+			"listed_count": 4,
+			"created_at": "Sat Aug 11 21:15:16 +0000 2018",
+			"favourites_count": 1044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028389409400528896/1640704314",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nobody chooses to be a refugee.  Watch our play \"One World, Different Stories\" written and acted by young people from Palestine &amp; Germany.\n@RefugeeWeek @refugeeEd_ #Refugee #RefugeesWelcome \nhttps://t.co/PeuqvUWsJ9"
+	},
+	{
 		"created_at": "Sun Jun 12 18:48:41 +0000 2022",
 		"id": 1535257539016904700,
 		"id_str": "1536057919715917824",
