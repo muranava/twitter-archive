@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 06:45:50 +0000 2022",
+		"id": 1537513962090160000,
+		"id_str": "1537687947947950080",
+		"full_text": "Hypernormalislandisation 2022 (part 1) https://t.co/Vk1T4hC1li",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537513745009848300,
+					"id_str": "1537513745009848320",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537513745009848320/pu/img/rqk19jWKh0y6jflh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537513745009848320/pu/img/rqk19jWKh0y6jflh.jpg",
+					"url": "https://t.co/Vk1T4hC1li",
+					"display_url": "pic.twitter.com/Vk1T4hC1li",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1537513962090160132/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537513745009848300,
+					"id_str": "1537513745009848320",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537513745009848320/pu/img/rqk19jWKh0y6jflh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537513745009848320/pu/img/rqk19jWKh0y6jflh.jpg",
+					"url": "https://t.co/Vk1T4hC1li",
+					"display_url": "pic.twitter.com/Vk1T4hC1li",
+					"expanded_url": "https://twitter.com/TheIDSmiths/status/1537513962090160132/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 133502,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1537513745009848320/pu/pl/1a0s8MynSGNkMlHJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537513745009848320/pu/vid/640x360/Xc6KAMYi5WreRQh7.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537513745009848320/pu/vid/1280x720/TxI0Q1HQjEZrqhrm.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1537513745009848320/pu/vid/480x270/L-S2P7rvCvgAt2IK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415776896944586800,
+		"in_reply_to_status_id_str": "1415776896944586753",
+		"in_reply_to_user_id": 3291321552,
+		"in_reply_to_user_id_str": "3291321552",
+		"in_reply_to_screen_name": "TheIDSmiths",
+		"user": {
+			"id": 3291321552,
+			"id_str": "3291321552",
+			"name": "TheIainDuncanSmiths",
+			"screen_name": "TheIDSmiths",
+			"location": "",
+			"description": "What if The Smiths but Iain Duncan Smith",
+			"url": "https://t.co/CWCsr703nC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CWCsr703nC",
+							"expanded_url": "https://www.youtube.com/TheIainDuncanSmiths",
+							"display_url": "youtube.com/TheIainDuncanS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21590,
+			"friends_count": 1330,
+			"listed_count": 58,
+			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
+			"favourites_count": 11256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403362817378603011/CkJNGvQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403362817378603011/CkJNGvQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3291321552/1624117172",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Hypernormalislandisation 2022 (part 1) https://t.co/Vk1T4hC1li"
+	},
+	{
 		"created_at": "Thu Jun 16 23:09:06 +0000 2022",
 		"id": 1537573009883598800,
 		"id_str": "1537573009883598850",
