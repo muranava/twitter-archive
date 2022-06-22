@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 09:45:43 +0000 2022",
+		"id": 1539162820956377000,
+		"id_str": "1539182768487337985",
+		"full_text": "Kay Burley made herself look quite unhinged by the end of this line of questioning. Mick Lynch didn’t budge from being polite. https://t.co/YQHMprJwfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539144184434761700,
+					"id_str": "1539144184434761728",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539144184434761728/pu/img/2vunugY-LkryJyp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539144184434761728/pu/img/2vunugY-LkryJyp9.jpg",
+					"url": "https://t.co/YQHMprJwfo",
+					"display_url": "pic.twitter.com/YQHMprJwfo",
+					"expanded_url": "https://twitter.com/SaulStaniforth/status/1539144444997423108/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1539144444997423000,
+					"source_status_id_str": "1539144444997423108",
+					"source_user_id": 3665198176,
+					"source_user_id_str": "3665198176"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539144184434761700,
+					"id_str": "1539144184434761728",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539144184434761728/pu/img/2vunugY-LkryJyp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539144184434761728/pu/img/2vunugY-LkryJyp9.jpg",
+					"url": "https://t.co/YQHMprJwfo",
+					"display_url": "pic.twitter.com/YQHMprJwfo",
+					"expanded_url": "https://twitter.com/SaulStaniforth/status/1539144444997423108/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1270,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1539144444997423000,
+					"source_status_id_str": "1539144444997423108",
+					"source_user_id": 3665198176,
+					"source_user_id_str": "3665198176",
+					"video_info": {
+						"aspect_ratio": [
+							635,
+							354
+						],
+						"duration_millis": 133802,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539144184434761728/pu/vid/644x360/tqC7oFNI7UyBgpKe.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539144184434761728/pu/vid/484x270/E7abzdQXbaO7X02C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539144184434761728/pu/pl/T8Ahu6rSoRzTyi01.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539144184434761728/pu/vid/1270x708/YZ45VIEVTgzVzk-d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3665198176,
+							"id_str": "3665198176",
+							"name": "Saul Staniforth",
+							"screen_name": "SaulStaniforth",
+							"location": "",
+							"description": "The land it is the landlord's, the trader's is the sea, the ore the usurer's coffer fills, but what remains for me?",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3120,
+							"friends_count": 339,
+							"listed_count": 3,
+							"created_at": "Tue Sep 15 15:21:23 +0000 2015",
+							"favourites_count": 44553,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 31740,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1274781481748107267/4S9A_4E6_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274781481748107267/4S9A_4E6_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3665198176/1613930107",
+							"profile_link_color": "FF0000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16288901,
+			"id_str": "16288901",
+			"name": "Mic Wright",
+			"screen_name": "brokenbottleboy",
+			"location": "Norwich, England",
+			"description": "“The sad part is I'm a very good tailor.\"  Writer of various things including a media criticism newsletter. Sign up below 👇🏻",
+			"url": "https://t.co/3N2GVBzF8v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3N2GVBzF8v",
+							"expanded_url": "http://brokenbottleboy.substack.com",
+							"display_url": "brokenbottleboy.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36936,
+			"friends_count": 16183,
+			"listed_count": 679,
+			"created_at": "Sun Sep 14 23:37:58 +0000 2008",
+			"favourites_count": 173696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487111683344683018/alIj2dQ__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487111683344683018/alIj2dQ__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16288901/1619339462",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2352,
+		"favorite_count": 15403,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kay Burley made herself look quite unhinged by the end of this line of questioning. Mick Lynch didn’t budge from being polite. https://t.co/YQHMprJwfo"
+	},
+	{
 		"created_at": "Mon Jun 20 18:29:07 +0000 2022",
 		"id": 1538952100016803800,
 		"id_str": "1538952100016803841",
