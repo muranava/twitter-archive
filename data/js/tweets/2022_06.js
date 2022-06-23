@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 10:44:45 +0000 2022",
+		"id": 1539534121273376800,
+		"id_str": "1539560014859456512",
+		"full_text": "\"This is a monument to unforgivable political illiteracy and an entrenched colonial mindset. What’s more, it is a monument to state racism, hypocrisy and hubris,\" Professor John writes. \"For the avoidance of doubt I will not be joining you at Waterloo on 22 June\" https://t.co/tTp3FaT3jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539534112645578800,
+					"id_str": "1539534112645578753",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2GHl_WAAEXO_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2GHl_WAAEXO_h.jpg",
+					"url": "https://t.co/tTp3FaT3jo",
+					"display_url": "pic.twitter.com/tTp3FaT3jo",
+					"expanded_url": "https://twitter.com/Nadine_Writes/status/1539534121273376770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539534112645578800,
+					"id_str": "1539534112645578753",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2GHl_WAAEXO_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2GHl_WAAEXO_h.jpg",
+					"url": "https://t.co/tTp3FaT3jo",
+					"display_url": "pic.twitter.com/tTp3FaT3jo",
+					"expanded_url": "https://twitter.com/Nadine_Writes/status/1539534121273376770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 686,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539534119012647000,
+					"id_str": "1539534119012646914",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FV2GH9tXwAIcido.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV2GH9tXwAIcido.jpg",
+					"url": "https://t.co/tTp3FaT3jo",
+					"display_url": "pic.twitter.com/tTp3FaT3jo",
+					"expanded_url": "https://twitter.com/Nadine_Writes/status/1539534121273376770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 659,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1539533244126974000,
+		"in_reply_to_status_id_str": "1539533244126973952",
+		"in_reply_to_user_id": 266101459,
+		"in_reply_to_user_id_str": "266101459",
+		"in_reply_to_screen_name": "Nadine_Writes",
+		"user": {
+			"id": 266101459,
+			"id_str": "266101459",
+			"name": "Nadine White",
+			"screen_name": "Nadine_Writes",
+			"location": "London, England",
+			"description": "Race Correspondent, Columnist @Independent | Award-winning | #Forbes30under30 | 📧: Nadine.white@independent.co.uk | Powered By Plantain, merch coming 🍌🇯🇲",
+			"url": "https://t.co/eRKRFrMbcS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRKRFrMbcS",
+							"expanded_url": "https://www.independent.co.uk/author/nadine-white",
+							"display_url": "independent.co.uk/author/nadine-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69794,
+			"friends_count": 7257,
+			"listed_count": 391,
+			"created_at": "Mon Mar 14 17:17:35 +0000 2011",
+			"favourites_count": 19291,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470874190735679490/BQA2CeZU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470874190735679490/BQA2CeZU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266101459/1644107020",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 352,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"This is a monument to unforgivable political illiteracy and an entrenched colonial mindset. What’s more, it is a monument to state racism, hypocrisy and hubris,\" Professor John writes. \"For the avoidance of doubt I will not be joining you at Waterloo on 22 June\" https://t.co/tTp3FaT3jo"
+	},
+	{
 		"created_at": "Tue Jun 21 09:45:43 +0000 2022",
 		"id": 1539162820956377000,
 		"id_str": "1539182768487337985",
