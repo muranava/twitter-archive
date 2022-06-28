@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 21:24:43 +0000 2022",
+		"id": 1541533007361843200,
+		"id_str": "1541533007361843203",
+		"full_text": "@beccalew le artifacts have politics have used this Ruha Benjamin clip on anti-homeless objects ,though she uses a made up example in part : ) https://t.co/bs9f3ENpJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beccalew",
+					"name": "Becca Lewis",
+					"id": 19117046,
+					"id_str": "19117046",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bs9f3ENpJP",
+					"expanded_url": "https://nextcloud.englishup.me/apps/sharingpath/muranext/Videos/Ruha-spikes-reduced.mp4",
+					"display_url": "nextcloud.englishup.me/apps/sharingpa…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 19117046,
+		"in_reply_to_user_id_str": "19117046",
+		"in_reply_to_screen_name": "beccalew",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2621,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beccalew le artifacts have politics have used this Ruha Benjamin clip on anti-homeless objects ,though she uses a made up example in part : ) https://t.co/bs9f3ENpJP"
+	},
+	{
+		"created_at": "Mon Jun 27 17:06:18 +0000 2022",
+		"id": 1541467974606938000,
+		"id_str": "1541467974606938112",
+		"full_text": "@SertOlcay yes, i think most researchers in the tradition Jason Anderson critiques would admit their definition of acquisition is arbitrary (i.e. learner uses feature x, y% of times) &amp; see change as continuous across &amp; within \"stages\"?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SertOlcay",
+					"name": "Olcay Sert",
+					"id": 1490695945,
+					"id_str": "1490695945",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541393680027848700,
+		"in_reply_to_status_id_str": "1541393680027848708",
+		"in_reply_to_user_id": 1490695945,
+		"in_reply_to_user_id_str": "1490695945",
+		"in_reply_to_screen_name": "SertOlcay",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2621,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SertOlcay yes, i think most researchers in the tradition Jason Anderson critiques would admit their definition of acquisition is arbitrary (i.e. learner uses feature x, y% of times) &amp; see change as continuous across &amp; within \"stages\"?"
+	},
+	{
+		"created_at": "Mon Jun 27 16:27:55 +0000 2022",
+		"id": 1541444943503589400,
+		"id_str": "1541458314705387521",
+		"full_text": "FREE ESOL project develop English skills in a fun &amp; practical way! Learn radio / presenting skills in English. Think, talk, share food! Email: info@heartandparcel.org to register your place, or on behalf of your student, client, neighbour, friend! https://t.co/izx5M8RwdD https://t.co/Y2jGoIhm97",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izx5M8RwdD",
+					"expanded_url": "https://heartandparcel.org/2022/06/03/learn-english-and-podcast/",
+					"display_url": "heartandparcel.org/2022/06/03/lea…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541444660652130300,
+					"id_str": "1541444660652130306",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FWRPwH8XwAIs34d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWRPwH8XwAIs34d.jpg",
+					"url": "https://t.co/Y2jGoIhm97",
+					"display_url": "pic.twitter.com/Y2jGoIhm97",
+					"expanded_url": "https://twitter.com/heartandparcel/status/1541444943503589376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541444660652130300,
+					"id_str": "1541444660652130306",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FWRPwH8XwAIs34d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWRPwH8XwAIs34d.jpg",
+					"url": "https://t.co/Y2jGoIhm97",
+					"display_url": "pic.twitter.com/Y2jGoIhm97",
+					"expanded_url": "https://twitter.com/heartandparcel/status/1541444943503589376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4111421320,
+			"id_str": "4111421320",
+			"name": "Heart & Parcel",
+			"screen_name": "heartandparcel",
+			"location": "Manchester, England",
+			"description": "LANGUAGE FOOD RECOGNITION COMMUNITY Bringing English language learners together, cooking, eating & developing skills together. https://t.co/U8Z9JiAkOy",
+			"url": "https://t.co/iSaQSysomQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iSaQSysomQ",
+							"expanded_url": "http://www.heartandparcel.org",
+							"display_url": "heartandparcel.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U8Z9JiAkOy",
+							"expanded_url": "http://shor.by/heartandparcel",
+							"display_url": "shor.by/heartandparcel",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2009,
+			"friends_count": 1603,
+			"listed_count": 0,
+			"created_at": "Wed Nov 04 10:39:25 +0000 2015",
+			"favourites_count": 5963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367858735826239489/t3Xj78eZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367858735826239489/t3Xj78eZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4111421320/1614958374",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FREE ESOL project develop English skills in a fun &amp; practical way! Learn radio / presenting skills in English. Think, talk, share food! Email: info@heartandparcel.org to register your place, or on behalf of your student, client, neighbour, friend! https://t.co/izx5M8RwdD https://t.co/Y2jGoIhm97"
+	},
+	{
+		"created_at": "Mon Jun 27 08:59:05 +0000 2022",
+		"id": 1541343849670475800,
+		"id_str": "1541345361524039680",
+		"full_text": "Summer's here. Student numbers are up. #ELT Schools are hiring again.\n\n#TEFL workers have also been reaching out to us wanting to challenge awful (or no) pay rises or because they've had enough of crappy contracts.\n\nWe've got their back. And we've got yours, too: tefl@iww.org.uk https://t.co/MkDhTGr98s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541343848445739000,
+					"id_str": "1541343848445739008",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP0EFNXgAA5f7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP0EFNXgAA5f7h.jpg",
+					"url": "https://t.co/MkDhTGr98s",
+					"display_url": "pic.twitter.com/MkDhTGr98s",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1541343849670475777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541343848445739000,
+					"id_str": "1541343848445739008",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP0EFNXgAA5f7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP0EFNXgAA5f7h.jpg",
+					"url": "https://t.co/MkDhTGr98s",
+					"display_url": "pic.twitter.com/MkDhTGr98s",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1541343849670475777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2214,
+			"friends_count": 239,
+			"listed_count": 15,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Summer's here. Student numbers are up. #ELT Schools are hiring again.\n\n#TEFL workers have also been reaching out to us wanting to challenge awful (or no) pay rises or because they've had enough of crappy contracts.\n\nWe've got their back. And we've got yours, too: tefl@iww.org.uk https://t.co/MkDhTGr98s"
+	},
+	{
 		"created_at": "Sun Jun 26 20:58:45 +0000 2022",
 		"id": 1541164081809395700,
 		"id_str": "1541164081809395713",
