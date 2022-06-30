@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 18:17:23 +0000 2022",
+		"id": 1542203895677685800,
+		"id_str": "1542210636788092928",
+		"full_text": "Want to know who’s working with @mitie and @ukhomeoffice to unlawfully deport those imprisoned at #Derwentside IRC?!?\n\n➡️@HallmarkCoach ⬅️ HALL MARK COACHES ARE  TRANSPORTING TERRIFIED WOMEN FOR VIOLENT AND RACIST DEPORTATIONS. \n\nSHAME ON YOU @HallmarkCoach SHAME. SHAME. SHAME. https://t.co/4oiJeJna63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Derwentside",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mitie",
+					"name": "Mitie",
+					"id": 133644713,
+					"id_str": "133644713",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"screen_name": "ukhomeoffice",
+					"name": "Home Office",
+					"id": 138037459,
+					"id_str": "138037459",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "HallmarkCoach",
+					"name": "Hallmark Coaches",
+					"id": 850343155870421000,
+					"id_str": "850343155870420992",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "HallmarkCoach",
+					"name": "Hallmark Coaches",
+					"id": 850343155870421000,
+					"id_str": "850343155870420992",
+					"indices": [
+						243,
+						257
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542203890170531800,
+					"id_str": "1542203890170531841",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FWcCRGTXEAE03hC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWcCRGTXEAE03hC.jpg",
+					"url": "https://t.co/4oiJeJna63",
+					"display_url": "pic.twitter.com/4oiJeJna63",
+					"expanded_url": "https://twitter.com/No2Hassockfield/status/1542203895677685761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542203890170531800,
+					"id_str": "1542203890170531841",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FWcCRGTXEAE03hC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWcCRGTXEAE03hC.jpg",
+					"url": "https://t.co/4oiJeJna63",
+					"display_url": "pic.twitter.com/4oiJeJna63",
+					"expanded_url": "https://twitter.com/No2Hassockfield/status/1542203895677685761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1367819299931517000,
+			"id_str": "1367819299931516932",
+			"name": "The No To Hassockfield Campaign",
+			"screen_name": "No2Hassockfield",
+			"location": "County Durham",
+			"description": "A cross-party network of anti-detention campaigners working together to shut down Hassockfield/Derwentside IRC in County Durham✊ #ShutItDown #SetHerFree ✊",
+			"url": "https://t.co/VS5gMD7TnQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VS5gMD7TnQ",
+							"expanded_url": "https://notohassockfield.org.uk",
+							"display_url": "notohassockfield.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 516,
+			"listed_count": 9,
+			"created_at": "Fri Mar 05 12:56:35 +0000 2021",
+			"favourites_count": 346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367821912303370242/Bi3w5QGx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367821912303370242/Bi3w5QGx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1367819299931516932/1614949501",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 76,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to know who’s working with @mitie and @ukhomeoffice to unlawfully deport those imprisoned at #Derwentside IRC?!?\n\n➡️@HallmarkCoach ⬅️ HALL MARK COACHES ARE  TRANSPORTING TERRIFIED WOMEN FOR VIOLENT AND RACIST DEPORTATIONS. \n\nSHAME ON YOU @HallmarkCoach SHAME. SHAME. SHAME. https://t.co/4oiJeJna63"
+	},
+	{
 		"created_at": "Tue Jun 28 08:28:50 +0000 2022",
 		"id": 1541700136715268000,
 		"id_str": "1541700136715268096",
