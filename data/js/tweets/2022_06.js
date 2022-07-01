@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 30 11:15:05 +0000 2022",
+		"id": 1542463199659827200,
+		"id_str": "1542466751216193537",
+		"full_text": "Nato’s summit in Spain is ramping up the rhetoric of confrontation, in developments that should set alarm bells ringing across the left, says CHRIS NINEHAM\n\nhttps://t.co/8OKuLG2FNe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OKuLG2FNe",
+					"expanded_url": "http://ow.ly/liA950JLnYL",
+					"display_url": "ow.ly/liA950JLnYL",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36364025,
+			"id_str": "36364025",
+			"name": "Morning Star",
+			"screen_name": "M_Star_Online",
+			"location": "London",
+			"description": "The only English-language socialist daily newspaper in the world, published six days a week.",
+			"url": "http://t.co/42O210UWBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/42O210UWBu",
+							"expanded_url": "http://www.morningstaronline.co.uk",
+							"display_url": "morningstaronline.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57634,
+			"friends_count": 1653,
+			"listed_count": 903,
+			"created_at": "Wed Apr 29 14:04:07 +0000 2009",
+			"favourites_count": 4800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941364421649149953/8ONdlDoA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941364421649149953/8ONdlDoA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36364025/1513273997",
+			"profile_link_color": "090D61",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "030CAB",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nato’s summit in Spain is ramping up the rhetoric of confrontation, in developments that should set alarm bells ringing across the left, says CHRIS NINEHAM\n\nhttps://t.co/8OKuLG2FNe"
+	},
+	{
 		"created_at": "Wed Jun 29 18:17:23 +0000 2022",
 		"id": 1542203895677685800,
 		"id_str": "1542210636788092928",
