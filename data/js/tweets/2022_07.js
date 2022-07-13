@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 16:01:53 +0000 2022",
+		"id": 1546876642882101200,
+		"id_str": "1546887579676676096",
+		"full_text": "My long piece on the “simulation argument”, algorithmic capitalism, David Chalmers's new book Reality+, &amp;c., is temporarily out from behind its pay-wall (thanks @Celestemarcus3!) https://t.co/RiWnc5XTVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Celestemarcus3",
+					"name": "Celeste Marcus",
+					"id": 1384882302489145300,
+					"id_str": "1384882302489145346",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RiWnc5XTVS",
+					"expanded_url": "https://libertiesjournal.com/articles/the-world-as-a-game/",
+					"display_url": "libertiesjournal.com/articles/the-w…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18148847,
+			"id_str": "18148847",
+			"name": "Justin E. H. Smith",
+			"screen_name": "jehsmith",
+			"location": "Paris",
+			"description": "“For my topic now is the world as a whole.” —Pliny the Elder |\nFollow my Substack: https://t.co/aUs1hOLzMs",
+			"url": "https://t.co/aUs1hOLzMs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aUs1hOLzMs",
+							"expanded_url": "http://justinehsmith.substack.com",
+							"display_url": "justinehsmith.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aUs1hOLzMs",
+							"expanded_url": "http://justinehsmith.substack.com",
+							"display_url": "justinehsmith.substack.com",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6670,
+			"friends_count": 152,
+			"listed_count": 109,
+			"created_at": "Mon Dec 15 22:35:28 +0000 2008",
+			"favourites_count": 2854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407485675209822209/N0gZ3Hib_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407485675209822209/N0gZ3Hib_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18148847/1402564823",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My long piece on the “simulation argument”, algorithmic capitalism, David Chalmers's new book Reality+, &amp;c., is temporarily out from behind its pay-wall (thanks @Celestemarcus3!) https://t.co/RiWnc5XTVS"
+	},
+	{
+		"created_at": "Tue Jul 12 14:49:24 +0000 2022",
+		"id": 1546869339768270800,
+		"id_str": "1546869339768270848",
+		"full_text": "@GeoffJordan16 @ddeubel Did u see this thread which covers some of your point 1)? https://t.co/zdE6sh638y",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1373330979239116800,
+					"id_str": "1373330979239116804",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ddeubel",
+					"name": "David Deubelbeiss",
+					"id": 52174903,
+					"id_str": "52174903",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zdE6sh638y",
+					"expanded_url": "https://twitter.com/SertOlcay/status/1541393666727706626?s=20&t=sDGoNJv8YhBzEPwT5lLUXQ",
+					"display_url": "twitter.com/SertOlcay/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1546862081957298200,
+		"in_reply_to_status_id_str": "1546862081957298183",
+		"in_reply_to_user_id": 1373330979239116800,
+		"in_reply_to_user_id_str": "1373330979239116804",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2113,
+			"friends_count": 2626,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541393666727706600,
+		"quoted_status_id_str": "1541393666727706626",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zdE6sh638y",
+			"expanded": "https://twitter.com/SertOlcay/status/1541393666727706626?s=20&t=sDGoNJv8YhBzEPwT5lLUXQ",
+			"display": "twitter.com/SertOlcay/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 27 12:11:02 +0000 2022",
+			"id": 1541393666727706600,
+			"id_str": "1541393666727706626",
+			"full_text": "If you're looking for a short, refreshing read, check out @jasonelt's C.Brumfit Essay Prize winner https://t.co/TGO4SJoNtq. He argues that change in the use of the term #SLA \"may be inevitable\", and is \"descriptively and ethically appropriate\". The alternatives proposed are: 🧵/1 https://t.co/qegbpD3mP6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SLA",
+						"indices": [
+							169,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jasonelt",
+						"name": "Jason Anderson",
+						"id": 898784550939242500,
+						"id_str": "898784550939242496",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TGO4SJoNtq",
+						"expanded_url": "https://doi.org/10.1017/S0261444822000192",
+						"display_url": "doi.org/10.1017/S02614…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1541380913656889300,
+						"id_str": "1541380913656889344",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FWQVxj4WAAApbCx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWQVxj4WAAApbCx.jpg",
+						"url": "https://t.co/qegbpD3mP6",
+						"display_url": "pic.twitter.com/qegbpD3mP6",
+						"expanded_url": "https://twitter.com/SertOlcay/status/1541393666727706626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 867,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 859,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1541380913656889300,
+						"id_str": "1541380913656889344",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FWQVxj4WAAApbCx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWQVxj4WAAApbCx.jpg",
+						"url": "https://t.co/qegbpD3mP6",
+						"display_url": "pic.twitter.com/qegbpD3mP6",
+						"expanded_url": "https://twitter.com/SertOlcay/status/1541393666727706626/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 867,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 859,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1490695945,
+				"id_str": "1490695945",
+				"name": "Olcay Sert",
+				"screen_name": "SertOlcay",
+				"location": "Västerås, Sverige",
+				"description": "|Works at @malardalen_uni, Editor @ClassDisc, Leads @MINDResearchGr1 | Language teaching, teacher education, classroom interaction| Father, academic, 7K runner|",
+				"url": "https://t.co/yk2rwUwusQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yk2rwUwusQ",
+								"expanded_url": "https://olcaysert.net/about/",
+								"display_url": "olcaysert.net/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2494,
+				"friends_count": 2270,
+				"listed_count": 18,
+				"created_at": "Fri Jun 07 15:43:28 +0000 2013",
+				"favourites_count": 5192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1452757087566630919/YvjRLA8i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452757087566630919/YvjRLA8i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1490695945/1540334766",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 @ddeubel Did u see this thread which covers some of your point 1)? https://t.co/zdE6sh638y"
+	},
+	{
 		"created_at": "Sat Jul 09 14:23:18 +0000 2022",
 		"id": 1545775607472087000,
 		"id_str": "1545775607472087046",
