@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 16:36:22 +0000 2022",
+		"id": 1547728959298621400,
+		"id_str": "1547983422525546502",
+		"full_text": "Today at @braztesol we officially launched the Taylor Veigga @breltchat scholarship for trans and gender nonconforming teachers. We’ll cover all conference costs and take a teacher to next year’s conference. Share it with your friends: https://t.co/F8Blon8GTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "braztesol",
+					"name": "BRAZ-TESOL",
+					"id": 44516169,
+					"id_str": "44516169",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "breltchat",
+					"name": "brelt.br",
+					"id": 3369216711,
+					"id_str": "3369216711",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F8Blon8GTV",
+					"expanded_url": "http://bit.ly/breltscholarship",
+					"display_url": "bit.ly/breltscholarsh…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3124589793,
+			"id_str": "3124589793",
+			"name": "Taylor Veigga",
+			"screen_name": "TVeigga",
+			"location": "Rio de Janeiro, Brasil",
+			"description": "❇️Trinity CertTESOL & DipTESOL tutor ❇️Media-Education specialist ❇️BrELT coordinator ❇️IATEFL PronSIG Joint Webinar Coordinator",
+			"url": "https://t.co/IVCbBaYbkV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IVCbBaYbkV",
+							"expanded_url": "http://tveigga.com",
+							"display_url": "tveigga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 278,
+			"listed_count": 11,
+			"created_at": "Sat Mar 28 19:38:13 +0000 2015",
+			"favourites_count": 2201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507832755748491271/VhVa1t-2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507832755748491271/VhVa1t-2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today at @braztesol we officially launched the Taylor Veigga @breltchat scholarship for trans and gender nonconforming teachers. We’ll cover all conference costs and take a teacher to next year’s conference. Share it with your friends: https://t.co/F8Blon8GTV"
+	},
+	{
+		"created_at": "Fri Jul 15 14:21:57 +0000 2022",
+		"id": 1547949595484795000,
+		"id_str": "1547949595484794883",
+		"full_text": "Recreate Live Air Traffic Control https://t.co/vnjClMOWGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vnjClMOWGr",
+					"expanded_url": "https://eflnotes.wordpress.com/2022/07/15/recreate-live-air-traffic-control/",
+					"display_url": "eflnotes.wordpress.com/2022/07/15/rec…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2113,
+			"friends_count": 2625,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recreate Live Air Traffic Control https://t.co/vnjClMOWGr"
+	},
+	{
 		"created_at": "Tue Jul 12 16:01:53 +0000 2022",
 		"id": 1546876642882101200,
 		"id_str": "1546887579676676096",
