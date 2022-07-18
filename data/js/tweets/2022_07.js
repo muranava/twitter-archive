@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 21:37:44 +0000 2022",
+		"id": 1548583792306258000,
+		"id_str": "1548784038139273218",
+		"full_text": "One of this country’s finest actors really breaking down what is means to feel like you have a contingent citizenship identity. https://t.co/5uRKNu8afN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uRKNu8afN",
+					"expanded_url": "https://twitter.com/footballrenais1/status/1548058631857250304",
+					"display_url": "twitter.com/footballrenais…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1634912593,
+			"id_str": "1634912593",
+			"name": "Kojo Koram",
+			"screen_name": "KojoKoram",
+			"location": "",
+			"description": "Teaches @BirkbeckLaw. All views are not my own. They are making me say them.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15731,
+			"friends_count": 1124,
+			"listed_count": 86,
+			"created_at": "Wed Jul 31 07:43:46 +0000 2013",
+			"favourites_count": 6253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "102B27",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507660837758156802/iAPA5hl-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507660837758156802/iAPA5hl-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1634912593/1637923480",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548058631857250300,
+		"quoted_status_id_str": "1548058631857250304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5uRKNu8afN",
+			"expanded": "https://twitter.com/footballrenais1/status/1548058631857250304",
+			"display": "twitter.com/footballrenais…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 15 21:35:14 +0000 2022",
+			"id": 1548058631857250300,
+			"id_str": "1548058631857250304",
+			"full_text": "Marcus Rashford and Daniel Kaluuya on the aftermath of the Euros https://t.co/zNea0Od5k8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1548058129014722600,
+						"id_str": "1548058129014722560",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548058129014722560/pu/img/6gOjA6ZSov0jW7QT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548058129014722560/pu/img/6gOjA6ZSov0jW7QT.jpg",
+						"url": "https://t.co/zNea0Od5k8",
+						"display_url": "pic.twitter.com/zNea0Od5k8",
+						"expanded_url": "https://twitter.com/FootballRenais1/status/1548058631857250304/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548058129014722600,
+						"id_str": "1548058129014722560",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548058129014722560/pu/img/6gOjA6ZSov0jW7QT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548058129014722560/pu/img/6gOjA6ZSov0jW7QT.jpg",
+						"url": "https://t.co/zNea0Od5k8",
+						"display_url": "pic.twitter.com/zNea0Od5k8",
+						"expanded_url": "https://twitter.com/FootballRenais1/status/1548058631857250304/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								37
+							],
+							"duration_millis": 139005,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548058129014722560/pu/vid/778x360/YlkpjbRUudP0p5xx.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548058129014722560/pu/vid/1280x592/uV8mulM1qPFjCXf8.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548058129014722560/pu/vid/582x270/eSoOiuoRIRVHKXUq.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1548058129014722560/pu/pl/iKOnQf9gZUG3cP4X.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1260970908690374700,
+				"id_str": "1260970908690374656",
+				"name": "Stop Savin Chat",
+				"screen_name": "FootballRenais1",
+				"location": "Massachusetts, USA",
+				"description": "I post my football opinions on this bird app for entertainment #mufc #usmnt 🇺🇸 Ojala que lluevan golazos 🔴⚫️⚪️UTFR⚪️⚫️🔴 GLAZERS OUT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2973,
+				"friends_count": 4207,
+				"listed_count": 15,
+				"created_at": "Thu May 14 16:32:11 +0000 2020",
+				"favourites_count": 177275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542636313664491528/F7hbIgBe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542636313664491528/F7hbIgBe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1260970908690374656/1653407497",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 924,
+			"favorite_count": 5115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "et"
+		},
+		"retweet_count": 45,
+		"favorite_count": 226,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of this country’s finest actors really breaking down what is means to feel like you have a contingent citizenship identity. https://t.co/5uRKNu8afN"
+	},
+	{
 		"created_at": "Sat Jul 16 07:53:38 +0000 2022",
 		"id": 1548214260068524000,
 		"id_str": "1548214260068524034",
