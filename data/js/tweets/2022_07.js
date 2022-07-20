@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 08:43:55 +0000 2022",
+		"id": 1549301766864371700,
+		"id_str": "1549314077184385024",
+		"full_text": "To help celebrate its centenary, the BBC is launching Rewind – giving you access to thousands of films reflecting life around the UK.\n\nSearch through decades of previously unavailable archive showing how we lived, worked, and played at https://t.co/6ozUH20edv    #BBC100 https://t.co/wbvmcouijY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BBC100",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ozUH20edv",
+					"expanded_url": "http://bbc.co.uk/rewind",
+					"display_url": "bbc.co.uk/rewind",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547991961788752000,
+					"id_str": "1547991961788751878",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FXuT4OrUEAImVUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXuT4OrUEAImVUY.jpg",
+					"url": "https://t.co/wbvmcouijY",
+					"display_url": "pic.twitter.com/wbvmcouijY",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1549301766864371712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547991961788752000,
+					"id_str": "1547991961788751878",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FXuT4OrUEAImVUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXuT4OrUEAImVUY.jpg",
+					"url": "https://t.co/wbvmcouijY",
+					"display_url": "pic.twitter.com/wbvmcouijY",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1549301766864371712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 132674,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1547991961788751878/pl/sema-niIAEDUTyeY.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547991961788751878/vid/720x720/y5k8iwb0wgnrXdIf.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547991961788751878/vid/320x320/m9-FnmSjEfeeshCV.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1547991961788751878/vid/540x540/KR3N1P_GP1WS6jDV.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BBC Rewind",
+						"description": "Explore BBC Rewind to view archive footage from across the UK.",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51023770,
+			"id_str": "51023770",
+			"name": "BBC Archive",
+			"screen_name": "BBCArchive",
+			"location": "",
+			"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+			"url": "https://t.co/aKsJgRHt55",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aKsJgRHt55",
+							"expanded_url": "https://www.bbc.co.uk/archive",
+							"display_url": "bbc.co.uk/archive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266498,
+			"friends_count": 7168,
+			"listed_count": 2612,
+			"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+			"favourites_count": 3112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521831417742778369/T_w-zayL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521831417742778369/T_w-zayL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1620818114",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 624,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To help celebrate its centenary, the BBC is launching Rewind – giving you access to thousands of films reflecting life around the UK.\n\nSearch through decades of previously unavailable archive showing how we lived, worked, and played at https://t.co/6ozUH20edv    #BBC100 https://t.co/wbvmcouijY"
+	},
+	{
 		"created_at": "Mon Jul 18 16:16:24 +0000 2022",
 		"id": 1549065561778360300,
 		"id_str": "1549065561778360322",
