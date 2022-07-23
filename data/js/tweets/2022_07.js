@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 08:28:51 +0000 2022",
+		"id": 1550376046264025000,
+		"id_str": "1550397447800868865",
+		"full_text": "The tale of Newport Wafer Fab is a parable for our times.\nTells you everything u need to know abt: \n- UK's industrial strategy; or complete lack of it.\n- UK's inability to decide what to do abt China.\n- Most of all, UK's complete obliviousness to what our economy actually DOES\n🧵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7847192,
+			"id_str": "7847192",
+			"name": "Ed Conway",
+			"screen_name": "EdConwaySky",
+			"location": "Deep in a spreadsheet",
+			"description": "Numbers guy. Likes charts. Occasionally makes the mistake of deploying irony on Twitter. Books: https://t.co/O0xqA5NLNZ DMs open. Email: ed.conway@sky.uk",
+			"url": "https://t.co/ylreLeVSPW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ylreLeVSPW",
+							"expanded_url": "http://www.edmundconway.com",
+							"display_url": "edmundconway.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/O0xqA5NLNZ",
+							"expanded_url": "http://edmundconway.com/books/",
+							"display_url": "edmundconway.com/books/",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 158726,
+			"friends_count": 1092,
+			"listed_count": 1935,
+			"created_at": "Tue Jul 31 13:11:19 +0000 2007",
+			"favourites_count": 1382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/509109353794658304/8nhFNZrb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/509109353794658304/8nhFNZrb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7847192/1439387283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 748,
+		"favorite_count": 1828,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The tale of Newport Wafer Fab is a parable for our times.\nTells you everything u need to know abt: \n- UK's industrial strategy; or complete lack of it.\n- UK's inability to decide what to do abt China.\n- Most of all, UK's complete obliviousness to what our economy actually DOES\n🧵"
+	},
+	{
 		"created_at": "Thu Jul 21 11:40:20 +0000 2022",
 		"id": 1550083247815757800,
 		"id_str": "1550083247815757824",
