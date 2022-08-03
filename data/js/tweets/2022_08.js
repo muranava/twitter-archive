@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 10:34:56 +0000 2022",
+		"id": 1554371295160197000,
+		"id_str": "1554415445482115074",
+		"full_text": "🗣️🪧TEACHERS DESERVE BETTER!🚨📢\n\nWhy the #TeflWorkersUnion was out protesting @ImpellamGroup and the @BritishCouncil yesterday: a 🧵\n\n#tefl #elt #eap #esol #union #UKELT #MakeTEFLaCareer #ReinstateLara\n\n1/8 https://t.co/rE4TKAdwVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeflWorkersUnion",
+					"indices": [
+						39,
+						56
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "UKELT",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "MakeTEFLaCareer",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"text": "ReinstateLara",
+					"indices": [
+						184,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ImpellamGroup",
+					"name": "Impellam Group",
+					"id": 160929832,
+					"id_str": "160929832",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						99,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554371293872537600,
+					"id_str": "1554371293872537602",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FZI8dNRWQAIPpNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZI8dNRWQAIPpNv.jpg",
+					"url": "https://t.co/rE4TKAdwVK",
+					"display_url": "pic.twitter.com/rE4TKAdwVK",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1554371295160197122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554371293872537600,
+					"id_str": "1554371293872537602",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FZI8dNRWQAIPpNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZI8dNRWQAIPpNv.jpg",
+					"url": "https://t.co/rE4TKAdwVK",
+					"display_url": "pic.twitter.com/rE4TKAdwVK",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1554371295160197122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1379,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2263,
+			"friends_count": 243,
+			"listed_count": 16,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗣️🪧TEACHERS DESERVE BETTER!🚨📢\n\nWhy the #TeflWorkersUnion was out protesting @ImpellamGroup and the @BritishCouncil yesterday: a 🧵\n\n#tefl #elt #eap #esol #union #UKELT #MakeTEFLaCareer #ReinstateLara\n\n1/8 https://t.co/rE4TKAdwVK"
+	},
+	{
 		"created_at": "Mon Aug 01 14:29:13 +0000 2022",
 		"id": 1554071568644440000,
 		"id_str": "1554112018038259713",
