@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 17:32:25 +0000 2022",
+		"id": 1555245283562455000,
+		"id_str": "1555245283562455041",
+		"full_text": "@mxmovement can't remember who, they claimed Brittney Griner would not have been abroad if women ballers got paid better in US?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mxmovement",
+					"name": "Malcolm X Movement",
+					"id": 2999597213,
+					"id_str": "2999597213",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555243704184701000,
+		"in_reply_to_status_id_str": "1555243704184700930",
+		"in_reply_to_user_id": 2999597213,
+		"in_reply_to_user_id_str": "2999597213",
+		"in_reply_to_screen_name": "mxmovement",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2628,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mxmovement can't remember who, they claimed Brittney Griner would not have been abroad if women ballers got paid better in US?"
+	},
+	{
+		"created_at": "Thu Aug 04 12:18:10 +0000 2022",
+		"id": 1555166198668599300,
+		"id_str": "1555166198668599296",
+		"full_text": "Neurology Word List (NeuroWL) 2022 added to English Word Lists https://t.co/tPgn4b74PL #corpuslinguistics #efl #tefl #TESOL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "corpuslinguistics",
+					"indices": [
+						87,
+						105
+					]
+				},
+				{
+					"text": "efl",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "TESOL",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tPgn4b74PL",
+					"expanded_url": "https://eflnotes.wordpress.com/english-wordlists/",
+					"display_url": "eflnotes.wordpress.com/english-wordli…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2628,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Neurology Word List (NeuroWL) 2022 added to English Word Lists https://t.co/tPgn4b74PL #corpuslinguistics #efl #tefl #TESOL"
+	},
+	{
+		"created_at": "Thu Aug 04 08:56:45 +0000 2022",
+		"id": 1555115511154983000,
+		"id_str": "1555115511154982912",
+		"full_text": "@samshep @peter_fenton @ebefl i think cog load theory maybe most directly relevant to materials? i agree Sweller's understanding of SLA is limited",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samshep",
+					"name": "Sam Shepherd",
+					"id": 20146035,
+					"id_str": "20146035",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "peter_fenton",
+					"name": "Peter Fenton",
+					"id": 1377802618710368300,
+					"id_str": "1377802618710368260",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "ebefl",
+					"name": "Russ Mayne",
+					"id": 2228367554,
+					"id_str": "2228367554",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555110170086211600,
+		"in_reply_to_status_id_str": "1555110170086211585",
+		"in_reply_to_user_id": 20146035,
+		"in_reply_to_user_id_str": "20146035",
+		"in_reply_to_screen_name": "samshep",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2628,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537034675062972417/_29H68uG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@samshep @peter_fenton @ebefl i think cog load theory maybe most directly relevant to materials? i agree Sweller's understanding of SLA is limited"
+	},
+	{
 		"created_at": "Wed Aug 03 23:16:31 +0000 2022",
 		"id": 1554969493176303600,
 		"id_str": "1554969493176303618",
