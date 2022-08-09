@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 19:52:37 +0000 2022",
+		"id": 1556705445489803300,
+		"id_str": "1556730116675215361",
+		"full_text": "New @RedSailsOrg!\n\n\"Facing consumerism, Marxists should dare to become vulgar again. Instead of the wrongheaded attempt to enlighten the masses and drag them away from consumer society, they should follow the masses into it, and radicalise it from within.\"\nhttps://t.co/TGIpqLtITo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RedSailsOrg",
+					"name": "RedSailsOrg",
+					"id": 1322579552976199700,
+					"id_str": "1322579552976199686",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TGIpqLtITo",
+					"expanded_url": "https://redsails.org/the-negation-of-abnegation/",
+					"display_url": "redsails.org/the-negation-o…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255362817,
+			"id_str": "255362817",
+			"name": "Roderic Day",
+			"screen_name": "RodericDay",
+			"location": "Marxist-Leninist",
+			"description": "first world bourgeoisie with no class consciousness and bad taste",
+			"url": "https://t.co/fib8v9uxhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fib8v9uxhO",
+							"expanded_url": "https://redsails.org/@roderic",
+							"display_url": "redsails.org/@roderic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24836,
+			"friends_count": 470,
+			"listed_count": 96,
+			"created_at": "Mon Feb 21 06:00:43 +0000 2011",
+			"favourites_count": 81734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11D94A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255362817/1430108773",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New @RedSailsOrg!\n\n\"Facing consumerism, Marxists should dare to become vulgar again. Instead of the wrongheaded attempt to enlighten the masses and drag them away from consumer society, they should follow the masses into it, and radicalise it from within.\"\nhttps://t.co/TGIpqLtITo"
+	},
+	{
 		"created_at": "Sat Aug 06 19:17:40 +0000 2022",
 		"id": 1555996546117898200,
 		"id_str": "1555996546117898242",
