@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 10:43:27 +0000 2022",
+		"id": 1559375773949108200,
+		"id_str": "1559491018742853632",
+		"full_text": "When a [neo-]colonial empire grows large enough, in order to trade intrigues for stability, it forms pools of liberalism in its core territory. All other times, both in its beginning and near its end, this puddle evaporates, and all that's left is the perennial boundary violence. https://t.co/vh875xKo1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559375467517513700,
+					"id_str": "1559375467517513730",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQDuczXEAIhVrO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQDuczXEAIhVrO.jpg",
+					"url": "https://t.co/vh875xKo1v",
+					"display_url": "pic.twitter.com/vh875xKo1v",
+					"expanded_url": "https://twitter.com/RodericDay/status/1559375773949108230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559375467517513700,
+					"id_str": "1559375467517513730",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FaQDuczXEAIhVrO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaQDuczXEAIhVrO.jpg",
+					"url": "https://t.co/vh875xKo1v",
+					"display_url": "pic.twitter.com/vh875xKo1v",
+					"expanded_url": "https://twitter.com/RodericDay/status/1559375773949108230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255362817,
+			"id_str": "255362817",
+			"name": "Roderic Day",
+			"screen_name": "RodericDay",
+			"location": "Marxist-Leninist",
+			"description": "first world bourgeoisie with no class consciousness and bad taste",
+			"url": "https://t.co/fib8v9uxhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fib8v9uxhO",
+							"expanded_url": "https://redsails.org/@roderic",
+							"display_url": "redsails.org/@roderic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24824,
+			"friends_count": 463,
+			"listed_count": 97,
+			"created_at": "Mon Feb 21 06:00:43 +0000 2011",
+			"favourites_count": 82344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "11D94A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1493233910825816073/Lxyasz7t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255362817/1430108773",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When a [neo-]colonial empire grows large enough, in order to trade intrigues for stability, it forms pools of liberalism in its core territory. All other times, both in its beginning and near its end, this puddle evaporates, and all that's left is the perennial boundary violence. https://t.co/vh875xKo1v"
+	},
+	{
 		"created_at": "Mon Aug 15 15:03:21 +0000 2022",
 		"id": 1559194037046972400,
 		"id_str": "1559194037046972416",
