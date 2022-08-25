@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 16:11:20 +0000 2022",
+		"id": 1562349232677585000,
+		"id_str": "1562472637661847553",
+		"full_text": "\"Almost all #TEFL schools break employment law. Their best defense is our inaction…\"\n\n#TEFL #ELT #EAP #ESOL #UKELT \n\nhttps://t.co/PQvP5wICGY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFL",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "ELT",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "EAP",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "ESOL",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "UKELT",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQvP5wICGY",
+					"expanded_url": "https://teflworkersunion.org/tefl-sales-rep-wins-e44k-in-dublin/",
+					"display_url": "teflworkersunion.org/tefl-sales-rep…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2293,
+			"friends_count": 248,
+			"listed_count": 16,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Almost all #TEFL schools break employment law. Their best defense is our inaction…\"\n\n#TEFL #ELT #EAP #ESOL #UKELT \n\nhttps://t.co/PQvP5wICGY"
+	},
+	{
 		"created_at": "Mon Aug 22 22:53:29 +0000 2022",
 		"id": 1561849062948733000,
 		"id_str": "1561849062948732930",
