@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 09:20:25 +0000 2022",
+		"id": 1562628327734513700,
+		"id_str": "1562731611808219136",
+		"full_text": "This is the story of Rahaf Suliman, an 11-year-old Palestinian girl who lost an arm and both her legs during Israel's 3-day bombardment on Gaza in early August ⤵️ https://t.co/KHtzWDPtb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1562154536114212900,
+					"id_str": "1562154536114212864",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa3jb_WXEAALJ1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa3jb_WXEAALJ1e.jpg",
+					"url": "https://t.co/KHtzWDPtb2",
+					"display_url": "pic.twitter.com/KHtzWDPtb2",
+					"expanded_url": "https://twitter.com/AJEnglish/status/1562628327734513666/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562154536114212900,
+					"id_str": "1562154536114212864",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa3jb_WXEAALJ1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa3jb_WXEAALJ1e.jpg",
+					"url": "https://t.co/KHtzWDPtb2",
+					"display_url": "pic.twitter.com/KHtzWDPtb2",
+					"expanded_url": "https://twitter.com/AJEnglish/status/1562628327734513666/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 124880,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1562154536114212864/vid/320x320/DKPxzghNg4vq15yi.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1562154536114212864/vid/540x540/YeGR1-n6Rtmq-SBJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1562154536114212864/pl/SQ933F0lmOrmIZ-m.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1562154536114212864/vid/720x720/2lDwhVJ9KmbVQND8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Video: Palestinian girl loses 3 limbs in Israeli attack",
+						"description": "More on Aljazeera.com",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4970411,
+			"id_str": "4970411",
+			"name": "Al Jazeera English",
+			"screen_name": "AJEnglish",
+			"location": "Doha, Qatar",
+			"description": "Hear the human story and join the discussion. We go beyond cold facts and bring to light what matters. For breaking news alerts, follow @AJENews.",
+			"url": "https://t.co/fDSF1GNVXl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fDSF1GNVXl",
+							"expanded_url": "http://aljazeera.com",
+							"display_url": "aljazeera.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8035872,
+			"friends_count": 236,
+			"listed_count": 56591,
+			"created_at": "Tue Apr 17 08:23:08 +0000 2007",
+			"favourites_count": 10537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 312567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190503555901394944/T4qowO0X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190503555901394944/T4qowO0X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4970411/1642774290",
+			"profile_link_color": "234D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 511,
+		"favorite_count": 956,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the story of Rahaf Suliman, an 11-year-old Palestinian girl who lost an arm and both her legs during Israel's 3-day bombardment on Gaza in early August ⤵️ https://t.co/KHtzWDPtb2"
+	},
+	{
 		"created_at": "Wed Aug 24 16:11:20 +0000 2022",
 		"id": 1562349232677585000,
 		"id_str": "1562472637661847553",
