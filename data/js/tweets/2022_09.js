@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 19:22:07 +0000 2022",
+		"id": 1567955364716626000,
+		"id_str": "1567956467613052928",
+		"full_text": "Irish TikTok up by 30 at halftime https://t.co/3weWUUXgb5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567955312828620800,
+					"id_str": "1567955312828620803",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567955312828620803/pu/img/ZodEQcX8adNvgc0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567955312828620803/pu/img/ZodEQcX8adNvgc0Z.jpg",
+					"url": "https://t.co/3weWUUXgb5",
+					"display_url": "pic.twitter.com/3weWUUXgb5",
+					"expanded_url": "https://twitter.com/Qban_Linx/status/1567955364716625921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567955312828620800,
+					"id_str": "1567955312828620803",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567955312828620803/pu/img/ZodEQcX8adNvgc0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567955312828620803/pu/img/ZodEQcX8adNvgc0Z.jpg",
+					"url": "https://t.co/3weWUUXgb5",
+					"display_url": "pic.twitter.com/3weWUUXgb5",
+					"expanded_url": "https://twitter.com/Qban_Linx/status/1567955364716625921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22973,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567955312828620803/pu/pl/jryyf7R0Xv93ugix.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567955312828620803/pu/vid/576x1024/Dp0AsglcIydmZwRb.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567955312828620803/pu/vid/320x568/SdBMIqJAgAZAcFqi.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567955312828620803/pu/vid/480x852/idIBvL9VAbYFMdIP.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2433526788,
+			"id_str": "2433526788",
+			"name": "Him Blake Nelson",
+			"screen_name": "Qban_Linx",
+			"location": "The Bleak Midwinter",
+			"description": "brotherq at rznwa dot com | signal: 704-893-4332",
+			"url": "https://t.co/KdoS3FQmrS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdoS3FQmrS",
+							"expanded_url": "https://rznwa.com",
+							"display_url": "rznwa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81596,
+			"friends_count": 9739,
+			"listed_count": 715,
+			"created_at": "Tue Apr 08 12:19:31 +0000 2014",
+			"favourites_count": 167863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567522627647934464/vEG8M9lX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567522627647934464/vEG8M9lX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2433526788/1655563118",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 1149,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Irish TikTok up by 30 at halftime https://t.co/3weWUUXgb5"
+	},
+	{
 		"created_at": "Mon Sep 05 11:19:41 +0000 2022",
 		"id": 1566747895189196800,
 		"id_str": "1566747895189196800",
