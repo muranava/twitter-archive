@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 07:47:42 +0000 2022",
+		"id": 1568122382749155300,
+		"id_str": "1568144097491181569",
+		"full_text": "Indigenous peoples being tone policed for not being respectful of their colonisers is peak white supremacy tbh (lookin at you, jeff bezos and twitter) https://t.co/gXTxVD9fx6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568122275026845700,
+					"id_str": "1568122275026845698",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568122275026845698/pu/img/qtmFniPWAnZLiFMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568122275026845698/pu/img/qtmFniPWAnZLiFMa.jpg",
+					"url": "https://t.co/gXTxVD9fx6",
+					"display_url": "pic.twitter.com/gXTxVD9fx6",
+					"expanded_url": "https://twitter.com/AotearoaLib/status/1568122382749155329/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568122275026845700,
+					"id_str": "1568122275026845698",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1568122275026845698/pu/img/qtmFniPWAnZLiFMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1568122275026845698/pu/img/qtmFniPWAnZLiFMa.jpg",
+					"url": "https://t.co/gXTxVD9fx6",
+					"display_url": "pic.twitter.com/gXTxVD9fx6",
+					"expanded_url": "https://twitter.com/AotearoaLib/status/1568122382749155329/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 61888,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568122275026845698/pu/vid/320x568/tqpNodPy8dHNJSyQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568122275026845698/pu/vid/480x852/EBMH4OAVTQJfb3BC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1568122275026845698/pu/vid/720x1280/dtIlaF_MuM1i0Dio.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1568122275026845698/pu/pl/2JiJaFztjf2-sWj0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1397808550286528500,
+			"id_str": "1397808550286528515",
+			"name": "ALL",
+			"screen_name": "AotearoaLib",
+			"location": "Te Tai Tokerau",
+			"description": "Aotearoa Liberation League - a decolonial justice project for Papatūānuku & all her inhabitants 🐠 by Chris Huriwai & Samah Seger",
+			"url": "https://t.co/9AJ7fYkrUR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AJ7fYkrUR",
+							"expanded_url": "http://all.org.nz",
+							"display_url": "all.org.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 486,
+			"listed_count": 7,
+			"created_at": "Thu May 27 06:55:13 +0000 2021",
+			"favourites_count": 2784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433577439351881734/XHrj6M18_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433577439351881734/XHrj6M18_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1397808550286528515/1631190777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 340,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indigenous peoples being tone policed for not being respectful of their colonisers is peak white supremacy tbh (lookin at you, jeff bezos and twitter) https://t.co/gXTxVD9fx6"
+	},
+	{
 		"created_at": "Thu Sep 08 19:22:07 +0000 2022",
 		"id": 1567955364716626000,
 		"id_str": "1567956467613052928",
