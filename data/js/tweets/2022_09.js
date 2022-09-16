@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 07:28:17 +0000 2022",
+		"id": 1569702388025499600,
+		"id_str": "1570313540258467841",
+		"full_text": "We've raised almost half the money needed to take 5 girls to Belfast.  Help us raise the other half! You'll receive a digital download of the incredible book \"Welcome to Earth\" - 30 short plays written by children in Palestine.\nhttps://t.co/2aPNz6DocI\n@ELTIreland @esol_ni https://t.co/nWjDub9kXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELTIreland",
+					"name": "ELT IRELAND",
+					"id": 2289260958,
+					"id_str": "2289260958",
+					"indices": [
+						252,
+						263
+					]
+				},
+				{
+					"screen_name": "esol_ni",
+					"name": "ESOL NI",
+					"id": 993545611218702300,
+					"id_str": "993545611218702337",
+					"indices": [
+						264,
+						272
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2aPNz6DocI",
+					"expanded_url": "https://www.justgiving.com/campaign/welcome-to-Belfast",
+					"display_url": "justgiving.com/campaign/welco…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1569701765909561300,
+					"id_str": "1569701765909561345",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FcizcIBXwAEn3SL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcizcIBXwAEn3SL.jpg",
+					"url": "https://t.co/nWjDub9kXk",
+					"display_url": "pic.twitter.com/nWjDub9kXk",
+					"expanded_url": "https://twitter.com/HandsUpProject/status/1569702388025499649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 1275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569701765909561300,
+					"id_str": "1569701765909561345",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FcizcIBXwAEn3SL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcizcIBXwAEn3SL.jpg",
+					"url": "https://t.co/nWjDub9kXk",
+					"display_url": "pic.twitter.com/nWjDub9kXk",
+					"expanded_url": "https://twitter.com/HandsUpProject/status/1569702388025499649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 1275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028389409400528900,
+			"id_str": "1028389409400528896",
+			"name": "The Hands Up Project",
+			"screen_name": "HandsUpProject",
+			"location": "Totnes, England",
+			"description": "Charity trust connecting children around the world with young people in Palestine. Online drama & storytelling activities in English to break down barriers.",
+			"url": "https://t.co/CBDU2x4JEm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CBDU2x4JEm",
+							"expanded_url": "https://www.handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192,
+			"friends_count": 1293,
+			"listed_count": 5,
+			"created_at": "Sat Aug 11 21:15:16 +0000 2018",
+			"favourites_count": 1289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028389409400528896/1640704314",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've raised almost half the money needed to take 5 girls to Belfast.  Help us raise the other half! You'll receive a digital download of the incredible book \"Welcome to Earth\" - 30 short plays written by children in Palestine.\nhttps://t.co/2aPNz6DocI\n@ELTIreland @esol_ni https://t.co/nWjDub9kXk"
+	},
+	{
 		"created_at": "Tue Sep 13 12:33:21 +0000 2022",
 		"id": 1569665535771611100,
 		"id_str": "1569665535771611136",
