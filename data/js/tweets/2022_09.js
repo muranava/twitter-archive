@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 09:37:16 +0000 2022",
+		"id": 1571260915672141800,
+		"id_str": "1571433161418211328",
+		"full_text": "Dr. @UjuAnya speaks about the genocide of the Biafran people under the direction of the British Empire. Millions of Biafrans were killed during the reign of Queen Elizabeth II. For the full interview go to https://t.co/RVt2f9jzL9 https://t.co/VxOVzgjWG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UjuAnya",
+					"name": "Uju Anya",
+					"id": 2284718570,
+					"id_str": "2284718570",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RVt2f9jzL9",
+					"expanded_url": "https://youtu.be/2qCxE_7LSk8",
+					"display_url": "youtu.be/2qCxE_7LSk8",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571259734732292000,
+					"id_str": "1571259734732292096",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571259734732292096/pu/img/kYpzl1b9Txd9uWCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571259734732292096/pu/img/kYpzl1b9Txd9uWCU.jpg",
+					"url": "https://t.co/VxOVzgjWG7",
+					"display_url": "pic.twitter.com/VxOVzgjWG7",
+					"expanded_url": "https://twitter.com/1hood/status/1571260915672141830/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571259734732292000,
+					"id_str": "1571259734732292096",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1571259734732292096/pu/img/kYpzl1b9Txd9uWCU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1571259734732292096/pu/img/kYpzl1b9Txd9uWCU.jpg",
+					"url": "https://t.co/VxOVzgjWG7",
+					"display_url": "pic.twitter.com/VxOVzgjWG7",
+					"expanded_url": "https://twitter.com/1hood/status/1571260915672141830/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139889,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571259734732292096/pu/vid/1280x720/DObgFX6yks4NYSbo.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571259734732292096/pu/vid/480x270/3zuvKyWIP-SZdFB6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1571259734732292096/pu/pl/ZbnhBchZfuRrece6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1571259734732292096/pu/vid/640x360/v-wd9VdA_OexUox5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85336659,
+			"id_str": "85336659",
+			"name": "1Hood",
+			"screen_name": "1hood",
+			"location": "Pittsburgh, PA",
+			"description": "A collective of socially conscious artists & activists, who work in our community, telling our own stories, while partnering with those of like mind and vision.",
+			"url": "https://t.co/NYlauyS4uR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NYlauyS4uR",
+							"expanded_url": "http://1hood.org",
+							"display_url": "1hood.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12124,
+			"friends_count": 3188,
+			"listed_count": 160,
+			"created_at": "Mon Oct 26 15:12:21 +0000 2009",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080807",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000847210428/03b2addf04f0ebdab21ea4cfbb117dba_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000847210428/03b2addf04f0ebdab21ea4cfbb117dba_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85336659/1593210660",
+			"profile_link_color": "030303",
+			"profile_sidebar_border_color": "121111",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "FFB70F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2941,
+		"favorite_count": 5510,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dr. @UjuAnya speaks about the genocide of the Biafran people under the direction of the British Empire. Millions of Biafrans were killed during the reign of Queen Elizabeth II. For the full interview go to https://t.co/RVt2f9jzL9 https://t.co/VxOVzgjWG7"
+	},
+	{
 		"created_at": "Thu Sep 15 07:28:17 +0000 2022",
 		"id": 1569702388025499600,
 		"id_str": "1570313540258467841",
