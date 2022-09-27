@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 07:17:10 +0000 2022",
+		"id": 1574090274552402000,
+		"id_str": "1574297009783246848",
+		"full_text": "#ReinstateLara!\n\nWe'll be out tomorrow morning demanding justice for online #TEFL teachers employed by the British Council.  Come join us!\n\n#elt #esol #eap #solidarity #union #MakeTEFLaCareer https://t.co/GgzRuNDvCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReinstateLara",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "solidarity",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "MakeTEFLaCareer",
+					"indices": [
+						175,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1574090272669155300,
+					"id_str": "1574090272669155337",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FdhKw1rXwAkbYTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdhKw1rXwAkbYTj.jpg",
+					"url": "https://t.co/GgzRuNDvCS",
+					"display_url": "pic.twitter.com/GgzRuNDvCS",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1574090274552401921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1574090272669155300,
+					"id_str": "1574090272669155337",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FdhKw1rXwAkbYTj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdhKw1rXwAkbYTj.jpg",
+					"url": "https://t.co/GgzRuNDvCS",
+					"display_url": "pic.twitter.com/GgzRuNDvCS",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1574090274552401921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2327,
+			"friends_count": 252,
+			"listed_count": 17,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ReinstateLara!\n\nWe'll be out tomorrow morning demanding justice for online #TEFL teachers employed by the British Council.  Come join us!\n\n#elt #esol #eap #solidarity #union #MakeTEFLaCareer https://t.co/GgzRuNDvCS"
+	},
+	{
 		"created_at": "Sun Sep 25 16:17:58 +0000 2022",
 		"id": 1574070717460742100,
 		"id_str": "1574070717460742151",
