@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 15:27:02 +0000 2022",
+		"id": 1574723236411347000,
+		"id_str": "1574782673435955202",
+		"full_text": "https://t.co/ZZ15C5Z2uh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZ15C5Z2uh",
+					"expanded_url": "https://www.youtube.com/watch?v=MYYG08R1bRM",
+					"display_url": "youtube.com/watch?v=MYYG08…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308596147,
+			"id_str": "308596147",
+			"name": "Ian Wright",
+			"screen_name": "ianpaulwright",
+			"location": "",
+			"description": "☿ Purveyor of 𝗗𝗔𝗥𝗞 𝗠𝗔𝗥𝗫𝗜𝗦𝗠 and Related Esoterica ☿ \"Faceless Theorist\". Capital as Egregore. The Dark Age is Now.\nhttps://t.co/vkIQlEvmwn",
+			"url": "https://t.co/r9Y4kXUXPE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r9Y4kXUXPE",
+							"expanded_url": "http://www.darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vkIQlEvmwn",
+							"expanded_url": "http://darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3058,
+			"friends_count": 371,
+			"listed_count": 58,
+			"created_at": "Tue May 31 17:37:30 +0000 2011",
+			"favourites_count": 73471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308596147/1591710811",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/ZZ15C5Z2uh"
+	},
+	{
 		"created_at": "Mon Sep 26 07:17:10 +0000 2022",
 		"id": 1574090274552402000,
 		"id_str": "1574297009783246848",
