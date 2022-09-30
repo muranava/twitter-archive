@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 09:43:11 +0000 2022",
+		"id": 1575367875442917400,
+		"id_str": "1575420919304044547",
+		"full_text": "Historical materialism in action (albeit slowly). Capital wants money without interference from any demos. So: central bank \"independence\". Cryptocurrencies achieve algorithmic independence. World money. New contradiction between capital and nation states. https://t.co/EF3QXYRYtM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EF3QXYRYtM",
+					"expanded_url": "https://twitter.com/disclosetv/status/1574735399674519552?t=CWFNyUX0ujJOUceLoHUd5Q&s=19",
+					"display_url": "twitter.com/disclosetv/sta…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308596147,
+			"id_str": "308596147",
+			"name": "Ian Wright",
+			"screen_name": "ianpaulwright",
+			"location": "",
+			"description": "☿ Purveyor of 𝗗𝗔𝗥𝗞 𝗠𝗔𝗥𝗫𝗜𝗦𝗠 and Related Esoterica ☿ \"Faceless Theorist\". Capital as Egregore. The Dark Age is Now.\nhttps://t.co/vkIQlEvmwn",
+			"url": "https://t.co/r9Y4kXUXPE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r9Y4kXUXPE",
+							"expanded_url": "http://www.darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vkIQlEvmwn",
+							"expanded_url": "http://darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3073,
+			"friends_count": 370,
+			"listed_count": 58,
+			"created_at": "Tue May 31 17:37:30 +0000 2011",
+			"favourites_count": 73569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308596147/1591710811",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574735399674519600,
+		"quoted_status_id_str": "1574735399674519552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EF3QXYRYtM",
+			"expanded": "https://twitter.com/disclosetv/status/1574735399674519552?t=CWFNyUX0ujJOUceLoHUd5Q&s=19",
+			"display": "twitter.com/disclosetv/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 27 12:19:11 +0000 2022",
+			"id": 1574735399674519600,
+			"id_str": "1574735399674519552",
+			"full_text": "NOW - ECB chief Lagarde says she does not like to see a new period of \"free banking\" due to cryptocurrencies. \n\nCentral bank digital currencies (CBDC) are required to maintain the role of central banks. https://t.co/mETcc2kQwL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1574734963823546400,
+						"id_str": "1574734963823546368",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1574734963823546368/pu/img/__zZCdrHi68psRYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1574734963823546368/pu/img/__zZCdrHi68psRYN.jpg",
+						"url": "https://t.co/mETcc2kQwL",
+						"display_url": "pic.twitter.com/mETcc2kQwL",
+						"expanded_url": "https://twitter.com/disclosetv/status/1574735399674519552/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1010,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1010,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1574734963823546400,
+						"id_str": "1574734963823546368",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1574734963823546368/pu/img/__zZCdrHi68psRYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1574734963823546368/pu/img/__zZCdrHi68psRYN.jpg",
+						"url": "https://t.co/mETcc2kQwL",
+						"display_url": "pic.twitter.com/mETcc2kQwL",
+						"expanded_url": "https://twitter.com/disclosetv/status/1574735399674519552/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1010,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1010,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								505,
+								284
+							],
+							"duration_millis": 56625,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1574734963823546368/pu/vid/1010x568/hI65bKmKK9w82Ipl.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1574734963823546368/pu/vid/480x270/8S_9nv61qT3wwPlY.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1574734963823546368/pu/pl/Or6gBJBe1fwVX208.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1574734963823546368/pu/vid/640x360/gk6kXv3TbApiz74b.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15392486,
+				"id_str": "15392486",
+				"name": "Disclose.tv",
+				"screen_name": "disclosetv",
+				"location": "🌍",
+				"description": "Observing world events unfold in the grand theater of our time.",
+				"url": "https://t.co/O31NBmUmyw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O31NBmUmyw",
+								"expanded_url": "https://www.disclose.tv",
+								"display_url": "disclose.tv",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1020274,
+				"friends_count": 1046,
+				"listed_count": 5294,
+				"created_at": "Fri Jul 11 15:25:39 +0000 2008",
+				"favourites_count": 40632,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1229,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898153945721339904/OFVCkPfR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15392486/1639358972",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "454545",
+				"profile_sidebar_fill_color": "CFCFCF",
+				"profile_text_color": "2B2B2B",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2279,
+			"favorite_count": 5437,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Historical materialism in action (albeit slowly). Capital wants money without interference from any demos. So: central bank \"independence\". Cryptocurrencies achieve algorithmic independence. World money. New contradiction between capital and nation states. https://t.co/EF3QXYRYtM"
+	},
+	{
 		"created_at": "Tue Sep 27 15:27:02 +0000 2022",
 		"id": 1574723236411347000,
 		"id_str": "1574782673435955202",
