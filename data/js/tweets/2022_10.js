@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 15:28:06 +0000 2022",
+		"id": 1571822397354827800,
+		"id_str": "1576957271527288837",
+		"full_text": "If you missed it, the recording and accompanying material from our recent webinar is now available on the Dublin TEFL website. \n#listening #esl #tesol #DipTESOL #elt\nhttps://t.co/ROVM3yIIJf\nhttps://t.co/BmNxurPuO9 https://t.co/hNOC8XC9hg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "listening",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "esl",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "tesol",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "DipTESOL",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROVM3yIIJf",
+					"expanded_url": "https://bit.ly/OffScriptVideo",
+					"display_url": "bit.ly/OffScriptVideo",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/BmNxurPuO9",
+					"expanded_url": "https://www.dublintefl.com/dtopen/offscript",
+					"display_url": "dublintefl.com/dtopen/offscri…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1571822389893152800,
+					"id_str": "1571822389893152768",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FdA8Ir-WQAADQM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdA8Ir-WQAADQM5.jpg",
+					"url": "https://t.co/hNOC8XC9hg",
+					"display_url": "pic.twitter.com/hNOC8XC9hg",
+					"expanded_url": "https://twitter.com/dublintefl/status/1571822397354827777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571822389893152800,
+					"id_str": "1571822389893152768",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FdA8Ir-WQAADQM5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdA8Ir-WQAADQM5.jpg",
+					"url": "https://t.co/hNOC8XC9hg",
+					"display_url": "pic.twitter.com/hNOC8XC9hg",
+					"expanded_url": "https://twitter.com/dublintefl/status/1571822397354827777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 764,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1311433438453477400,
+			"id_str": "1311433438453477376",
+			"name": "dublintefl",
+			"screen_name": "dublintefl",
+			"location": "dublin",
+			"description": "We are a team of Dublin-based ELT specialists offering online, blended and in-person training and development.",
+			"url": "https://t.co/YpQccaW4p0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpQccaW4p0",
+							"expanded_url": "http://www.dublintefl.com",
+							"display_url": "dublintefl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 439,
+			"listed_count": 5,
+			"created_at": "Wed Sep 30 22:31:33 +0000 2020",
+			"favourites_count": 665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312005392461975556/mNbBECxm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312005392461975556/mNbBECxm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1311433438453477376/1601641374",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you missed it, the recording and accompanying material from our recent webinar is now available on the Dublin TEFL website. \n#listening #esl #tesol #DipTESOL #elt\nhttps://t.co/ROVM3yIIJf\nhttps://t.co/BmNxurPuO9 https://t.co/hNOC8XC9hg"
+	},
+	{
 		"created_at": "Sun Oct 02 15:24:15 +0000 2022",
 		"id": 1576593914039251000,
 		"id_str": "1576593914039250945",
