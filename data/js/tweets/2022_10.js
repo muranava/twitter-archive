@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 14:00:51 +0000 2022",
+		"id": 1578747253246025700,
+		"id_str": "1578747253246025729",
+		"full_text": "informative presentation, thx. a few questions raised whether race is universal, maybe \"false universal\" would prempt such queries? race (&amp; language) would be example of a \"rooted universal\"? (rooted universal from Sun Xiangchen as reported by Roland Boer) https://t.co/Ac1cmdhmBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ac1cmdhmBK",
+					"expanded_url": "https://twitter.com/nelsonlflores/status/1578522937732177920",
+					"display_url": "twitter.com/nelsonlflores/…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 2672,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578522937732178000,
+		"quoted_status_id_str": "1578522937732177920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ac1cmdhmBK",
+			"expanded": "https://twitter.com/nelsonlflores/status/1578522937732177920",
+			"display": "twitter.com/nelsonlflores/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 07 23:09:30 +0000 2022",
+			"id": 1578522937732178000,
+			"id_str": "1578522937732177920",
+			"full_text": "I will be presenting live about my new collaboration with @DrJonathanRosa at 8PM EST (less than a hour) \"Coloniality, Homogeneity, and Overrepresentation of Whiteness in Applied Linguistics\"\n\nYou can check it out here:\nhttps://t.co/pXDTx0d88o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrJonathanRosa",
+						"name": "Jonathan Rosa",
+						"id": 532241456,
+						"id_str": "532241456",
+						"indices": [
+							58,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pXDTx0d88o",
+						"expanded_url": "https://www.youtube.com/watch?v=ySyyRTjiwms",
+						"display_url": "youtube.com/watch?v=ySyyRT…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248343882,
+				"id_str": "248343882",
+				"name": "Nelson Flores",
+				"screen_name": "nelsonlflores",
+				"location": "Philadelphia, PA",
+				"description": "Associate Professor in Educational Linguistics @PennGSE researching race, language & bilingual education; he/el; https://t.co/qVts43XBTK",
+				"url": "https://t.co/HZVBFeAchn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HZVBFeAchn",
+								"expanded_url": "http://educationallinguist.wordpress.com",
+								"display_url": "educationallinguist.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qVts43XBTK",
+								"expanded_url": "https://upenn.academia.edu/NelsonFlores",
+								"display_url": "upenn.academia.edu/NelsonFlores",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 23898,
+				"friends_count": 1093,
+				"listed_count": 218,
+				"created_at": "Sun Feb 06 20:09:17 +0000 2011",
+				"favourites_count": 13751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25911,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1468752679061147650/n8_TMn9f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468752679061147650/n8_TMn9f_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "informative presentation, thx. a few questions raised whether race is universal, maybe \"false universal\" would prempt such queries? race (&amp; language) would be example of a \"rooted universal\"? (rooted universal from Sun Xiangchen as reported by Roland Boer) https://t.co/Ac1cmdhmBK"
+	},
+	{
 		"created_at": "Thu Oct 06 22:36:19 +0000 2022",
 		"id": 1578152200739528700,
 		"id_str": "1578152200739528704",
