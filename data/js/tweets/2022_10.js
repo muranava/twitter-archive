@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 11:28:22 +0000 2022",
+		"id": 1580883205338542000,
+		"id_str": "1580883205338542080",
+		"full_text": "@ProfDaveAndress A Dr Whytelaw III citation must be acknowledged as well : ) https://t.co/yNivmsbmW2",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfDaveAndress",
+					"name": "David Andress",
+					"id": 461281625,
+					"id_str": "461281625",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yNivmsbmW2",
+					"expanded_url": "https://twitter.com/BWhytelaw/status/1574298357731921921?s=20&t=FUkP721FV1NuAWST6rtXaw",
+					"display_url": "twitter.com/BWhytelaw/stat…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1580881597586321400,
+		"in_reply_to_status_id_str": "1580881597586321410",
+		"in_reply_to_user_id": 461281625,
+		"in_reply_to_user_id_str": "461281625",
+		"in_reply_to_screen_name": "ProfDaveAndress",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "The Shed:https://t.co/8AwAmEhKna   Quick Cups of COCA ebook:https://t.co/QCudhNHZcw…",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8AwAmEhKna",
+							"expanded_url": "http://eflnotes.wordpress.com/the-shed/",
+							"display_url": "eflnotes.wordpress.com/the-shed/",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/QCudhNHZcw",
+							"expanded_url": "http://smashwords.com/books/view/618",
+							"display_url": "smashwords.com/books/view/618",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 2670,
+			"listed_count": 98,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574298357731922000,
+		"quoted_status_id_str": "1574298357731921921",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yNivmsbmW2",
+			"expanded": "https://twitter.com/BWhytelaw/status/1574298357731921921?s=20&t=FUkP721FV1NuAWST6rtXaw",
+			"display": "twitter.com/BWhytelaw/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 26 07:22:32 +0000 2022",
+			"id": 1574298357731922000,
+			"id_str": "1574298357731921921",
+			"full_text": "Good morning Kwasi Kwarteng. The pound sinking on your hands is perfectly normal. https://t.co/v32QHHfjyz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1574297761956126700,
+						"id_str": "1574297761956126721",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/FdkHeTgWYAE0Rm2.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdkHeTgWYAE0Rm2.png",
+						"url": "https://t.co/v32QHHfjyz",
+						"display_url": "pic.twitter.com/v32QHHfjyz",
+						"expanded_url": "https://twitter.com/BWhytelaw/status/1574298357731921921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 265,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 874,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1574297761956126700,
+						"id_str": "1574297761956126721",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/FdkHeTgWYAE0Rm2.png",
+						"media_url_https": "https://pbs.twimg.com/media/FdkHeTgWYAE0Rm2.png",
+						"url": "https://t.co/v32QHHfjyz",
+						"display_url": "pic.twitter.com/v32QHHfjyz",
+						"expanded_url": "https://twitter.com/BWhytelaw/status/1574298357731921921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 265,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 874,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 874,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1574297892713627600,
+						"id_str": "1574297892713627649",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/FdkHl6nXgAE3YYs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FdkHl6nXgAE3YYs.jpg",
+						"url": "https://t.co/v32QHHfjyz",
+						"display_url": "pic.twitter.com/v32QHHfjyz",
+						"expanded_url": "https://twitter.com/BWhytelaw/status/1574298357731921921/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 667,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1059492568508088300,
+				"id_str": "1059492568508088320",
+				"name": "Dr Boulé Whytelaw III",
+				"screen_name": "BWhytelaw",
+				"location": "Bishop Lamonthood University ",
+				"description": "Dr Boulé Whytelaw III is the world's leading Professor of White People Studies. \n\nLatest book: 'Think Like A White Man'",
+				"url": "https://t.co/HMsGjuM8sK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HMsGjuM8sK",
+								"expanded_url": "https://www.amazon.co.uk/Think-Like-White-Boul%C3%A9-Whytelaw/dp/1786894343/ref=sr_1_1?crid=3VSIBEDY",
+								"display_url": "amazon.co.uk/Think-Like-Whi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 883,
+				"friends_count": 31,
+				"listed_count": 3,
+				"created_at": "Mon Nov 05 17:08:07 +0000 2018",
+				"favourites_count": 192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1034,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216695999105851392/skSC-nCF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216695999105851392/skSC-nCF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059492568508088320/1571207745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ProfDaveAndress A Dr Whytelaw III citation must be acknowledged as well : ) https://t.co/yNivmsbmW2"
+	},
+	{
 		"created_at": "Mon Oct 10 12:04:55 +0000 2022",
 		"id": 1579442851326623700,
 		"id_str": "1579442851326623744",
