@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 19:20:37 +0000 2022",
+		"id": 1581343212874014700,
+		"id_str": "1581364442008543232",
+		"full_text": "Alex stopped to help save a gunshot victim from bleeding out, he was then given Saint Paul Police Chiefs Award for Valor. He then gave this small speech.\n\n(video from @/onsitepublicmedia ig) https://t.co/1ZiyXxnA0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581343151905640400,
+					"id_str": "1581343151905640449",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581343151905640449/pu/img/IvKl10AjUqfA98Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581343151905640449/pu/img/IvKl10AjUqfA98Me.jpg",
+					"url": "https://t.co/1ZiyXxnA0f",
+					"display_url": "pic.twitter.com/1ZiyXxnA0f",
+					"expanded_url": "https://twitter.com/GriffinMalone6/status/1581343212874014720/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 890,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581343151905640400,
+					"id_str": "1581343151905640449",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581343151905640449/pu/img/IvKl10AjUqfA98Me.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581343151905640449/pu/img/IvKl10AjUqfA98Me.jpg",
+					"url": "https://t.co/1ZiyXxnA0f",
+					"display_url": "pic.twitter.com/1ZiyXxnA0f",
+					"expanded_url": "https://twitter.com/GriffinMalone6/status/1581343212874014720/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 890,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 494,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							445,
+							247
+						],
+						"duration_millis": 122733,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581343151905640449/pu/vid/486x270/Q-uuggUJe7RtLMGN.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581343151905640449/pu/vid/890x494/FOD9-BSrv2-WbBqF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1581343151905640449/pu/pl/wovJDjW-Rp6M3njC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1581343151905640449/pu/vid/648x360/OTcjlnq9V_ysq5wB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1268238610471383000,
+			"id_str": "1268238610471383040",
+			"name": "Griffin",
+			"screen_name": "GriffinMalone6",
+			"location": "",
+			"description": "Brooklyn NY, used to be PDX /// Journalist of sorts. vegan. Anti capitalist \n\n///signal (781) 670-7233 them/they",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17317,
+			"friends_count": 1061,
+			"listed_count": 303,
+			"created_at": "Wed Jun 03 17:50:38 +0000 2020",
+			"favourites_count": 27759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306268424679624705/5j7Tbcls_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306268424679624705/5j7Tbcls_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268238610471383040/1594245008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7025,
+		"favorite_count": 28132,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alex stopped to help save a gunshot victim from bleeding out, he was then given Saint Paul Police Chiefs Award for Valor. He then gave this small speech.\n\n(video from @/onsitepublicmedia ig) https://t.co/1ZiyXxnA0f"
+	},
+	{
 		"created_at": "Fri Oct 14 11:28:22 +0000 2022",
 		"id": 1580883205338542000,
 		"id_str": "1580883205338542080",
