@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 10:22:01 +0000 2022",
+		"id": 1583125284236054500,
+		"id_str": "1583403224383754240",
+		"full_text": "NEW RESOURCE 📝🔎📺\n\nWe are overjoyed to share this brand new website - an archive of A. Sivanandan's writings, speeches, essays, aphorisms and reviews, spanning six decades. 🧵\n\nhttps://t.co/GCpYH9jXCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GCpYH9jXCT",
+					"expanded_url": "https://asivanandan.com/",
+					"display_url": "asivanandan.com",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28081157,
+			"id_str": "28081157",
+			"name": "Institute of Race Relations",
+			"screen_name": "IRR_News",
+			"location": "London, England",
+			"description": "The IRR's online news service on anti-racism & social justice issues in UK & Europe. Our journal is @Race_Class. Donate to the IRR▶ https://t.co/jIKHbK5lrp",
+			"url": "https://t.co/h4nPE9lC7C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h4nPE9lC7C",
+							"expanded_url": "https://irr.org.uk/article/",
+							"display_url": "irr.org.uk/article/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jIKHbK5lrp",
+							"expanded_url": "http://irr.org.uk/donate",
+							"display_url": "irr.org.uk/donate",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15230,
+			"friends_count": 2413,
+			"listed_count": 179,
+			"created_at": "Wed Apr 01 10:07:15 +0000 2009",
+			"favourites_count": 2748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257350703242186758/jHG2LZ6H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257350703242186758/jHG2LZ6H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28081157/1666396945",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 380,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW RESOURCE 📝🔎📺\n\nWe are overjoyed to share this brand new website - an archive of A. Sivanandan's writings, speeches, essays, aphorisms and reviews, spanning six decades. 🧵\n\nhttps://t.co/GCpYH9jXCT"
+	},
+	{
 		"created_at": "Thu Oct 20 23:20:58 +0000 2022",
 		"id": 1583236865834233900,
 		"id_str": "1583236865834233857",
