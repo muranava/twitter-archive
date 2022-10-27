@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 16:52:27 +0000 2022",
+		"id": 1585196518155616300,
+		"id_str": "1585313420902998018",
+		"full_text": "A new video, and a survey for native speakers on the use of sh-trong, ch-remendous and j-ramatic clusters.  \nhttps://t.co/ZTXokYMopf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTXokYMopf",
+					"expanded_url": "https://www.youtube.com/watch?v=F2X1pKEHIYw",
+					"display_url": "youtube.com/watch?v=F2X1pK…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 381534458,
+			"id_str": "381534458",
+			"name": "Geoff Lindsey",
+			"screen_name": "GeoffLindsey",
+			"location": "UK",
+			"description": "Phonetician, YouTuber, blogger • Director UCL SCEP est. 1919 • once wrote BBC's EastEnders • 2 degrees of David Lynch • Lang Lang played my Chopin arrangements",
+			"url": "https://t.co/U9AN7kixE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9AN7kixE9",
+							"expanded_url": "http://englishspeechservices.com",
+							"display_url": "englishspeechservices.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1012,
+			"friends_count": 813,
+			"listed_count": 12,
+			"created_at": "Wed Sep 28 14:09:04 +0000 2011",
+			"favourites_count": 266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461716427447193607/UHtezt5c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461716427447193607/UHtezt5c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/381534458/1553712596",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new video, and a survey for native speakers on the use of sh-trong, ch-remendous and j-ramatic clusters.  \nhttps://t.co/ZTXokYMopf"
+	},
+	{
 		"created_at": "Sat Oct 22 11:15:49 +0000 2022",
 		"id": 1583779150082424800,
 		"id_str": "1583779150082424832",
