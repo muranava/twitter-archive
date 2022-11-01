@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 07:54:16 +0000 2022",
+		"id": 1586976353227837400,
+		"id_str": "1586989921335754752",
+		"full_text": "📢 A new week, a new victory!📢 \n\nWe took on the@BritishCouncil and we won! We don't care how much of a #TEFL institution you are, if you mistreat workers, the #TeflWorkersUnion will hold you to account! 🪧 \n\n#elt #eap #esol #UKELT #union #MakeTEFLaCareer\n\nhttps://t.co/7I2Ij3mpK8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TEFL",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "TeflWorkersUnion",
+					"indices": [
+						158,
+						175
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						211,
+						215
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "UKELT",
+					"indices": [
+						222,
+						228
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						229,
+						235
+					]
+				},
+				{
+					"text": "MakeTEFLaCareer",
+					"indices": [
+						236,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7I2Ij3mpK8",
+					"expanded_url": "https://teflworkersunion.org/direct-action-sees-victory-against-british-council-employment-agency/",
+					"display_url": "teflworkersunion.org/direct-action-…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2368,
+			"friends_count": 264,
+			"listed_count": 17,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 A new week, a new victory!📢 \n\nWe took on the@BritishCouncil and we won! We don't care how much of a #TEFL institution you are, if you mistreat workers, the #TeflWorkersUnion will hold you to account! 🪧 \n\n#elt #eap #esol #UKELT #union #MakeTEFLaCareer\n\nhttps://t.co/7I2Ij3mpK8"
+	},
+	{
 		"created_at": "Wed Oct 26 16:52:27 +0000 2022",
 		"id": 1585196518155616300,
 		"id_str": "1585313420902998018",
