@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 09:32:58 +0000 2022",
+		"id": 1590436342647107600,
+		"id_str": "1591001024550277121",
+		"full_text": "\"I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see... for all the people who died so that man could wear a crown.\"\n\nThe man arrested for throwing eggs at King Charles in York speaks out. https://t.co/H3rbYyuglk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590436282349637600,
+					"id_str": "1590436282349637633",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590436282349637633/pu/img/fJD1hBXK-yis8Dxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590436282349637633/pu/img/fJD1hBXK-yis8Dxj.jpg",
+					"url": "https://t.co/H3rbYyuglk",
+					"display_url": "pic.twitter.com/H3rbYyuglk",
+					"expanded_url": "https://twitter.com/Lowkey0nline/status/1590436342647107586/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590436282349637600,
+					"id_str": "1590436282349637633",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1590436282349637633/pu/img/fJD1hBXK-yis8Dxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1590436282349637633/pu/img/fJD1hBXK-yis8Dxj.jpg",
+					"url": "https://t.co/H3rbYyuglk",
+					"display_url": "pic.twitter.com/H3rbYyuglk",
+					"expanded_url": "https://twitter.com/Lowkey0nline/status/1590436342647107586/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 408,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 408,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 44051,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590436282349637633/pu/vid/476x270/CFuTzk4F7z-fbePJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1590436282349637633/pu/pl/UmEqUtvj-94CszsD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1590436282349637633/pu/vid/720x408/zaEtmZuH_SaovFvv.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024352074048434200,
+			"id_str": "1024352074048434177",
+			"name": "Lowkey",
+			"screen_name": "Lowkey0nline",
+			"location": "",
+			"description": "Host of 'The Watchdog' podcast on @MintPressNews for enquiries: lowkeyonlinemanagement@gmail.com",
+			"url": "https://t.co/69Xz35R1OJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/69Xz35R1OJ",
+							"expanded_url": "https://www.patreon.com/LowkeyOnline",
+							"display_url": "patreon.com/LowkeyOnline",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140467,
+			"friends_count": 5064,
+			"listed_count": 370,
+			"created_at": "Tue Jul 31 17:52:20 +0000 2018",
+			"favourites_count": 9811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292913404722794496/56ES811B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292913404722794496/56ES811B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024352074048434177/1645442267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13851,
+		"favorite_count": 58829,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I'm with all victims of slavery, colonialism, and imperialism... those eggs are the only justice those people will see... for all the people who died so that man could wear a crown.\"\n\nThe man arrested for throwing eggs at King Charles in York speaks out. https://t.co/H3rbYyuglk"
+	},
+	{
 		"created_at": "Thu Nov 10 08:47:46 +0000 2022",
 		"id": 1590627262918893600,
 		"id_str": "1590627262918893569",
