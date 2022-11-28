@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 21:52:57 +0000 2022",
+		"id": 1596934697204211700,
+		"id_str": "1596985452200087552",
+		"full_text": "5.4 million Twitter users' stolen data leaked online — more shared privately - @LawrenceAbrams\nhttps://t.co/G0idgGNNxt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LawrenceAbrams",
+					"name": "Lawrence Abrams",
+					"id": 15534414,
+					"id_str": "15534414",
+					"indices": [
+						79,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G0idgGNNxt",
+					"expanded_url": "https://www.bleepingcomputer.com/news/security/54-million-twitter-users-stolen-data-leaked-online-more-shared-privately/",
+					"display_url": "bleepingcomputer.com/news/security/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bleepingcomputer.com/\" rel=\"nofollow\">BleepingComputer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50026664,
+			"id_str": "50026664",
+			"name": "BleepingComputer",
+			"screen_name": "BleepinComputer",
+			"location": "New York",
+			"description": "Breaking technology news, security guides, and tutorials that help you get the most from your computer. DMs are open. Feel free to use it to send story tips.",
+			"url": "https://t.co/XkuIGR6FjO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XkuIGR6FjO",
+							"expanded_url": "http://www.bleepingcomputer.com/",
+							"display_url": "bleepingcomputer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 167619,
+			"friends_count": 115,
+			"listed_count": 2889,
+			"created_at": "Tue Jun 23 16:41:34 +0000 2009",
+			"favourites_count": 3048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/542789702365892608/is5mSep2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/50026664/1629304779",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "BDBDBD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 650,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5.4 million Twitter users' stolen data leaked online — more shared privately - @LawrenceAbrams\nhttps://t.co/G0idgGNNxt"
+	},
+	{
 		"created_at": "Sat Nov 26 11:24:42 +0000 2022",
 		"id": 1596464962381271000,
 		"id_str": "1596464962381271040",
