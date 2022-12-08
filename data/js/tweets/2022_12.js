@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 14:20:01 +0000 2022",
+		"id": 1600399862293577700,
+		"id_str": "1600495349667430404",
+		"full_text": "The @AtRiskTeachers campaign supports those who were left behind when the @BritishCouncil abandoned their teachers in Afghanistan.\n\nThis is important work &amp; should concern all of us. Follow @AtRiskTeachers. Spread the word.✊\n\n#tefl #elt\n\nhttps://t.co/U8g6lTzwtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tefl",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						236,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AtRiskTeachers",
+					"name": "Joe Seaton",
+					"id": 1493996938647244800,
+					"id_str": "1493996938647244800",
+					"indices": [
+						4,
+						19
+					]
+				},
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"screen_name": "AtRiskTeachers",
+					"name": "Joe Seaton",
+					"id": 1493996938647244800,
+					"id_str": "1493996938647244800",
+					"indices": [
+						194,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U8g6lTzwtU",
+					"expanded_url": "https://www.atriskteachers.co.uk",
+					"display_url": "atriskteachers.co.uk",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/ngblfDEBVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ngblfDEBVd",
+							"expanded_url": "https://www.facebook.com/teflworkers/",
+							"display_url": "facebook.com/teflworkers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2401,
+			"friends_count": 266,
+			"listed_count": 17,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @AtRiskTeachers campaign supports those who were left behind when the @BritishCouncil abandoned their teachers in Afghanistan.\n\nThis is important work &amp; should concern all of us. Follow @AtRiskTeachers. Spread the word.✊\n\n#tefl #elt\n\nhttps://t.co/U8g6lTzwtU"
+	},
+	{
 		"created_at": "Sun Dec 04 20:57:44 +0000 2022",
 		"id": 1598759706650083300,
 		"id_str": "1599508274965274624",
