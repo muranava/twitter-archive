@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 09:47:20 +0000 2022",
+		"id": 1599766984409124900,
+		"id_str": "1601151501623529473",
+		"full_text": "#TogetherActNow  volunteering together we can achieve so much! https://t.co/CVV8QyyRbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TogetherActNow",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599766951445807000,
+					"id_str": "1599766951445807104",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599766951445807104/pu/img/dOkEqOCOLKWkRj2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599766951445807104/pu/img/dOkEqOCOLKWkRj2l.jpg",
+					"url": "https://t.co/CVV8QyyRbL",
+					"display_url": "pic.twitter.com/CVV8QyyRbL",
+					"expanded_url": "https://twitter.com/HandsUpProject/status/1599766984409124864/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599766951445807000,
+					"id_str": "1599766951445807104",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599766951445807104/pu/img/dOkEqOCOLKWkRj2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599766951445807104/pu/img/dOkEqOCOLKWkRj2l.jpg",
+					"url": "https://t.co/CVV8QyyRbL",
+					"display_url": "pic.twitter.com/CVV8QyyRbL",
+					"expanded_url": "https://twitter.com/HandsUpProject/status/1599766984409124864/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							23
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599766951445807104/pu/vid/468x270/eQwgRQ3bYDu1658C.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1599766951445807104/pu/vid/640x368/wlzS_v0JmoyAxFsi.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1599766951445807104/pu/pl/Jw8sbde1R_Y3EleT.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028389409400528900,
+			"id_str": "1028389409400528896",
+			"name": "The Hands Up Project",
+			"screen_name": "HandsUpProject",
+			"location": "Totnes, England",
+			"description": "Charity trust connecting children around the world with young people in Palestine. Online drama & storytelling activities in English to break down barriers.",
+			"url": "https://t.co/CBDU2x4JEm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CBDU2x4JEm",
+							"expanded_url": "https://www.handsupproject.org/",
+							"display_url": "handsupproject.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1212,
+			"friends_count": 1281,
+			"listed_count": 5,
+			"created_at": "Sat Aug 11 21:15:16 +0000 2018",
+			"favourites_count": 1411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475850593868652551/hLt0V4zm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028389409400528896/1640704314",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TogetherActNow  volunteering together we can achieve so much! https://t.co/CVV8QyyRbL"
+	},
+	{
 		"created_at": "Thu Dec 08 20:54:39 +0000 2022",
 		"id": 1600957049420284000,
 		"id_str": "1600957049420283904",
