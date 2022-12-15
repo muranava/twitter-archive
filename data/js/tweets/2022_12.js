@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 14:52:57 +0000 2022",
+		"id": 1603039537714036700,
+		"id_str": "1603040352776392707",
+		"full_text": "5- I'm curious what the energy costs are for this. Altman says the compute behind ChatGPT queries is \"eye-watering\". If you're using this as a glorified thesaurus, maybe just use an actual thesaurus?\n\nhttps://t.co/MenJK0tPQS\n\n&gt;&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MenJK0tPQS",
+					"expanded_url": "https://twitter.com/sama/status/1599669571795185665",
+					"display_url": "twitter.com/sama/status/15…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1603039454176108500,
+		"in_reply_to_status_id_str": "1603039454176108544",
+		"in_reply_to_user_id": 172179385,
+		"in_reply_to_user_id_str": "172179385",
+		"in_reply_to_screen_name": "emilymbender",
+		"user": {
+			"id": 172179385,
+			"id_str": "172179385",
+			"name": "@emilymbender@dair-community.social on Mastodon",
+			"screen_name": "emilymbender",
+			"location": "",
+			"description": "Professor, Linguistics, UW // Faculty Director, Professional MS Program in Computational Linguistics (CLMS) // she/her // @emilymbender@dair-community.social",
+			"url": "https://t.co/tVwbnEJ7hA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tVwbnEJ7hA",
+							"expanded_url": "http://faculty.washington.edu/ebender",
+							"display_url": "faculty.washington.edu/ebender",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38377,
+			"friends_count": 2045,
+			"listed_count": 569,
+			"created_at": "Thu Jul 29 02:38:06 +0000 2010",
+			"favourites_count": 53037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952722635305009152/5E-c0x1C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952722635305009152/5E-c0x1C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172179385/1515981706",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1599669571795185700,
+		"quoted_status_id_str": "1599669571795185665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MenJK0tPQS",
+			"expanded": "https://twitter.com/sama/status/1599669571795185665",
+			"display": "twitter.com/sama/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 05 07:38:40 +0000 2022",
+			"id": 1599669571795185700,
+			"id_str": "1599669571795185665",
+			"full_text": "@ahmedsalims we will have to monetize it somehow at some point; the compute costs are eye-watering",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ahmedsalims",
+						"name": "Chief Disruptor",
+						"id": 37252738,
+						"id_str": "37252738",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1599669367549046800,
+			"in_reply_to_status_id_str": "1599669367549046785",
+			"in_reply_to_user_id": 37252738,
+			"in_reply_to_user_id_str": "37252738",
+			"in_reply_to_screen_name": "ahmedsalims",
+			"user": {
+				"id": 1605,
+				"id_str": "1605",
+				"name": "Sam Altman",
+				"screen_name": "sama",
+				"location": "SF",
+				"description": "@OpenAI",
+				"url": "https://t.co/teHmy8mwEz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/teHmy8mwEz",
+								"expanded_url": "http://blog.samaltman.com",
+								"display_url": "blog.samaltman.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1150609,
+				"friends_count": 781,
+				"listed_count": 2,
+				"created_at": "Sun Jul 16 22:01:55 +0000 2006",
+				"favourites_count": 896,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5797,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 2028,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5- I'm curious what the energy costs are for this. Altman says the compute behind ChatGPT queries is \"eye-watering\". If you're using this as a glorified thesaurus, maybe just use an actual thesaurus?\n\nhttps://t.co/MenJK0tPQS\n\n&gt;&gt;"
+	},
+	{
 		"created_at": "Tue Dec 13 13:25:26 +0000 2022",
 		"id": 1602655938602737700,
 		"id_str": "1602655938602737664",
