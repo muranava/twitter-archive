@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 22 10:33:09 +0000 2022",
+		"id": 1605850700335939600,
+		"id_str": "1605874072931426304",
+		"full_text": "\"next time you hear a blood-curdling prediction about robots and jobs, think twice\" https://t.co/HYGYgWmCwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HYGYgWmCwX",
+					"expanded_url": "https://archive.vn/vuIWk",
+					"display_url": "archive.vn/vuIWk",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 860852841728143400,
+			"id_str": "860852841728143361",
+			"name": "Gavin Mueller",
+			"screen_name": "gavinmuellerphd",
+			"location": "Amsterdam, The Netherlands",
+			"description": "Assistant Professor of New Media & Digital Culture @UvA_Amsterdam \nTeaching Marxist theory @followSandberg\nHere to make friends, educate you, and have fun!",
+			"url": "https://t.co/MWCVcQMzDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MWCVcQMzDN",
+							"expanded_url": "https://www.versobooks.com/books/3184-breaking-things-at-work",
+							"display_url": "versobooks.com/books/3184-bre…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9643,
+			"friends_count": 1748,
+			"listed_count": 62,
+			"created_at": "Sat May 06 13:44:46 +0000 2017",
+			"favourites_count": 152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1592094110378229762/SIXulpva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1592094110378229762/SIXulpva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/860852841728143361/1586873168",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"next time you hear a blood-curdling prediction about robots and jobs, think twice\" https://t.co/HYGYgWmCwX"
+	},
+	{
 		"created_at": "Wed Dec 14 14:52:57 +0000 2022",
 		"id": 1603039537714036700,
 		"id_str": "1603040352776392707",
