@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 23:20:05 +0000 2023",
+		"id": 1611863079050006500,
+		"id_str": "1611865285568638977",
+		"full_text": "It is heartening to observe the Second Amendment continuing to extend its blessings through ever more enthusiastic sections of American society https://t.co/xJ63nW7Okg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJ63nW7Okg",
+					"expanded_url": "http://thecurmudgeonly.blogspot.com/2023/01/for-children-of-all-ages.html",
+					"display_url": "thecurmudgeonly.blogspot.com/2023/01/for-ch…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14663837,
+			"id_str": "14663837",
+			"name": "Philip Challinor",
+			"screen_name": "pchallinor",
+			"location": "London, England",
+			"description": "Pedantic malcontent. Author of all this stuff https://t.co/T3SgfqIM4b",
+			"url": "http://t.co/FkXD4K382z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FkXD4K382z",
+							"expanded_url": "http://www.thecurmudgeonly.blogspot.com",
+							"display_url": "thecurmudgeonly.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/T3SgfqIM4b",
+							"expanded_url": "https://www.lulu.com/spotlight/challinor07/",
+							"display_url": "lulu.com/spotlight/chal…",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 815,
+			"friends_count": 795,
+			"listed_count": 30,
+			"created_at": "Mon May 05 19:38:18 +0000 2008",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/53829328/davros_copy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/53829328/davros_copy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14663837/1418995575",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is heartening to observe the Second Amendment continuing to extend its blessings through ever more enthusiastic sections of American society https://t.co/xJ63nW7Okg"
+	},
+	{
 		"created_at": "Thu Jan 05 11:07:11 +0000 2023",
 		"id": 1610413451414835200,
 		"id_str": "1610956069991510016",
