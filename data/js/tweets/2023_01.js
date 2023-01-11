@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 21:23:46 +0000 2023",
+		"id": 1612434267883044900,
+		"id_str": "1612923174475403264",
+		"full_text": "As #Guantanamo’s tragic 21st anniversary arrives, the Coalition for an Ethical Psychology (https://t.co/kRw4giaRWi) has created a new 20-year+ interactive TIMELINE: \"Torture, Psychology, and the War on Terror.\" Please take a look, and share: https://t.co/6glRhCfZ6r https://t.co/Q0lHgJFRoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Guantanamo",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRw4giaRWi",
+					"expanded_url": "https://www.ethicalpsychology.org",
+					"display_url": "ethicalpsychology.org",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/6glRhCfZ6r",
+					"expanded_url": "https://www.ethicalpsychology.org/timeline",
+					"display_url": "ethicalpsychology.org/timeline",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1612421439977656300,
+					"id_str": "1612421439977656320",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FmB4wbYXkAAF_UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmB4wbYXkAAF_UD.jpg",
+					"url": "https://t.co/Q0lHgJFRoZ",
+					"display_url": "pic.twitter.com/Q0lHgJFRoZ",
+					"expanded_url": "https://twitter.com/royeidelson/status/1612434267883044867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1612421439977656300,
+					"id_str": "1612421439977656320",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FmB4wbYXkAAF_UD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmB4wbYXkAAF_UD.jpg",
+					"url": "https://t.co/Q0lHgJFRoZ",
+					"display_url": "pic.twitter.com/Q0lHgJFRoZ",
+					"expanded_url": "https://twitter.com/royeidelson/status/1612434267883044867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34427692,
+			"id_str": "34427692",
+			"name": "Roy Eidelson",
+			"screen_name": "royeidelson",
+			"location": "Philadelphia area",
+			"description": "Psychologist, writer, anti-torture advocate; Coalition for an Ethical Psychology; “Political Mind Games\": https://t.co/cGp1fzjW37…",
+			"url": "https://t.co/sOb7Vq85Pf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sOb7Vq85Pf",
+							"expanded_url": "http://www.royeidelson.com",
+							"display_url": "royeidelson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cGp1fzjW37",
+							"expanded_url": "http://royeidelson.com/my-work/politi",
+							"display_url": "royeidelson.com/my-work/politi",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1616,
+			"friends_count": 1068,
+			"listed_count": 20,
+			"created_at": "Wed Apr 22 22:41:55 +0000 2009",
+			"favourites_count": 3771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410623823456649217/rP30pijq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410623823456649217/rP30pijq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34427692/1672169765",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As #Guantanamo’s tragic 21st anniversary arrives, the Coalition for an Ethical Psychology (https://t.co/kRw4giaRWi) has created a new 20-year+ interactive TIMELINE: \"Torture, Psychology, and the War on Terror.\" Please take a look, and share: https://t.co/6glRhCfZ6r https://t.co/Q0lHgJFRoZ"
+	},
+	{
 		"created_at": "Mon Jan 09 12:28:39 +0000 2023",
 		"id": 1612422044469059600,
 		"id_str": "1612426120892239875",
