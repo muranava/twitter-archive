@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 10:52:45 +0000 2023",
+		"id": 1614559873181556700,
+		"id_str": "1614576313586810881",
+		"full_text": "Real God Minimialism: kenotically possessed German police defeated by a lone Wizard summoning a forgotten god of mud.\nhttps://t.co/Y3f5Pm7TQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y3f5Pm7TQG",
+					"expanded_url": "https://twitter.com/_maxgranger/status/1614450397359538176?t=B8sAhLc8rUaiG9oT3wjmKQ&s=19",
+					"display_url": "twitter.com/_maxgranger/st…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308596147,
+			"id_str": "308596147",
+			"name": "Ian Wright",
+			"screen_name": "ianpaulwright",
+			"location": "",
+			"description": "☿ Purveyor of 𝗗𝗔𝗥𝗞 𝗠𝗔𝗥𝗫𝗜𝗦𝗠 and Related Esoterica ☿ Capital as Egregore. The Dark Age is Now\nhttps://t.co/vkIQlEvmwn\nhttps://t.co/JdzvUskBbi",
+			"url": "https://t.co/K7UWzYmjoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K7UWzYmjoR",
+							"expanded_url": "http://www.darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vkIQlEvmwn",
+							"expanded_url": "http://darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/JdzvUskBbi",
+							"expanded_url": "http://YouTube.com/@darkmarxism",
+							"display_url": "YouTube.com/@darkmarxism",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3522,
+			"friends_count": 399,
+			"listed_count": 61,
+			"created_at": "Tue May 31 17:37:30 +0000 2011",
+			"favourites_count": 76957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308596147/1591710811",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1614450397359538200,
+		"quoted_status_id_str": "1614450397359538176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y3f5Pm7TQG",
+			"expanded": "https://twitter.com/_maxgranger/status/1614450397359538176?t=B8sAhLc8rUaiG9oT3wjmKQ&s=19",
+			"display": "twitter.com/_maxgranger/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 15 02:32:24 +0000 2023",
+			"id": 1614450397359538200,
+			"id_str": "1614450397359538176",
+			"full_text": "cops defending coal mine get stuck in mud #Luetzerath https://t.co/xHJBoukRsN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Luetzerath",
+						"indices": [
+							42,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1614450244712005600,
+						"id_str": "1614450244712005632",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614450244712005632/pu/img/V50YVhcYZoKvFjx3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614450244712005632/pu/img/V50YVhcYZoKvFjx3.jpg",
+						"url": "https://t.co/xHJBoukRsN",
+						"display_url": "pic.twitter.com/xHJBoukRsN",
+						"expanded_url": "https://twitter.com/_maxgranger/status/1614450397359538176/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1614450244712005600,
+						"id_str": "1614450244712005632",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1614450244712005632/pu/img/V50YVhcYZoKvFjx3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1614450244712005632/pu/img/V50YVhcYZoKvFjx3.jpg",
+						"url": "https://t.co/xHJBoukRsN",
+						"display_url": "pic.twitter.com/xHJBoukRsN",
+						"expanded_url": "https://twitter.com/_maxgranger/status/1614450397359538176/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 81116,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1614450244712005632/pu/vid/1280x720/6qYt2jJAyH1U5IHd.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1614450244712005632/pu/vid/480x270/S18viQrIBHq9LEN8.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1614450244712005632/pu/vid/640x360/tO8ppLabisF9AAkG.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1614450244712005632/pu/pl/4NogB6g8o-XK_5P4.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 885140698713829400,
+				"id_str": "885140698713829381",
+				"name": "Max Granger",
+				"screen_name": "_maxgranger",
+				"location": "",
+				"description": "writer / translator | @theintercept @thebafflermag @highcountrynews … | coauthor The Disappeared Report (@nomoredeaths) | translating @el_pais + @_elfaro_",
+				"url": "https://t.co/QRTB8Lii6F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QRTB8Lii6F",
+								"expanded_url": "https://maxgranger.info",
+								"display_url": "maxgranger.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2767,
+				"friends_count": 1271,
+				"listed_count": 33,
+				"created_at": "Wed Jul 12 14:16:02 +0000 2017",
+				"favourites_count": 20348,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5219,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1512428410483535874/zg5CKi1L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512428410483535874/zg5CKi1L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/885140698713829381/1565306396",
+				"profile_link_color": "1A5276",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12323,
+			"favorite_count": 74285,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 46,
+		"favorite_count": 299,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Real God Minimialism: kenotically possessed German police defeated by a lone Wizard summoning a forgotten god of mud.\nhttps://t.co/Y3f5Pm7TQG"
+	},
+	{
 		"created_at": "Sat Jan 14 21:47:35 +0000 2023",
 		"id": 1614378720109944800,
 		"id_str": "1614378720109944832",
