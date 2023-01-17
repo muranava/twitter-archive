@@ -1,6 +1,97 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 16 09:14:24 +0000 2023",
+		"id": 1614913025571524600,
+		"id_str": "1614913953544671238",
+		"full_text": "How have business English &amp; other ELT teachers been so successfully &amp; shamefully gaslit into accepting they don't deserve much more for all they do? We believe there is nothing wrong, as a start, to ask for the average (not the minimum!) in the country you work #makeTEFLacareer",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "makeTEFLacareer",
+					"indices": [
+						270,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607009761190453200,
+			"id_str": "1607009761190453248",
+			"name": "Business English Workers Unite",
+			"screen_name": "beworkersunite",
+			"location": "Berlin, Germany",
+			"description": "Anon BE teachers. For a fair deal in business English & ELT. Against teacher precarity & exploitation. We are stronger together & when we speak truth to power.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33,
+			"friends_count": 210,
+			"listed_count": 0,
+			"created_at": "Sun Dec 25 13:46:10 +0000 2022",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607009761190453248/1671977287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How have business English &amp; other ELT teachers been so successfully &amp; shamefully gaslit into accepting they don't deserve much more for all they do? We believe there is nothing wrong, as a start, to ask for the average (not the minimum!) in the country you work #makeTEFLacareer"
+	},
+	{
 		"created_at": "Sun Jan 15 10:52:45 +0000 2023",
 		"id": 1614559873181556700,
 		"id_str": "1614576313586810881",
