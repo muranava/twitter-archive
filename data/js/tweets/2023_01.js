@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 07:31:20 +0000 2023",
+		"id": 1615061147140427800,
+		"id_str": "1615250403599454211",
+		"full_text": "How much should you be earning in 2023 compared to 2018 simply to have kept up with inflation? 2,750€ ➡️3,293€ /  2,500€ ➡️2,993€ / 2,250€ ➡️2,694€. If your boss tells you this is too much, remember all examples are far closer to minimum wage than the German average wage! https://t.co/uFLW8LW1Pz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615059047547342800,
+					"id_str": "1615059047547342854",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnXpZRXEAY8pbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnXpZRXEAY8pbs.jpg",
+					"url": "https://t.co/uFLW8LW1Pz",
+					"display_url": "pic.twitter.com/uFLW8LW1Pz",
+					"expanded_url": "https://twitter.com/beworkersunite/status/1615061147140427793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 586,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615059047547342800,
+					"id_str": "1615059047547342854",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnXpZRXEAY8pbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnXpZRXEAY8pbs.jpg",
+					"url": "https://t.co/uFLW8LW1Pz",
+					"display_url": "pic.twitter.com/uFLW8LW1Pz",
+					"expanded_url": "https://twitter.com/beworkersunite/status/1615061147140427793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 586,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615059047547388000,
+					"id_str": "1615059047547387906",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnXpZRXwAIHRl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnXpZRXwAIHRl9.jpg",
+					"url": "https://t.co/uFLW8LW1Pz",
+					"display_url": "pic.twitter.com/uFLW8LW1Pz",
+					"expanded_url": "https://twitter.com/beworkersunite/status/1615061147140427793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1615059835560595500,
+					"id_str": "1615059835560595458",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FmnYXQ2XEAIIcsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmnYXQ2XEAIIcsL.jpg",
+					"url": "https://t.co/uFLW8LW1Pz",
+					"display_url": "pic.twitter.com/uFLW8LW1Pz",
+					"expanded_url": "https://twitter.com/beworkersunite/status/1615061147140427793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1289,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607009761190453200,
+			"id_str": "1607009761190453248",
+			"name": "Business English Workers Unite",
+			"screen_name": "beworkersunite",
+			"location": "Berlin, Germany",
+			"description": "Anon BE teachers. For a fair deal in business English & ELT. Against teacher precarity & exploitation. We are stronger together & when we speak truth to power.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36,
+			"friends_count": 219,
+			"listed_count": 0,
+			"created_at": "Sun Dec 25 13:46:10 +0000 2022",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607009761190453248/1671977287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How much should you be earning in 2023 compared to 2018 simply to have kept up with inflation? 2,750€ ➡️3,293€ /  2,500€ ➡️2,993€ / 2,250€ ➡️2,694€. If your boss tells you this is too much, remember all examples are far closer to minimum wage than the German average wage! https://t.co/uFLW8LW1Pz"
+	},
+	{
 		"created_at": "Mon Jan 16 09:14:24 +0000 2023",
 		"id": 1614913025571524600,
 		"id_str": "1614913953544671238",
