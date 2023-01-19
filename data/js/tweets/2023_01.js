@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 15:15:17 +0000 2023",
+		"id": 1615653643385979000,
+		"id_str": "1615729546799505411",
+		"full_text": "Thanks to the @ELGazette for highlighting the issue of the @BritishCouncil teachers left behind in Afghanistan. @GOVUK urgently needs to address this issue\n#AtRiskTeachers \n\nhttps://t.co/FTpcwzsgbh https://t.co/ZSTX4pekoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AtRiskTeachers",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ELGazette",
+					"name": "EL Gazette (English Language Gazette)",
+					"id": 614186998,
+					"id_str": "614186998",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "GOVUK",
+					"name": "GOV.UK",
+					"id": 17481977,
+					"id_str": "17481977",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FTpcwzsgbh",
+					"expanded_url": "https://www.elgazette.com/british-council-teachers-hide-in-afghanistan/",
+					"display_url": "elgazette.com/british-counci…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1615653640819155000,
+					"id_str": "1615653640819154944",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmv0bR0XoAAK6zA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmv0bR0XoAAK6zA.jpg",
+					"url": "https://t.co/ZSTX4pekoZ",
+					"display_url": "pic.twitter.com/ZSTX4pekoZ",
+					"expanded_url": "https://twitter.com/AtRiskTeachers/status/1615653643385978882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615653640819155000,
+					"id_str": "1615653640819154944",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmv0bR0XoAAK6zA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmv0bR0XoAAK6zA.jpg",
+					"url": "https://t.co/ZSTX4pekoZ",
+					"display_url": "pic.twitter.com/ZSTX4pekoZ",
+					"expanded_url": "https://twitter.com/AtRiskTeachers/status/1615653643385978882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493996938647244800,
+			"id_str": "1493996938647244800",
+			"name": "Joe Seaton",
+			"screen_name": "AtRiskTeachers",
+			"location": "",
+			"description": "Former English Manager & Deputy Director at British Council Afghanistan 2016 - 2020\n\nhttps://t.co/XYhp2h2yKo",
+			"url": "https://t.co/qghBlDAVHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qghBlDAVHB",
+							"expanded_url": "https://www.atriskteachers.co.uk",
+							"display_url": "atriskteachers.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XYhp2h2yKo",
+							"expanded_url": "http://atriskteachers.co.uk",
+							"display_url": "atriskteachers.co.uk",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 761,
+			"friends_count": 398,
+			"listed_count": 2,
+			"created_at": "Wed Feb 16 17:13:37 +0000 2022",
+			"favourites_count": 7961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541814447316078592/ZOt4Iz1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541814447316078592/ZOt4Iz1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493996938647244800/1645358520",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to the @ELGazette for highlighting the issue of the @BritishCouncil teachers left behind in Afghanistan. @GOVUK urgently needs to address this issue\n#AtRiskTeachers \n\nhttps://t.co/FTpcwzsgbh https://t.co/ZSTX4pekoZ"
+	},
+	{
 		"created_at": "Tue Jan 17 07:31:20 +0000 2023",
 		"id": 1615061147140427800,
 		"id_str": "1615250403599454211",
