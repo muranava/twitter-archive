@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 20 16:36:04 +0000 2023",
+		"id": 1616474654259937300,
+		"id_str": "1616474654259937282",
+		"full_text": "@cloudquistador @luke_stark ok thx, was wondering if rentier term applicable since OpenAI is exploiting workers in Kenya who are producing value (&amp; surplus value)?",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cloudquistador",
+					"name": "Dwayne Monroe / @dwaynemonroe@mastodon.online",
+					"id": 722810851204272100,
+					"id_str": "722810851204272128",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "luke_stark",
+					"name": "Luke Stark",
+					"id": 24223629,
+					"id_str": "24223629",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1616473672058798000,
+		"in_reply_to_status_id_str": "1616473672058798096",
+		"in_reply_to_user_id": 722810851204272100,
+		"in_reply_to_user_id_str": "722810851204272128",
+		"in_reply_to_screen_name": "cloudquistador",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2109,
+			"friends_count": 2662,
+			"listed_count": 96,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 20943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cloudquistador @luke_stark ok thx, was wondering if rentier term applicable since OpenAI is exploiting workers in Kenya who are producing value (&amp; surplus value)?"
+	},
+	{
 		"created_at": "Wed Jan 18 15:15:17 +0000 2023",
 		"id": 1615653643385979000,
 		"id_str": "1615729546799505411",
