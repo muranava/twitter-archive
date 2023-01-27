@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 11:44:12 +0000 2023",
+		"id": 1618531980899152000,
+		"id_str": "1618575530672156676",
+		"full_text": "Absolutely appalling coverage on the 100s of vulnerable children missing from Home Office hotels in Kent on @BBCr4today\n\nApparently we don’t need to worry because they’re not *proper* kids, they’re Albanian teenagers who have probably been “willingly trafficked”\n\nWhat. The. Hell? https://t.co/VeBmfJetxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCr4today",
+					"name": "BBC Radio 4 Today",
+					"id": 8170292,
+					"id_str": "8170292",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1618531882055991300,
+					"id_str": "1618531882055991296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1618531882055991296/pu/img/vRec1VTSu6sc7dKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1618531882055991296/pu/img/vRec1VTSu6sc7dKP.jpg",
+					"url": "https://t.co/VeBmfJetxD",
+					"display_url": "pic.twitter.com/VeBmfJetxD",
+					"expanded_url": "https://twitter.com/gem_abbott/status/1618531980899151875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1618531882055991300,
+					"id_str": "1618531882055991296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1618531882055991296/pu/img/vRec1VTSu6sc7dKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1618531882055991296/pu/img/vRec1VTSu6sc7dKP.jpg",
+					"url": "https://t.co/VeBmfJetxD",
+					"display_url": "pic.twitter.com/VeBmfJetxD",
+					"expanded_url": "https://twitter.com/gem_abbott/status/1618531980899151875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 64396,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1618531882055991296/pu/vid/480x1036/vU0nSjpP2Vw7AN3q.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1618531882055991296/pu/vid/592x1280/o7JvTim-_A65Rjmz.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1618531882055991296/pu/vid/320x690/Q35Rzh3Yh-EEg2bd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1618531882055991296/pu/pl/i9u0jVLItSfo5vrN.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83362030,
+			"id_str": "83362030",
+			"name": "Gemma Abbott",
+			"screen_name": "gem_abbott",
+			"location": "London, England",
+			"description": "Lawyer & campaigner. Former Legal Director @GoodLawProject. ‘That period woman’ from Free Periods/ Red Box Project. @gem_abbott@mstdn.social 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 2544,
+			"listed_count": 43,
+			"created_at": "Sun Oct 18 13:18:01 +0000 2009",
+			"favourites_count": 9864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/825077766328578048/1K06OomE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/825077766328578048/1K06OomE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83362030/1623619262",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 567,
+		"favorite_count": 1935,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely appalling coverage on the 100s of vulnerable children missing from Home Office hotels in Kent on @BBCr4today\n\nApparently we don’t need to worry because they’re not *proper* kids, they’re Albanian teenagers who have probably been “willingly trafficked”\n\nWhat. The. Hell? https://t.co/VeBmfJetxD"
+	},
+	{
 		"created_at": "Tue Jan 24 15:29:57 +0000 2023",
 		"id": 1617907565714894800,
 		"id_str": "1617907565714894849",
