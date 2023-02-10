@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 20:46:14 +0000 2023",
+		"id": 1623723945449980000,
+		"id_str": "1623785366476972034",
+		"full_text": "It’s a pure scorched earth screaming campaign, nothing to be left to chance, and we should really ask why we could handle antiwar sentiment in the world wars, right through the Cold War and up to about 2017, and then that shit became unacceptable hatred and treason to be crushed. https://t.co/Th9XjOsa5W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623723941964533800,
+					"id_str": "1623723941964533768",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FoigUoYX0Ag59wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoigUoYX0Ag59wX.jpg",
+					"url": "https://t.co/Th9XjOsa5W",
+					"display_url": "pic.twitter.com/Th9XjOsa5W",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1623723945449979908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623723941964533800,
+					"id_str": "1623723941964533768",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FoigUoYX0Ag59wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoigUoYX0Ag59wX.jpg",
+					"url": "https://t.co/Th9XjOsa5W",
+					"display_url": "pic.twitter.com/Th9XjOsa5W",
+					"expanded_url": "https://twitter.com/flying_rodent/status/1623723945449979908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91556288,
+			"id_str": "91556288",
+			"name": "Flying_Rodent",
+			"screen_name": "flying_rodent",
+			"location": "Fife 4 Life yo",
+			"description": "General smartarse cracks wise in assault-proof environment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18202,
+			"friends_count": 947,
+			"listed_count": 144,
+			"created_at": "Sat Nov 21 11:46:41 +0000 2009",
+			"favourites_count": 82725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754010586606862341/Cpssf-IC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91556288/1501182277",
+			"profile_link_color": "000FB8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 85,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s a pure scorched earth screaming campaign, nothing to be left to chance, and we should really ask why we could handle antiwar sentiment in the world wars, right through the Cold War and up to about 2017, and then that shit became unacceptable hatred and treason to be crushed. https://t.co/Th9XjOsa5W"
+	},
+	{
 		"created_at": "Tue Feb 07 11:43:54 +0000 2023",
 		"id": 1622924108232007700,
 		"id_str": "1622924108232007680",
