@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 15 10:16:32 +0000 2023",
+		"id": 1625785076075184000,
+		"id_str": "1625801223851896834",
+		"full_text": "Since the Biggarists are still at it - and who better than Spiked to truly disgrace themselves kissing his arse? - and since it's all about ethics, apparently, a thought-experiment for you: https://t.co/nGZbTOrz3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625785039312113700,
+					"id_str": "1625785039312113665",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo_y4SVX0AEaiO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo_y4SVX0AEaiO6.jpg",
+					"url": "https://t.co/nGZbTOrz3h",
+					"display_url": "pic.twitter.com/nGZbTOrz3h",
+					"expanded_url": "https://twitter.com/ProfDaveAndress/status/1625785076075184130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 863,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625785039312113700,
+					"id_str": "1625785039312113665",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo_y4SVX0AEaiO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo_y4SVX0AEaiO6.jpg",
+					"url": "https://t.co/nGZbTOrz3h",
+					"display_url": "pic.twitter.com/nGZbTOrz3h",
+					"expanded_url": "https://twitter.com/ProfDaveAndress/status/1625785076075184130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 863,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461281625,
+			"id_str": "461281625",
+			"name": "David Andress",
+			"screen_name": "ProfDaveAndress",
+			"location": "Portsmouth, UK",
+			"description": "Historian of revolution, pessimistic anarchist. Nobody else wants these views, trust me. 'His real face is a hat' - Fern Riddell.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13294,
+			"friends_count": 1685,
+			"listed_count": 277,
+			"created_at": "Wed Jan 11 16:53:53 +0000 2012",
+			"favourites_count": 52853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000731582163/9d9969d98a6a8c78c130d707e69e9580_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000731582163/9d9969d98a6a8c78c130d707e69e9580_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461281625/1353847619",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 99,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since the Biggarists are still at it - and who better than Spiked to truly disgrace themselves kissing his arse? - and since it's all about ethics, apparently, a thought-experiment for you: https://t.co/nGZbTOrz3h"
+	},
+	{
+		"created_at": "Wed Feb 15 08:52:02 +0000 2023",
+		"id": 1625767015045644300,
+		"id_str": "1625779957510070274",
+		"full_text": "In case ya haven't heard, we've ended our dispute with BSC after securing a payout for our member! #solidarity\n\nSpread the word: there's power in a #union!✊✊✊\n\nhttps://t.co/Mu5YxF8L0C\n\n#tefl @hughdellar @jimscriv @teacherphili @josipa74 @WOCinELT @EapForSJ @ThePIENews @GrimKim",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "solidarity",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "union",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "tefl",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hughdellar",
+					"name": "hugh dellar",
+					"id": 88202140,
+					"id_str": "88202140",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"screen_name": "jimscriv",
+					"name": "Jim Scrivener 🇺🇳🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇭🇺🇬🇪",
+					"id": 130149739,
+					"id_str": "130149739",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"screen_name": "josipa74",
+					"name": "paulwalsh @josipa74@spore.social",
+					"id": 134211317,
+					"id_str": "134211317",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"screen_name": "WOCinELT",
+					"name": "Women of Color in ELT",
+					"id": 1123152376381075500,
+					"id_str": "1123152376381075457",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"screen_name": "EapForSJ",
+					"name": "EAP for Social Justice",
+					"id": 1238123681571881000,
+					"id_str": "1238123681571880965",
+					"indices": [
+						247,
+						256
+					]
+				},
+				{
+					"screen_name": "ThePIENews",
+					"name": "The PIE News",
+					"id": 296824235,
+					"id_str": "296824235",
+					"indices": [
+						257,
+						268
+					]
+				},
+				{
+					"screen_name": "GrimKim",
+					"name": "Kim Kelly",
+					"id": 15814350,
+					"id_str": "15814350",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mu5YxF8L0C",
+					"expanded_url": "https://teflworkersunion.org/tefl-union-resolves-dispute-with-british-study-centres-ed/",
+					"display_url": "teflworkersunion.org/tefl-union-res…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/K82GNZ9byS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K82GNZ9byS",
+							"expanded_url": "https://teflworkersunion.org",
+							"display_url": "teflworkersunion.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2483,
+			"friends_count": 270,
+			"listed_count": 18,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case ya haven't heard, we've ended our dispute with BSC after securing a payout for our member! #solidarity\n\nSpread the word: there's power in a #union!✊✊✊\n\nhttps://t.co/Mu5YxF8L0C\n\n#tefl @hughdellar @jimscriv @teacherphili @josipa74 @WOCinELT @EapForSJ @ThePIENews @GrimKim"
+	},
+	{
 		"created_at": "Mon Feb 13 18:14:14 +0000 2023",
 		"id": 1625196664263741400,
 		"id_str": "1625196664263741445",
