@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 16:34:10 +0000 2023",
+		"id": 1626257862308790300,
+		"id_str": "1626258648086331393",
+		"full_text": "This is how the @BritishCouncil treat their teachers. Shame on them for not supporting their teachers. What are you going to do about it? @McDonaldScott_ @EwartBiggs https://t.co/lPE4tEi0eJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "McDonaldScott_",
+					"name": "Scott McDonald",
+					"id": 1468892580842655700,
+					"id_str": "1468892580842655747",
+					"indices": [
+						138,
+						153
+					]
+				},
+				{
+					"screen_name": "EwartBiggs",
+					"name": "Kate Ewart-Biggs",
+					"id": 958763458178281500,
+					"id_str": "958763458178281472",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lPE4tEi0eJ",
+					"expanded_url": "https://twitter.com/NicolaKelly/status/1626230333023858689",
+					"display_url": "twitter.com/NicolaKelly/st…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377802618710368300,
+			"id_str": "1377802618710368260",
+			"name": "Peter - Help Afghan BC Teachers",
+			"screen_name": "peter_fenton",
+			"location": "Taipei, Taiwan",
+			"description": "IELTS and EAP teacher. Interested in extensive reading and more communicative approaches to language teaching such as TBLT and Dogme.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435,
+			"friends_count": 510,
+			"listed_count": 4,
+			"created_at": "Fri Apr 02 01:58:47 +0000 2021",
+			"favourites_count": 9004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616316642702815232/9XYQF9MD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616316642702815232/9XYQF9MD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377802618710368260/1621341813",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1626230333023858700,
+		"quoted_status_id_str": "1626230333023858689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lPE4tEi0eJ",
+			"expanded": "https://twitter.com/NicolaKelly/status/1626230333023858689",
+			"display": "twitter.com/NicolaKelly/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 16 14:41:39 +0000 2023",
+			"id": 1626230333023858700,
+			"id_str": "1626230333023858689",
+			"full_text": "NEW: The British Council has been \"shoddy, lazy and dismissive\" in its failure to support staff left behind in Afghanistan, a former deputy director has said.\n\nhttps://t.co/bGMVXr0rcv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bGMVXr0rcv",
+						"expanded_url": "https://www.independent.co.uk/news/uk/politics/british-council-afghanistan-staff-stranded-b2279809.html",
+						"display_url": "independent.co.uk/news/uk/politi…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 449742937,
+				"id_str": "449742937",
+				"name": "Nicola Kelly",
+				"screen_name": "NicolaKelly",
+				"location": "London ",
+				"description": "Journalist. Used to work for the @ukhomeoffice - now report on it, mainly @guardian. Got a story? My DMs are open.",
+				"url": "https://t.co/nAu78nR7RO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nAu78nR7RO",
+								"expanded_url": "https://www.nicolakelly.com",
+								"display_url": "nicolakelly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14734,
+				"friends_count": 2659,
+				"listed_count": 135,
+				"created_at": "Thu Dec 29 12:56:55 +0000 2011",
+				"favourites_count": 13831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1580619487610605577/71XmY33k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1580619487610605577/71XmY33k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/449742937/1659772831",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how the @BritishCouncil treat their teachers. Shame on them for not supporting their teachers. What are you going to do about it? @McDonaldScott_ @EwartBiggs https://t.co/lPE4tEi0eJ"
+	},
+	{
 		"created_at": "Wed Feb 15 10:16:32 +0000 2023",
 		"id": 1625785076075184000,
 		"id_str": "1625801223851896834",
