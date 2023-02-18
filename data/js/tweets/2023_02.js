@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 08:23:27 +0000 2023",
+		"id": 1626491876235702300,
+		"id_str": "1626497542614646785",
+		"full_text": "EFA teacher Anne tackled the recent spate of labour strikes in 2 of her ESOL classes, with a lesson sparked by a student's thought-provoking question. \n\nRead about the tools Anne employed in her class discussions in her latest post, over on the EFA blog: https://t.co/dnOhYI25Gj https://t.co/2yB6eQriFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnOhYI25Gj",
+					"expanded_url": "https://bit.ly/3Xq4IYI",
+					"display_url": "bit.ly/3Xq4IYI",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1626491873865900000,
+					"id_str": "1626491873865900033",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FpJ1vePWIAE9LYN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FpJ1vePWIAE9LYN.png",
+					"url": "https://t.co/2yB6eQriFC",
+					"display_url": "pic.twitter.com/2yB6eQriFC",
+					"expanded_url": "https://twitter.com/EFALondon/status/1626491876235702273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 765,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1626491873865900000,
+					"id_str": "1626491873865900033",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FpJ1vePWIAE9LYN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FpJ1vePWIAE9LYN.png",
+					"url": "https://t.co/2yB6eQriFC",
+					"display_url": "pic.twitter.com/2yB6eQriFC",
+					"expanded_url": "https://twitter.com/EFALondon/status/1626491876235702273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 781,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 765,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239304375,
+			"id_str": "239304375",
+			"name": "English for Action 🧡",
+			"screen_name": "EFALondon",
+			"location": "London",
+			"description": "Learning language, making change - supporting migrant communities to learn English and take action for equality and social justice. #LoveESOL",
+			"url": "https://t.co/7CkONRKeuF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7CkONRKeuF",
+							"expanded_url": "https://linktr.ee/efalondon",
+							"display_url": "linktr.ee/efalondon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2636,
+			"friends_count": 1096,
+			"listed_count": 43,
+			"created_at": "Mon Jan 17 09:05:59 +0000 2011",
+			"favourites_count": 1447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151231935810641921/69KmH1BR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151231935810641921/69KmH1BR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239304375/1659444276",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EFA teacher Anne tackled the recent spate of labour strikes in 2 of her ESOL classes, with a lesson sparked by a student's thought-provoking question. \n\nRead about the tools Anne employed in her class discussions in her latest post, over on the EFA blog: https://t.co/dnOhYI25Gj https://t.co/2yB6eQriFC"
+	},
+	{
 		"created_at": "Thu Feb 16 16:34:10 +0000 2023",
 		"id": 1626257862308790300,
 		"id_str": "1626258648086331393",
