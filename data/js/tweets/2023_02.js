@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 00:41:04 +0000 2023",
+		"id": 1627468343123882000,
+		"id_str": "1627468343123881984",
+		"full_text": "@Katja_Thieme There seems to be some strange email AI faction as JISC in UK r also wanting this https://t.co/kzoyuV5EpZ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Katja_Thieme",
+					"name": "Dr. Katja Thieme 👀 @Katja_Thieme@mastodon.lol",
+					"id": 3193766737,
+					"id_str": "3193766737",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kzoyuV5EpZ",
+					"expanded_url": "https://twitter.com/muranava/status/1624158116202831893?s=20",
+					"display_url": "twitter.com/muranava/statu…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1627464559744401400,
+		"in_reply_to_status_id_str": "1627464559744401409",
+		"in_reply_to_user_id": 3193766737,
+		"in_reply_to_user_id_str": "3193766737",
+		"in_reply_to_screen_name": "Katja_Thieme",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2112,
+			"friends_count": 2668,
+			"listed_count": 96,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 21013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1624158116202832000,
+		"quoted_status_id_str": "1624158116202831893",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kzoyuV5EpZ",
+			"expanded": "https://twitter.com/muranava/status/1624158116202831893?s=20",
+			"display": "twitter.com/muranava/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 10 21:27:24 +0000 2023",
+			"id": 1624158116202832000,
+			"id_str": "1624158116202831893",
+			"full_text": "@danmcquillan @motherboard i had a quick look at the JISC report on potentials uses of AI in tertiary edu - the first suggestion is..Automating common tasks such as sending\nemails, 🤡🤡🤡🤡🤡 (https://t.co/7v5kZujI0A)",
+			"truncated": false,
+			"display_text_range": [
+				27,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "danmcquillan",
+						"name": "danmcquillan (@danmcquillan@kolektiva.social)",
+						"id": 9888872,
+						"id_str": "9888872",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "motherboard",
+						"name": "Motherboard",
+						"id": 56510427,
+						"id_str": "56510427",
+						"indices": [
+							14,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7v5kZujI0A",
+						"expanded_url": "https://repository.jisc.ac.uk/8783/1/ai-in-tertiary-education-report-june-2022.pdf",
+						"display_url": "repository.jisc.ac.uk/8783/1/ai-in-t…",
+						"indices": [
+							188,
+							211
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1623737132815622100,
+			"in_reply_to_status_id_str": "1623737132815622145",
+			"in_reply_to_user_id": 9888872,
+			"in_reply_to_user_id_str": "9888872",
+			"in_reply_to_screen_name": "danmcquillan",
+			"user": {
+				"id": 18602422,
+				"id_str": "18602422",
+				"name": "Mura Nava",
+				"screen_name": "muranava",
+				"location": "Paris, France",
+				"description": "@muranava@mastodon.social",
+				"url": "https://t.co/mMLqfjUvXb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mMLqfjUvXb",
+								"expanded_url": "http://eflnotes.wordpress.com/",
+								"display_url": "eflnotes.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2112,
+				"friends_count": 2668,
+				"listed_count": 96,
+				"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+				"favourites_count": 21013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 992,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+				"profile_link_color": "08780E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Katja_Thieme There seems to be some strange email AI faction as JISC in UK r also wanting this https://t.co/kzoyuV5EpZ"
+	},
+	{
 		"created_at": "Fri Feb 17 08:23:27 +0000 2023",
 		"id": 1626491876235702300,
 		"id_str": "1626497542614646785",
