@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 21 14:17:19 +0000 2023",
+		"id": 1628000823115391000,
+		"id_str": "1628036147241705473",
+		"full_text": "🇬🇧 🇸🇾  Even after the earthquake, the UK government reiterates it will not lift sanctions on #Syria\n\nIn November the UN called on states to lift \"catastrophic\" sanctions which are \"perpetuating and exacerbating the destruction and trauma suffered by the Syrian people since 2011\". https://t.co/JjdeAVYLNa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Syria",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628000543288295400,
+					"id_str": "1628000543288295426",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FpfR3lzXgAI_Zj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpfR3lzXgAI_Zj8.jpg",
+					"url": "https://t.co/JjdeAVYLNa",
+					"display_url": "pic.twitter.com/JjdeAVYLNa",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1628000823115390980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628000543288295400,
+					"id_str": "1628000543288295426",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FpfR3lzXgAI_Zj8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpfR3lzXgAI_Zj8.jpg",
+					"url": "https://t.co/JjdeAVYLNa",
+					"display_url": "pic.twitter.com/JjdeAVYLNa",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1628000823115390980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084523178444099600,
+			"id_str": "1084523178444099584",
+			"name": "Declassified UK",
+			"screen_name": "declassifiedUK",
+			"location": "United Kingdom",
+			"description": "We uncover Britain’s global footprint. Public service journalism investigating UK foreign, military, intelligence & climate policies. Edited by @MarkCurtis30",
+			"url": "https://t.co/LuLfFeMKvi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LuLfFeMKvi",
+							"expanded_url": "https://linktr.ee/DeclassifiedUK",
+							"display_url": "linktr.ee/DeclassifiedUK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108202,
+			"friends_count": 1471,
+			"listed_count": 799,
+			"created_at": "Sun Jan 13 18:50:50 +0000 2019",
+			"favourites_count": 2634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523986863832412162/zwktQl7V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523986863832412162/zwktQl7V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084523178444099584/1601879931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 64,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇬🇧 🇸🇾  Even after the earthquake, the UK government reiterates it will not lift sanctions on #Syria\n\nIn November the UN called on states to lift \"catastrophic\" sanctions which are \"perpetuating and exacerbating the destruction and trauma suffered by the Syrian people since 2011\". https://t.co/JjdeAVYLNa"
+	},
+	{
 		"created_at": "Mon Feb 20 08:39:19 +0000 2023",
 		"id": 1627588700304449500,
 		"id_str": "1627588700304449538",
