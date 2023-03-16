@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 21:07:59 +0000 2023",
+		"id": 1636112029403476000,
+		"id_str": "1636112029403475976",
+		"full_text": "@LauraSmithCrewe \"The cry of the masses should not be for wages or comforts or even liberty, but for opportunities for enterprise and responsiblity\" Milner Group, 1910 (quoted from The Anglo-American Establishment by Carroll Quigley 1981)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraSmithCrewe",
+					"name": "Laura Smith",
+					"id": 873169381299191800,
+					"id_str": "873169381299191809",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1636107719928160300,
+		"in_reply_to_status_id_str": "1636107719928160256",
+		"in_reply_to_user_id": 873169381299191800,
+		"in_reply_to_user_id_str": "873169381299191809",
+		"in_reply_to_screen_name": "LauraSmithCrewe",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2110,
+			"friends_count": 2668,
+			"listed_count": 96,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 21051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LauraSmithCrewe \"The cry of the masses should not be for wages or comforts or even liberty, but for opportunities for enterprise and responsiblity\" Milner Group, 1910 (quoted from The Anglo-American Establishment by Carroll Quigley 1981)"
+	},
+	{
 		"created_at": "Tue Mar 14 13:10:10 +0000 2023",
 		"id": 1635629394508038100,
 		"id_str": "1635629394508038151",
