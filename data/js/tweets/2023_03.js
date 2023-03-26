@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 25 21:27:05 +0000 2023",
+		"id": 1639740711280033800,
+		"id_str": "1639740711280033792",
+		"full_text": "@hannesbajohr @EileenMHunt @longlooking @RebeccaBuxton @MCoeckelbergh @David_Gunkel Bense seems to think writing is converted speech? Roy Harris describes writing as \"unsponsored\" linguistic object (as it divorces message from sender and context of its making), so both Bense's natural and artificial texts would be \"unsponsored\"?",
+		"truncated": false,
+		"display_text_range": [
+			84,
+			330
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannesbajohr",
+					"name": "Hannes Bajohr @hannesbajohr@zirk.us",
+					"id": 59178694,
+					"id_str": "59178694",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EileenMHunt",
+					"name": "Eileen M. Hunt",
+					"id": 871530496446091300,
+					"id_str": "871530496446091265",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "longlooking",
+					"name": "William Green",
+					"id": 162228453,
+					"id_str": "162228453",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "RebeccaBuxton",
+					"name": "Rebecca Buxton",
+					"id": 52406994,
+					"id_str": "52406994",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "MCoeckelbergh",
+					"name": "Mark Coeckelbergh",
+					"id": 2904865133,
+					"id_str": "2904865133",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "David_Gunkel",
+					"name": "David J. Gunkel",
+					"id": 1222769455,
+					"id_str": "1222769455",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1639728272098443300,
+		"in_reply_to_status_id_str": "1639728272098443264",
+		"in_reply_to_user_id": 59178694,
+		"in_reply_to_user_id_str": "59178694",
+		"in_reply_to_screen_name": "hannesbajohr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111,
+			"friends_count": 2671,
+			"listed_count": 96,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 21087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hannesbajohr @EileenMHunt @longlooking @RebeccaBuxton @MCoeckelbergh @David_Gunkel Bense seems to think writing is converted speech? Roy Harris describes writing as \"unsponsored\" linguistic object (as it divorces message from sender and context of its making), so both Bense's natural and artificial texts would be \"unsponsored\"?"
+	},
+	{
 		"created_at": "Fri Mar 24 11:55:01 +0000 2023",
 		"id": 1639234361005408300,
 		"id_str": "1639234361005408256",
