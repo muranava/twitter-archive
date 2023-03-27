@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sun Mar 26 22:05:01 +0000 2023",
+		"id": 1639966228457422800,
+		"id_str": "1640112647357059078",
+		"full_text": "@GeoffJordan16 Delighted to be able to share this with you Geoff, in which my co-author, @Teaching_Cat and I raise the issue of teacher work conditions in Ireland.\n\nhttps://t.co/gMzwKJnryk\n\n#ELTIreland            #UNITEELTBranch       #precarity",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELTIreland",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "UNITEELTBranch",
+					"indices": [
+						213,
+						228
+					]
+				},
+				{
+					"text": "precarity",
+					"indices": [
+						235,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeoffJordan16",
+					"name": "Geoff Jordan",
+					"id": 1373330979239116800,
+					"id_str": "1373330979239116804",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Teaching_Cat",
+					"name": "Cat Bennett",
+					"id": 780739852689997800,
+					"id_str": "780739852689997824",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gMzwKJnryk",
+					"expanded_url": "https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1142&context=ijap",
+					"display_url": "arrow.tudublin.ie/cgi/viewconten…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639745574680375300,
+		"in_reply_to_status_id_str": "1639745574680375296",
+		"in_reply_to_user_id": 1373330979239116800,
+		"in_reply_to_user_id_str": "1373330979239116804",
+		"in_reply_to_screen_name": "GeoffJordan16",
+		"user": {
+			"id": 4736074881,
+			"id_str": "4736074881",
+			"name": "Deborah Tobin",
+			"screen_name": "deborahtobin11",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 178,
+			"listed_count": 0,
+			"created_at": "Thu Jan 07 16:31:23 +0000 2016",
+			"favourites_count": 2528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1494382930365493254/x-WljOVs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1494382930365493254/x-WljOVs_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GeoffJordan16 Delighted to be able to share this with you Geoff, in which my co-author, @Teaching_Cat and I raise the issue of teacher work conditions in Ireland.\n\nhttps://t.co/gMzwKJnryk\n\n#ELTIreland            #UNITEELTBranch       #precarity"
+	},
+	{
+		"created_at": "Sun Mar 26 18:33:42 +0000 2023",
+		"id": 1640059468707659800,
+		"id_str": "1640059468707659777",
+		"full_text": "@hannesbajohr thx. ever since invention of writing tracing meaning to \"words\" has taken over from tracing meaning to who wrote it? (this was Plato's fear)-  computers add a twist (a significant one)?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannesbajohr",
+					"name": "Hannes Bajohr @hannesbajohr@zirk.us",
+					"id": 59178694,
+					"id_str": "59178694",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1640022856284160000,
+		"in_reply_to_status_id_str": "1640022856284160007",
+		"in_reply_to_user_id": 59178694,
+		"in_reply_to_user_id_str": "59178694",
+		"in_reply_to_screen_name": "hannesbajohr",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2111,
+			"friends_count": 2669,
+			"listed_count": 96,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 21096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hannesbajohr thx. ever since invention of writing tracing meaning to \"words\" has taken over from tracing meaning to who wrote it? (this was Plato's fear)-  computers add a twist (a significant one)?"
+	},
+	{
 		"created_at": "Sat Mar 25 21:27:05 +0000 2023",
 		"id": 1639740711280033800,
 		"id_str": "1639740711280033792",
