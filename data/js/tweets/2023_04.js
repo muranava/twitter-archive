@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 14:41:41 +0000 2023",
+		"id": 1642535957462241300,
+		"id_str": "1642537793934032896",
+		"full_text": "The #BritishCouncil teachers in Afghanistan delivered content on our social media channels. This massively increased the reach &amp; impact of BC programmes countrywide. It also increased the exposure of the teachers, putting them at increased risk of Taliban hostility. @RishiSunak https://t.co/IgYX17Lvle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BritishCouncil",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RishiSunak",
+					"name": "Rishi Sunak",
+					"id": 1168968080690749400,
+					"id_str": "1168968080690749441",
+					"indices": [
+						271,
+						282
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1642535954157121500,
+					"id_str": "1642535954157121541",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Fst1v25XsAUu7Ah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fst1v25XsAUu7Ah.jpg",
+					"url": "https://t.co/IgYX17Lvle",
+					"display_url": "pic.twitter.com/IgYX17Lvle",
+					"expanded_url": "https://twitter.com/AtRiskTeachers/status/1642535957462241280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1642535954157121500,
+					"id_str": "1642535954157121541",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Fst1v25XsAUu7Ah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fst1v25XsAUu7Ah.jpg",
+					"url": "https://t.co/IgYX17Lvle",
+					"display_url": "pic.twitter.com/IgYX17Lvle",
+					"expanded_url": "https://twitter.com/AtRiskTeachers/status/1642535957462241280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493996938647244800,
+			"id_str": "1493996938647244800",
+			"name": "Joe Seaton",
+			"screen_name": "AtRiskTeachers",
+			"location": "",
+			"description": "Former English Manager & Deputy Director at British Council Afghanistan 2016 - 2020\n\nhttps://t.co/XYhp2h2yKo",
+			"url": "https://t.co/qghBlDAVHB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qghBlDAVHB",
+							"expanded_url": "https://www.atriskteachers.co.uk",
+							"display_url": "atriskteachers.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XYhp2h2yKo",
+							"expanded_url": "http://atriskteachers.co.uk",
+							"display_url": "atriskteachers.co.uk",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1081,
+			"friends_count": 479,
+			"listed_count": 2,
+			"created_at": "Wed Feb 16 17:13:37 +0000 2022",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541814447316078592/ZOt4Iz1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541814447316078592/ZOt4Iz1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493996938647244800/1645358520",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #BritishCouncil teachers in Afghanistan delivered content on our social media channels. This massively increased the reach &amp; impact of BC programmes countrywide. It also increased the exposure of the teachers, putting them at increased risk of Taliban hostility. @RishiSunak https://t.co/IgYX17Lvle"
+	},
+	{
 		"created_at": "Sat Apr 01 12:29:26 +0000 2023",
 		"id": 1642142125516005400,
 		"id_str": "1642142125516005379",
