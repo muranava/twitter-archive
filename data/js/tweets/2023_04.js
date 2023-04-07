@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 09:44:59 +0000 2023",
+		"id": 1643583219424436200,
+		"id_str": "1643912678589464576",
+		"full_text": "📽️ Labour fully supports sending depleted uranium to #Ukraine.\n\nAnd is thanked by the government 👇 https://t.co/4yDLvBjU4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ukraine",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1643257973311959000,
+					"id_str": "1643257973311959041",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs4G6NMXwAQsrTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs4G6NMXwAQsrTP.jpg",
+					"url": "https://t.co/4yDLvBjU4R",
+					"display_url": "pic.twitter.com/4yDLvBjU4R",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1643583219424436224/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643257973311959000,
+					"id_str": "1643257973311959041",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs4G6NMXwAQsrTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs4G6NMXwAQsrTP.jpg",
+					"url": "https://t.co/4yDLvBjU4R",
+					"display_url": "pic.twitter.com/4yDLvBjU4R",
+					"expanded_url": "https://twitter.com/declassifiedUK/status/1643583219424436224/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 43080,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643257973311959041/vid/480x640/fdsRCt9zcU8rUmL-.mp4?tag=16"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643257973311959041/vid/320x426/P-uxsjSbugoCnbsG.mp4?tag=16"
+							},
+							{
+								"bitrate": 10368000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643257973311959041/vid/1080x1440/ifrzRni8FJyWdhsw.mp4?tag=16"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1643257973311959041/vid/720x960/f1_PyTQVa-C7tXp2.mp4?tag=16"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1643257973311959041/pl/NS6lIJdVWLK954hO.m3u8?tag=16&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084523178444099600,
+			"id_str": "1084523178444099584",
+			"name": "Declassified UK",
+			"screen_name": "declassifiedUK",
+			"location": "United Kingdom",
+			"description": "We uncover Britain’s global footprint. Public service journalism investigating UK foreign, military, intelligence & climate policies. Edited by @MarkCurtis30",
+			"url": "https://t.co/LuLfFeMKvi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LuLfFeMKvi",
+							"expanded_url": "https://linktr.ee/DeclassifiedUK",
+							"display_url": "linktr.ee/DeclassifiedUK",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111024,
+			"friends_count": 1531,
+			"listed_count": 827,
+			"created_at": "Sun Jan 13 18:50:50 +0000 2019",
+			"favourites_count": 2663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523986863832412162/zwktQl7V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523986863832412162/zwktQl7V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084523178444099584/1601879931",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 356,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📽️ Labour fully supports sending depleted uranium to #Ukraine.\n\nAnd is thanked by the government 👇 https://t.co/4yDLvBjU4R"
+	},
+	{
 		"created_at": "Mon Apr 03 19:28:09 +0000 2023",
 		"id": 1642972272049750000,
 		"id_str": "1642972272049750018",
