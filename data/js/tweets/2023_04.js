@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 12:03:37 +0000 2023",
+		"id": 1646114127163654100,
+		"id_str": "1646121894448332801",
+		"full_text": "Did you know online training also makes it easier to exploit teachers? Some German schools pay business English teachers as little as €15/h with no job security, unpaid prep, no benefits, etc. It is immoral, unsustainable &amp; indecent. Teachers deserve better! #makeTEFLacareer https://t.co/v0VjOQYGwa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "makeTEFLacareer",
+					"indices": [
+						263,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v0VjOQYGwa",
+					"expanded_url": "https://twitter.com/Learnship/status/1646091679194030080",
+					"display_url": "twitter.com/Learnship/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1607009761190453200,
+			"id_str": "1607009761190453248",
+			"name": "Business English Workers Unite",
+			"screen_name": "beworkersunite",
+			"location": "Berlin, Germany",
+			"description": "Anon BE teachers. For a fair deal in business English & ELT. Against teacher precarity & exploitation. We are stronger together & when we speak truth to power.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 407,
+			"listed_count": 0,
+			"created_at": "Sun Dec 25 13:46:10 +0000 2022",
+			"favourites_count": 397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1607015330366341120/4-ETb0d0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1607009761190453248/1671977287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646091679194030000,
+		"quoted_status_id_str": "1646091679194030080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v0VjOQYGwa",
+			"expanded": "https://twitter.com/Learnship/status/1646091679194030080",
+			"display": "twitter.com/Learnship/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 12 10:03:33 +0000 2023",
+			"id": 1646091679194030000,
+			"id_str": "1646091679194030080",
+			"full_text": "Did you know online learning can be more energy-efficient than traditional classroom-based learning? Learn in our blog post how digital learning can help your organization support the environment while improving your employees' skills: https://t.co/zULDHsXxGz\n#sustainability",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sustainability",
+						"indices": [
+							260,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zULDHsXxGz",
+						"expanded_url": "https://hubs.la/Q01L6npG0",
+						"display_url": "hubs.la/Q01L6npG0",
+						"indices": [
+							236,
+							259
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42810309,
+				"id_str": "42810309",
+				"name": "Learnship",
+				"screen_name": "Learnship",
+				"location": "Cologne",
+				"description": "We teach people the business, language, and cultural skills they need to thrive in diverse, intercultural teams.",
+				"url": "https://t.co/r6YtubgYS2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r6YtubgYS2",
+								"expanded_url": "http://www.learnship.com",
+								"display_url": "learnship.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2274,
+				"friends_count": 769,
+				"listed_count": 70,
+				"created_at": "Wed May 27 03:59:11 +0000 2009",
+				"favourites_count": 239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1287652271405309955/AWBg8DpY_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287652271405309955/AWBg8DpY_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42810309/1595835202",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know online training also makes it easier to exploit teachers? Some German schools pay business English teachers as little as €15/h with no job security, unpaid prep, no benefits, etc. It is immoral, unsustainable &amp; indecent. Teachers deserve better! #makeTEFLacareer https://t.co/v0VjOQYGwa"
+	},
+	{
 		"created_at": "Tue Apr 11 09:51:45 +0000 2023",
 		"id": 1645726320280649700,
 		"id_str": "1645726320280649729",
