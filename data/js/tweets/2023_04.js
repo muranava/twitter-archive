@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 08:58:44 +0000 2023",
+		"id": 1646798919509131300,
+		"id_str": "1646800140550717440",
+		"full_text": "Concerted efforts of employers, government and the Bank of England to make the working class pay for the endemic crisis of capitalism are bearing fruit: https://t.co/rkU2SuMfxk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkU2SuMfxk",
+					"expanded_url": "https://www.ft.com/content/7885faeb-0707-4b7d-accd-b1753e30a66e",
+					"display_url": "ft.com/content/7885fa…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778713928809394200,
+			"id_str": "778713928809394177",
+			"name": "Paul O’Connell",
+			"screen_name": "pmpoc",
+			"location": "",
+			"description": "socialist | trade unionist | legal academic | foghlaimeoir Gaeilge",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11834,
+			"friends_count": 640,
+			"listed_count": 40,
+			"created_at": "Wed Sep 21 21:54:03 +0000 2016",
+			"favourites_count": 9995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540334220572327937/BxrhP_3P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540334220572327937/BxrhP_3P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778713928809394177/1680739759",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Concerted efforts of employers, government and the Bank of England to make the working class pay for the endemic crisis of capitalism are bearing fruit: https://t.co/rkU2SuMfxk"
+	},
+	{
 		"created_at": "Thu Apr 13 22:04:22 +0000 2023",
 		"id": 1646635466182082600,
 		"id_str": "1646635466182082561",
