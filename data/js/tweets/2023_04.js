@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 24 09:45:45 +0000 2023",
+		"id": 1649459486170681300,
+		"id_str": "1650435851275444224",
+		"full_text": "This is how jeans get distressed. You see the mask, the goggles, and yet, this worker is probably still breathing in enough of those tiny fibers to permanently damage their lungs. \n\nIf only there was a way to get holes in jeans without harming someone in the process… https://t.co/VfZONTor1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649459369854263300,
+					"id_str": "1649459369854263297",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1649459369854263297/pu/img/1w3kRkFHMGYQ0Y4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1649459369854263297/pu/img/1w3kRkFHMGYQ0Y4M.jpg",
+					"url": "https://t.co/VfZONTor1o",
+					"display_url": "pic.twitter.com/VfZONTor1o",
+					"expanded_url": "https://twitter.com/OgLakyn/status/1649459486170681350/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649459369854263300,
+					"id_str": "1649459369854263297",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1649459369854263297/pu/img/1w3kRkFHMGYQ0Y4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1649459369854263297/pu/img/1w3kRkFHMGYQ0Y4M.jpg",
+					"url": "https://t.co/VfZONTor1o",
+					"display_url": "pic.twitter.com/VfZONTor1o",
+					"expanded_url": "https://twitter.com/OgLakyn/status/1649459486170681350/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 63976,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1649459369854263297/pu/pl/sY-Iq_2C19meeykn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1649459369854263297/pu/vid/480x852/bMB1mTGLIksHD-Vx.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1649459369854263297/pu/vid/576x1024/31gK1ru-Q2qnEWpt.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1649459369854263297/pu/vid/320x568/evy6dqT1-BC7se3V.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1206987996781674500,
+			"id_str": "1206987996781674497",
+			"name": "Lakyn Thee Stylist",
+			"screen_name": "OgLakyn",
+			"location": "Los Angeles",
+			"description": "Personal stylist and sustainable fashion educator mentioned in @byrdiebeauty @bof @slate @harpersbazaarus. Contact me via https://t.co/E9MaIqTUqY",
+			"url": "https://t.co/hpPLTNxZa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hpPLTNxZa5",
+							"expanded_url": "http://www.lakyn.style",
+							"display_url": "lakyn.style",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/E9MaIqTUqY",
+							"expanded_url": "http://lakyn.style/hello",
+							"display_url": "lakyn.style/hello",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21567,
+			"friends_count": 910,
+			"listed_count": 110,
+			"created_at": "Tue Dec 17 17:22:25 +0000 2019",
+			"favourites_count": 96841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1642956574632325120/0mtOfaH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1642956574632325120/0mtOfaH4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206987996781674497/1664501099",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10178,
+		"favorite_count": 59986,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how jeans get distressed. You see the mask, the goggles, and yet, this worker is probably still breathing in enough of those tiny fibers to permanently damage their lungs. \n\nIf only there was a way to get holes in jeans without harming someone in the process… https://t.co/VfZONTor1o"
+	},
+	{
 		"created_at": "Sun Apr 23 14:50:55 +0000 2023",
 		"id": 1650150262605004800,
 		"id_str": "1650150262605004802",
