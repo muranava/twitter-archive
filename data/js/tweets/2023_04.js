@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 28 09:05:16 +0000 2023",
+		"id": 1611701091728605200,
+		"id_str": "1651875215016615937",
+		"full_text": "Your relationship to your capitalist nation-state should be purely transactional (you pay taxes, you receive services) just like your relationship to corporations. Any moral attitudes above and beyond this (duty, patriotism etc.) and you've been played by your local ruling class.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308596147,
+			"id_str": "308596147",
+			"name": "Ian Wright",
+			"screen_name": "ianpaulwright",
+			"location": "",
+			"description": "☿ Purveyor of 𝗗𝗔𝗥𝗞 𝗠𝗔𝗥𝗫𝗜𝗦𝗠 and Related Esoterica ☿ Capital as Egregore. The Dark Age is Now\nhttps://t.co/vkIQlEvmwn\nhttps://t.co/JdzvUskBbi",
+			"url": "https://t.co/K7UWzYmjoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K7UWzYmjoR",
+							"expanded_url": "http://www.darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vkIQlEvmwn",
+							"expanded_url": "http://darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/JdzvUskBbi",
+							"expanded_url": "http://YouTube.com/@darkmarxism",
+							"display_url": "YouTube.com/@darkmarxism",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3834,
+			"friends_count": 395,
+			"listed_count": 64,
+			"created_at": "Tue May 31 17:37:30 +0000 2011",
+			"favourites_count": 78290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308596147/1591710811",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 430,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Your relationship to your capitalist nation-state should be purely transactional (you pay taxes, you receive services) just like your relationship to corporations. Any moral attitudes above and beyond this (duty, patriotism etc.) and you've been played by your local ruling class."
+	},
+	{
+		"created_at": "Fri Apr 28 09:04:24 +0000 2023",
+		"id": 1651861579980308500,
+		"id_str": "1651874997294571521",
+		"full_text": "In the UK in 2017 there were 18,150 full professors. Only 85 were Black and only 20 of whom were women. In Applied Linguistics since the passing of Tope Omoniyi, there were no Black professors of Applied Linguistics in the UK. (Makoni et al 2022: 75). https://t.co/tgEfCdkXMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651861563320434700,
+					"id_str": "1651861563320434688",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FuyXVwPWAAAv2tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuyXVwPWAAAv2tw.jpg",
+					"url": "https://t.co/tgEfCdkXMS",
+					"display_url": "pic.twitter.com/tgEfCdkXMS",
+					"expanded_url": "https://twitter.com/ian_cushing/status/1651861579980308481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651861563320434700,
+					"id_str": "1651861563320434688",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FuyXVwPWAAAv2tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuyXVwPWAAAv2tw.jpg",
+					"url": "https://t.co/tgEfCdkXMS",
+					"display_url": "pic.twitter.com/tgEfCdkXMS",
+					"expanded_url": "https://twitter.com/ian_cushing/status/1651861579980308481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4135124181,
+			"id_str": "4135124181",
+			"name": "Ian Cushing",
+			"screen_name": "ian_cushing",
+			"location": "Manchester, UK",
+			"description": "Senior Lecturer in Applied Linguistics @MMU_Languages, Manchester Metropolitan University. Critical educational linguistics, race, and inequality in schools.",
+			"url": "https://t.co/f7IDkMOJ9C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7IDkMOJ9C",
+							"expanded_url": "https://www.edgehill.ac.uk/person/dr-ian-cushing/staff/",
+							"display_url": "edgehill.ac.uk/person/dr-ian-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9801,
+			"friends_count": 2320,
+			"listed_count": 54,
+			"created_at": "Sat Nov 07 15:46:57 +0000 2015",
+			"favourites_count": 20268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1622139721378922497/2RkLBNfI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1622139721378922497/2RkLBNfI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4135124181/1606385442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the UK in 2017 there were 18,150 full professors. Only 85 were Black and only 20 of whom were women. In Applied Linguistics since the passing of Tope Omoniyi, there were no Black professors of Applied Linguistics in the UK. (Makoni et al 2022: 75). https://t.co/tgEfCdkXMS"
+	},
+	{
 		"created_at": "Mon Apr 24 09:45:45 +0000 2023",
 		"id": 1649459486170681300,
 		"id_str": "1650435851275444224",
