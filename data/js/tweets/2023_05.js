@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sun May 14 09:54:40 +0000 2023",
+		"id": 1656631860426842000,
+		"id_str": "1657685852431032320",
+		"full_text": "My new essay on artificial intelligence from a Marxist perspective is out from @CosmonautMag \nWhy class struggle will decide the fate of AIs impact on humanity, rather some hidden, alien logic of machine intelligence:\nhttps://t.co/V48tqZLU7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CosmonautMag",
+					"name": "Cosmonaut ☭",
+					"id": 1060218538726711300,
+					"id_str": "1060218538726711296",
+					"indices": [
+						79,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V48tqZLU7q",
+					"expanded_url": "https://cosmonautmag.com/2023/05/artificial-intelligence-universal-machines-and-killing-bourgeois-dreams/",
+					"display_url": "cosmonautmag.com/2023/05/artifi…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227684155493929000,
+			"id_str": "1227684155493928960",
+			"name": "Nicolas D Villarreal (casperforum.org)",
+			"screen_name": "NicolasDVillar1",
+			"location": "",
+			"description": "Founder https://t.co/kjEsD6hV0o\nWriter, analyst, econ & political theory.\nEssays in @palladiummag and @CosmonautMag",
+			"url": "https://t.co/jGbluDy4Gu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jGbluDy4Gu",
+							"expanded_url": "http://nicolasdvillarreal.substack.com",
+							"display_url": "nicolasdvillarreal.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kjEsD6hV0o",
+							"expanded_url": "http://casperforum.org",
+							"display_url": "casperforum.org",
+							"indices": [
+								8,
+								31
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1863,
+			"friends_count": 1219,
+			"listed_count": 25,
+			"created_at": "Wed Feb 12 20:01:37 +0000 2020",
+			"favourites_count": 110857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227700158730768386/6C3tbBUq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227700158730768386/6C3tbBUq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227684155493928960/1581541608",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My new essay on artificial intelligence from a Marxist perspective is out from @CosmonautMag \nWhy class struggle will decide the fate of AIs impact on humanity, rather some hidden, alien logic of machine intelligence:\nhttps://t.co/V48tqZLU7q"
+	},
+	{
 		"created_at": "Fri May 12 14:18:29 +0000 2023",
 		"id": 1657027470187454500,
 		"id_str": "1657027470187454465",
