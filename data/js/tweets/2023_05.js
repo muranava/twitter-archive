@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 19 13:04:58 +0000 2023",
+		"id": 1659506790483017700,
+		"id_str": "1659545682452119556",
+		"full_text": "How can the UK media launder your reputation?\n\n@AyoCaesar explains the \"Alastair Campbell Playbook\" in this clip from her explainer on how TV and podcasting can help politicians get away with basically anything. https://t.co/mp1iqLapuQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AyoCaesar",
+					"name": "Ash Sarkar",
+					"id": 619050616,
+					"id_str": "619050616",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659505980193816600,
+					"id_str": "1659505980193816576",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659505980193816576/pu/img/erF1K8JlEgO4zbW7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659505980193816576/pu/img/erF1K8JlEgO4zbW7.jpg",
+					"url": "https://t.co/mp1iqLapuQ",
+					"display_url": "pic.twitter.com/mp1iqLapuQ",
+					"expanded_url": "https://twitter.com/novaramedia/status/1659506790483017735/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659505980193816600,
+					"id_str": "1659505980193816576",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1659505980193816576/pu/img/erF1K8JlEgO4zbW7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1659505980193816576/pu/img/erF1K8JlEgO4zbW7.jpg",
+					"url": "https://t.co/mp1iqLapuQ",
+					"display_url": "pic.twitter.com/mp1iqLapuQ",
+					"expanded_url": "https://twitter.com/novaramedia/status/1659506790483017735/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 72480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1659505980193816576/pu/pl/D3oIIW66RKNnJ2UV.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659505980193816576/pu/vid/320x568/Sv9xZyQ_G9TObs4-.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659505980193816576/pu/vid/480x852/bLA4yYJHOF71_urz.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1659505980193816576/pu/vid/720x1280/Fvt88a0lPpC7jgRx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 601148365,
+			"id_str": "601148365",
+			"name": "Novara Media",
+			"screen_name": "novaramedia",
+			"location": "London",
+			"description": "📺 📰🎙🚩 New media for a different politics. \nhttps://t.co/i6f8cZyfGr",
+			"url": "https://t.co/UR8QXzDSD2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UR8QXzDSD2",
+							"expanded_url": "http://novaramedia.com/support",
+							"display_url": "novaramedia.com/support",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i6f8cZyfGr",
+							"expanded_url": "https://linktr.ee/novaramedia",
+							"display_url": "linktr.ee/novaramedia",
+							"indices": [
+								43,
+								66
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 189506,
+			"friends_count": 1206,
+			"listed_count": 1283,
+			"created_at": "Wed Jun 06 17:33:33 +0000 2012",
+			"favourites_count": 3814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145779157537869825/c356vU1N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/601148365/1583449838",
+			"profile_link_color": "A3A3A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 213,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How can the UK media launder your reputation?\n\n@AyoCaesar explains the \"Alastair Campbell Playbook\" in this clip from her explainer on how TV and podcasting can help politicians get away with basically anything. https://t.co/mp1iqLapuQ"
+	},
+	{
 		"created_at": "Thu May 18 12:28:43 +0000 2023",
 		"id": 1659161398813814800,
 		"id_str": "1659174172210126851",
