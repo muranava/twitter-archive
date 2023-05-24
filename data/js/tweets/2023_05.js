@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 23 14:29:04 +0000 2023",
+		"id": 1660970864362258400,
+		"id_str": "1661016399530303496",
+		"full_text": "(1/n) The appeal of social constructivism, in the context of value theory, is that social phenomena - such as money, markets, labour-capital relation etc. - are historically contingent choices, and therefore we can choose differently. This seems liberating and radical. It's not.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308596147,
+			"id_str": "308596147",
+			"name": "Ian Wright",
+			"screen_name": "ianpaulwright",
+			"location": "",
+			"description": "☿ Purveyor of 𝗗𝗔𝗥𝗞 𝗠𝗔𝗥𝗫𝗜𝗦𝗠 and Related Esoterica ☿ Capital as Egregore. The Dark Age is Now\nhttps://t.co/vkIQlEvmwn\nhttps://t.co/JdzvUskBbi",
+			"url": "https://t.co/K7UWzYmjoR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K7UWzYmjoR",
+							"expanded_url": "http://www.darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vkIQlEvmwn",
+							"expanded_url": "http://darkmarxism.online",
+							"display_url": "darkmarxism.online",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/JdzvUskBbi",
+							"expanded_url": "http://YouTube.com/@darkmarxism",
+							"display_url": "YouTube.com/@darkmarxism",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3927,
+			"friends_count": 405,
+			"listed_count": 66,
+			"created_at": "Tue May 31 17:37:30 +0000 2011",
+			"favourites_count": 79197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270356587639603200/fp7gBmXu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308596147/1591710811",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "(1/n) The appeal of social constructivism, in the context of value theory, is that social phenomena - such as money, markets, labour-capital relation etc. - are historically contingent choices, and therefore we can choose differently. This seems liberating and radical. It's not."
+	},
+	{
 		"created_at": "Mon May 22 11:28:56 +0000 2023",
 		"id": 1660608679622631400,
 		"id_str": "1660608679622631426",
