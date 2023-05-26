@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 25 17:35:45 +0000 2023",
+		"id": 1661296166431248400,
+		"id_str": "1661788154318270480",
+		"full_text": "Q&amp;A about the main issue British Council Tokyo teachers are striking over. @jp_British @BritishCouncil @ELGazette @TeflUnion @ELTUnite @EwartBiggs\n#edi #agediscrimination #itusedtobeagoodplace https://t.co/WsMV69uFl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edi",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "agediscrimination",
+					"indices": [
+						156,
+						174
+					]
+				},
+				{
+					"text": "itusedtobeagoodplace",
+					"indices": [
+						175,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jp_British",
+					"name": "ブリティッシュ・カウンシル",
+					"id": 81040058,
+					"id_str": "81040058",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						91,
+						106
+					]
+				},
+				{
+					"screen_name": "ELGazette",
+					"name": "EL Gazette (English Language Gazette)",
+					"id": 614186998,
+					"id_str": "614186998",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"screen_name": "ELTUnite",
+					"name": "English Language Teachers Branch - Unite the Union",
+					"id": 1180961573457801200,
+					"id_str": "1180961573457801222",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"screen_name": "EwartBiggs",
+					"name": "Kate Ewart-Biggs",
+					"id": 958763458178281500,
+					"id_str": "958763458178281472",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1661295989851058200,
+					"id_str": "1661295989851058177",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1661295989851058177/pu/img/v84chx2UZrqYqdbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1661295989851058177/pu/img/v84chx2UZrqYqdbs.jpg",
+					"url": "https://t.co/WsMV69uFl4",
+					"display_url": "pic.twitter.com/WsMV69uFl4",
+					"expanded_url": "https://twitter.com/BCTokyoNambu/status/1661296166431248384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1661295989851058200,
+					"id_str": "1661295989851058177",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1661295989851058177/pu/img/v84chx2UZrqYqdbs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1661295989851058177/pu/img/v84chx2UZrqYqdbs.jpg",
+					"url": "https://t.co/WsMV69uFl4",
+					"display_url": "pic.twitter.com/WsMV69uFl4",
+					"expanded_url": "https://twitter.com/BCTokyoNambu/status/1661296166431248384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123548,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1661295989851058177/pu/pl/nMR7dKalQTu62BpC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1661295989851058177/pu/vid/1280x720/PJOlUTCH5_Zzk37m.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1661295989851058177/pu/vid/480x270/zcDYbiVU9dd3bMO9.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1661295989851058177/pu/vid/640x360/T6hI9W4z6q1q-C6v.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1658410129157677000,
+			"id_str": "1658410129157677056",
+			"name": "Nambu union",
+			"screen_name": "BCTokyoNambu",
+			"location": "Tokyo",
+			"description": "Nambu General Workers Union. Tokyo British Council Branch.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue May 16 09:53:02 +0000 2023",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1659826177366958081/Y1CbCU1m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1659826177366958081/Y1CbCU1m_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q&amp;A about the main issue British Council Tokyo teachers are striking over. @jp_British @BritishCouncil @ELGazette @TeflUnion @ELTUnite @EwartBiggs\n#edi #agediscrimination #itusedtobeagoodplace https://t.co/WsMV69uFl4"
+	},
+	{
 		"created_at": "Tue May 23 14:29:04 +0000 2023",
 		"id": 1660970864362258400,
 		"id_str": "1661016399530303496",
