@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Fri Jun 02 14:47:27 +0000 2023",
+		"id": 1664638530880958500,
+		"id_str": "1664644905942106113",
+		"full_text": "Good to see the @BritishCouncil strike in Portugal getting some media coverage.\n\nThe BC is great at talking the talk. It takes action to make them walk the walk.\n\n@EapForSJ @EsolManifesto @abruzos @sbrowntweets @PrecariousAcad1 @Post16Educator @skrashen \n\nhttps://t.co/1NxBVuirTA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishCouncil",
+					"name": "British Council",
+					"id": 14732889,
+					"id_str": "14732889",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "EapForSJ",
+					"name": "EAP for Social Justice",
+					"id": 1238123681571881000,
+					"id_str": "1238123681571880965",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"screen_name": "EsolManifesto",
+					"name": "The ESOL Manifesto (2012) 10 Years On",
+					"id": 1567830385374990300,
+					"id_str": "1567830385374990337",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"screen_name": "sbrowntweets",
+					"name": "Steve Brown",
+					"id": 885343459,
+					"id_str": "885343459",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"screen_name": "PrecariousAcad1",
+					"name": "@PrecariousAcademics",
+					"id": 1154799572117573600,
+					"id_str": "1154799572117573633",
+					"indices": [
+						211,
+						227
+					]
+				},
+				{
+					"screen_name": "Post16Educator",
+					"name": "Post-16 Educator",
+					"id": 4066543695,
+					"id_str": "4066543695",
+					"indices": [
+						228,
+						243
+					]
+				},
+				{
+					"screen_name": "skrashen",
+					"name": "Stephen Krashen",
+					"id": 25624708,
+					"id_str": "25624708",
+					"indices": [
+						244,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1NxBVuirTA",
+					"expanded_url": "https://www.theportugalnews.com/news/2023-05-30/british-council-workers-on-strike-in-portugal/78093",
+					"display_url": "theportugalnews.com/news/2023-05-3…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/K82GNZ9byS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K82GNZ9byS",
+							"expanded_url": "https://teflworkersunion.org",
+							"display_url": "teflworkersunion.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 282,
+			"listed_count": 19,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 2260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good to see the @BritishCouncil strike in Portugal getting some media coverage.\n\nThe BC is great at talking the talk. It takes action to make them walk the walk.\n\n@EapForSJ @EsolManifesto @abruzos @sbrowntweets @PrecariousAcad1 @Post16Educator @skrashen \n\nhttps://t.co/1NxBVuirTA"
+	},
+	{
 		"created_at": "Thu Jun 01 19:07:20 +0000 2023",
 		"id": 1664300781019992000,
 		"id_str": "1664347919221157893",
