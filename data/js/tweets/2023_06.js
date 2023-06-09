@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Thu Jun 08 12:39:07 +0000 2023",
+		"id": 1666701757395681300,
+		"id_str": "1666786937137426433",
+		"full_text": "@sbrowntweets takes over the @TeflUnion social media!\n\nHonoured to host a series of quotes summarising Steve's \"Time to problematise capitalism in #ELT\"\n\nToday: The McDonaldisation of #TEFL in the pursuit of profit\n\nSteve's full talk here: https://t.co/Fh2JYuypWQ\n\n#eap #esol https://t.co/sSZs3AZawu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELT",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "TEFL",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "eap",
+					"indices": [
+						265,
+						269
+					]
+				},
+				{
+					"text": "esol",
+					"indices": [
+						270,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbrowntweets",
+					"name": "Steve Brown",
+					"id": 885343459,
+					"id_str": "885343459",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TeflUnion",
+					"name": "TEFL Workers' Union",
+					"id": 1130578765472501800,
+					"id_str": "1130578765472501760",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fh2JYuypWQ",
+					"expanded_url": "https://www.youtube.com/watch?v=l-u4lo-pnN4",
+					"display_url": "youtube.com/watch?v=l-u4lo…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1666701755390763000,
+					"id_str": "1666701755390763008",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FyFQanyWIAA8cX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyFQanyWIAA8cX-.jpg",
+					"url": "https://t.co/sSZs3AZawu",
+					"display_url": "pic.twitter.com/sSZs3AZawu",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1666701757395681281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666701755390763000,
+					"id_str": "1666701755390763008",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FyFQanyWIAA8cX-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyFQanyWIAA8cX-.jpg",
+					"url": "https://t.co/sSZs3AZawu",
+					"display_url": "pic.twitter.com/sSZs3AZawu",
+					"expanded_url": "https://twitter.com/TeflUnion/status/1666701757395681281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 885343459,
+		"in_reply_to_user_id_str": "885343459",
+		"in_reply_to_screen_name": "sbrowntweets",
+		"user": {
+			"id": 1130578765472501800,
+			"id_str": "1130578765472501760",
+			"name": "TEFL Workers' Union",
+			"screen_name": "TeflUnion",
+			"location": "London",
+			"description": "We like our students. We like our jobs. We like our workmates. We don’t like struggling to pay the bills. We don’t like insecure employment. Join us!",
+			"url": "https://t.co/K82GNZ9byS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K82GNZ9byS",
+							"expanded_url": "https://teflworkersunion.org",
+							"display_url": "teflworkersunion.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542,
+			"friends_count": 285,
+			"listed_count": 19,
+			"created_at": "Mon May 20 20:59:17 +0000 2019",
+			"favourites_count": 2265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130586030803968003/c180EXxo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130578765472501760/1558387728",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sbrowntweets takes over the @TeflUnion social media!\n\nHonoured to host a series of quotes summarising Steve's \"Time to problematise capitalism in #ELT\"\n\nToday: The McDonaldisation of #TEFL in the pursuit of profit\n\nSteve's full talk here: https://t.co/Fh2JYuypWQ\n\n#eap #esol https://t.co/sSZs3AZawu"
+	},
+	{
 		"created_at": "Sun Jun 04 14:43:38 +0000 2023",
 		"id": 1665368721752195000,
 		"id_str": "1665368721752195080",
