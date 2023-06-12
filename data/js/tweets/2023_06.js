@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 09:09:53 +0000 2023",
+		"id": 1667821443923468300,
+		"id_str": "1667821443923468292",
+		"full_text": "@MattYiXin @ian_joo_korea @AichaBelkadi on the other hand Michael Silverstein \"recoils\" at such a suggestion (from https://t.co/aL6XXuIKGG) https://t.co/95eYCn23G9",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattYiXin",
+					"name": "Matthew Butler",
+					"id": 2850248276,
+					"id_str": "2850248276",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ian_joo_korea",
+					"name": "Ian Joo 주이안 朱易安",
+					"id": 967087098565050400,
+					"id_str": "967087098565050368",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "AichaBelkadi",
+					"name": "Aïcha Belkadi",
+					"id": 841439826008236000,
+					"id_str": "841439826008236032",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aL6XXuIKGG",
+					"expanded_url": "https://chicagoreader.com/news-politics/watch-your-language/",
+					"display_url": "chicagoreader.com/news-politics/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1667821114788028400,
+					"id_str": "1667821114788028417",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FyVKd6fWIAE7F_y.png",
+					"media_url_https": "https://pbs.twimg.com/media/FyVKd6fWIAE7F_y.png",
+					"url": "https://t.co/95eYCn23G9",
+					"display_url": "pic.twitter.com/95eYCn23G9",
+					"expanded_url": "https://twitter.com/muranava/status/1667821443923468292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 795,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1667821114788028400,
+					"id_str": "1667821114788028417",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FyVKd6fWIAE7F_y.png",
+					"media_url_https": "https://pbs.twimg.com/media/FyVKd6fWIAE7F_y.png",
+					"url": "https://t.co/95eYCn23G9",
+					"display_url": "pic.twitter.com/95eYCn23G9",
+					"expanded_url": "https://twitter.com/muranava/status/1667821443923468292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 795,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 416,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1667493024816074800,
+		"in_reply_to_status_id_str": "1667493024816074753",
+		"in_reply_to_user_id": 2850248276,
+		"in_reply_to_user_id_str": "2850248276",
+		"in_reply_to_screen_name": "MattYiXin",
+		"user": {
+			"id": 18602422,
+			"id_str": "18602422",
+			"name": "Mura Nava",
+			"screen_name": "muranava",
+			"location": "Paris, France",
+			"description": "@muranava@mastodon.social",
+			"url": "https://t.co/mMLqfjUvXb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mMLqfjUvXb",
+							"expanded_url": "http://eflnotes.wordpress.com/",
+							"display_url": "eflnotes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 2677,
+			"listed_count": 95,
+			"created_at": "Sun Jan 04 14:17:23 +0000 2009",
+			"favourites_count": 21182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571418650606813184/ptIm4v-b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18602422/1644829779",
+			"profile_link_color": "08780E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MattYiXin @ian_joo_korea @AichaBelkadi on the other hand Michael Silverstein \"recoils\" at such a suggestion (from https://t.co/aL6XXuIKGG) https://t.co/95eYCn23G9"
+	},
+	{
 		"created_at": "Sat Jun 10 07:46:15 +0000 2023",
 		"id": 1667438010130890800,
 		"id_str": "1667438010130890752",
