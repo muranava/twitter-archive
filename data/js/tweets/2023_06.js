@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 10:41:26 +0000 2023",
+		"id": 1668143642605756400,
+		"id_str": "1668206870430089217",
+		"full_text": "Looking forward to giving this talk for @NATESOL_Tweets on June 14th. The talk takes place online and focuses on corpus linguistics applications for language teaching &amp; learning. See below ⬇️ for more information about the talk and for registration details. Hope to see you there! https://t.co/fgZa0RTcih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NATESOL_Tweets",
+					"name": "NATESOL",
+					"id": 990661673873788900,
+					"id_str": "990661673873788928",
+					"indices": [
+						40,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fgZa0RTcih",
+					"expanded_url": "https://twitter.com/NATESOL_Tweets/status/1660603923458129920",
+					"display_url": "twitter.com/NATESOL_Tweets…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 737735182065733600,
+			"id_str": "737735182065733632",
+			"name": "Niall Curry",
+			"screen_name": "NiallRCurry",
+			"location": "Manchester, England",
+			"description": "Senior Lecturer @MMU_Languages | Contrastive & Corpus Ling | Knowledge/Crisis Discourse & TESOL",
+			"url": "https://t.co/0FNZx7rcBa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FNZx7rcBa",
+							"expanded_url": "https://niallcurry.com/",
+							"display_url": "niallcurry.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 627,
+			"listed_count": 23,
+			"created_at": "Tue May 31 19:59:08 +0000 2016",
+			"favourites_count": 6208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565992998172860417/hlSDg2Cb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565992998172860417/hlSDg2Cb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/737735182065733632/1572916202",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1660603923458130000,
+		"quoted_status_id_str": "1660603923458129920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fgZa0RTcih",
+			"expanded": "https://twitter.com/NATESOL_Tweets/status/1660603923458129920",
+			"display": "twitter.com/NATESOL_Tweets…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 22 11:10:02 +0000 2023",
+			"id": 1660603923458130000,
+			"id_str": "1660603923458129920",
+			"full_text": "Free webinar 📢Wed 14th June 4-5.15pm UK time\n\nDr Niall Curry\n\nCorpus linguistics: \n\nWhat is it and how can it help with English language teaching &amp; learning? \n\nMore info:\nhttps://t.co/hXzKWvULxj\n\n#efl #tefl #esol #eal #ell #tleap #edutwitter",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "efl",
+						"indices": [
+							200,
+							204
+						]
+					},
+					{
+						"text": "tefl",
+						"indices": [
+							205,
+							210
+						]
+					},
+					{
+						"text": "esol",
+						"indices": [
+							211,
+							216
+						]
+					},
+					{
+						"text": "eal",
+						"indices": [
+							217,
+							221
+						]
+					},
+					{
+						"text": "ell",
+						"indices": [
+							222,
+							226
+						]
+					},
+					{
+						"text": "tleap",
+						"indices": [
+							227,
+							233
+						]
+					},
+					{
+						"text": "edutwitter",
+						"indices": [
+							234,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hXzKWvULxj",
+						"expanded_url": "https://tinyurl.com/m9bfp4sn",
+						"display_url": "tinyurl.com/m9bfp4sn",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 990661673873788900,
+				"id_str": "990661673873788928",
+				"name": "NATESOL",
+				"screen_name": "NATESOL_Tweets",
+				"location": "Northern England",
+				"description": "Northern Association of Teachers of English to Speakers of Other Languages. Serving the development needs of language teachers since 1984.",
+				"url": "https://t.co/2c9Nu3OnQC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2c9Nu3OnQC",
+								"expanded_url": "http://www.natesol.org",
+								"display_url": "natesol.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1083,
+				"friends_count": 922,
+				"listed_count": 5,
+				"created_at": "Sun Apr 29 18:38:43 +0000 2018",
+				"favourites_count": 1022,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345375840541024260/um7TeZr8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345375840541024260/um7TeZr8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/990661673873788928/1655912333",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to giving this talk for @NATESOL_Tweets on June 14th. The talk takes place online and focuses on corpus linguistics applications for language teaching &amp; learning. See below ⬇️ for more information about the talk and for registration details. Hope to see you there! https://t.co/fgZa0RTcih"
+	},
+	{
 		"created_at": "Sun Jun 11 09:09:53 +0000 2023",
 		"id": 1667821443923468300,
 		"id_str": "1667821443923468292",
